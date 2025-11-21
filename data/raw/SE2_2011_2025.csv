@@ -1,0 +1,3600 @@
+date,home_team,away_team,home_goals,away_goals,league,season,matchday
+09/04/2011,IF Brommapojkarna,Jönköpings Södra IF,1,1,SE2,2011,1
+09/04/2011,Östers IF,GIF Sundsvall,2,1,SE2,2011,1
+10/04/2011,Qviding FIF,Degerfors IF,0,1,SE2,2011,1
+10/04/2011,Ljungskile SK,Falkenbergs FF,0,1,SE2,2011,1
+11/04/2011,Västerås SK,Åtvidabergs FF,0,2,SE2,2011,1
+11/04/2011,Landskrona BoIS,IFK Värnamo,1,1,SE2,2011,1
+11/04/2011,IK Brage,Ängelholms FF,1,4,SE2,2011,1
+11/04/2011,Assyriska FF,Hammarby IF,1,0,SE2,2011,1
+15/04/2011,GIF Sundsvall,Assyriska FF,1,2,SE2,2011,2
+16/04/2011,Jönköpings Södra IF,Västerås SK,5,1,SE2,2011,2
+16/04/2011,Åtvidabergs FF,Qviding FIF,4,0,SE2,2011,2
+16/04/2011,Degerfors IF,Östers IF,3,3,SE2,2011,2
+17/04/2011,Ängelholms FF,IF Brommapojkarna,3,2,SE2,2011,2
+17/04/2011,Falkenbergs FF,IK Brage,0,2,SE2,2011,2
+17/04/2011,IFK Värnamo,Ljungskile SK,0,2,SE2,2011,2
+18/04/2011,Hammarby IF,Landskrona BoIS,2,1,SE2,2011,2
+22/04/2011,Åtvidabergs FF,Degerfors IF,1,2,SE2,2011,3
+24/04/2011,Assyriska FF,Östers IF,0,0,SE2,2011,3
+25/04/2011,Västerås SK,Ängelholms FF,1,2,SE2,2011,3
+25/04/2011,IF Brommapojkarna,Falkenbergs FF,2,1,SE2,2011,3
+25/04/2011,Ljungskile SK,Hammarby IF,4,1,SE2,2011,3
+25/04/2011,IK Brage,IFK Värnamo,2,2,SE2,2011,3
+25/04/2011,Qviding FIF,Jönköpings Södra IF,1,1,SE2,2011,3
+25/04/2011,Landskrona BoIS,GIF Sundsvall,1,2,SE2,2011,3
+29/04/2011,Hammarby IF,IK Brage,1,0,SE2,2011,4
+01/05/2011,Falkenbergs FF,Västerås SK,3,4,SE2,2011,4
+01/05/2011,IFK Värnamo,IF Brommapojkarna,2,1,SE2,2011,4
+02/05/2011,Ängelholms FF,Qviding FIF,0,0,SE2,2011,4
+02/05/2011,Östers IF,Landskrona BoIS,2,3,SE2,2011,4
+02/05/2011,Jönköpings Södra IF,Åtvidabergs FF,1,0,SE2,2011,4
+02/05/2011,GIF Sundsvall,Ljungskile SK,3,0,SE2,2011,4
+02/05/2011,Degerfors IF,Assyriska FF,2,3,SE2,2011,4
+07/05/2011,IK Brage,GIF Sundsvall,0,0,SE2,2011,5
+07/05/2011,Åtvidabergs FF,Ängelholms FF,5,0,SE2,2011,5
+08/05/2011,Qviding FIF,Falkenbergs FF,0,1,SE2,2011,5
+08/05/2011,Västerås SK,IFK Värnamo,2,2,SE2,2011,5
+08/05/2011,Ljungskile SK,Östers IF,0,0,SE2,2011,5
+08/05/2011,Jönköpings Södra IF,Degerfors IF,0,1,SE2,2011,5
+08/05/2011,IF Brommapojkarna,Hammarby IF,1,0,SE2,2011,5
+14/05/2011,Falkenbergs FF,Åtvidabergs FF,0,2,SE2,2011,6
+15/05/2011,Östers IF,IK Brage,3,1,SE2,2011,6
+15/05/2011,Hammarby IF,Västerås SK,3,1,SE2,2011,6
+15/05/2011,Assyriska FF,Ljungskile SK,1,0,SE2,2011,6
+15/05/2011,Degerfors IF,Landskrona BoIS,2,0,SE2,2011,6
+15/05/2011,IFK Värnamo,Qviding FIF,0,0,SE2,2011,6
+15/05/2011,Ängelholms FF,Jönköpings Södra IF,2,4,SE2,2011,6
+15/05/2011,GIF Sundsvall,IF Brommapojkarna,0,0,SE2,2011,6
+19/05/2011,Qviding FIF,Hammarby IF,2,2,SE2,2011,7
+19/05/2011,Västerås SK,GIF Sundsvall,0,0,SE2,2011,7
+19/05/2011,IF Brommapojkarna,Östers IF,1,0,SE2,2011,7
+19/05/2011,Ljungskile SK,Landskrona BoIS,0,0,SE2,2011,7
+19/05/2011,Ängelholms FF,Degerfors IF,3,0,SE2,2011,7
+19/05/2011,IK Brage,Assyriska FF,3,0,SE2,2011,7
+19/05/2011,Åtvidabergs FF,IFK Värnamo,5,2,SE2,2011,7
+20/05/2011,Jönköpings Södra IF,Falkenbergs FF,0,2,SE2,2011,7
+22/05/2011,GIF Sundsvall,Qviding FIF,4,0,SE2,2011,8
+23/05/2011,Landskrona BoIS,IK Brage,1,2,SE2,2011,8
+23/05/2011,Östers IF,Västerås SK,0,0,SE2,2011,8
+23/05/2011,Degerfors IF,Ljungskile SK,2,3,SE2,2011,8
+23/05/2011,Falkenbergs FF,Ängelholms FF,1,0,SE2,2011,8
+23/05/2011,IFK Värnamo,Jönköpings Södra IF,2,4,SE2,2011,8
+23/05/2011,Hammarby IF,Åtvidabergs FF,2,0,SE2,2011,8
+23/05/2011,Assyriska FF,IF Brommapojkarna,0,2,SE2,2011,8
+26/05/2011,Västerås SK,IF Brommapojkarna,1,0,SE2,2011,9
+26/05/2011,Åtvidabergs FF,Ljungskile SK,2,2,SE2,2011,9
+27/05/2011,Hammarby IF,Degerfors IF,1,2,SE2,2011,9
+29/05/2011,Ängelholms FF,Assyriska FF,2,1,SE2,2011,9
+29/05/2011,IFK Värnamo,GIF Sundsvall,3,0,SE2,2011,9
+30/05/2011,Qviding FIF,IK Brage,1,2,SE2,2011,9
+30/05/2011,Jönköpings Södra IF,Landskrona BoIS,0,2,SE2,2011,9
+01/06/2011,Falkenbergs FF,Östers IF,0,4,SE2,2011,9
+04/06/2011,IK Brage,Åtvidabergs FF,1,0,SE2,2011,10
+05/06/2011,Assyriska FF,Falkenbergs FF,2,1,SE2,2011,10
+05/06/2011,Degerfors IF,Västerås SK,4,1,SE2,2011,10
+06/06/2011,Ljungskile SK,Jönköpings Södra IF,2,3,SE2,2011,10
+06/06/2011,Landskrona BoIS,Ängelholms FF,0,0,SE2,2011,10
+08/06/2011,IF Brommapojkarna,Qviding FIF,4,0,SE2,2011,10
+08/06/2011,Östers IF,IFK Värnamo,2,0,SE2,2011,10
+08/06/2011,GIF Sundsvall,Hammarby IF,3,3,SE2,2011,10
+11/06/2011,Västerås SK,Ljungskile SK,0,1,SE2,2011,11
+11/06/2011,IF Brommapojkarna,IK Brage,3,0,SE2,2011,11
+11/06/2011,Åtvidabergs FF,Assyriska FF,2,1,SE2,2011,11
+11/06/2011,Ängelholms FF,GIF Sundsvall,1,1,SE2,2011,11
+11/06/2011,IFK Värnamo,Degerfors IF,0,0,SE2,2011,11
+12/06/2011,Qviding FIF,Landskrona BoIS,1,1,SE2,2011,11
+12/06/2011,Falkenbergs FF,Hammarby IF,1,1,SE2,2011,11
+13/06/2011,Jönköpings Södra IF,Östers IF,0,3,SE2,2011,11
+18/06/2011,Ljungskile SK,Qviding FIF,2,1,SE2,2011,12
+18/06/2011,Östers IF,Ängelholms FF,0,2,SE2,2011,12
+18/06/2011,IK Brage,Västerås SK,2,0,SE2,2011,12
+18/06/2011,Degerfors IF,IF Brommapojkarna,1,0,SE2,2011,12
+18/06/2011,Hammarby IF,IFK Värnamo,1,0,SE2,2011,12
+19/06/2011,Assyriska FF,Jönköpings Södra IF,1,0,SE2,2011,12
+20/06/2011,Landskrona BoIS,Åtvidabergs FF,3,2,SE2,2011,12
+04/08/2011,GIF Sundsvall,Falkenbergs FF,4,0,SE2,2011,12
+22/06/2011,Västerås SK,Assyriska FF,0,2,SE2,2011,13
+22/06/2011,IK Brage,Ljungskile SK,1,1,SE2,2011,13
+22/06/2011,Ängelholms FF,IFK Värnamo,1,1,SE2,2011,13
+22/06/2011,Jönköpings Södra IF,Hammarby IF,0,2,SE2,2011,13
+22/06/2011,Falkenbergs FF,Degerfors IF,4,0,SE2,2011,13
+23/06/2011,Qviding FIF,Östers IF,1,1,SE2,2011,13
+23/06/2011,IF Brommapojkarna,Landskrona BoIS,1,1,SE2,2011,13
+23/06/2011,Åtvidabergs FF,GIF Sundsvall,2,0,SE2,2011,13
+25/06/2011,Degerfors IF,IK Brage,5,0,SE2,2011,14
+26/06/2011,Assyriska FF,Qviding FIF,0,1,SE2,2011,14
+27/06/2011,Ljungskile SK,IF Brommapojkarna,1,3,SE2,2011,14
+27/06/2011,Landskrona BoIS,Västerås SK,2,1,SE2,2011,14
+27/06/2011,Östers IF,Åtvidabergs FF,1,0,SE2,2011,14
+27/06/2011,IFK Värnamo,Falkenbergs FF,0,2,SE2,2011,14
+27/06/2011,Hammarby IF,Ängelholms FF,0,1,SE2,2011,14
+27/06/2011,GIF Sundsvall,Jönköpings Södra IF,3,0,SE2,2011,14
+01/07/2011,Qviding FIF,Västerås SK,0,1,SE2,2011,15
+02/07/2011,Åtvidabergs FF,IF Brommapojkarna,2,1,SE2,2011,15
+02/07/2011,Falkenbergs FF,Landskrona BoIS,5,1,SE2,2011,15
+02/07/2011,Ängelholms FF,Ljungskile SK,1,1,SE2,2011,15
+02/07/2011,IFK Värnamo,Assyriska FF,3,2,SE2,2011,15
+03/07/2011,Hammarby IF,Östers IF,2,1,SE2,2011,15
+04/07/2011,IK Brage,Jönköpings Södra IF,1,1,SE2,2011,15
+09/07/2011,GIF Sundsvall,Degerfors IF,3,0,SE2,2011,15
+16/07/2011,Ljungskile SK,Ängelholms FF,1,2,SE2,2011,16
+16/07/2011,Assyriska FF,IFK Värnamo,0,1,SE2,2011,16
+16/07/2011,Jönköpings Södra IF,IK Brage,3,0,SE2,2011,16
+16/07/2011,Degerfors IF,GIF Sundsvall,0,2,SE2,2011,16
+16/07/2011,Västerås SK,Qviding FIF,2,2,SE2,2011,16
+17/07/2011,IF Brommapojkarna,Åtvidabergs FF,2,2,SE2,2011,16
+17/07/2011,Landskrona BoIS,Falkenbergs FF,0,2,SE2,2011,16
+17/07/2011,Östers IF,Hammarby IF,0,0,SE2,2011,16
+23/07/2011,Degerfors IF,Qviding FIF,3,0,SE2,2011,17
+23/07/2011,Åtvidabergs FF,Västerås SK,4,0,SE2,2011,17
+23/07/2011,Jönköpings Södra IF,IF Brommapojkarna,4,2,SE2,2011,17
+23/07/2011,IFK Värnamo,Landskrona BoIS,3,1,SE2,2011,17
+23/07/2011,GIF Sundsvall,Östers IF,2,1,SE2,2011,17
+24/07/2011,Ängelholms FF,IK Brage,1,1,SE2,2011,17
+24/07/2011,Falkenbergs FF,Ljungskile SK,2,0,SE2,2011,17
+24/07/2011,Hammarby IF,Assyriska FF,0,0,SE2,2011,17
+30/07/2011,Västerås SK,Jönköpings Södra IF,4,2,SE2,2011,18
+30/07/2011,IF Brommapojkarna,Ängelholms FF,0,1,SE2,2011,18
+30/07/2011,Assyriska FF,GIF Sundsvall,0,1,SE2,2011,18
+30/07/2011,Östers IF,Degerfors IF,0,1,SE2,2011,18
+30/07/2011,IK Brage,Falkenbergs FF,2,2,SE2,2011,18
+31/07/2011,Ljungskile SK,IFK Värnamo,5,1,SE2,2011,18
+31/07/2011,Qviding FIF,Åtvidabergs FF,1,3,SE2,2011,18
+01/08/2011,Landskrona BoIS,Hammarby IF,3,0,SE2,2011,18
+06/08/2011,Degerfors IF,Åtvidabergs FF,1,2,SE2,2011,19
+07/08/2011,Östers IF,Assyriska FF,4,2,SE2,2011,19
+07/08/2011,Ängelholms FF,Västerås SK,3,1,SE2,2011,19
+07/08/2011,Jönköpings Södra IF,Qviding FIF,1,0,SE2,2011,19
+07/08/2011,Falkenbergs FF,IF Brommapojkarna,1,3,SE2,2011,19
+07/08/2011,IFK Värnamo,IK Brage,3,1,SE2,2011,19
+08/08/2011,Hammarby IF,Ljungskile SK,1,3,SE2,2011,19
+08/08/2011,GIF Sundsvall,Landskrona BoIS,2,0,SE2,2011,19
+13/08/2011,Åtvidabergs FF,Jönköpings Södra IF,2,1,SE2,2011,20
+14/08/2011,Västerås SK,Falkenbergs FF,1,2,SE2,2011,20
+14/08/2011,Ljungskile SK,GIF Sundsvall,3,1,SE2,2011,20
+14/08/2011,Assyriska FF,Degerfors IF,1,1,SE2,2011,20
+15/08/2011,Qviding FIF,Ängelholms FF,1,3,SE2,2011,20
+15/08/2011,IF Brommapojkarna,IFK Värnamo,1,3,SE2,2011,20
+15/08/2011,Landskrona BoIS,Östers IF,1,0,SE2,2011,20
+15/08/2011,IK Brage,Hammarby IF,0,0,SE2,2011,20
+20/08/2011,Assyriska FF,IK Brage,3,2,SE2,2011,21
+20/08/2011,Östers IF,IF Brommapojkarna,2,0,SE2,2011,21
+20/08/2011,Degerfors IF,Ängelholms FF,1,3,SE2,2011,21
+21/08/2011,IFK Värnamo,Åtvidabergs FF,3,3,SE2,2011,21
+21/08/2011,Falkenbergs FF,Jönköpings Södra IF,1,2,SE2,2011,21
+22/08/2011,Hammarby IF,Qviding FIF,2,1,SE2,2011,21
+22/08/2011,GIF Sundsvall,Västerås SK,2,2,SE2,2011,21
+22/08/2011,Landskrona BoIS,Ljungskile SK,0,0,SE2,2011,21
+25/08/2011,Jönköpings Södra IF,IFK Värnamo,2,3,SE2,2011,22
+26/08/2011,IF Brommapojkarna,Assyriska FF,1,3,SE2,2011,22
+28/08/2011,Västerås SK,Östers IF,1,1,SE2,2011,22
+28/08/2011,Ljungskile SK,Degerfors IF,1,0,SE2,2011,22
+29/08/2011,Qviding FIF,GIF Sundsvall,0,2,SE2,2011,22
+29/08/2011,Ängelholms FF,Falkenbergs FF,3,2,SE2,2011,22
+29/08/2011,IK Brage,Landskrona BoIS,0,1,SE2,2011,22
+29/08/2011,Åtvidabergs FF,Hammarby IF,3,1,SE2,2011,22
+03/09/2011,Ljungskile SK,Åtvidabergs FF,1,2,SE2,2011,23
+04/09/2011,Degerfors IF,Hammarby IF,3,2,SE2,2011,23
+04/09/2011,Assyriska FF,Ängelholms FF,2,2,SE2,2011,23
+05/09/2011,Landskrona BoIS,Jönköpings Södra IF,1,0,SE2,2011,23
+05/09/2011,Östers IF,Falkenbergs FF,1,0,SE2,2011,23
+05/09/2011,IK Brage,Qviding FIF,2,2,SE2,2011,23
+07/09/2011,IF Brommapojkarna,Västerås SK,4,1,SE2,2011,23
+08/09/2011,GIF Sundsvall,IFK Värnamo,2,2,SE2,2011,23
+09/09/2011,Ängelholms FF,Landskrona BoIS,1,2,SE2,2011,24
+11/09/2011,Västerås SK,Degerfors IF,3,5,SE2,2011,24
+11/09/2011,Falkenbergs FF,Assyriska FF,4,0,SE2,2011,24
+12/09/2011,Qviding FIF,IF Brommapojkarna,0,2,SE2,2011,24
+12/09/2011,Åtvidabergs FF,IK Brage,2,0,SE2,2011,24
+12/09/2011,Jönköpings Södra IF,Ljungskile SK,2,1,SE2,2011,24
+12/09/2011,IFK Värnamo,Östers IF,0,1,SE2,2011,24
+12/09/2011,Hammarby IF,GIF Sundsvall,1,3,SE2,2011,24
+16/09/2011,Assyriska FF,Landskrona BoIS,1,2,SE2,2011,25
+17/09/2011,Degerfors IF,Jönköpings Södra IF,6,1,SE2,2011,25
+18/09/2011,IFK Värnamo,Västerås SK,2,3,SE2,2011,25
+18/09/2011,Falkenbergs FF,Qviding FIF,3,0,SE2,2011,25
+18/09/2011,Hammarby IF,IF Brommapojkarna,1,2,SE2,2011,25
+19/09/2011,GIF Sundsvall,IK Brage,5,0,SE2,2011,25
+19/09/2011,Östers IF,Ljungskile SK,3,2,SE2,2011,25
+19/09/2011,Ängelholms FF,Åtvidabergs FF,2,0,SE2,2011,25
+23/09/2011,IF Brommapojkarna,GIF Sundsvall,1,3,SE2,2011,26
+25/09/2011,Ljungskile SK,Assyriska FF,1,0,SE2,2011,26
+26/09/2011,Qviding FIF,IFK Värnamo,0,2,SE2,2011,26
+26/09/2011,Västerås SK,Hammarby IF,1,2,SE2,2011,26
+26/09/2011,Landskrona BoIS,Degerfors IF,0,0,SE2,2011,26
+26/09/2011,IK Brage,Östers IF,0,0,SE2,2011,26
+26/09/2011,Jönköpings Södra IF,Ängelholms FF,3,0,SE2,2011,26
+26/09/2011,Åtvidabergs FF,Falkenbergs FF,4,0,SE2,2011,26
+30/09/2011,GIF Sundsvall,Ängelholms FF,6,0,SE2,2011,27
+01/10/2011,Degerfors IF,IFK Värnamo,2,0,SE2,2011,27
+02/10/2011,Ljungskile SK,Västerås SK,5,0,SE2,2011,27
+02/10/2011,Assyriska FF,Åtvidabergs FF,2,0,SE2,2011,27
+03/10/2011,Landskrona BoIS,Qviding FIF,3,0,SE2,2011,27
+03/10/2011,IK Brage,IF Brommapojkarna,0,2,SE2,2011,27
+03/10/2011,Hammarby IF,Falkenbergs FF,0,0,SE2,2011,27
+04/10/2011,Östers IF,Jönköpings Södra IF,2,1,SE2,2011,27
+09/10/2011,Ängelholms FF,Östers IF,3,0,SE2,2011,28
+09/10/2011,Qviding FIF,Ljungskile SK,1,4,SE2,2011,28
+09/10/2011,Västerås SK,IK Brage,2,1,SE2,2011,28
+09/10/2011,IF Brommapojkarna,Degerfors IF,3,3,SE2,2011,28
+10/10/2011,Jönköpings Södra IF,Assyriska FF,1,1,SE2,2011,28
+10/10/2011,Falkenbergs FF,GIF Sundsvall,2,4,SE2,2011,28
+10/10/2011,Åtvidabergs FF,Landskrona BoIS,1,0,SE2,2011,28
+13/10/2011,IFK Värnamo,Hammarby IF,1,0,SE2,2011,28
+15/10/2011,Degerfors IF,Falkenbergs FF,1,3,SE2,2011,29
+16/10/2011,Östers IF,Qviding FIF,2,1,SE2,2011,29
+16/10/2011,Assyriska FF,Västerås SK,0,2,SE2,2011,29
+16/10/2011,Ljungskile SK,IK Brage,1,2,SE2,2011,29
+16/10/2011,IFK Värnamo,Ängelholms FF,1,1,SE2,2011,29
+17/10/2011,Landskrona BoIS,IF Brommapojkarna,0,2,SE2,2011,29
+17/10/2011,GIF Sundsvall,Åtvidabergs FF,0,1,SE2,2011,29
+17/10/2011,Hammarby IF,Jönköpings Södra IF,5,2,SE2,2011,29
+22/10/2011,Qviding FIF,Assyriska FF,0,5,SE2,2011,30
+22/10/2011,Västerås SK,Landskrona BoIS,3,3,SE2,2011,30
+22/10/2011,IF Brommapojkarna,Ljungskile SK,3,1,SE2,2011,30
+22/10/2011,IK Brage,Degerfors IF,1,1,SE2,2011,30
+22/10/2011,Åtvidabergs FF,Östers IF,0,1,SE2,2011,30
+22/10/2011,Jönköpings Södra IF,GIF Sundsvall,2,1,SE2,2011,30
+22/10/2011,Ängelholms FF,Hammarby IF,0,1,SE2,2011,30
+22/10/2011,Falkenbergs FF,IFK Värnamo,4,0,SE2,2011,30
+06/04/2012,Trelleborgs FF,Ängelholms FF,1,1,SE2,2012,1
+08/04/2012,Ljungskile SK,Östers IF,0,1,SE2,2012,1
+08/04/2012,Degerfors IF,Jönköpings Södra IF,1,3,SE2,2012,1
+08/04/2012,Landskrona BoIS,IF Brommapojkarna,1,2,SE2,2012,1
+09/04/2012,Assyriska FF,IK Brage,3,1,SE2,2012,1
+09/04/2012,IFK Värnamo,Varbergs BoIS,0,1,SE2,2012,1
+09/04/2012,Hammarby IF,Halmstads BK,1,0,SE2,2012,1
+09/04/2012,Falkenbergs FF,Umeå FC,1,1,SE2,2012,1
+13/04/2012,Östers IF,Trelleborgs FF,2,1,SE2,2012,2
+14/04/2012,Halmstads BK,Degerfors IF,2,0,SE2,2012,2
+14/04/2012,Varbergs BoIS,Assyriska FF,1,2,SE2,2012,2
+15/04/2012,Ängelholms FF,IFK Värnamo,1,0,SE2,2012,2
+15/04/2012,IF Brommapojkarna,Falkenbergs FF,1,0,SE2,2012,2
+16/04/2012,IK Brage,Landskrona BoIS,2,1,SE2,2012,2
+16/04/2012,Jönköpings Södra IF,Ljungskile SK,4,1,SE2,2012,2
+16/04/2012,Umeå FC,Hammarby IF,1,2,SE2,2012,2
+19/04/2012,Östers IF,Ängelholms FF,2,1,SE2,2012,3
+20/04/2012,Ljungskile SK,Halmstads BK,0,0,SE2,2012,3
+22/04/2012,Falkenbergs FF,IK Brage,1,2,SE2,2012,3
+22/04/2012,Trelleborgs FF,Jönköpings Södra IF,0,1,SE2,2012,3
+22/04/2012,Assyriska FF,IFK Värnamo,3,0,SE2,2012,3
+22/04/2012,Degerfors IF,Umeå FC,1,2,SE2,2012,3
+23/04/2012,Landskrona BoIS,Varbergs BoIS,2,1,SE2,2012,3
+23/04/2012,Hammarby IF,IF Brommapojkarna,3,1,SE2,2012,3
+26/04/2012,Varbergs BoIS,Falkenbergs FF,1,0,SE2,2012,4
+27/04/2012,IK Brage,Hammarby IF,0,2,SE2,2012,4
+28/04/2012,IF Brommapojkarna,Degerfors IF,1,0,SE2,2012,4
+29/04/2012,Ängelholms FF,Assyriska FF,3,1,SE2,2012,4
+29/04/2012,Umeå FC,Ljungskile SK,0,1,SE2,2012,4
+29/04/2012,IFK Värnamo,Landskrona BoIS,1,1,SE2,2012,4
+29/04/2012,Jönköpings Södra IF,Östers IF,3,3,SE2,2012,4
+30/04/2012,Halmstads BK,Trelleborgs FF,3,1,SE2,2012,4
+03/05/2012,Landskrona BoIS,Assyriska FF,3,2,SE2,2012,5
+05/05/2012,Degerfors IF,IK Brage,3,2,SE2,2012,5
+06/05/2012,Falkenbergs FF,IFK Värnamo,3,2,SE2,2012,5
+06/05/2012,Ljungskile SK,IF Brommapojkarna,3,1,SE2,2012,5
+06/05/2012,Hammarby IF,Varbergs BoIS,1,1,SE2,2012,5
+07/05/2012,Trelleborgs FF,Umeå FC,4,2,SE2,2012,5
+07/05/2012,Östers IF,Halmstads BK,2,1,SE2,2012,5
+07/05/2012,Jönköpings Södra IF,Ängelholms FF,2,2,SE2,2012,5
+10/05/2012,Ängelholms FF,Landskrona BoIS,2,1,SE2,2012,6
+11/05/2012,IF Brommapojkarna,Trelleborgs FF,2,0,SE2,2012,6
+12/05/2012,IK Brage,Ljungskile SK,1,1,SE2,2012,6
+12/05/2012,Varbergs BoIS,Degerfors IF,1,0,SE2,2012,6
+12/05/2012,Halmstads BK,Jönköpings Södra IF,3,2,SE2,2012,6
+13/05/2012,Assyriska FF,Falkenbergs FF,0,0,SE2,2012,6
+13/05/2012,IFK Värnamo,Hammarby IF,0,1,SE2,2012,6
+13/05/2012,Umeå FC,Östers IF,0,4,SE2,2012,6
+16/05/2012,Degerfors IF,IFK Värnamo,6,1,SE2,2012,7
+16/05/2012,Jönköpings Södra IF,Umeå FC,3,3,SE2,2012,7
+16/05/2012,Trelleborgs FF,IK Brage,1,1,SE2,2012,7
+16/05/2012,Falkenbergs FF,Landskrona BoIS,1,2,SE2,2012,7
+16/05/2012,Ljungskile SK,Varbergs BoIS,2,2,SE2,2012,7
+17/05/2012,Östers IF,IF Brommapojkarna,4,1,SE2,2012,7
+17/05/2012,Halmstads BK,Ängelholms FF,0,0,SE2,2012,7
+18/05/2012,Hammarby IF,Assyriska FF,0,2,SE2,2012,7
+19/05/2012,IFK Värnamo,Ljungskile SK,2,2,SE2,2012,8
+19/05/2012,Varbergs BoIS,Trelleborgs FF,2,2,SE2,2012,8
+20/05/2012,IF Brommapojkarna,Jönköpings Södra IF,3,2,SE2,2012,8
+20/05/2012,Umeå FC,Halmstads BK,0,4,SE2,2012,8
+21/05/2012,Assyriska FF,Degerfors IF,0,0,SE2,2012,8
+21/05/2012,IK Brage,Östers IF,0,1,SE2,2012,8
+21/05/2012,Ängelholms FF,Falkenbergs FF,1,3,SE2,2012,8
+21/05/2012,Landskrona BoIS,Hammarby IF,4,1,SE2,2012,8
+24/05/2012,Halmstads BK,IF Brommapojkarna,2,0,SE2,2012,9
+25/05/2012,Degerfors IF,Landskrona BoIS,2,0,SE2,2012,9
+26/05/2012,Jönköpings Södra IF,IK Brage,0,1,SE2,2012,9
+26/05/2012,Trelleborgs FF,IFK Värnamo,1,2,SE2,2012,9
+26/05/2012,Östers IF,Varbergs BoIS,1,0,SE2,2012,9
+27/05/2012,Ljungskile SK,Assyriska FF,3,1,SE2,2012,9
+28/05/2012,Umeå FC,Ängelholms FF,1,3,SE2,2012,9
+28/05/2012,Hammarby IF,Falkenbergs FF,2,2,SE2,2012,9
+02/06/2012,IF Brommapojkarna,Umeå FC,2,1,SE2,2012,10
+02/06/2012,Ängelholms FF,Hammarby IF,1,1,SE2,2012,10
+02/06/2012,Varbergs BoIS,Jönköpings Södra IF,4,1,SE2,2012,10
+03/06/2012,Falkenbergs FF,Degerfors IF,4,1,SE2,2012,10
+04/06/2012,Landskrona BoIS,Ljungskile SK,2,1,SE2,2012,10
+04/06/2012,IFK Värnamo,Östers IF,1,2,SE2,2012,10
+17/07/2012,IK Brage,Halmstads BK,2,1,SE2,2012,10
+01/08/2012,Assyriska FF,Trelleborgs FF,2,5,SE2,2012,10
+07/06/2012,Trelleborgs FF,Landskrona BoIS,0,1,SE2,2012,11
+09/06/2012,Jönköpings Södra IF,IFK Värnamo,1,0,SE2,2012,11
+09/06/2012,Umeå FC,IK Brage,1,2,SE2,2012,11
+09/06/2012,Degerfors IF,Hammarby IF,1,3,SE2,2012,11
+09/06/2012,Halmstads BK,Varbergs BoIS,3,1,SE2,2012,11
+10/06/2012,Ljungskile SK,Falkenbergs FF,2,1,SE2,2012,11
+10/06/2012,IF Brommapojkarna,Ängelholms FF,4,0,SE2,2012,11
+12/06/2012,Östers IF,Assyriska FF,1,0,SE2,2012,11
+16/06/2012,Falkenbergs FF,Trelleborgs FF,2,0,SE2,2012,12
+16/06/2012,Hammarby IF,Ljungskile SK,0,1,SE2,2012,12
+16/06/2012,IK Brage,IF Brommapojkarna,1,2,SE2,2012,12
+16/06/2012,IFK Värnamo,Halmstads BK,2,5,SE2,2012,12
+16/06/2012,Varbergs BoIS,Umeå FC,2,1,SE2,2012,12
+17/06/2012,Ängelholms FF,Degerfors IF,2,0,SE2,2012,12
+17/06/2012,Landskrona BoIS,Östers IF,1,2,SE2,2012,12
+17/06/2012,Assyriska FF,Jönköpings Södra IF,4,1,SE2,2012,12
+20/06/2012,Jönköpings Södra IF,Landskrona BoIS,2,0,SE2,2012,13
+20/06/2012,Ljungskile SK,Degerfors IF,3,3,SE2,2012,13
+20/06/2012,Östers IF,Falkenbergs FF,4,1,SE2,2012,13
+20/06/2012,Umeå FC,IFK Värnamo,1,1,SE2,2012,13
+20/06/2012,Trelleborgs FF,Hammarby IF,2,1,SE2,2012,13
+20/06/2012,IK Brage,Ängelholms FF,1,1,SE2,2012,13
+20/06/2012,IF Brommapojkarna,Varbergs BoIS,5,1,SE2,2012,13
+21/06/2012,Halmstads BK,Assyriska FF,3,1,SE2,2012,13
+24/06/2012,IFK Värnamo,IF Brommapojkarna,0,1,SE2,2012,14
+24/06/2012,Assyriska FF,Umeå FC,1,1,SE2,2012,14
+24/06/2012,Varbergs BoIS,IK Brage,2,2,SE2,2012,14
+24/06/2012,Hammarby IF,Östers IF,0,2,SE2,2012,14
+25/06/2012,Ängelholms FF,Ljungskile SK,3,1,SE2,2012,14
+25/06/2012,Degerfors IF,Trelleborgs FF,2,1,SE2,2012,14
+25/06/2012,Landskrona BoIS,Halmstads BK,3,3,SE2,2012,14
+25/06/2012,Falkenbergs FF,Jönköpings Södra IF,1,1,SE2,2012,14
+29/06/2012,Assyriska FF,IF Brommapojkarna,0,2,SE2,2012,15
+30/06/2012,Östers IF,Degerfors IF,2,0,SE2,2012,15
+30/06/2012,IFK Värnamo,IK Brage,3,0,SE2,2012,15
+30/06/2012,Ängelholms FF,Varbergs BoIS,3,2,SE2,2012,15
+01/07/2012,Trelleborgs FF,Ljungskile SK,1,0,SE2,2012,15
+02/07/2012,Umeå FC,Landskrona BoIS,3,1,SE2,2012,15
+02/07/2012,Jönköpings Södra IF,Hammarby IF,1,1,SE2,2012,15
+02/07/2012,Halmstads BK,Falkenbergs FF,1,1,SE2,2012,15
+21/07/2012,Ljungskile SK,Trelleborgs FF,1,0,SE2,2012,16
+21/07/2012,Degerfors IF,Östers IF,2,2,SE2,2012,16
+21/07/2012,Landskrona BoIS,Umeå FC,2,1,SE2,2012,16
+21/07/2012,Varbergs BoIS,Ängelholms FF,1,3,SE2,2012,16
+22/07/2012,IF Brommapojkarna,Assyriska FF,4,2,SE2,2012,16
+22/07/2012,Falkenbergs FF,Halmstads BK,3,1,SE2,2012,16
+23/07/2012,IK Brage,IFK Värnamo,1,1,SE2,2012,16
+23/07/2012,Hammarby IF,Jönköpings Södra IF,2,2,SE2,2012,16
+28/07/2012,Östers IF,Ljungskile SK,0,0,SE2,2012,17
+28/07/2012,Jönköpings Södra IF,Degerfors IF,2,2,SE2,2012,17
+28/07/2012,IF Brommapojkarna,Landskrona BoIS,2,0,SE2,2012,17
+28/07/2012,IK Brage,Assyriska FF,2,1,SE2,2012,17
+28/07/2012,Varbergs BoIS,IFK Värnamo,1,1,SE2,2012,17
+29/07/2012,Umeå FC,Falkenbergs FF,2,1,SE2,2012,17
+29/07/2012,Halmstads BK,Hammarby IF,2,0,SE2,2012,17
+29/07/2012,Ängelholms FF,Trelleborgs FF,1,4,SE2,2012,17
+04/08/2012,Landskrona BoIS,IK Brage,1,0,SE2,2012,18
+04/08/2012,Degerfors IF,Halmstads BK,2,2,SE2,2012,18
+04/08/2012,Hammarby IF,Umeå FC,1,0,SE2,2012,18
+04/08/2012,Ljungskile SK,Jönköpings Södra IF,1,0,SE2,2012,18
+04/08/2012,Falkenbergs FF,IF Brommapojkarna,3,1,SE2,2012,18
+04/08/2012,IFK Värnamo,Ängelholms FF,4,0,SE2,2012,18
+05/08/2012,Assyriska FF,Varbergs BoIS,0,0,SE2,2012,18
+06/08/2012,Trelleborgs FF,Östers IF,2,3,SE2,2012,18
+10/08/2012,Ängelholms FF,Halmstads BK,0,2,SE2,2012,19
+11/08/2012,Varbergs BoIS,Ljungskile SK,3,1,SE2,2012,19
+12/08/2012,Assyriska FF,Hammarby IF,1,1,SE2,2012,19
+13/08/2012,Umeå FC,Jönköpings Södra IF,1,0,SE2,2012,19
+13/08/2012,IFK Värnamo,Degerfors IF,2,3,SE2,2012,19
+13/08/2012,Landskrona BoIS,Falkenbergs FF,2,1,SE2,2012,19
+13/08/2012,IK Brage,Trelleborgs FF,3,1,SE2,2012,19
+13/08/2012,IF Brommapojkarna,Östers IF,3,1,SE2,2012,19
+21/08/2012,Hammarby IF,Landskrona BoIS,0,0,SE2,2012,20
+22/08/2012,Halmstads BK,Umeå FC,3,0,SE2,2012,20
+22/08/2012,Jönköpings Södra IF,IF Brommapojkarna,3,2,SE2,2012,20
+22/08/2012,Degerfors IF,Assyriska FF,4,2,SE2,2012,20
+22/08/2012,Falkenbergs FF,Ängelholms FF,2,2,SE2,2012,20
+22/08/2012,Ljungskile SK,IFK Värnamo,3,2,SE2,2012,20
+22/08/2012,Trelleborgs FF,Varbergs BoIS,2,2,SE2,2012,20
+23/08/2012,Östers IF,IK Brage,1,0,SE2,2012,20
+26/08/2012,Falkenbergs FF,Hammarby IF,1,3,SE2,2012,21
+26/08/2012,Assyriska FF,Ljungskile SK,2,0,SE2,2012,21
+27/08/2012,IFK Värnamo,Trelleborgs FF,3,0,SE2,2012,21
+27/08/2012,Ängelholms FF,Umeå FC,1,0,SE2,2012,21
+27/08/2012,Landskrona BoIS,Degerfors IF,0,0,SE2,2012,21
+27/08/2012,IK Brage,Jönköpings Södra IF,1,0,SE2,2012,21
+27/08/2012,Varbergs BoIS,Östers IF,2,4,SE2,2012,21
+27/08/2012,IF Brommapojkarna,Halmstads BK,0,3,SE2,2012,21
+31/08/2012,Halmstads BK,IK Brage,4,0,SE2,2012,22
+02/09/2012,Trelleborgs FF,Assyriska FF,3,2,SE2,2012,22
+02/09/2012,Ljungskile SK,Landskrona BoIS,2,0,SE2,2012,22
+03/09/2012,Umeå FC,IF Brommapojkarna,1,3,SE2,2012,22
+03/09/2012,Hammarby IF,Ängelholms FF,2,1,SE2,2012,22
+03/09/2012,Degerfors IF,Falkenbergs FF,2,3,SE2,2012,22
+03/09/2012,Jönköpings Södra IF,Varbergs BoIS,1,1,SE2,2012,22
+03/09/2012,Östers IF,IFK Värnamo,1,1,SE2,2012,22
+14/09/2012,Ängelholms FF,Östers IF,0,2,SE2,2012,23
+16/09/2012,IFK Värnamo,Assyriska FF,1,2,SE2,2012,23
+16/09/2012,Jönköpings Södra IF,Trelleborgs FF,2,0,SE2,2012,23
+17/09/2012,IK Brage,Falkenbergs FF,1,0,SE2,2012,23
+17/09/2012,Umeå FC,Degerfors IF,3,0,SE2,2012,23
+17/09/2012,Varbergs BoIS,Landskrona BoIS,3,0,SE2,2012,23
+17/09/2012,Halmstads BK,Ljungskile SK,1,0,SE2,2012,23
+18/09/2012,IF Brommapojkarna,Hammarby IF,2,1,SE2,2012,23
+21/09/2012,Östers IF,Jönköpings Södra IF,2,1,SE2,2012,24
+22/09/2012,Ljungskile SK,Umeå FC,2,0,SE2,2012,24
+22/09/2012,Degerfors IF,IF Brommapojkarna,0,2,SE2,2012,24
+23/09/2012,Landskrona BoIS,IFK Värnamo,0,1,SE2,2012,24
+23/09/2012,Assyriska FF,Ängelholms FF,1,4,SE2,2012,24
+23/09/2012,Falkenbergs FF,Varbergs BoIS,1,1,SE2,2012,24
+23/09/2012,Hammarby IF,IK Brage,3,1,SE2,2012,24
+24/09/2012,Trelleborgs FF,Halmstads BK,1,2,SE2,2012,24
+26/09/2012,IF Brommapojkarna,Ljungskile SK,0,1,SE2,2012,25
+26/09/2012,Ängelholms FF,Jönköpings Södra IF,2,2,SE2,2012,25
+26/09/2012,IFK Värnamo,Falkenbergs FF,3,4,SE2,2012,25
+26/09/2012,IK Brage,Degerfors IF,1,1,SE2,2012,25
+26/09/2012,Assyriska FF,Landskrona BoIS,2,1,SE2,2012,25
+27/09/2012,Umeå FC,Trelleborgs FF,5,1,SE2,2012,25
+27/09/2012,Varbergs BoIS,Hammarby IF,2,2,SE2,2012,25
+27/09/2012,Halmstads BK,Östers IF,3,2,SE2,2012,25
+30/09/2012,Ljungskile SK,IK Brage,1,1,SE2,2012,26
+30/09/2012,Falkenbergs FF,Assyriska FF,1,1,SE2,2012,26
+01/10/2012,Jönköpings Södra IF,Halmstads BK,1,1,SE2,2012,26
+01/10/2012,Landskrona BoIS,Ängelholms FF,1,0,SE2,2012,26
+01/10/2012,Degerfors IF,Varbergs BoIS,3,1,SE2,2012,26
+01/10/2012,Hammarby IF,IFK Värnamo,1,0,SE2,2012,26
+01/10/2012,Östers IF,Umeå FC,5,1,SE2,2012,26
+02/10/2012,Trelleborgs FF,IF Brommapojkarna,0,4,SE2,2012,26
+07/10/2012,Falkenbergs FF,Ljungskile SK,1,1,SE2,2012,27
+07/10/2012,Assyriska FF,Östers IF,1,0,SE2,2012,27
+07/10/2012,Ängelholms FF,IF Brommapojkarna,0,2,SE2,2012,27
+08/10/2012,IFK Värnamo,Jönköpings Södra IF,1,5,SE2,2012,27
+08/10/2012,IK Brage,Umeå FC,0,0,SE2,2012,27
+08/10/2012,Landskrona BoIS,Trelleborgs FF,0,3,SE2,2012,27
+08/10/2012,Hammarby IF,Degerfors IF,4,2,SE2,2012,27
+08/10/2012,Varbergs BoIS,Halmstads BK,2,2,SE2,2012,27
+19/10/2012,IF Brommapojkarna,IK Brage,4,1,SE2,2012,28
+19/10/2012,Östers IF,Landskrona BoIS,0,1,SE2,2012,28
+21/10/2012,Halmstads BK,IFK Värnamo,2,3,SE2,2012,28
+21/10/2012,Umeå FC,Varbergs BoIS,1,2,SE2,2012,28
+21/10/2012,Ljungskile SK,Hammarby IF,0,1,SE2,2012,28
+21/10/2012,Degerfors IF,Ängelholms FF,1,1,SE2,2012,28
+22/10/2012,Trelleborgs FF,Falkenbergs FF,3,1,SE2,2012,28
+22/10/2012,Jönköpings Södra IF,Assyriska FF,2,0,SE2,2012,28
+26/10/2012,Varbergs BoIS,IF Brommapojkarna,2,2,SE2,2012,29
+28/10/2012,Ängelholms FF,IK Brage,0,1,SE2,2012,29
+28/10/2012,Falkenbergs FF,Östers IF,1,1,SE2,2012,29
+28/10/2012,IFK Värnamo,Umeå FC,5,0,SE2,2012,29
+29/10/2012,Degerfors IF,Ljungskile SK,2,1,SE2,2012,29
+29/10/2012,Landskrona BoIS,Jönköpings Södra IF,3,2,SE2,2012,29
+29/10/2012,Hammarby IF,Trelleborgs FF,0,0,SE2,2012,29
+29/10/2012,Assyriska FF,Halmstads BK,2,1,SE2,2012,29
+03/11/2012,Jönköpings Södra IF,Falkenbergs FF,2,1,SE2,2012,30
+03/11/2012,Halmstads BK,Landskrona BoIS,1,1,SE2,2012,30
+03/11/2012,Umeå FC,Assyriska FF,1,3,SE2,2012,30
+03/11/2012,Trelleborgs FF,Degerfors IF,0,2,SE2,2012,30
+03/11/2012,Östers IF,Hammarby IF,0,0,SE2,2012,30
+03/11/2012,IF Brommapojkarna,IFK Värnamo,2,4,SE2,2012,30
+03/11/2012,Ljungskile SK,Ängelholms FF,1,1,SE2,2012,30
+03/11/2012,IK Brage,Varbergs BoIS,4,4,SE2,2012,30
+06/04/2013,Varbergs BoIS,GAIS,3,1,SE2,2013,1
+06/04/2013,Östersunds FK,Assyriska FF,1,1,SE2,2013,1
+06/04/2013,Landskrona BoIS,Degerfors IF,1,0,SE2,2013,1
+07/04/2013,Ängelholms FF,IK Brage,0,2,SE2,2013,1
+07/04/2013,GIF Sundsvall,Jönköpings Södra IF,0,3,SE2,2013,1
+07/04/2013,Ljungskile SK,Hammarby IF,0,0,SE2,2013,1
+08/04/2013,Örebro SK,IFK Värnamo,2,0,SE2,2013,1
+09/04/2013,Örgryte IS,Falkenbergs FF,0,2,SE2,2013,1
+12/04/2013,Landskrona BoIS,Ängelholms FF,0,0,SE2,2013,2
+13/04/2013,GAIS,Degerfors IF,3,1,SE2,2013,2
+14/04/2013,Hammarby IF,IFK Värnamo,1,1,SE2,2013,2
+14/04/2013,Falkenbergs FF,Ljungskile SK,2,1,SE2,2013,2
+14/04/2013,Jönköpings Södra IF,Varbergs BoIS,2,1,SE2,2013,2
+14/04/2013,Assyriska FF,Örgryte IS,3,0,SE2,2013,2
+15/04/2013,IK Brage,Östersunds FK,0,0,SE2,2013,2
+15/04/2013,Örebro SK,GIF Sundsvall,3,0,SE2,2013,2
+18/04/2013,Degerfors IF,Jönköpings Södra IF,2,1,SE2,2013,3
+19/04/2013,Ängelholms FF,GAIS,1,1,SE2,2013,3
+20/04/2013,Östersunds FK,Landskrona BoIS,2,2,SE2,2013,3
+20/04/2013,Varbergs BoIS,GIF Sundsvall,0,4,SE2,2013,3
+21/04/2013,Ljungskile SK,Assyriska FF,0,1,SE2,2013,3
+21/04/2013,IFK Värnamo,Falkenbergs FF,0,1,SE2,2013,3
+21/04/2013,Hammarby IF,Örebro SK,2,1,SE2,2013,3
+22/04/2013,Örgryte IS,IK Brage,1,0,SE2,2013,3
+25/04/2013,Falkenbergs FF,Hammarby IF,1,0,SE2,2013,4
+26/04/2013,GAIS,Östersunds FK,1,3,SE2,2013,4
+28/04/2013,GIF Sundsvall,Degerfors IF,0,0,SE2,2013,4
+28/04/2013,Assyriska FF,IFK Värnamo,3,0,SE2,2013,4
+28/04/2013,Landskrona BoIS,Örgryte IS,2,4,SE2,2013,4
+29/04/2013,IK Brage,Ljungskile SK,1,2,SE2,2013,4
+29/04/2013,Örebro SK,Varbergs BoIS,3,1,SE2,2013,4
+29/04/2013,Jönköpings Södra IF,Ängelholms FF,2,4,SE2,2013,4
+02/05/2013,Hammarby IF,Assyriska FF,1,0,SE2,2013,5
+03/05/2013,Ängelholms FF,GIF Sundsvall,0,2,SE2,2013,5
+04/05/2013,Östersunds FK,Jönköpings Södra IF,5,0,SE2,2013,5
+04/05/2013,Degerfors IF,Varbergs BoIS,3,2,SE2,2013,5
+05/05/2013,Falkenbergs FF,Örebro SK,1,1,SE2,2013,5
+06/05/2013,IFK Värnamo,IK Brage,2,1,SE2,2013,5
+06/05/2013,Örgryte IS,GAIS,0,1,SE2,2013,5
+07/05/2013,Ljungskile SK,Landskrona BoIS,3,0,SE2,2013,5
+09/05/2013,IK Brage,Hammarby IF,0,2,SE2,2013,6
+11/05/2013,Varbergs BoIS,Ängelholms FF,2,1,SE2,2013,6
+11/05/2013,GIF Sundsvall,Östersunds FK,3,0,SE2,2013,6
+12/05/2013,Assyriska FF,Falkenbergs FF,4,1,SE2,2013,6
+13/05/2013,Örebro SK,Degerfors IF,2,0,SE2,2013,6
+13/05/2013,Jönköpings Södra IF,Örgryte IS,0,0,SE2,2013,6
+13/05/2013,Landskrona BoIS,IFK Värnamo,2,1,SE2,2013,6
+15/05/2013,GAIS,Ljungskile SK,0,1,SE2,2013,6
+17/05/2013,Falkenbergs FF,IK Brage,2,1,SE2,2013,7
+18/05/2013,Östersunds FK,Varbergs BoIS,1,3,SE2,2013,7
+18/05/2013,Örgryte IS,GIF Sundsvall,0,0,SE2,2013,7
+18/05/2013,Ängelholms FF,Degerfors IF,2,2,SE2,2013,7
+19/05/2013,Ljungskile SK,Jönköpings Södra IF,1,0,SE2,2013,7
+19/05/2013,Assyriska FF,Örebro SK,1,1,SE2,2013,7
+19/05/2013,IFK Värnamo,GAIS,1,2,SE2,2013,7
+20/05/2013,Hammarby IF,Landskrona BoIS,1,0,SE2,2013,7
+22/05/2013,Jönköpings Södra IF,IFK Värnamo,0,0,SE2,2013,8
+22/05/2013,Degerfors IF,Östersunds FK,1,0,SE2,2013,8
+22/05/2013,Örebro SK,Ängelholms FF,1,0,SE2,2013,8
+23/05/2013,GAIS,Hammarby IF,1,0,SE2,2013,8
+23/05/2013,Varbergs BoIS,Örgryte IS,5,1,SE2,2013,8
+23/05/2013,Landskrona BoIS,Falkenbergs FF,0,0,SE2,2013,8
+23/05/2013,GIF Sundsvall,Ljungskile SK,3,1,SE2,2013,8
+24/05/2013,IK Brage,Assyriska FF,1,1,SE2,2013,8
+26/05/2013,Falkenbergs FF,GAIS,4,1,SE2,2013,9
+26/05/2013,Örgryte IS,Degerfors IF,2,2,SE2,2013,9
+27/05/2013,IK Brage,Örebro SK,0,1,SE2,2013,9
+27/05/2013,Ljungskile SK,Varbergs BoIS,2,0,SE2,2013,9
+27/05/2013,Hammarby IF,Jönköpings Södra IF,0,1,SE2,2013,9
+27/05/2013,Assyriska FF,Landskrona BoIS,0,3,SE2,2013,9
+27/05/2013,IFK Värnamo,GIF Sundsvall,0,1,SE2,2013,9
+27/05/2013,Östersunds FK,Ängelholms FF,2,2,SE2,2013,9
+01/06/2013,Varbergs BoIS,IFK Värnamo,1,2,SE2,2013,10
+01/06/2013,GAIS,Assyriska FF,1,0,SE2,2013,10
+01/06/2013,Landskrona BoIS,IK Brage,4,1,SE2,2013,10
+01/06/2013,Ängelholms FF,Örgryte IS,4,1,SE2,2013,10
+02/06/2013,GIF Sundsvall,Hammarby IF,1,0,SE2,2013,10
+02/06/2013,Örebro SK,Östersunds FK,2,0,SE2,2013,10
+02/06/2013,Degerfors IF,Ljungskile SK,3,1,SE2,2013,10
+03/06/2013,Jönköpings Södra IF,Falkenbergs FF,2,4,SE2,2013,10
+06/06/2013,IK Brage,GAIS,0,4,SE2,2013,11
+08/06/2013,Assyriska FF,Jönköpings Södra IF,1,0,SE2,2013,11
+08/06/2013,Ljungskile SK,Ängelholms FF,1,2,SE2,2013,11
+08/06/2013,Örgryte IS,Östersunds FK,2,1,SE2,2013,11
+10/06/2013,Hammarby IF,Varbergs BoIS,2,2,SE2,2013,11
+10/06/2013,Landskrona BoIS,Örebro SK,1,2,SE2,2013,11
+11/06/2013,Falkenbergs FF,GIF Sundsvall,1,2,SE2,2013,11
+24/07/2013,IFK Värnamo,Degerfors IF,1,1,SE2,2013,11
+14/06/2013,Örebro SK,Örgryte IS,2,0,SE2,2013,12
+15/06/2013,Östersunds FK,Ljungskile SK,2,1,SE2,2013,12
+15/06/2013,Degerfors IF,Hammarby IF,0,1,SE2,2013,12
+15/06/2013,Varbergs BoIS,Falkenbergs FF,0,4,SE2,2013,12
+16/06/2013,GAIS,Landskrona BoIS,3,0,SE2,2013,12
+17/06/2013,GIF Sundsvall,Assyriska FF,2,4,SE2,2013,12
+17/06/2013,Ängelholms FF,IFK Värnamo,1,2,SE2,2013,12
+17/06/2013,Jönköpings Södra IF,IK Brage,4,0,SE2,2013,12
+19/06/2013,GAIS,Örebro SK,1,1,SE2,2013,13
+23/06/2013,Ljungskile SK,Örgryte IS,1,0,SE2,2013,13
+23/06/2013,IK Brage,GIF Sundsvall,1,2,SE2,2013,13
+23/06/2013,Assyriska FF,Varbergs BoIS,3,0,SE2,2013,13
+23/06/2013,Hammarby IF,Ängelholms FF,1,1,SE2,2013,13
+24/06/2013,Landskrona BoIS,Jönköpings Södra IF,2,0,SE2,2013,13
+24/06/2013,IFK Värnamo,Östersunds FK,0,1,SE2,2013,13
+24/06/2013,Falkenbergs FF,Degerfors IF,2,4,SE2,2013,13
+20/06/2013,Örgryte IS,IFK Värnamo,1,1,SE2,2013,14
+26/06/2013,Örebro SK,Ljungskile SK,1,0,SE2,2013,14
+27/06/2013,Varbergs BoIS,IK Brage,4,1,SE2,2013,14
+28/06/2013,Degerfors IF,Assyriska FF,2,1,SE2,2013,14
+29/06/2013,GIF Sundsvall,Landskrona BoIS,3,2,SE2,2013,14
+29/06/2013,Jönköpings Södra IF,GAIS,0,1,SE2,2013,14
+29/06/2013,Ängelholms FF,Falkenbergs FF,0,4,SE2,2013,14
+29/06/2013,Östersunds FK,Hammarby IF,1,1,SE2,2013,14
+04/07/2013,IK Brage,Degerfors IF,0,1,SE2,2013,15
+20/07/2013,IFK Värnamo,Ljungskile SK,1,0,SE2,2013,15
+20/07/2013,GIF Sundsvall,GAIS,4,4,SE2,2013,15
+20/07/2013,Falkenbergs FF,Östersunds FK,2,0,SE2,2013,15
+20/07/2013,Hammarby IF,Örgryte IS,0,0,SE2,2013,15
+21/07/2013,Assyriska FF,Ängelholms FF,0,4,SE2,2013,15
+22/07/2013,Landskrona BoIS,Varbergs BoIS,5,0,SE2,2013,15
+27/07/2013,Jönköpings Södra IF,Örebro SK,2,0,SE2,2013,15
+26/07/2013,Varbergs BoIS,Landskrona BoIS,2,1,SE2,2013,16
+27/07/2013,Östersunds FK,Falkenbergs FF,2,2,SE2,2013,16
+27/07/2013,Degerfors IF,IK Brage,4,2,SE2,2013,16
+27/07/2013,GAIS,GIF Sundsvall,3,3,SE2,2013,16
+29/07/2013,Ljungskile SK,IFK Värnamo,1,2,SE2,2013,16
+29/07/2013,Ängelholms FF,Assyriska FF,6,1,SE2,2013,16
+29/07/2013,Örgryte IS,Hammarby IF,0,3,SE2,2013,16
+07/08/2013,Örebro SK,Jönköpings Södra IF,3,1,SE2,2013,16
+02/08/2013,IFK Värnamo,Örebro SK,0,5,SE2,2013,17
+03/08/2013,GAIS,Varbergs BoIS,0,1,SE2,2013,17
+03/08/2013,Jönköpings Södra IF,GIF Sundsvall,1,4,SE2,2013,17
+04/08/2013,Falkenbergs FF,Örgryte IS,2,0,SE2,2013,17
+04/08/2013,Assyriska FF,Östersunds FK,1,0,SE2,2013,17
+04/08/2013,Hammarby IF,Ljungskile SK,0,1,SE2,2013,17
+05/08/2013,IK Brage,Ängelholms FF,0,1,SE2,2013,17
+05/08/2013,Degerfors IF,Landskrona BoIS,2,0,SE2,2013,17
+10/08/2013,Degerfors IF,GAIS,4,2,SE2,2013,18
+10/08/2013,Östersunds FK,IK Brage,1,0,SE2,2013,18
+10/08/2013,Varbergs BoIS,Jönköpings Södra IF,1,1,SE2,2013,18
+11/08/2013,Ljungskile SK,Falkenbergs FF,3,1,SE2,2013,18
+12/08/2013,IFK Värnamo,Hammarby IF,0,2,SE2,2013,18
+12/08/2013,Örgryte IS,Assyriska FF,3,0,SE2,2013,18
+12/08/2013,Ängelholms FF,Landskrona BoIS,2,1,SE2,2013,18
+12/08/2013,GIF Sundsvall,Örebro SK,1,0,SE2,2013,18
+15/08/2013,Jönköpings Södra IF,Degerfors IF,4,1,SE2,2013,19
+15/08/2013,GAIS,Ängelholms FF,2,1,SE2,2013,19
+16/08/2013,IK Brage,Örgryte IS,0,0,SE2,2013,19
+18/08/2013,Falkenbergs FF,IFK Värnamo,4,0,SE2,2013,19
+18/08/2013,GIF Sundsvall,Varbergs BoIS,4,2,SE2,2013,19
+18/08/2013,Assyriska FF,Ljungskile SK,1,0,SE2,2013,19
+18/08/2013,Landskrona BoIS,Östersunds FK,4,0,SE2,2013,19
+19/08/2013,Örebro SK,Hammarby IF,1,1,SE2,2013,19
+24/08/2013,Östersunds FK,GAIS,2,0,SE2,2013,20
+24/08/2013,Degerfors IF,GIF Sundsvall,1,2,SE2,2013,20
+24/08/2013,Ljungskile SK,IK Brage,4,1,SE2,2013,20
+24/08/2013,Ängelholms FF,Jönköpings Södra IF,2,2,SE2,2013,20
+25/08/2013,Varbergs BoIS,Örebro SK,1,2,SE2,2013,20
+25/08/2013,IFK Värnamo,Assyriska FF,2,2,SE2,2013,20
+26/08/2013,Örgryte IS,Landskrona BoIS,0,0,SE2,2013,20
+26/08/2013,Hammarby IF,Falkenbergs FF,0,3,SE2,2013,20
+28/08/2013,Jönköpings Södra IF,Östersunds FK,1,1,SE2,2013,21
+28/08/2013,Varbergs BoIS,Degerfors IF,2,2,SE2,2013,21
+28/08/2013,GIF Sundsvall,Ängelholms FF,2,2,SE2,2013,21
+29/08/2013,Örebro SK,Falkenbergs FF,1,1,SE2,2013,21
+29/08/2013,Assyriska FF,Hammarby IF,1,2,SE2,2013,21
+29/08/2013,Landskrona BoIS,Ljungskile SK,0,2,SE2,2013,21
+29/08/2013,IK Brage,IFK Värnamo,1,1,SE2,2013,21
+29/08/2013,GAIS,Örgryte IS,1,1,SE2,2013,21
+31/08/2013,Östersunds FK,GIF Sundsvall,2,0,SE2,2013,22
+01/09/2013,Ängelholms FF,Varbergs BoIS,4,2,SE2,2013,22
+01/09/2013,Degerfors IF,Örebro SK,1,1,SE2,2013,22
+02/09/2013,IFK Värnamo,Landskrona BoIS,0,2,SE2,2013,22
+02/09/2013,Hammarby IF,IK Brage,2,0,SE2,2013,22
+02/09/2013,Örgryte IS,Jönköpings Södra IF,1,3,SE2,2013,22
+02/09/2013,Falkenbergs FF,Assyriska FF,2,0,SE2,2013,22
+03/09/2013,Ljungskile SK,GAIS,1,1,SE2,2013,22
+12/09/2013,GIF Sundsvall,Örgryte IS,1,1,SE2,2013,23
+12/09/2013,Jönköpings Södra IF,Ljungskile SK,0,1,SE2,2013,23
+12/09/2013,Örebro SK,Assyriska FF,2,1,SE2,2013,23
+13/09/2013,IK Brage,Falkenbergs FF,0,1,SE2,2013,23
+13/09/2013,GAIS,IFK Värnamo,2,0,SE2,2013,23
+14/09/2013,Landskrona BoIS,Hammarby IF,4,1,SE2,2013,23
+14/09/2013,Degerfors IF,Ängelholms FF,4,1,SE2,2013,23
+14/09/2013,Varbergs BoIS,Östersunds FK,0,3,SE2,2013,23
+17/09/2013,Ljungskile SK,GIF Sundsvall,0,1,SE2,2013,24
+18/09/2013,IFK Värnamo,Jönköpings Södra IF,2,1,SE2,2013,24
+18/09/2013,Örgryte IS,Varbergs BoIS,0,0,SE2,2013,24
+18/09/2013,Östersunds FK,Degerfors IF,1,2,SE2,2013,24
+18/09/2013,Assyriska FF,IK Brage,3,2,SE2,2013,24
+18/09/2013,Falkenbergs FF,Landskrona BoIS,4,0,SE2,2013,24
+19/09/2013,Hammarby IF,GAIS,3,1,SE2,2013,24
+20/09/2013,Ängelholms FF,Örebro SK,1,1,SE2,2013,24
+22/09/2013,Jönköpings Södra IF,Hammarby IF,1,2,SE2,2013,25
+23/09/2013,Ängelholms FF,Östersunds FK,0,0,SE2,2013,25
+23/09/2013,Landskrona BoIS,Assyriska FF,0,4,SE2,2013,25
+23/09/2013,Varbergs BoIS,Ljungskile SK,0,4,SE2,2013,25
+23/09/2013,Degerfors IF,Örgryte IS,2,1,SE2,2013,25
+23/09/2013,GIF Sundsvall,IFK Värnamo,2,2,SE2,2013,25
+24/09/2013,Örebro SK,IK Brage,1,1,SE2,2013,25
+25/09/2013,GAIS,Falkenbergs FF,3,1,SE2,2013,25
+27/09/2013,Örgryte IS,Ängelholms FF,1,1,SE2,2013,26
+29/09/2013,Falkenbergs FF,Jönköpings Södra IF,3,0,SE2,2013,26
+29/09/2013,IFK Värnamo,Varbergs BoIS,3,3,SE2,2013,26
+29/09/2013,Ljungskile SK,Degerfors IF,1,1,SE2,2013,26
+29/09/2013,Assyriska FF,GAIS,2,1,SE2,2013,26
+29/09/2013,Hammarby IF,GIF Sundsvall,1,1,SE2,2013,26
+30/09/2013,IK Brage,Landskrona BoIS,2,1,SE2,2013,26
+30/09/2013,Östersunds FK,Örebro SK,1,1,SE2,2013,26
+04/10/2013,Degerfors IF,IFK Värnamo,2,2,SE2,2013,27
+05/10/2013,Östersunds FK,Örgryte IS,2,1,SE2,2013,27
+05/10/2013,Ängelholms FF,Ljungskile SK,2,0,SE2,2013,27
+05/10/2013,Varbergs BoIS,Hammarby IF,0,1,SE2,2013,27
+06/10/2013,GAIS,IK Brage,0,0,SE2,2013,27
+07/10/2013,Örebro SK,Landskrona BoIS,3,0,SE2,2013,27
+07/10/2013,Jönköpings Södra IF,Assyriska FF,1,0,SE2,2013,27
+07/10/2013,GIF Sundsvall,Falkenbergs FF,1,0,SE2,2013,27
+19/10/2013,Falkenbergs FF,Varbergs BoIS,2,1,SE2,2013,28
+19/10/2013,Ljungskile SK,Östersunds FK,1,3,SE2,2013,28
+20/10/2013,IFK Värnamo,Ängelholms FF,2,5,SE2,2013,28
+20/10/2013,Assyriska FF,GIF Sundsvall,1,1,SE2,2013,28
+20/10/2013,Hammarby IF,Degerfors IF,0,1,SE2,2013,28
+21/10/2013,IK Brage,Jönköpings Södra IF,1,2,SE2,2013,28
+21/10/2013,Landskrona BoIS,GAIS,2,3,SE2,2013,28
+21/10/2013,Örgryte IS,Örebro SK,1,1,SE2,2013,28
+26/10/2013,Östersunds FK,IFK Värnamo,1,2,SE2,2013,29
+26/10/2013,Degerfors IF,Falkenbergs FF,2,2,SE2,2013,29
+26/10/2013,Ängelholms FF,Hammarby IF,3,2,SE2,2013,29
+26/10/2013,Varbergs BoIS,Assyriska FF,4,1,SE2,2013,29
+27/10/2013,GIF Sundsvall,IK Brage,4,0,SE2,2013,29
+27/10/2013,Örebro SK,GAIS,6,1,SE2,2013,29
+28/10/2013,Jönköpings Södra IF,Landskrona BoIS,3,1,SE2,2013,29
+29/10/2013,Örgryte IS,Ljungskile SK,1,0,SE2,2013,29
+02/11/2013,Landskrona BoIS,GIF Sundsvall,0,0,SE2,2013,30
+02/11/2013,IK Brage,Varbergs BoIS,2,4,SE2,2013,30
+02/11/2013,GAIS,Jönköpings Södra IF,0,1,SE2,2013,30
+02/11/2013,Ljungskile SK,Örebro SK,0,1,SE2,2013,30
+02/11/2013,Assyriska FF,Degerfors IF,1,1,SE2,2013,30
+02/11/2013,Falkenbergs FF,Ängelholms FF,4,2,SE2,2013,30
+02/11/2013,IFK Värnamo,Örgryte IS,0,0,SE2,2013,30
+02/11/2013,Hammarby IF,Östersunds FK,2,1,SE2,2013,30
+05/04/2014,Degerfors IF,Varbergs BoIS,0,0,SE2,2014,1
+05/04/2014,Husqvarna FF,Landskrona BoIS,3,1,SE2,2014,1
+05/04/2014,GIF Sundsvall,Jönköpings Södra IF,1,0,SE2,2014,1
+06/04/2014,IFK Värnamo,GAIS,1,1,SE2,2014,1
+06/04/2014,Syrianska FC,IK Sirius,1,5,SE2,2014,1
+06/04/2014,Ljungskile SK,Östersunds FK,1,0,SE2,2014,1
+06/04/2014,Ängelholms FF,Östers IF,1,4,SE2,2014,1
+07/04/2014,Assyriska FF,Hammarby IF,0,1,SE2,2014,1
+11/04/2014,Östers IF,Assyriska FF,1,2,SE2,2014,2
+12/04/2014,Östersunds FK,IFK Värnamo,1,3,SE2,2014,2
+12/04/2014,Varbergs BoIS,Syrianska FC,2,1,SE2,2014,2
+13/04/2014,GAIS,GIF Sundsvall,1,0,SE2,2014,2
+14/04/2014,Jönköpings Södra IF,Ängelholms FF,2,3,SE2,2014,2
+14/04/2014,Landskrona BoIS,Ljungskile SK,0,0,SE2,2014,2
+14/04/2014,Hammarby IF,Degerfors IF,5,0,SE2,2014,2
+15/04/2014,IK Sirius,Husqvarna FF,1,2,SE2,2014,2
+17/04/2014,Landskrona BoIS,Syrianska FC,2,3,SE2,2014,3
+19/04/2014,Östersunds FK,Husqvarna FF,1,1,SE2,2014,3
+20/04/2014,GAIS,Ljungskile SK,2,2,SE2,2014,3
+20/04/2014,Assyriska FF,Degerfors IF,2,2,SE2,2014,3
+20/04/2014,Östers IF,GIF Sundsvall,0,2,SE2,2014,3
+21/04/2014,IK Sirius,Varbergs BoIS,2,3,SE2,2014,3
+21/04/2014,Hammarby IF,Ängelholms FF,1,2,SE2,2014,3
+22/04/2014,Jönköpings Södra IF,IFK Värnamo,0,0,SE2,2014,3
+25/04/2014,Syrianska FC,Östersunds FK,3,0,SE2,2014,4
+26/04/2014,Husqvarna FF,GAIS,2,0,SE2,2014,4
+26/04/2014,Varbergs BoIS,Landskrona BoIS,1,1,SE2,2014,4
+27/04/2014,Ljungskile SK,Jönköpings Södra IF,3,2,SE2,2014,4
+27/04/2014,IFK Värnamo,Östers IF,3,2,SE2,2014,4
+28/04/2014,Degerfors IF,IK Sirius,1,3,SE2,2014,4
+29/04/2014,Ängelholms FF,Assyriska FF,1,1,SE2,2014,4
+30/04/2014,GIF Sundsvall,Hammarby IF,3,1,SE2,2014,4
+02/05/2014,GAIS,Syrianska FC,0,1,SE2,2014,5
+03/05/2014,Östersunds FK,Varbergs BoIS,3,0,SE2,2014,5
+03/05/2014,Jönköpings Södra IF,Husqvarna FF,1,0,SE2,2014,5
+03/05/2014,Ängelholms FF,Degerfors IF,1,4,SE2,2014,5
+04/05/2014,Assyriska FF,GIF Sundsvall,1,3,SE2,2014,5
+04/05/2014,Hammarby IF,IFK Värnamo,2,2,SE2,2014,5
+05/05/2014,Östers IF,Ljungskile SK,2,0,SE2,2014,5
+28/05/2014,Landskrona BoIS,IK Sirius,1,2,SE2,2014,5
+07/05/2014,Syrianska FC,Jönköpings Södra IF,0,2,SE2,2014,6
+07/05/2014,Varbergs BoIS,GAIS,1,0,SE2,2014,6
+07/05/2014,IK Sirius,Östersunds FK,1,1,SE2,2014,6
+07/05/2014,Degerfors IF,Landskrona BoIS,0,1,SE2,2014,6
+08/05/2014,Ljungskile SK,Hammarby IF,0,1,SE2,2014,6
+08/05/2014,IFK Värnamo,Assyriska FF,1,0,SE2,2014,6
+08/05/2014,GIF Sundsvall,Ängelholms FF,4,3,SE2,2014,6
+09/05/2014,Husqvarna FF,Östers IF,1,1,SE2,2014,6
+10/05/2014,Östersunds FK,Landskrona BoIS,3,2,SE2,2014,7
+11/05/2014,GIF Sundsvall,Degerfors IF,4,1,SE2,2014,7
+11/05/2014,Assyriska FF,Ljungskile SK,0,4,SE2,2014,7
+12/05/2014,Jönköpings Södra IF,Varbergs BoIS,1,2,SE2,2014,7
+12/05/2014,Ängelholms FF,IFK Värnamo,2,2,SE2,2014,7
+12/05/2014,GAIS,IK Sirius,1,0,SE2,2014,7
+12/05/2014,Östers IF,Syrianska FC,1,0,SE2,2014,7
+12/05/2014,Hammarby IF,Husqvarna FF,3,1,SE2,2014,7
+16/05/2014,Landskrona BoIS,GAIS,2,1,SE2,2014,8
+17/05/2014,IK Sirius,Jönköpings Södra IF,0,1,SE2,2014,8
+17/05/2014,Husqvarna FF,Assyriska FF,0,0,SE2,2014,8
+17/05/2014,IFK Värnamo,GIF Sundsvall,1,0,SE2,2014,8
+17/05/2014,Degerfors IF,Östersunds FK,2,2,SE2,2014,8
+18/05/2014,Syrianska FC,Hammarby IF,2,4,SE2,2014,8
+19/05/2014,Ljungskile SK,Ängelholms FF,5,0,SE2,2014,8
+19/05/2014,Varbergs BoIS,Östers IF,2,2,SE2,2014,8
+23/05/2014,Östers IF,IK Sirius,2,2,SE2,2014,9
+24/05/2014,Hammarby IF,Varbergs BoIS,2,0,SE2,2014,9
+24/05/2014,GIF Sundsvall,Ljungskile SK,0,0,SE2,2014,9
+24/05/2014,Jönköpings Södra IF,Landskrona BoIS,6,2,SE2,2014,9
+25/05/2014,Assyriska FF,Syrianska FC,0,2,SE2,2014,9
+26/05/2014,IFK Värnamo,Degerfors IF,3,1,SE2,2014,9
+26/05/2014,Ängelholms FF,Husqvarna FF,2,0,SE2,2014,9
+26/05/2014,GAIS,Östersunds FK,1,3,SE2,2014,9
+30/05/2014,Ljungskile SK,IFK Värnamo,3,2,SE2,2014,10
+30/05/2014,Östersunds FK,Jönköpings Södra IF,1,0,SE2,2014,10
+31/05/2014,Syrianska FC,Ängelholms FF,0,0,SE2,2014,10
+31/05/2014,Degerfors IF,GAIS,2,1,SE2,2014,10
+31/05/2014,Varbergs BoIS,Assyriska FF,1,1,SE2,2014,10
+31/05/2014,Landskrona BoIS,Östers IF,2,2,SE2,2014,10
+01/06/2014,Husqvarna FF,GIF Sundsvall,1,3,SE2,2014,10
+02/06/2014,IK Sirius,Hammarby IF,2,1,SE2,2014,10
+07/06/2014,Ängelholms FF,Varbergs BoIS,1,2,SE2,2014,11
+07/06/2014,Ljungskile SK,Degerfors IF,2,2,SE2,2014,11
+07/06/2014,Assyriska FF,IK Sirius,1,1,SE2,2014,11
+07/06/2014,GIF Sundsvall,Syrianska FC,3,1,SE2,2014,11
+08/06/2014,Hammarby IF,Landskrona BoIS,4,0,SE2,2014,11
+09/06/2014,Östers IF,Östersunds FK,0,1,SE2,2014,11
+09/06/2014,IFK Värnamo,Husqvarna FF,1,0,SE2,2014,11
+11/06/2014,Jönköpings Södra IF,GAIS,3,1,SE2,2014,11
+14/06/2014,GAIS,Östers IF,0,0,SE2,2014,12
+14/06/2014,Husqvarna FF,Ljungskile SK,0,3,SE2,2014,12
+14/06/2014,Degerfors IF,Jönköpings Södra IF,3,0,SE2,2014,12
+15/06/2014,IK Sirius,Ängelholms FF,0,0,SE2,2014,12
+15/06/2014,Syrianska FC,IFK Värnamo,2,1,SE2,2014,12
+15/06/2014,Östersunds FK,Hammarby IF,1,1,SE2,2014,12
+16/06/2014,Landskrona BoIS,Assyriska FF,1,2,SE2,2014,12
+16/06/2014,Varbergs BoIS,GIF Sundsvall,1,0,SE2,2014,12
+18/06/2014,Husqvarna FF,Degerfors IF,0,3,SE2,2014,13
+18/06/2014,Hammarby IF,GAIS,1,3,SE2,2014,13
+22/06/2014,Ljungskile SK,Syrianska FC,5,1,SE2,2014,13
+22/06/2014,GIF Sundsvall,IK Sirius,1,2,SE2,2014,13
+22/06/2014,Assyriska FF,Östersunds FK,0,1,SE2,2014,13
+22/06/2014,Ängelholms FF,Landskrona BoIS,1,2,SE2,2014,13
+23/06/2014,IFK Värnamo,Varbergs BoIS,1,1,SE2,2014,13
+23/06/2014,Östers IF,Jönköpings Södra IF,2,3,SE2,2014,13
+25/06/2014,Östersunds FK,Ängelholms FF,1,2,SE2,2014,14
+25/06/2014,Landskrona BoIS,GIF Sundsvall,1,2,SE2,2014,14
+25/06/2014,Syrianska FC,Husqvarna FF,3,2,SE2,2014,14
+25/06/2014,GAIS,Assyriska FF,1,2,SE2,2014,14
+26/06/2014,Varbergs BoIS,Ljungskile SK,1,3,SE2,2014,14
+26/06/2014,Jönköpings Södra IF,Hammarby IF,0,4,SE2,2014,14
+26/06/2014,Degerfors IF,Östers IF,0,2,SE2,2014,14
+26/06/2014,IK Sirius,IFK Värnamo,3,1,SE2,2014,14
+28/06/2014,GIF Sundsvall,Östersunds FK,2,0,SE2,2014,15
+28/06/2014,Ängelholms FF,GAIS,1,0,SE2,2014,15
+29/06/2014,Östers IF,Hammarby IF,0,2,SE2,2014,15
+29/06/2014,IFK Värnamo,Landskrona BoIS,0,3,SE2,2014,15
+29/06/2014,Ljungskile SK,IK Sirius,1,0,SE2,2014,15
+29/06/2014,Syrianska FC,Degerfors IF,3,1,SE2,2014,15
+29/06/2014,Husqvarna FF,Varbergs BoIS,2,1,SE2,2014,15
+30/06/2014,Assyriska FF,Jönköpings Södra IF,1,3,SE2,2014,15
+18/07/2014,Östersunds FK,GIF Sundsvall,3,1,SE2,2014,16
+19/07/2014,Jönköpings Södra IF,Assyriska FF,4,0,SE2,2014,16
+19/07/2014,Landskrona BoIS,IFK Värnamo,3,1,SE2,2014,16
+19/07/2014,IK Sirius,Ljungskile SK,2,2,SE2,2014,16
+19/07/2014,Degerfors IF,Syrianska FC,2,0,SE2,2014,16
+19/07/2014,Varbergs BoIS,Husqvarna FF,3,1,SE2,2014,16
+20/07/2014,Hammarby IF,Östers IF,3,0,SE2,2014,16
+21/07/2014,GAIS,Ängelholms FF,1,0,SE2,2014,16
+25/07/2014,Östers IF,Ängelholms FF,2,0,SE2,2014,17
+26/07/2014,Östersunds FK,Ljungskile SK,1,1,SE2,2014,17
+26/07/2014,Varbergs BoIS,Degerfors IF,0,0,SE2,2014,17
+26/07/2014,GAIS,IFK Värnamo,2,2,SE2,2014,17
+26/07/2014,Landskrona BoIS,Husqvarna FF,0,1,SE2,2014,17
+26/07/2014,IK Sirius,Syrianska FC,2,2,SE2,2014,17
+27/07/2014,Jönköpings Södra IF,GIF Sundsvall,4,1,SE2,2014,17
+28/07/2014,Hammarby IF,Assyriska FF,1,1,SE2,2014,17
+01/08/2014,Assyriska FF,Östers IF,1,1,SE2,2014,18
+02/08/2014,Degerfors IF,Hammarby IF,1,2,SE2,2014,18
+02/08/2014,Ängelholms FF,Jönköpings Södra IF,1,0,SE2,2014,18
+02/08/2014,IFK Värnamo,Östersunds FK,1,2,SE2,2014,18
+02/08/2014,Syrianska FC,Varbergs BoIS,2,0,SE2,2014,18
+02/08/2014,Ljungskile SK,Landskrona BoIS,3,2,SE2,2014,18
+02/08/2014,Husqvarna FF,IK Sirius,1,2,SE2,2014,18
+03/08/2014,GIF Sundsvall,GAIS,4,0,SE2,2014,18
+08/08/2014,IK Sirius,Degerfors IF,1,1,SE2,2014,19
+09/08/2014,Landskrona BoIS,Varbergs BoIS,1,5,SE2,2014,19
+09/08/2014,Assyriska FF,Ängelholms FF,1,1,SE2,2014,19
+09/08/2014,Östersunds FK,Syrianska FC,2,1,SE2,2014,19
+09/08/2014,Jönköpings Södra IF,Ljungskile SK,1,1,SE2,2014,19
+09/08/2014,GAIS,Husqvarna FF,2,1,SE2,2014,19
+10/08/2014,Hammarby IF,GIF Sundsvall,2,2,SE2,2014,19
+11/08/2014,Östers IF,IFK Värnamo,2,2,SE2,2014,19
+15/08/2014,Varbergs BoIS,IK Sirius,0,2,SE2,2014,20
+16/08/2014,Husqvarna FF,Östersunds FK,1,4,SE2,2014,20
+17/08/2014,Ljungskile SK,GAIS,0,0,SE2,2014,20
+17/08/2014,GIF Sundsvall,Östers IF,5,1,SE2,2014,20
+18/08/2014,Syrianska FC,Landskrona BoIS,1,0,SE2,2014,20
+18/08/2014,Degerfors IF,Assyriska FF,3,2,SE2,2014,20
+18/08/2014,Ängelholms FF,Hammarby IF,1,0,SE2,2014,20
+19/08/2014,IFK Värnamo,Jönköpings Södra IF,2,0,SE2,2014,20
+23/08/2014,GAIS,Varbergs BoIS,2,0,SE2,2014,21
+24/08/2014,Assyriska FF,IFK Värnamo,1,2,SE2,2014,21
+24/08/2014,Hammarby IF,Ljungskile SK,0,0,SE2,2014,21
+25/08/2014,Landskrona BoIS,Degerfors IF,2,0,SE2,2014,21
+25/08/2014,Jönköpings Södra IF,Syrianska FC,4,0,SE2,2014,21
+25/08/2014,Ängelholms FF,GIF Sundsvall,1,2,SE2,2014,21
+25/08/2014,Östers IF,Husqvarna FF,2,1,SE2,2014,21
+26/08/2014,Östersunds FK,IK Sirius,1,1,SE2,2014,21
+29/08/2014,Husqvarna FF,Jönköpings Södra IF,0,2,SE2,2014,22
+30/08/2014,Varbergs BoIS,Östersunds FK,2,0,SE2,2014,22
+30/08/2014,Degerfors IF,Ängelholms FF,4,0,SE2,2014,22
+30/08/2014,IK Sirius,Landskrona BoIS,1,1,SE2,2014,22
+31/08/2014,Ljungskile SK,Östers IF,4,0,SE2,2014,22
+31/08/2014,IFK Värnamo,Hammarby IF,0,2,SE2,2014,22
+01/09/2014,GIF Sundsvall,Assyriska FF,2,1,SE2,2014,22
+02/09/2014,Syrianska FC,GAIS,2,2,SE2,2014,22
+12/09/2014,Husqvarna FF,Hammarby IF,1,2,SE2,2014,23
+13/09/2014,Degerfors IF,GIF Sundsvall,4,1,SE2,2014,23
+13/09/2014,Varbergs BoIS,Jönköpings Södra IF,1,1,SE2,2014,23
+14/09/2014,Ljungskile SK,Assyriska FF,1,0,SE2,2014,23
+14/09/2014,Syrianska FC,Östers IF,3,1,SE2,2014,23
+15/09/2014,Landskrona BoIS,Östersunds FK,0,1,SE2,2014,23
+15/09/2014,IFK Värnamo,Ängelholms FF,4,0,SE2,2014,23
+15/09/2014,IK Sirius,GAIS,0,1,SE2,2014,23
+18/09/2014,Jönköpings Södra IF,IK Sirius,3,1,SE2,2014,24
+19/09/2014,Östers IF,Varbergs BoIS,5,1,SE2,2014,24
+20/09/2014,Östersunds FK,Degerfors IF,0,0,SE2,2014,24
+20/09/2014,GAIS,Landskrona BoIS,3,1,SE2,2014,24
+21/09/2014,GIF Sundsvall,IFK Värnamo,2,1,SE2,2014,24
+21/09/2014,Assyriska FF,Husqvarna FF,1,1,SE2,2014,24
+21/09/2014,Hammarby IF,Syrianska FC,6,0,SE2,2014,24
+22/09/2014,Ängelholms FF,Ljungskile SK,0,3,SE2,2014,24
+23/09/2014,Landskrona BoIS,Jönköpings Södra IF,0,3,SE2,2014,25
+23/09/2014,IK Sirius,Östers IF,0,0,SE2,2014,25
+24/09/2014,Varbergs BoIS,Hammarby IF,1,1,SE2,2014,25
+24/09/2014,Östersunds FK,GAIS,2,1,SE2,2014,25
+24/09/2014,Syrianska FC,Assyriska FF,0,2,SE2,2014,25
+25/09/2014,Degerfors IF,IFK Värnamo,1,1,SE2,2014,25
+25/09/2014,Husqvarna FF,Ängelholms FF,1,1,SE2,2014,25
+25/09/2014,Ljungskile SK,GIF Sundsvall,0,0,SE2,2014,25
+26/09/2014,Östers IF,Landskrona BoIS,1,1,SE2,2014,26
+28/09/2014,Assyriska FF,Varbergs BoIS,0,0,SE2,2014,26
+28/09/2014,Hammarby IF,IK Sirius,4,1,SE2,2014,26
+29/09/2014,Ängelholms FF,Syrianska FC,1,0,SE2,2014,26
+29/09/2014,IFK Värnamo,Ljungskile SK,1,4,SE2,2014,26
+29/09/2014,Jönköpings Södra IF,Östersunds FK,4,0,SE2,2014,26
+29/09/2014,GIF Sundsvall,Husqvarna FF,2,1,SE2,2014,26
+30/09/2014,GAIS,Degerfors IF,0,1,SE2,2014,26
+03/10/2014,IK Sirius,Assyriska FF,2,1,SE2,2014,27
+04/10/2014,Degerfors IF,Ljungskile SK,3,3,SE2,2014,27
+04/10/2014,GAIS,Jönköpings Södra IF,2,3,SE2,2014,27
+04/10/2014,Östersunds FK,Östers IF,0,0,SE2,2014,27
+05/10/2014,Varbergs BoIS,Ängelholms FF,0,1,SE2,2014,27
+05/10/2014,Landskrona BoIS,Hammarby IF,1,3,SE2,2014,27
+06/10/2014,Syrianska FC,GIF Sundsvall,1,2,SE2,2014,27
+07/10/2014,Husqvarna FF,IFK Värnamo,0,0,SE2,2014,27
+17/10/2014,Ljungskile SK,Husqvarna FF,2,1,SE2,2014,28
+19/10/2014,Assyriska FF,Landskrona BoIS,1,1,SE2,2014,28
+19/10/2014,Ängelholms FF,IK Sirius,0,2,SE2,2014,28
+19/10/2014,Östers IF,GAIS,0,1,SE2,2014,28
+20/10/2014,IFK Värnamo,Syrianska FC,2,0,SE2,2014,28
+20/10/2014,Jönköpings Södra IF,Degerfors IF,4,2,SE2,2014,28
+20/10/2014,GIF Sundsvall,Varbergs BoIS,2,1,SE2,2014,28
+21/10/2014,Hammarby IF,Östersunds FK,4,2,SE2,2014,28
+24/10/2014,Syrianska FC,Ljungskile SK,1,1,SE2,2014,29
+25/10/2014,Degerfors IF,Husqvarna FF,1,1,SE2,2014,29
+25/10/2014,Östersunds FK,Assyriska FF,1,2,SE2,2014,29
+26/10/2014,GAIS,Hammarby IF,0,0,SE2,2014,29
+26/10/2014,Varbergs BoIS,IFK Värnamo,6,2,SE2,2014,29
+27/10/2014,Landskrona BoIS,Ängelholms FF,1,1,SE2,2014,29
+27/10/2014,Jönköpings Södra IF,Östers IF,3,3,SE2,2014,29
+27/10/2014,IK Sirius,GIF Sundsvall,0,1,SE2,2014,29
+02/11/2014,Assyriska FF,GAIS,1,1,SE2,2014,30
+02/11/2014,Husqvarna FF,Syrianska FC,0,1,SE2,2014,30
+02/11/2014,Hammarby IF,Jönköpings Södra IF,5,0,SE2,2014,30
+02/11/2014,Östers IF,Degerfors IF,0,2,SE2,2014,30
+02/11/2014,Ängelholms FF,Östersunds FK,2,2,SE2,2014,30
+02/11/2014,GIF Sundsvall,Landskrona BoIS,0,0,SE2,2014,30
+02/11/2014,Ljungskile SK,Varbergs BoIS,3,0,SE2,2014,30
+02/11/2014,IFK Värnamo,IK Sirius,0,6,SE2,2014,30
+03/04/2015,IF Brommapojkarna,Östersunds FK,0,1,SE2,2015,1
+03/04/2015,Utsiktens BK,Degerfors IF,4,1,SE2,2015,1
+05/04/2015,Ängelholms FF,Assyriska FF,0,2,SE2,2015,1
+06/04/2015,IK Frej Täby,Jönköpings Södra IF,0,1,SE2,2015,1
+06/04/2015,GAIS,Varbergs BoIS,0,1,SE2,2015,1
+06/04/2015,Syrianska FC,IK Sirius,0,0,SE2,2015,1
+07/04/2015,IFK Värnamo,Ljungskile SK,2,1,SE2,2015,1
+08/04/2015,Mjällby AIF,Athletic FC United,1,1,SE2,2015,1
+11/04/2015,Varbergs BoIS,Mjällby AIF,1,2,SE2,2015,2
+11/04/2015,Degerfors IF,GAIS,0,1,SE2,2015,2
+12/04/2015,Assyriska FF,IFK Värnamo,0,0,SE2,2015,2
+13/04/2015,Athletic FC United,IK Frej Täby,0,0,SE2,2015,2
+13/04/2015,IK Sirius,Utsiktens BK,3,0,SE2,2015,2
+13/04/2015,Jönköpings Södra IF,Syrianska FC,1,0,SE2,2015,2
+14/04/2015,Östersunds FK,Ängelholms FF,3,0,SE2,2015,2
+15/04/2015,Ljungskile SK,IF Brommapojkarna,1,0,SE2,2015,2
+18/04/2015,Utsiktens BK,Assyriska FF,0,1,SE2,2015,3
+18/04/2015,IK Frej Täby,IK Sirius,0,0,SE2,2015,3
+19/04/2015,Ängelholms FF,Varbergs BoIS,0,1,SE2,2015,3
+19/04/2015,IF Brommapojkarna,Athletic FC United,1,1,SE2,2015,3
+19/04/2015,Syrianska FC,Ljungskile SK,2,0,SE2,2015,3
+20/04/2015,GAIS,Östersunds FK,1,1,SE2,2015,3
+20/04/2015,Jönköpings Södra IF,IFK Värnamo,2,1,SE2,2015,3
+21/04/2015,Mjällby AIF,Degerfors IF,1,2,SE2,2015,3
+25/04/2015,Östersunds FK,IFK Värnamo,1,1,SE2,2015,4
+25/04/2015,Degerfors IF,Ängelholms FF,1,1,SE2,2015,4
+25/04/2015,IK Sirius,IF Brommapojkarna,3,1,SE2,2015,4
+25/04/2015,Varbergs BoIS,Syrianska FC,1,0,SE2,2015,4
+25/04/2015,Athletic FC United,Utsiktens BK,2,0,SE2,2015,4
+26/04/2015,Assyriska FF,IK Frej Täby,3,1,SE2,2015,4
+27/04/2015,Jönköpings Södra IF,GAIS,1,0,SE2,2015,4
+28/04/2015,Ljungskile SK,Mjällby AIF,2,0,SE2,2015,4
+29/04/2015,IFK Värnamo,Degerfors IF,1,3,SE2,2015,5
+29/04/2015,IK Sirius,Östersunds FK,2,2,SE2,2015,5
+01/05/2015,Mjällby AIF,Jönköpings Södra IF,0,1,SE2,2015,5
+01/05/2015,GAIS,IF Brommapojkarna,2,1,SE2,2015,5
+01/05/2015,Syrianska FC,Assyriska FF,0,0,SE2,2015,5
+02/05/2015,Utsiktens BK,Varbergs BoIS,1,1,SE2,2015,5
+02/05/2015,Ängelholms FF,IK Frej Täby,0,4,SE2,2015,5
+15/06/2015,Athletic FC United,Ljungskile SK,0,4,SE2,2015,5
+04/05/2015,IFK Värnamo,GAIS,1,0,SE2,2015,6
+05/05/2015,Assyriska FF,Athletic FC United,1,3,SE2,2015,6
+05/05/2015,Varbergs BoIS,Jönköpings Södra IF,2,0,SE2,2015,6
+05/05/2015,IK Frej Täby,Utsiktens BK,1,0,SE2,2015,6
+05/05/2015,Östersunds FK,Syrianska FC,4,1,SE2,2015,6
+05/05/2015,IF Brommapojkarna,Degerfors IF,0,2,SE2,2015,6
+06/05/2015,Mjällby AIF,Ängelholms FF,1,2,SE2,2015,6
+06/05/2015,Ljungskile SK,IK Sirius,4,3,SE2,2015,6
+09/05/2015,Utsiktens BK,IF Brommapojkarna,1,0,SE2,2015,7
+09/05/2015,Varbergs BoIS,Assyriska FF,2,0,SE2,2015,7
+09/05/2015,Degerfors IF,IK Frej Täby,4,0,SE2,2015,7
+10/05/2015,Ängelholms FF,IFK Värnamo,2,2,SE2,2015,7
+10/05/2015,Athletic FC United,Östersunds FK,1,2,SE2,2015,7
+11/05/2015,IK Sirius,GAIS,5,0,SE2,2015,7
+12/05/2015,Jönköpings Södra IF,Ljungskile SK,3,2,SE2,2015,7
+13/05/2015,Syrianska FC,Mjällby AIF,4,0,SE2,2015,7
+15/05/2015,GAIS,Athletic FC United,1,1,SE2,2015,8
+16/05/2015,Östersunds FK,Jönköpings Södra IF,1,1,SE2,2015,8
+16/05/2015,IFK Värnamo,Syrianska FC,0,0,SE2,2015,8
+16/05/2015,IF Brommapojkarna,Ängelholms FF,1,1,SE2,2015,8
+16/05/2015,Ljungskile SK,Degerfors IF,3,0,SE2,2015,8
+16/05/2015,IK Frej Täby,Varbergs BoIS,0,0,SE2,2015,8
+17/05/2015,Mjällby AIF,Utsiktens BK,1,2,SE2,2015,8
+17/05/2015,Assyriska FF,IK Sirius,0,0,SE2,2015,8
+19/05/2015,Ängelholms FF,GAIS,1,3,SE2,2015,9
+20/05/2015,Athletic FC United,IFK Värnamo,1,1,SE2,2015,9
+20/05/2015,Utsiktens BK,Östersunds FK,0,2,SE2,2015,9
+20/05/2015,Varbergs BoIS,Ljungskile SK,1,1,SE2,2015,9
+20/05/2015,Syrianska FC,IK Frej Täby,3,1,SE2,2015,9
+20/05/2015,Jönköpings Södra IF,IF Brommapojkarna,5,2,SE2,2015,9
+21/05/2015,IK Sirius,Mjällby AIF,1,0,SE2,2015,9
+21/05/2015,Degerfors IF,Assyriska FF,2,0,SE2,2015,9
+23/05/2015,IK Frej Täby,GAIS,1,0,SE2,2015,10
+23/05/2015,Jönköpings Södra IF,Athletic FC United,2,1,SE2,2015,10
+23/05/2015,Syrianska FC,Utsiktens BK,1,1,SE2,2015,10
+24/05/2015,Östersunds FK,Assyriska FF,3,2,SE2,2015,10
+24/05/2015,Ljungskile SK,Ängelholms FF,0,0,SE2,2015,10
+24/05/2015,IF Brommapojkarna,Varbergs BoIS,0,0,SE2,2015,10
+25/05/2015,Mjällby AIF,IFK Värnamo,1,0,SE2,2015,10
+26/05/2015,Degerfors IF,IK Sirius,1,1,SE2,2015,10
+30/05/2015,Utsiktens BK,Jönköpings Södra IF,1,2,SE2,2015,11
+30/05/2015,IK Sirius,Athletic FC United,1,1,SE2,2015,11
+30/05/2015,Ljungskile SK,Östersunds FK,0,2,SE2,2015,11
+30/05/2015,Varbergs BoIS,Degerfors IF,0,0,SE2,2015,11
+30/05/2015,Assyriska FF,IF Brommapojkarna,2,1,SE2,2015,11
+30/05/2015,IFK Värnamo,IK Frej Täby,2,1,SE2,2015,11
+31/05/2015,Ängelholms FF,Syrianska FC,1,2,SE2,2015,11
+31/05/2015,GAIS,Mjällby AIF,4,1,SE2,2015,11
+02/06/2015,IF Brommapojkarna,IFK Värnamo,2,1,SE2,2015,12
+02/06/2015,Jönköpings Södra IF,IK Sirius,1,1,SE2,2015,12
+03/06/2015,Mjällby AIF,Assyriska FF,0,1,SE2,2015,12
+03/06/2015,Ängelholms FF,Utsiktens BK,1,0,SE2,2015,12
+03/06/2015,IK Frej Täby,Ljungskile SK,1,0,SE2,2015,12
+03/06/2015,Athletic FC United,Varbergs BoIS,3,2,SE2,2015,12
+03/06/2015,Östersunds FK,Degerfors IF,3,2,SE2,2015,12
+03/06/2015,Syrianska FC,GAIS,3,0,SE2,2015,12
+06/06/2015,Varbergs BoIS,Östersunds FK,1,0,SE2,2015,13
+06/06/2015,IF Brommapojkarna,Syrianska FC,0,1,SE2,2015,13
+06/06/2015,IFK Värnamo,IK Sirius,1,5,SE2,2015,13
+07/06/2015,Mjällby AIF,IK Frej Täby,1,3,SE2,2015,13
+07/06/2015,Assyriska FF,Ljungskile SK,0,0,SE2,2015,13
+09/06/2015,Jönköpings Södra IF,Ängelholms FF,4,0,SE2,2015,13
+10/06/2015,Degerfors IF,Athletic FC United,3,1,SE2,2015,13
+10/06/2015,GAIS,Utsiktens BK,5,2,SE2,2015,13
+17/06/2015,Östersunds FK,Mjällby AIF,1,0,SE2,2015,14
+18/06/2015,Degerfors IF,Syrianska FC,1,0,SE2,2015,14
+21/06/2015,IK Sirius,Varbergs BoIS,2,2,SE2,2015,14
+21/06/2015,Assyriska FF,Jönköpings Södra IF,2,3,SE2,2015,14
+21/06/2015,Athletic FC United,Ängelholms FF,3,0,SE2,2015,14
+21/06/2015,Utsiktens BK,IFK Värnamo,3,0,SE2,2015,14
+22/06/2015,Ljungskile SK,GAIS,3,2,SE2,2015,14
+23/06/2015,IK Frej Täby,IF Brommapojkarna,0,4,SE2,2015,14
+25/06/2015,IFK Värnamo,Varbergs BoIS,0,1,SE2,2015,15
+27/06/2015,IK Frej Täby,Östersunds FK,1,1,SE2,2015,15
+27/06/2015,GAIS,Assyriska FF,0,2,SE2,2015,15
+27/06/2015,Utsiktens BK,Ljungskile SK,0,4,SE2,2015,15
+27/06/2015,Ängelholms FF,IK Sirius,0,2,SE2,2015,15
+27/06/2015,Syrianska FC,Athletic FC United,3,3,SE2,2015,15
+29/06/2015,Jönköpings Södra IF,Degerfors IF,0,1,SE2,2015,15
+30/06/2015,IF Brommapojkarna,Mjällby AIF,2,2,SE2,2015,15
+18/07/2015,Östersunds FK,IK Frej Täby,3,0,SE2,2015,16
+18/07/2015,IK Sirius,Ängelholms FF,1,0,SE2,2015,16
+18/07/2015,Athletic FC United,GAIS,0,2,SE2,2015,16
+18/07/2015,Degerfors IF,IFK Värnamo,1,1,SE2,2015,16
+18/07/2015,Mjällby AIF,Syrianska FC,1,2,SE2,2015,16
+19/07/2015,Assyriska FF,Utsiktens BK,7,1,SE2,2015,16
+20/07/2015,Varbergs BoIS,IF Brommapojkarna,1,1,SE2,2015,16
+21/07/2015,Ljungskile SK,Jönköpings Södra IF,1,2,SE2,2015,16
+25/07/2015,Utsiktens BK,Mjällby AIF,0,0,SE2,2015,17
+25/07/2015,Syrianska FC,Ängelholms FF,1,3,SE2,2015,17
+25/07/2015,Östersunds FK,Varbergs BoIS,4,1,SE2,2015,17
+25/07/2015,Athletic FC United,Jönköpings Södra IF,1,5,SE2,2015,17
+25/07/2015,IK Frej Täby,Degerfors IF,2,2,SE2,2015,17
+26/07/2015,GAIS,Ljungskile SK,0,0,SE2,2015,17
+27/07/2015,IF Brommapojkarna,IK Sirius,1,0,SE2,2015,17
+28/07/2015,IFK Värnamo,Assyriska FF,3,1,SE2,2015,17
+01/08/2015,Ängelholms FF,IF Brommapojkarna,3,1,SE2,2015,18
+01/08/2015,Ljungskile SK,Athletic FC United,0,3,SE2,2015,18
+01/08/2015,Degerfors IF,Utsiktens BK,1,2,SE2,2015,18
+01/08/2015,Assyriska FF,Östersunds FK,4,2,SE2,2015,18
+01/08/2015,Varbergs BoIS,IK Frej Täby,5,0,SE2,2015,18
+02/08/2015,IK Sirius,Syrianska FC,1,0,SE2,2015,18
+03/08/2015,Mjällby AIF,GAIS,1,0,SE2,2015,18
+04/08/2015,IFK Värnamo,Jönköpings Södra IF,1,1,SE2,2015,18
+08/08/2015,Utsiktens BK,Ängelholms FF,0,1,SE2,2015,19
+08/08/2015,IK Sirius,Ljungskile SK,3,3,SE2,2015,19
+08/08/2015,Athletic FC United,Degerfors IF,0,2,SE2,2015,19
+08/08/2015,Östersunds FK,IF Brommapojkarna,2,1,SE2,2015,19
+09/08/2015,IK Frej Täby,Mjällby AIF,0,2,SE2,2015,19
+09/08/2015,Syrianska FC,Varbergs BoIS,1,0,SE2,2015,19
+10/08/2015,Jönköpings Södra IF,Assyriska FF,2,0,SE2,2015,19
+11/08/2015,GAIS,IFK Värnamo,1,3,SE2,2015,19
+15/08/2015,Varbergs BoIS,GAIS,2,3,SE2,2015,20
+15/08/2015,Utsiktens BK,Syrianska FC,1,4,SE2,2015,20
+15/08/2015,IF Brommapojkarna,Jönköpings Södra IF,1,1,SE2,2015,20
+16/08/2015,Mjällby AIF,IK Sirius,1,2,SE2,2015,20
+16/08/2015,IFK Värnamo,Athletic FC United,2,3,SE2,2015,20
+16/08/2015,Assyriska FF,Ängelholms FF,3,3,SE2,2015,20
+16/08/2015,Ljungskile SK,IK Frej Täby,1,1,SE2,2015,20
+17/08/2015,Degerfors IF,Östersunds FK,0,0,SE2,2015,20
+22/08/2015,IK Frej Täby,Assyriska FF,0,2,SE2,2015,21
+23/08/2015,Ängelholms FF,Ljungskile SK,3,3,SE2,2015,21
+23/08/2015,Athletic FC United,Mjällby AIF,0,0,SE2,2015,21
+23/08/2015,Syrianska FC,IF Brommapojkarna,0,0,SE2,2015,21
+24/08/2015,Östersunds FK,Utsiktens BK,5,1,SE2,2015,21
+24/08/2015,IK Sirius,IFK Värnamo,2,0,SE2,2015,21
+24/08/2015,GAIS,Degerfors IF,2,1,SE2,2015,21
+25/08/2015,Jönköpings Södra IF,Varbergs BoIS,3,0,SE2,2015,21
+27/08/2015,IF Brommapojkarna,IK Frej Täby,2,1,SE2,2015,22
+29/08/2015,Varbergs BoIS,Athletic FC United,1,0,SE2,2015,22
+29/08/2015,Utsiktens BK,IK Sirius,1,1,SE2,2015,22
+30/08/2015,Mjällby AIF,Östersunds FK,1,0,SE2,2015,22
+30/08/2015,Ljungskile SK,Syrianska FC,0,0,SE2,2015,22
+30/08/2015,Assyriska FF,GAIS,1,0,SE2,2015,22
+31/08/2015,IFK Värnamo,Ängelholms FF,1,2,SE2,2015,22
+31/08/2015,Degerfors IF,Jönköpings Södra IF,2,0,SE2,2015,22
+12/09/2015,GAIS,IK Frej Täby,0,0,SE2,2015,23
+12/09/2015,Varbergs BoIS,Utsiktens BK,0,0,SE2,2015,23
+12/09/2015,IF Brommapojkarna,Ljungskile SK,1,2,SE2,2015,23
+13/09/2015,Ängelholms FF,Östersunds FK,0,1,SE2,2015,23
+13/09/2015,Syrianska FC,IFK Värnamo,0,0,SE2,2015,23
+13/09/2015,Athletic FC United,Assyriska FF,3,0,SE2,2015,23
+14/09/2015,Jönköpings Södra IF,Mjällby AIF,2,0,SE2,2015,23
+15/09/2015,IK Sirius,Degerfors IF,2,0,SE2,2015,23
+18/09/2015,Ängelholms FF,Jönköpings Södra IF,1,1,SE2,2015,24
+18/09/2015,IK Frej Täby,Athletic FC United,1,1,SE2,2015,24
+19/09/2015,Östersunds FK,IK Sirius,1,1,SE2,2015,24
+19/09/2015,Ljungskile SK,Varbergs BoIS,1,1,SE2,2015,24
+19/09/2015,Degerfors IF,Mjällby AIF,0,1,SE2,2015,24
+20/09/2015,Assyriska FF,Syrianska FC,2,0,SE2,2015,24
+21/09/2015,IFK Värnamo,IF Brommapojkarna,2,1,SE2,2015,24
+21/09/2015,Utsiktens BK,GAIS,1,0,SE2,2015,24
+22/09/2015,Jönköpings Södra IF,IK Frej Täby,2,0,SE2,2015,25
+23/09/2015,Syrianska FC,Degerfors IF,3,0,SE2,2015,25
+23/09/2015,Mjällby AIF,Ljungskile SK,0,0,SE2,2015,25
+23/09/2015,Östersunds FK,Athletic FC United,3,1,SE2,2015,25
+24/09/2015,GAIS,Ängelholms FF,2,2,SE2,2015,25
+24/09/2015,IK Sirius,Assyriska FF,1,0,SE2,2015,25
+24/09/2015,Varbergs BoIS,IFK Värnamo,2,1,SE2,2015,25
+24/09/2015,IF Brommapojkarna,Utsiktens BK,1,0,SE2,2015,25
+27/09/2015,Ljungskile SK,Utsiktens BK,2,1,SE2,2015,26
+27/09/2015,IK Frej Täby,Syrianska FC,2,1,SE2,2015,26
+27/09/2015,Degerfors IF,IF Brommapojkarna,1,1,SE2,2015,26
+27/09/2015,Ängelholms FF,Mjällby AIF,1,1,SE2,2015,26
+28/09/2015,Athletic FC United,IK Sirius,2,2,SE2,2015,26
+28/09/2015,Assyriska FF,Varbergs BoIS,0,1,SE2,2015,26
+29/09/2015,IFK Värnamo,Östersunds FK,1,0,SE2,2015,26
+30/09/2015,GAIS,Jönköpings Södra IF,1,2,SE2,2015,26
+03/10/2015,Utsiktens BK,Athletic FC United,0,1,SE2,2015,27
+03/10/2015,IF Brommapojkarna,Assyriska FF,2,3,SE2,2015,27
+04/10/2015,Ängelholms FF,Degerfors IF,2,1,SE2,2015,27
+04/10/2015,Östersunds FK,GAIS,4,0,SE2,2015,27
+04/10/2015,Ljungskile SK,IFK Värnamo,0,2,SE2,2015,27
+04/10/2015,Mjällby AIF,Varbergs BoIS,2,1,SE2,2015,27
+05/10/2015,IK Sirius,IK Frej Täby,2,0,SE2,2015,27
+05/10/2015,Syrianska FC,Jönköpings Södra IF,1,1,SE2,2015,27
+17/10/2015,Varbergs BoIS,IK Sirius,1,1,SE2,2015,28
+17/10/2015,IK Frej Täby,Ängelholms FF,0,1,SE2,2015,28
+17/10/2015,Athletic FC United,IF Brommapojkarna,3,1,SE2,2015,28
+17/10/2015,Jönköpings Södra IF,Östersunds FK,0,1,SE2,2015,28
+18/10/2015,GAIS,Syrianska FC,3,0,SE2,2015,28
+18/10/2015,IFK Värnamo,Utsiktens BK,3,2,SE2,2015,28
+18/10/2015,Assyriska FF,Mjällby AIF,3,0,SE2,2015,28
+18/10/2015,Degerfors IF,Ljungskile SK,0,3,SE2,2015,28
+24/10/2015,IF Brommapojkarna,GAIS,0,2,SE2,2015,29
+24/10/2015,Utsiktens BK,IK Frej Täby,1,0,SE2,2015,29
+25/10/2015,IFK Värnamo,Mjällby AIF,4,0,SE2,2015,29
+25/10/2015,Ängelholms FF,Athletic FC United,0,1,SE2,2015,29
+25/10/2015,Ljungskile SK,Assyriska FF,3,2,SE2,2015,29
+25/10/2015,IK Sirius,Jönköpings Södra IF,2,0,SE2,2015,29
+26/10/2015,Degerfors IF,Varbergs BoIS,1,1,SE2,2015,29
+27/10/2015,Syrianska FC,Östersunds FK,1,1,SE2,2015,29
+01/11/2015,Assyriska FF,Degerfors IF,2,1,SE2,2015,30
+01/11/2015,Östersunds FK,Ljungskile SK,2,0,SE2,2015,30
+01/11/2015,Varbergs BoIS,Ängelholms FF,1,0,SE2,2015,30
+01/11/2015,Mjällby AIF,IF Brommapojkarna,2,1,SE2,2015,30
+01/11/2015,Athletic FC United,Syrianska FC,2,3,SE2,2015,30
+01/11/2015,GAIS,IK Sirius,2,3,SE2,2015,30
+01/11/2015,Jönköpings Södra IF,Utsiktens BK,5,2,SE2,2015,30
+01/11/2015,IK Frej Täby,IFK Värnamo,1,0,SE2,2015,30
+02/04/2016,Varbergs BoIS,Åtvidabergs FF,2,1,SE2,2016,1
+02/04/2016,GAIS,IK Frej Täby,2,0,SE2,2016,1
+03/04/2016,Degerfors IF,Athletic FC United,0,2,SE2,2016,1
+03/04/2016,Ängelholms FF,Syrianska FC,1,0,SE2,2016,1
+03/04/2016,Ljungskile SK,Örgryte IS,1,1,SE2,2016,1
+03/04/2016,Assyriska FF,Dalkurd FF,2,1,SE2,2016,1
+04/04/2016,Trelleborgs FF,IFK Värnamo,0,0,SE2,2016,1
+04/04/2016,IK Sirius,Halmstads BK,2,1,SE2,2016,1
+09/04/2016,Dalkurd FF,Varbergs BoIS,1,1,SE2,2016,2
+09/04/2016,Halmstads BK,Trelleborgs FF,3,0,SE2,2016,2
+09/04/2016,Athletic FC United,GAIS,3,0,SE2,2016,2
+09/04/2016,IK Frej Täby,Assyriska FF,2,1,SE2,2016,2
+10/04/2016,IFK Värnamo,Ljungskile SK,0,2,SE2,2016,2
+10/04/2016,Åtvidabergs FF,IK Sirius,0,3,SE2,2016,2
+10/04/2016,Syrianska FC,Degerfors IF,1,1,SE2,2016,2
+11/04/2016,Örgryte IS,Ängelholms FF,0,1,SE2,2016,2
+16/04/2016,Varbergs BoIS,IFK Värnamo,0,2,SE2,2016,3
+16/04/2016,Degerfors IF,IK Frej Täby,2,2,SE2,2016,3
+16/04/2016,GAIS,Syrianska FC,1,1,SE2,2016,3
+17/04/2016,Ängelholms FF,Halmstads BK,0,1,SE2,2016,3
+17/04/2016,Ljungskile SK,Åtvidabergs FF,2,2,SE2,2016,3
+17/04/2016,Assyriska FF,Örgryte IS,0,1,SE2,2016,3
+18/04/2016,Trelleborgs FF,Athletic FC United,1,0,SE2,2016,3
+18/04/2016,IK Sirius,Dalkurd FF,1,2,SE2,2016,3
+23/04/2016,Athletic FC United,Ljungskile SK,1,0,SE2,2016,4
+23/04/2016,Halmstads BK,GAIS,2,0,SE2,2016,4
+23/04/2016,IK Frej Täby,Ängelholms FF,1,2,SE2,2016,4
+24/04/2016,Dalkurd FF,Trelleborgs FF,1,0,SE2,2016,4
+24/04/2016,Syrianska FC,Varbergs BoIS,0,2,SE2,2016,4
+24/04/2016,IFK Värnamo,IK Sirius,0,0,SE2,2016,4
+24/04/2016,Åtvidabergs FF,Assyriska FF,2,1,SE2,2016,4
+25/04/2016,Örgryte IS,Degerfors IF,3,1,SE2,2016,4
+30/04/2016,GAIS,Örgryte IS,0,0,SE2,2016,5
+30/04/2016,Degerfors IF,Åtvidabergs FF,0,3,SE2,2016,5
+30/04/2016,Varbergs BoIS,IK Frej Täby,2,2,SE2,2016,5
+01/05/2016,Ljungskile SK,Dalkurd FF,1,0,SE2,2016,5
+01/05/2016,Assyriska FF,Halmstads BK,0,2,SE2,2016,5
+01/05/2016,Ängelholms FF,IFK Värnamo,0,4,SE2,2016,5
+02/05/2016,Trelleborgs FF,Syrianska FC,0,0,SE2,2016,5
+02/05/2016,IK Sirius,Athletic FC United,0,0,SE2,2016,5
+05/05/2016,Örgryte IS,Varbergs BoIS,3,0,SE2,2016,6
+07/05/2016,Åtvidabergs FF,Trelleborgs FF,2,0,SE2,2016,6
+07/05/2016,Halmstads BK,Degerfors IF,0,1,SE2,2016,6
+07/05/2016,IK Frej Täby,IK Sirius,2,2,SE2,2016,6
+07/05/2016,Athletic FC United,Ängelholms FF,3,2,SE2,2016,6
+08/05/2016,Syrianska FC,Ljungskile SK,1,0,SE2,2016,6
+08/05/2016,Dalkurd FF,GAIS,2,2,SE2,2016,6
+08/05/2016,IFK Värnamo,Assyriska FF,1,0,SE2,2016,6
+11/05/2016,Degerfors IF,IFK Värnamo,3,1,SE2,2016,7
+11/05/2016,Assyriska FF,Athletic FC United,0,2,SE2,2016,7
+11/05/2016,Ljungskile SK,IK Frej Täby,2,2,SE2,2016,7
+11/05/2016,Trelleborgs FF,Örgryte IS,2,2,SE2,2016,7
+11/05/2016,GAIS,Åtvidabergs FF,1,0,SE2,2016,7
+11/05/2016,Ängelholms FF,Dalkurd FF,1,2,SE2,2016,7
+11/05/2016,IK Sirius,Syrianska FC,3,1,SE2,2016,7
+12/05/2016,Varbergs BoIS,Halmstads BK,0,1,SE2,2016,7
+14/05/2016,Ängelholms FF,Assyriska FF,0,3,SE2,2016,8
+15/05/2016,Örgryte IS,IK Sirius,1,2,SE2,2016,8
+15/05/2016,Dalkurd FF,Degerfors IF,2,2,SE2,2016,8
+15/05/2016,IK Frej Täby,Trelleborgs FF,0,2,SE2,2016,8
+15/05/2016,IFK Värnamo,GAIS,1,1,SE2,2016,8
+15/05/2016,Athletic FC United,Varbergs BoIS,1,1,SE2,2016,8
+15/05/2016,Syrianska FC,Åtvidabergs FF,2,0,SE2,2016,8
+16/05/2016,Halmstads BK,Ljungskile SK,1,0,SE2,2016,8
+21/05/2016,IK Sirius,Degerfors IF,6,0,SE2,2016,9
+21/05/2016,IFK Värnamo,Syrianska FC,1,0,SE2,2016,9
+21/05/2016,IK Frej Täby,Örgryte IS,2,1,SE2,2016,9
+21/05/2016,Trelleborgs FF,Ljungskile SK,4,0,SE2,2016,9
+22/05/2016,GAIS,Ängelholms FF,7,0,SE2,2016,9
+22/05/2016,Assyriska FF,Varbergs BoIS,1,1,SE2,2016,9
+23/05/2016,Åtvidabergs FF,Athletic FC United,4,0,SE2,2016,9
+23/05/2016,Halmstads BK,Dalkurd FF,0,0,SE2,2016,9
+28/05/2016,Ljungskile SK,Ängelholms FF,2,2,SE2,2016,10
+28/05/2016,Dalkurd FF,IK Frej Täby,2,0,SE2,2016,10
+28/05/2016,Degerfors IF,Assyriska FF,0,3,SE2,2016,10
+28/05/2016,Varbergs BoIS,IK Sirius,1,0,SE2,2016,10
+29/05/2016,Syrianska FC,Athletic FC United,1,3,SE2,2016,10
+29/05/2016,Trelleborgs FF,GAIS,1,1,SE2,2016,10
+30/05/2016,Åtvidabergs FF,IFK Värnamo,1,0,SE2,2016,10
+30/05/2016,Örgryte IS,Halmstads BK,1,2,SE2,2016,10
+04/06/2016,Degerfors IF,Ljungskile SK,0,0,SE2,2016,11
+04/06/2016,Dalkurd FF,Åtvidabergs FF,5,0,SE2,2016,11
+04/06/2016,Ängelholms FF,Varbergs BoIS,0,2,SE2,2016,11
+04/06/2016,Athletic FC United,IK Frej Täby,1,0,SE2,2016,11
+04/06/2016,IK Sirius,Trelleborgs FF,2,1,SE2,2016,11
+06/06/2016,Assyriska FF,GAIS,2,2,SE2,2016,11
+06/06/2016,Halmstads BK,Syrianska FC,2,0,SE2,2016,11
+07/06/2016,IFK Värnamo,Örgryte IS,4,2,SE2,2016,11
+11/06/2016,Varbergs BoIS,Degerfors IF,2,1,SE2,2016,12
+11/06/2016,Athletic FC United,Örgryte IS,2,0,SE2,2016,12
+11/06/2016,GAIS,IK Sirius,0,0,SE2,2016,12
+11/06/2016,IK Frej Täby,IFK Värnamo,1,1,SE2,2016,12
+11/06/2016,Åtvidabergs FF,Halmstads BK,1,1,SE2,2016,12
+12/06/2016,Ljungskile SK,Assyriska FF,1,1,SE2,2016,12
+12/06/2016,Trelleborgs FF,Ängelholms FF,2,0,SE2,2016,12
+12/06/2016,Syrianska FC,Dalkurd FF,1,2,SE2,2016,12
+16/06/2016,IFK Värnamo,Athletic FC United,2,0,SE2,2016,13
+18/06/2016,IK Frej Täby,Halmstads BK,5,2,SE2,2016,13
+18/06/2016,Varbergs BoIS,GAIS,1,0,SE2,2016,13
+18/06/2016,Örgryte IS,Dalkurd FF,0,1,SE2,2016,13
+18/06/2016,Degerfors IF,Trelleborgs FF,2,1,SE2,2016,13
+18/06/2016,Ängelholms FF,Åtvidabergs FF,0,3,SE2,2016,13
+19/06/2016,IK Sirius,Ljungskile SK,3,1,SE2,2016,13
+19/06/2016,Assyriska FF,Syrianska FC,1,1,SE2,2016,13
+23/06/2016,Halmstads BK,IFK Värnamo,5,2,SE2,2016,14
+26/06/2016,Dalkurd FF,Athletic FC United,1,1,SE2,2016,14
+26/06/2016,Syrianska FC,Örgryte IS,0,3,SE2,2016,14
+26/06/2016,Trelleborgs FF,Assyriska FF,2,0,SE2,2016,14
+26/06/2016,Åtvidabergs FF,IK Frej Täby,0,1,SE2,2016,14
+26/06/2016,IK Sirius,Ängelholms FF,1,0,SE2,2016,14
+27/06/2016,Ljungskile SK,Varbergs BoIS,0,1,SE2,2016,14
+28/06/2016,GAIS,Degerfors IF,2,2,SE2,2016,14
+02/07/2016,Ljungskile SK,GAIS,1,0,SE2,2016,15
+02/07/2016,Varbergs BoIS,Trelleborgs FF,0,0,SE2,2016,15
+02/07/2016,IFK Värnamo,Dalkurd FF,1,0,SE2,2016,15
+02/07/2016,Athletic FC United,Halmstads BK,4,1,SE2,2016,15
+02/07/2016,IK Frej Täby,Syrianska FC,1,1,SE2,2016,15
+02/07/2016,Ängelholms FF,Degerfors IF,2,1,SE2,2016,15
+03/07/2016,Assyriska FF,IK Sirius,1,2,SE2,2016,15
+02/08/2016,Örgryte IS,Åtvidabergs FF,3,3,SE2,2016,15
+23/07/2016,Degerfors IF,Örgryte IS,2,3,SE2,2016,16
+23/07/2016,Åtvidabergs FF,Ljungskile SK,3,2,SE2,2016,16
+23/07/2016,Syrianska FC,IK Frej Täby,2,2,SE2,2016,16
+23/07/2016,Dalkurd FF,IFK Värnamo,0,0,SE2,2016,16
+24/07/2016,Athletic FC United,Trelleborgs FF,1,2,SE2,2016,16
+24/07/2016,IK Sirius,Assyriska FF,5,3,SE2,2016,16
+24/07/2016,Halmstads BK,Ängelholms FF,1,0,SE2,2016,16
+25/07/2016,GAIS,Varbergs BoIS,4,2,SE2,2016,16
+29/07/2016,Örgryte IS,Syrianska FC,2,0,SE2,2016,17
+30/07/2016,Trelleborgs FF,Dalkurd FF,0,0,SE2,2016,17
+30/07/2016,Assyriska FF,Åtvidabergs FF,4,0,SE2,2016,17
+30/07/2016,Ljungskile SK,Halmstads BK,0,1,SE2,2016,17
+30/07/2016,Ängelholms FF,IK Sirius,0,2,SE2,2016,17
+31/07/2016,Varbergs BoIS,Athletic FC United,0,2,SE2,2016,17
+31/07/2016,IK Frej Täby,GAIS,1,2,SE2,2016,17
+01/08/2016,IFK Värnamo,Degerfors IF,1,1,SE2,2016,17
+05/08/2016,Dalkurd FF,Ljungskile SK,4,1,SE2,2016,18
+06/08/2016,IK Sirius,Varbergs BoIS,2,0,SE2,2016,18
+06/08/2016,Degerfors IF,Ängelholms FF,2,1,SE2,2016,18
+06/08/2016,GAIS,Assyriska FF,4,0,SE2,2016,18
+07/08/2016,Athletic FC United,IFK Värnamo,5,0,SE2,2016,18
+07/08/2016,Syrianska FC,Trelleborgs FF,0,0,SE2,2016,18
+08/08/2016,Halmstads BK,IK Frej Täby,1,0,SE2,2016,18
+08/08/2016,Åtvidabergs FF,Örgryte IS,3,1,SE2,2016,18
+11/08/2016,Varbergs BoIS,Syrianska FC,0,2,SE2,2016,19
+13/08/2016,Ljungskile SK,IK Sirius,0,2,SE2,2016,19
+14/08/2016,Dalkurd FF,Halmstads BK,1,0,SE2,2016,19
+14/08/2016,IK Frej Täby,Athletic FC United,1,0,SE2,2016,19
+14/08/2016,Assyriska FF,Degerfors IF,0,1,SE2,2016,19
+15/08/2016,IFK Värnamo,Ängelholms FF,1,1,SE2,2016,19
+15/08/2016,Trelleborgs FF,Åtvidabergs FF,5,2,SE2,2016,19
+16/08/2016,Örgryte IS,GAIS,0,0,SE2,2016,19
+19/08/2016,Athletic FC United,Dalkurd FF,0,0,SE2,2016,20
+20/08/2016,Ängelholms FF,Trelleborgs FF,1,1,SE2,2016,20
+20/08/2016,Degerfors IF,IK Sirius,1,0,SE2,2016,20
+20/08/2016,IK Frej Täby,Åtvidabergs FF,2,1,SE2,2016,20
+21/08/2016,GAIS,IFK Värnamo,3,1,SE2,2016,20
+21/08/2016,Syrianska FC,Assyriska FF,1,0,SE2,2016,20
+22/08/2016,Örgryte IS,Ljungskile SK,3,1,SE2,2016,20
+22/08/2016,Halmstads BK,Varbergs BoIS,3,0,SE2,2016,20
+27/08/2016,Dalkurd FF,Syrianska FC,2,1,SE2,2016,21
+28/08/2016,Åtvidabergs FF,Degerfors IF,3,2,SE2,2016,21
+28/08/2016,Assyriska FF,Ängelholms FF,2,2,SE2,2016,21
+29/08/2016,IFK Värnamo,Halmstads BK,1,1,SE2,2016,21
+29/08/2016,Ljungskile SK,Athletic FC United,1,2,SE2,2016,21
+29/08/2016,IK Sirius,GAIS,0,0,SE2,2016,21
+30/08/2016,Trelleborgs FF,IK Frej Täby,4,1,SE2,2016,21
+31/08/2016,Varbergs BoIS,Örgryte IS,1,0,SE2,2016,21
+09/09/2016,GAIS,Trelleborgs FF,3,3,SE2,2016,22
+10/09/2016,Degerfors IF,Varbergs BoIS,0,2,SE2,2016,22
+10/09/2016,IK Frej Täby,Dalkurd FF,2,1,SE2,2016,22
+11/09/2016,Halmstads BK,Åtvidabergs FF,2,2,SE2,2016,22
+11/09/2016,Athletic FC United,Assyriska FF,0,0,SE2,2016,22
+11/09/2016,Ängelholms FF,Ljungskile SK,1,1,SE2,2016,22
+11/09/2016,Syrianska FC,IK Sirius,0,2,SE2,2016,22
+12/09/2016,Örgryte IS,IFK Värnamo,2,2,SE2,2016,22
+16/09/2016,Dalkurd FF,Ängelholms FF,1,1,SE2,2016,23
+16/09/2016,IK Sirius,IFK Värnamo,2,0,SE2,2016,23
+16/09/2016,Åtvidabergs FF,Varbergs BoIS,0,1,SE2,2016,23
+17/09/2016,GAIS,Athletic FC United,1,1,SE2,2016,23
+17/09/2016,Ljungskile SK,Syrianska FC,1,2,SE2,2016,23
+18/09/2016,Trelleborgs FF,Degerfors IF,0,0,SE2,2016,23
+18/09/2016,Assyriska FF,IK Frej Täby,0,0,SE2,2016,23
+19/09/2016,Halmstads BK,Örgryte IS,2,0,SE2,2016,23
+20/09/2016,Athletic FC United,IK Sirius,1,0,SE2,2016,24
+20/09/2016,Ängelholms FF,GAIS,1,5,SE2,2016,24
+21/09/2016,Varbergs BoIS,Dalkurd FF,3,2,SE2,2016,24
+21/09/2016,IFK Värnamo,IK Frej Täby,1,1,SE2,2016,24
+21/09/2016,Assyriska FF,Ljungskile SK,1,1,SE2,2016,24
+22/09/2016,Degerfors IF,Halmstads BK,0,2,SE2,2016,24
+22/09/2016,Åtvidabergs FF,Syrianska FC,2,1,SE2,2016,24
+23/09/2016,Örgryte IS,Trelleborgs FF,3,0,SE2,2016,24
+25/09/2016,GAIS,Ljungskile SK,0,3,SE2,2016,25
+25/09/2016,Halmstads BK,Assyriska FF,2,2,SE2,2016,25
+26/09/2016,IK Sirius,Åtvidabergs FF,3,3,SE2,2016,25
+26/09/2016,Syrianska FC,Ängelholms FF,1,0,SE2,2016,25
+26/09/2016,IK Frej Täby,Varbergs BoIS,2,0,SE2,2016,25
+27/09/2016,Dalkurd FF,Örgryte IS,2,0,SE2,2016,25
+27/09/2016,IFK Värnamo,Trelleborgs FF,1,2,SE2,2016,25
+27/09/2016,Athletic FC United,Degerfors IF,5,1,SE2,2016,25
+01/10/2016,Åtvidabergs FF,Dalkurd FF,1,2,SE2,2016,26
+02/10/2016,Ljungskile SK,IFK Värnamo,2,0,SE2,2016,26
+02/10/2016,Syrianska FC,Halmstads BK,1,1,SE2,2016,26
+02/10/2016,Trelleborgs FF,IK Sirius,0,2,SE2,2016,26
+03/10/2016,Ängelholms FF,IK Frej Täby,0,0,SE2,2016,26
+03/10/2016,Örgryte IS,Athletic FC United,0,3,SE2,2016,26
+03/10/2016,Degerfors IF,GAIS,1,0,SE2,2016,26
+04/10/2016,Varbergs BoIS,Assyriska FF,4,0,SE2,2016,26
+14/10/2016,GAIS,Halmstads BK,2,1,SE2,2016,27
+15/10/2016,Varbergs BoIS,Ängelholms FF,1,1,SE2,2016,27
+15/10/2016,Degerfors IF,Dalkurd FF,0,0,SE2,2016,27
+16/10/2016,Athletic FC United,Syrianska FC,0,0,SE2,2016,27
+16/10/2016,IK Frej Täby,Ljungskile SK,1,4,SE2,2016,27
+16/10/2016,IFK Värnamo,Åtvidabergs FF,1,3,SE2,2016,27
+16/10/2016,Assyriska FF,Trelleborgs FF,4,3,SE2,2016,27
+17/10/2016,IK Sirius,Örgryte IS,4,1,SE2,2016,27
+22/10/2016,Dalkurd FF,Assyriska FF,1,1,SE2,2016,28
+23/10/2016,Ljungskile SK,Degerfors IF,2,4,SE2,2016,28
+23/10/2016,Syrianska FC,IFK Värnamo,1,1,SE2,2016,28
+23/10/2016,Trelleborgs FF,Varbergs BoIS,0,1,SE2,2016,28
+23/10/2016,Ängelholms FF,Athletic FC United,1,2,SE2,2016,28
+24/10/2016,Halmstads BK,IK Sirius,0,1,SE2,2016,28
+24/10/2016,Åtvidabergs FF,GAIS,4,2,SE2,2016,28
+25/10/2016,Örgryte IS,IK Frej Täby,2,1,SE2,2016,28
+29/10/2016,Degerfors IF,Syrianska FC,3,3,SE2,2016,29
+29/10/2016,Varbergs BoIS,Ljungskile SK,2,1,SE2,2016,29
+29/10/2016,Athletic FC United,Åtvidabergs FF,3,0,SE2,2016,29
+30/10/2016,GAIS,Dalkurd FF,0,1,SE2,2016,29
+30/10/2016,Ängelholms FF,Örgryte IS,0,1,SE2,2016,29
+30/10/2016,Trelleborgs FF,Halmstads BK,0,2,SE2,2016,29
+30/10/2016,Assyriska FF,IFK Värnamo,1,0,SE2,2016,29
+31/10/2016,IK Sirius,IK Frej Täby,1,1,SE2,2016,29
+05/11/2016,Dalkurd FF,IK Sirius,2,1,SE2,2016,30
+05/11/2016,Åtvidabergs FF,Ängelholms FF,4,1,SE2,2016,30
+05/11/2016,Örgryte IS,Assyriska FF,3,2,SE2,2016,30
+05/11/2016,Halmstads BK,Athletic FC United,0,2,SE2,2016,30
+05/11/2016,Ljungskile SK,Trelleborgs FF,1,3,SE2,2016,30
+05/11/2016,IK Frej Täby,Degerfors IF,2,0,SE2,2016,30
+05/11/2016,IFK Värnamo,Varbergs BoIS,5,0,SE2,2016,30
+05/11/2016,Syrianska FC,GAIS,1,0,SE2,2016,30
+01/04/2017,Helsingborgs IF,Trelleborgs FF,1,0,SE2,2017,1
+01/04/2017,Dalkurd FF,IF Brommapojkarna,0,0,SE2,2017,1
+02/04/2017,Syrianska FC,Degerfors IF,2,3,SE2,2017,1
+02/04/2017,Falkenbergs FF,Östers IF,0,2,SE2,2017,1
+02/04/2017,IFK Värnamo,Åtvidabergs FF,4,0,SE2,2017,1
+02/04/2017,IK Frej Täby,Gefle IF,2,2,SE2,2017,1
+02/04/2017,Norrby IF,GAIS,0,0,SE2,2017,1
+03/04/2017,Örgryte IS,Varbergs BoIS,2,1,SE2,2017,1
+07/04/2017,Gefle IF,IFK Värnamo,2,5,SE2,2017,2
+08/04/2017,Degerfors IF,Norrby IF,2,0,SE2,2017,2
+08/04/2017,IF Brommapojkarna,Örgryte IS,3,0,SE2,2017,2
+08/04/2017,GAIS,Dalkurd FF,0,1,SE2,2017,2
+09/04/2017,Varbergs BoIS,Helsingborgs IF,3,3,SE2,2017,2
+09/04/2017,Trelleborgs FF,Falkenbergs FF,2,2,SE2,2017,2
+10/04/2017,Åtvidabergs FF,IK Frej Täby,1,2,SE2,2017,2
+10/04/2017,Östers IF,Syrianska FC,2,1,SE2,2017,2
+14/04/2017,Örgryte IS,Åtvidabergs FF,2,1,SE2,2017,3
+16/04/2017,Dalkurd FF,Varbergs BoIS,0,0,SE2,2017,3
+16/04/2017,Syrianska FC,GAIS,2,1,SE2,2017,3
+16/04/2017,Norrby IF,Trelleborgs FF,1,1,SE2,2017,3
+17/04/2017,IK Frej Täby,Östers IF,0,1,SE2,2017,3
+17/04/2017,Helsingborgs IF,Gefle IF,1,1,SE2,2017,3
+17/04/2017,Falkenbergs FF,Degerfors IF,1,1,SE2,2017,3
+18/04/2017,IFK Värnamo,IF Brommapojkarna,0,1,SE2,2017,3
+21/04/2017,Gefle IF,Syrianska FC,1,0,SE2,2017,4
+22/04/2017,Östers IF,Dalkurd FF,1,2,SE2,2017,4
+22/04/2017,Varbergs BoIS,IK Frej Täby,2,1,SE2,2017,4
+22/04/2017,GAIS,Helsingborgs IF,0,0,SE2,2017,4
+22/04/2017,Degerfors IF,IFK Värnamo,0,1,SE2,2017,4
+23/04/2017,Åtvidabergs FF,Falkenbergs FF,1,1,SE2,2017,4
+23/04/2017,IF Brommapojkarna,Norrby IF,3,0,SE2,2017,4
+24/04/2017,Trelleborgs FF,Örgryte IS,6,0,SE2,2017,4
+28/04/2017,Falkenbergs FF,GAIS,1,2,SE2,2017,5
+29/04/2017,Dalkurd FF,Gefle IF,3,0,SE2,2017,5
+30/04/2017,IK Frej Täby,IF Brommapojkarna,1,3,SE2,2017,5
+30/04/2017,Syrianska FC,Varbergs BoIS,1,1,SE2,2017,5
+01/05/2017,Norrby IF,Åtvidabergs FF,0,3,SE2,2017,5
+01/05/2017,Örgryte IS,Östers IF,1,1,SE2,2017,5
+01/05/2017,Helsingborgs IF,Degerfors IF,3,0,SE2,2017,5
+02/05/2017,IFK Värnamo,Trelleborgs FF,0,4,SE2,2017,5
+05/05/2017,GAIS,IFK Värnamo,2,1,SE2,2017,6
+05/05/2017,IF Brommapojkarna,Östers IF,4,1,SE2,2017,6
+06/05/2017,Trelleborgs FF,Syrianska FC,1,1,SE2,2017,6
+06/05/2017,Degerfors IF,Dalkurd FF,3,1,SE2,2017,6
+07/05/2017,Varbergs BoIS,Norrby IF,2,0,SE2,2017,6
+07/05/2017,IK Frej Täby,Örgryte IS,2,2,SE2,2017,6
+08/05/2017,Gefle IF,Falkenbergs FF,2,4,SE2,2017,6
+08/05/2017,Åtvidabergs FF,Helsingborgs IF,1,2,SE2,2017,6
+11/05/2017,Örgryte IS,GAIS,0,0,SE2,2017,7
+12/05/2017,Syrianska FC,Åtvidabergs FF,3,0,SE2,2017,7
+13/05/2017,Helsingborgs IF,IK Frej Täby,2,2,SE2,2017,7
+13/05/2017,Falkenbergs FF,IF Brommapojkarna,2,1,SE2,2017,7
+13/05/2017,Dalkurd FF,Trelleborgs FF,3,0,SE2,2017,7
+14/05/2017,Östers IF,Degerfors IF,1,1,SE2,2017,7
+14/05/2017,IFK Värnamo,Varbergs BoIS,0,0,SE2,2017,7
+15/05/2017,Norrby IF,Gefle IF,3,2,SE2,2017,7
+16/05/2017,IF Brommapojkarna,Syrianska FC,2,1,SE2,2017,8
+17/05/2017,Örgryte IS,Falkenbergs FF,2,1,SE2,2017,8
+17/05/2017,Dalkurd FF,IFK Värnamo,3,1,SE2,2017,8
+17/05/2017,Trelleborgs FF,IK Frej Täby,2,1,SE2,2017,8
+17/05/2017,Varbergs BoIS,GAIS,7,1,SE2,2017,8
+17/05/2017,Degerfors IF,Åtvidabergs FF,1,2,SE2,2017,8
+18/05/2017,Gefle IF,Östers IF,1,3,SE2,2017,8
+18/05/2017,Helsingborgs IF,Norrby IF,3,2,SE2,2017,8
+20/05/2017,Åtvidabergs FF,Trelleborgs FF,1,1,SE2,2017,9
+20/05/2017,IF Brommapojkarna,Varbergs BoIS,3,0,SE2,2017,9
+21/05/2017,IK Frej Täby,Degerfors IF,0,0,SE2,2017,9
+21/05/2017,Falkenbergs FF,Dalkurd FF,2,0,SE2,2017,9
+21/05/2017,Syrianska FC,Örgryte IS,2,0,SE2,2017,9
+21/05/2017,IFK Värnamo,Norrby IF,1,2,SE2,2017,9
+22/05/2017,Östers IF,Helsingborgs IF,1,2,SE2,2017,9
+23/05/2017,GAIS,Gefle IF,1,0,SE2,2017,9
+25/05/2017,Örgryte IS,IFK Värnamo,2,0,SE2,2017,10
+27/05/2017,Norrby IF,IK Frej Täby,3,0,SE2,2017,10
+27/05/2017,Varbergs BoIS,Falkenbergs FF,3,5,SE2,2017,10
+27/05/2017,Dalkurd FF,Åtvidabergs FF,3,0,SE2,2017,10
+27/05/2017,Degerfors IF,GAIS,2,1,SE2,2017,10
+28/05/2017,Trelleborgs FF,Östers IF,4,1,SE2,2017,10
+28/05/2017,Gefle IF,IF Brommapojkarna,1,3,SE2,2017,10
+29/05/2017,Helsingborgs IF,Syrianska FC,3,1,SE2,2017,10
+01/06/2017,Åtvidabergs FF,Varbergs BoIS,2,1,SE2,2017,11
+03/06/2017,Östers IF,Norrby IF,2,1,SE2,2017,11
+03/06/2017,IFK Värnamo,IK Frej Täby,3,0,SE2,2017,11
+03/06/2017,IF Brommapojkarna,Degerfors IF,1,0,SE2,2017,11
+03/06/2017,Syrianska FC,Dalkurd FF,0,3,SE2,2017,11
+04/06/2017,Gefle IF,Örgryte IS,0,1,SE2,2017,11
+04/06/2017,Falkenbergs FF,Helsingborgs IF,1,1,SE2,2017,11
+05/06/2017,GAIS,Trelleborgs FF,1,0,SE2,2017,11
+10/06/2017,Norrby IF,Syrianska FC,1,1,SE2,2017,12
+10/06/2017,Degerfors IF,Gefle IF,2,0,SE2,2017,12
+10/06/2017,IK Frej Täby,Falkenbergs FF,2,0,SE2,2017,12
+10/06/2017,Varbergs BoIS,Trelleborgs FF,0,0,SE2,2017,12
+11/06/2017,GAIS,Åtvidabergs FF,0,1,SE2,2017,12
+11/06/2017,Östers IF,IFK Värnamo,1,2,SE2,2017,12
+12/06/2017,Örgryte IS,Dalkurd FF,1,0,SE2,2017,12
+12/06/2017,Helsingborgs IF,IF Brommapojkarna,0,4,SE2,2017,12
+17/06/2017,IF Brommapojkarna,GAIS,3,2,SE2,2017,13
+17/06/2017,Varbergs BoIS,Degerfors IF,4,0,SE2,2017,13
+17/06/2017,IFK Värnamo,Falkenbergs FF,1,1,SE2,2017,13
+17/06/2017,Åtvidabergs FF,Östers IF,1,1,SE2,2017,13
+17/06/2017,Syrianska FC,IK Frej Täby,4,2,SE2,2017,13
+18/06/2017,Dalkurd FF,Helsingborgs IF,5,0,SE2,2017,13
+18/06/2017,Norrby IF,Örgryte IS,5,1,SE2,2017,13
+19/06/2017,Trelleborgs FF,Gefle IF,0,1,SE2,2017,13
+22/06/2017,Örgryte IS,Degerfors IF,1,2,SE2,2017,14
+25/06/2017,Gefle IF,Åtvidabergs FF,0,1,SE2,2017,14
+25/06/2017,Östers IF,Varbergs BoIS,5,2,SE2,2017,14
+25/06/2017,IK Frej Täby,GAIS,0,1,SE2,2017,14
+25/06/2017,Falkenbergs FF,Syrianska FC,3,1,SE2,2017,14
+26/06/2017,IFK Värnamo,Helsingborgs IF,1,1,SE2,2017,14
+26/06/2017,Dalkurd FF,Norrby IF,4,1,SE2,2017,14
+26/06/2017,Trelleborgs FF,IF Brommapojkarna,3,1,SE2,2017,14
+22/07/2017,Varbergs BoIS,Gefle IF,2,0,SE2,2017,15
+22/07/2017,Norrby IF,Falkenbergs FF,0,3,SE2,2017,15
+22/07/2017,Degerfors IF,Trelleborgs FF,2,3,SE2,2017,15
+22/07/2017,Åtvidabergs FF,IF Brommapojkarna,0,5,SE2,2017,15
+22/07/2017,Helsingborgs IF,Örgryte IS,1,0,SE2,2017,15
+23/07/2017,IK Frej Täby,Dalkurd FF,0,3,SE2,2017,15
+23/07/2017,Syrianska FC,IFK Värnamo,1,5,SE2,2017,15
+24/07/2017,GAIS,Östers IF,2,2,SE2,2017,15
+29/07/2017,Trelleborgs FF,IFK Värnamo,2,1,SE2,2017,16
+29/07/2017,Syrianska FC,Helsingborgs IF,1,2,SE2,2017,16
+29/07/2017,Gefle IF,GAIS,2,1,SE2,2017,16
+29/07/2017,IF Brommapojkarna,IK Frej Täby,0,1,SE2,2017,16
+29/07/2017,Dalkurd FF,Degerfors IF,1,1,SE2,2017,16
+30/07/2017,Östers IF,Åtvidabergs FF,3,0,SE2,2017,16
+30/07/2017,Falkenbergs FF,Varbergs BoIS,2,1,SE2,2017,16
+31/07/2017,Örgryte IS,Norrby IF,2,1,SE2,2017,16
+04/08/2017,Degerfors IF,Örgryte IS,3,0,SE2,2017,17
+05/08/2017,Varbergs BoIS,Östers IF,1,3,SE2,2017,17
+05/08/2017,Norrby IF,Helsingborgs IF,3,2,SE2,2017,17
+05/08/2017,GAIS,Falkenbergs FF,1,1,SE2,2017,17
+05/08/2017,IK Frej Täby,Syrianska FC,2,3,SE2,2017,17
+06/08/2017,Åtvidabergs FF,Dalkurd FF,1,4,SE2,2017,17
+06/08/2017,IFK Värnamo,Gefle IF,2,2,SE2,2017,17
+06/08/2017,IF Brommapojkarna,Trelleborgs FF,3,0,SE2,2017,17
+08/08/2017,Östers IF,GAIS,2,0,SE2,2017,18
+08/08/2017,Syrianska FC,Norrby IF,3,4,SE2,2017,18
+09/08/2017,Falkenbergs FF,IFK Värnamo,2,0,SE2,2017,18
+09/08/2017,Dalkurd FF,IK Frej Täby,3,2,SE2,2017,18
+09/08/2017,Gefle IF,Varbergs BoIS,2,0,SE2,2017,18
+09/08/2017,Örgryte IS,IF Brommapojkarna,0,2,SE2,2017,18
+10/08/2017,Trelleborgs FF,Degerfors IF,2,1,SE2,2017,18
+10/08/2017,Helsingborgs IF,Åtvidabergs FF,0,0,SE2,2017,18
+12/08/2017,Östers IF,Gefle IF,1,1,SE2,2017,19
+12/08/2017,GAIS,Syrianska FC,2,1,SE2,2017,19
+13/08/2017,Varbergs BoIS,IF Brommapojkarna,1,1,SE2,2017,19
+13/08/2017,IFK Värnamo,Dalkurd FF,1,1,SE2,2017,19
+14/08/2017,IK Frej Täby,Helsingborgs IF,4,0,SE2,2017,19
+14/08/2017,Åtvidabergs FF,Örgryte IS,0,0,SE2,2017,19
+15/08/2017,Degerfors IF,Falkenbergs FF,1,1,SE2,2017,19
+15/08/2017,Trelleborgs FF,Norrby IF,5,1,SE2,2017,19
+18/08/2017,Örgryte IS,IK Frej Täby,1,3,SE2,2017,20
+19/08/2017,Syrianska FC,Östers IF,2,1,SE2,2017,20
+19/08/2017,Degerfors IF,Varbergs BoIS,1,0,SE2,2017,20
+20/08/2017,IF Brommapojkarna,IFK Värnamo,2,1,SE2,2017,20
+20/08/2017,Helsingborgs IF,GAIS,1,0,SE2,2017,20
+20/08/2017,Norrby IF,Dalkurd FF,0,3,SE2,2017,20
+20/08/2017,Falkenbergs FF,Åtvidabergs FF,2,0,SE2,2017,20
+21/08/2017,Gefle IF,Trelleborgs FF,1,2,SE2,2017,20
+26/08/2017,IK Frej Täby,Norrby IF,1,2,SE2,2017,21
+26/08/2017,Dalkurd FF,Örgryte IS,2,1,SE2,2017,21
+27/08/2017,Varbergs BoIS,Syrianska FC,3,1,SE2,2017,21
+27/08/2017,IF Brommapojkarna,Falkenbergs FF,1,5,SE2,2017,21
+28/08/2017,IFK Värnamo,Östers IF,2,1,SE2,2017,21
+28/08/2017,GAIS,Degerfors IF,1,0,SE2,2017,21
+28/08/2017,Åtvidabergs FF,Gefle IF,0,2,SE2,2017,21
+29/08/2017,Trelleborgs FF,Helsingborgs IF,1,1,SE2,2017,21
+01/09/2017,Östers IF,IK Frej Täby,1,0,SE2,2017,22
+02/09/2017,Degerfors IF,IF Brommapojkarna,3,2,SE2,2017,22
+02/09/2017,Falkenbergs FF,Gefle IF,0,4,SE2,2017,22
+03/09/2017,Syrianska FC,Trelleborgs FF,0,2,SE2,2017,22
+04/09/2017,Norrby IF,Varbergs BoIS,1,1,SE2,2017,22
+04/09/2017,Åtvidabergs FF,IFK Värnamo,1,3,SE2,2017,22
+04/09/2017,GAIS,Örgryte IS,1,1,SE2,2017,22
+05/09/2017,Helsingborgs IF,Dalkurd FF,2,2,SE2,2017,22
+08/09/2017,Degerfors IF,Östers IF,1,1,SE2,2017,23
+09/09/2017,Varbergs BoIS,IFK Värnamo,2,1,SE2,2017,23
+09/09/2017,IK Frej Täby,Åtvidabergs FF,1,0,SE2,2017,23
+09/09/2017,Dalkurd FF,Falkenbergs FF,1,1,SE2,2017,23
+10/09/2017,Gefle IF,Norrby IF,3,2,SE2,2017,23
+10/09/2017,Örgryte IS,Syrianska FC,3,0,SE2,2017,23
+11/09/2017,Trelleborgs FF,GAIS,2,0,SE2,2017,23
+12/09/2017,IF Brommapojkarna,Helsingborgs IF,1,1,SE2,2017,23
+16/09/2017,Åtvidabergs FF,Syrianska FC,0,1,SE2,2017,24
+16/09/2017,Gefle IF,Dalkurd FF,0,1,SE2,2017,24
+17/09/2017,Falkenbergs FF,Örgryte IS,1,1,SE2,2017,24
+17/09/2017,Norrby IF,IF Brommapojkarna,1,0,SE2,2017,24
+17/09/2017,IFK Värnamo,Degerfors IF,2,1,SE2,2017,24
+18/09/2017,Östers IF,Trelleborgs FF,0,1,SE2,2017,24
+18/09/2017,Helsingborgs IF,Varbergs BoIS,2,0,SE2,2017,24
+19/09/2017,GAIS,IK Frej Täby,1,0,SE2,2017,24
+23/09/2017,Degerfors IF,IK Frej Täby,3,1,SE2,2017,25
+23/09/2017,IF Brommapojkarna,Åtvidabergs FF,3,1,SE2,2017,25
+23/09/2017,Varbergs BoIS,Dalkurd FF,1,0,SE2,2017,25
+24/09/2017,Syrianska FC,Gefle IF,1,2,SE2,2017,25
+24/09/2017,Norrby IF,Östers IF,0,2,SE2,2017,25
+24/09/2017,Helsingborgs IF,Falkenbergs FF,0,0,SE2,2017,25
+25/09/2017,IFK Värnamo,GAIS,2,0,SE2,2017,25
+26/09/2017,Örgryte IS,Trelleborgs FF,2,0,SE2,2017,25
+29/09/2017,Falkenbergs FF,Norrby IF,1,4,SE2,2017,26
+30/09/2017,Östers IF,Örgryte IS,1,1,SE2,2017,26
+30/09/2017,IK Frej Täby,IFK Värnamo,5,0,SE2,2017,26
+30/09/2017,GAIS,IF Brommapojkarna,0,0,SE2,2017,26
+01/10/2017,Dalkurd FF,Syrianska FC,4,2,SE2,2017,26
+01/10/2017,Åtvidabergs FF,Degerfors IF,1,3,SE2,2017,26
+02/10/2017,Trelleborgs FF,Varbergs BoIS,1,1,SE2,2017,26
+02/10/2017,Gefle IF,Helsingborgs IF,2,1,SE2,2017,26
+14/10/2017,Norrby IF,Degerfors IF,2,0,SE2,2017,27
+14/10/2017,IK Frej Täby,Varbergs BoIS,1,0,SE2,2017,27
+14/10/2017,Dalkurd FF,Östers IF,1,2,SE2,2017,27
+15/10/2017,Åtvidabergs FF,GAIS,3,2,SE2,2017,27
+15/10/2017,Falkenbergs FF,Trelleborgs FF,1,1,SE2,2017,27
+16/10/2017,Örgryte IS,Gefle IF,1,1,SE2,2017,27
+16/10/2017,Helsingborgs IF,IFK Värnamo,1,2,SE2,2017,27
+17/10/2017,Syrianska FC,IF Brommapojkarna,0,2,SE2,2017,27
+21/10/2017,GAIS,Norrby IF,2,1,SE2,2017,28
+21/10/2017,Gefle IF,IK Frej Täby,3,0,SE2,2017,28
+21/10/2017,Degerfors IF,Helsingborgs IF,1,1,SE2,2017,28
+21/10/2017,Varbergs BoIS,Örgryte IS,0,0,SE2,2017,28
+22/10/2017,Trelleborgs FF,Åtvidabergs FF,4,0,SE2,2017,28
+22/10/2017,Östers IF,Falkenbergs FF,1,1,SE2,2017,28
+23/10/2017,IFK Värnamo,Syrianska FC,6,1,SE2,2017,28
+24/10/2017,IF Brommapojkarna,Dalkurd FF,1,0,SE2,2017,28
+27/10/2017,IK Frej Täby,Trelleborgs FF,2,2,SE2,2017,29
+28/10/2017,Dalkurd FF,GAIS,1,0,SE2,2017,29
+28/10/2017,Varbergs BoIS,Åtvidabergs FF,3,0,SE2,2017,29
+29/10/2017,Örgryte IS,Helsingborgs IF,0,3,SE2,2017,29
+29/10/2017,Gefle IF,Degerfors IF,1,1,SE2,2017,29
+29/10/2017,Syrianska FC,Falkenbergs FF,1,2,SE2,2017,29
+30/10/2017,Norrby IF,IFK Värnamo,2,3,SE2,2017,29
+30/10/2017,Östers IF,IF Brommapojkarna,0,0,SE2,2017,29
+04/11/2017,IFK Värnamo,Örgryte IS,2,1,SE2,2017,30
+04/11/2017,GAIS,Varbergs BoIS,3,0,SE2,2017,30
+04/11/2017,Falkenbergs FF,IK Frej Täby,3,1,SE2,2017,30
+04/11/2017,IF Brommapojkarna,Gefle IF,4,1,SE2,2017,30
+04/11/2017,Degerfors IF,Syrianska FC,3,1,SE2,2017,30
+04/11/2017,Åtvidabergs FF,Norrby IF,0,1,SE2,2017,30
+04/11/2017,Trelleborgs FF,Dalkurd FF,2,2,SE2,2017,30
+04/11/2017,Helsingborgs IF,Östers IF,0,2,SE2,2017,30
+31/03/2018,AFC Eskilstuna,IK Brage,0,0,SE2,2018,1
+01/04/2018,Östers IF,Degerfors IF,2,2,SE2,2018,1
+01/04/2018,GAIS,Jönköpings Södra IF,2,1,SE2,2018,1
+01/04/2018,Landskrona BoIS,Falkenbergs FF,2,3,SE2,2018,1
+02/04/2018,Gefle IF,IFK Värnamo,2,1,SE2,2018,1
+02/04/2018,IK Frej Täby,Norrby IF,2,2,SE2,2018,1
+03/04/2018,Varbergs BoIS,Örgryte IS,0,2,SE2,2018,1
+14/06/2018,Halmstads BK,Helsingborgs IF,2,1,SE2,2018,1
+07/04/2018,Degerfors IF,Halmstads BK,1,2,SE2,2018,2
+07/04/2018,Falkenbergs FF,AFC Eskilstuna,2,0,SE2,2018,2
+07/04/2018,Jönköpings Södra IF,Landskrona BoIS,0,2,SE2,2018,2
+08/04/2018,Helsingborgs IF,Östers IF,3,1,SE2,2018,2
+08/04/2018,Örgryte IS,IK Frej Täby,2,1,SE2,2018,2
+08/04/2018,Norrby IF,Varbergs BoIS,2,1,SE2,2018,2
+09/04/2018,IK Brage,Gefle IF,4,2,SE2,2018,2
+11/04/2018,IFK Värnamo,GAIS,1,2,SE2,2018,2
+14/04/2018,IK Frej Täby,Helsingborgs IF,1,5,SE2,2018,3
+14/04/2018,Gefle IF,Degerfors IF,0,1,SE2,2018,3
+15/04/2018,Östers IF,IK Brage,1,2,SE2,2018,3
+15/04/2018,GAIS,Falkenbergs FF,0,2,SE2,2018,3
+15/04/2018,AFC Eskilstuna,IFK Värnamo,4,0,SE2,2018,3
+16/04/2018,Varbergs BoIS,Jönköpings Södra IF,2,1,SE2,2018,3
+16/04/2018,Halmstads BK,Norrby IF,0,2,SE2,2018,3
+17/04/2018,Landskrona BoIS,Örgryte IS,2,2,SE2,2018,3
+20/04/2018,IK Brage,GAIS,1,1,SE2,2018,4
+21/04/2018,Örgryte IS,Halmstads BK,2,0,SE2,2018,4
+21/04/2018,Degerfors IF,Landskrona BoIS,2,1,SE2,2018,4
+22/04/2018,Jönköpings Södra IF,Östers IF,0,1,SE2,2018,4
+22/04/2018,Norrby IF,Gefle IF,0,2,SE2,2018,4
+22/04/2018,Falkenbergs FF,IK Frej Täby,3,1,SE2,2018,4
+24/04/2018,Helsingborgs IF,AFC Eskilstuna,0,2,SE2,2018,4
+24/04/2018,IFK Värnamo,Varbergs BoIS,2,0,SE2,2018,4
+27/04/2018,GAIS,Gefle IF,0,0,SE2,2018,5
+28/04/2018,Landskrona BoIS,IFK Värnamo,2,0,SE2,2018,5
+28/04/2018,Östers IF,Örgryte IS,1,3,SE2,2018,5
+29/04/2018,IK Brage,Helsingborgs IF,1,1,SE2,2018,5
+29/04/2018,IK Frej Täby,Varbergs BoIS,2,3,SE2,2018,5
+30/04/2018,AFC Eskilstuna,Degerfors IF,3,0,SE2,2018,5
+01/05/2018,Norrby IF,Jönköpings Södra IF,1,2,SE2,2018,5
+01/05/2018,Halmstads BK,Falkenbergs FF,1,1,SE2,2018,5
+04/05/2018,IK Frej Täby,AFC Eskilstuna,0,2,SE2,2018,6
+05/05/2018,Degerfors IF,Örgryte IS,0,1,SE2,2018,6
+05/05/2018,Jönköpings Södra IF,IK Brage,0,0,SE2,2018,6
+06/05/2018,Varbergs BoIS,Landskrona BoIS,1,0,SE2,2018,6
+06/05/2018,Falkenbergs FF,Östers IF,0,2,SE2,2018,6
+07/05/2018,IFK Värnamo,Norrby IF,0,0,SE2,2018,6
+07/05/2018,Gefle IF,Halmstads BK,1,3,SE2,2018,6
+08/05/2018,Helsingborgs IF,GAIS,2,1,SE2,2018,6
+11/05/2018,Örgryte IS,Gefle IF,3,1,SE2,2018,7
+12/05/2018,Jönköpings Södra IF,IK Frej Täby,1,0,SE2,2018,7
+12/05/2018,AFC Eskilstuna,Varbergs BoIS,2,2,SE2,2018,7
+12/05/2018,IK Brage,Falkenbergs FF,3,4,SE2,2018,7
+13/05/2018,Östers IF,IFK Värnamo,0,0,SE2,2018,7
+13/05/2018,Halmstads BK,GAIS,1,0,SE2,2018,7
+14/05/2018,Norrby IF,Degerfors IF,1,3,SE2,2018,7
+15/05/2018,Landskrona BoIS,Helsingborgs IF,1,1,SE2,2018,7
+18/05/2018,GAIS,AFC Eskilstuna,0,1,SE2,2018,8
+18/05/2018,Gefle IF,Jönköpings Södra IF,1,2,SE2,2018,8
+19/05/2018,Degerfors IF,IK Brage,2,2,SE2,2018,8
+19/05/2018,Falkenbergs FF,Norrby IF,0,0,SE2,2018,8
+19/05/2018,Varbergs BoIS,Östers IF,1,2,SE2,2018,8
+19/05/2018,IK Frej Täby,Landskrona BoIS,2,1,SE2,2018,8
+20/05/2018,IFK Värnamo,Halmstads BK,1,3,SE2,2018,8
+20/05/2018,Helsingborgs IF,Örgryte IS,2,0,SE2,2018,8
+22/05/2018,Östers IF,GAIS,1,3,SE2,2018,9
+23/05/2018,Jönköpings Södra IF,Degerfors IF,2,2,SE2,2018,9
+23/05/2018,Örgryte IS,IFK Värnamo,4,0,SE2,2018,9
+23/05/2018,IK Frej Täby,IK Brage,0,0,SE2,2018,9
+23/05/2018,Landskrona BoIS,Halmstads BK,0,0,SE2,2018,9
+24/05/2018,Norrby IF,Helsingborgs IF,0,1,SE2,2018,9
+24/05/2018,AFC Eskilstuna,Gefle IF,1,1,SE2,2018,9
+25/05/2018,Falkenbergs FF,Varbergs BoIS,3,2,SE2,2018,9
+26/05/2018,IK Brage,Örgryte IS,3,1,SE2,2018,10
+27/05/2018,Halmstads BK,Östers IF,3,0,SE2,2018,10
+27/05/2018,GAIS,IK Frej Täby,2,1,SE2,2018,10
+28/05/2018,Gefle IF,Landskrona BoIS,1,5,SE2,2018,10
+28/05/2018,Helsingborgs IF,Jönköpings Södra IF,1,0,SE2,2018,10
+28/05/2018,AFC Eskilstuna,Norrby IF,4,0,SE2,2018,10
+29/05/2018,Varbergs BoIS,Degerfors IF,0,1,SE2,2018,10
+29/05/2018,IFK Värnamo,Falkenbergs FF,1,4,SE2,2018,10
+02/06/2018,Norrby IF,IK Brage,2,0,SE2,2018,11
+02/06/2018,Varbergs BoIS,Halmstads BK,2,3,SE2,2018,11
+02/06/2018,IK Frej Täby,Östers IF,3,2,SE2,2018,11
+02/06/2018,Degerfors IF,IFK Värnamo,4,1,SE2,2018,11
+03/06/2018,Landskrona BoIS,GAIS,1,1,SE2,2018,11
+03/06/2018,Örgryte IS,Falkenbergs FF,1,1,SE2,2018,11
+04/06/2018,Jönköpings Södra IF,AFC Eskilstuna,0,0,SE2,2018,11
+05/06/2018,Gefle IF,Helsingborgs IF,1,1,SE2,2018,11
+09/06/2018,Östers IF,Norrby IF,3,0,SE2,2018,12
+09/06/2018,Halmstads BK,IK Frej Täby,2,2,SE2,2018,12
+09/06/2018,IK Brage,Varbergs BoIS,1,0,SE2,2018,12
+09/06/2018,AFC Eskilstuna,Landskrona BoIS,2,0,SE2,2018,12
+10/06/2018,Falkenbergs FF,Gefle IF,3,0,SE2,2018,12
+10/06/2018,Helsingborgs IF,Degerfors IF,4,1,SE2,2018,12
+11/06/2018,IFK Värnamo,Jönköpings Södra IF,0,1,SE2,2018,12
+12/06/2018,GAIS,Örgryte IS,4,4,SE2,2018,12
+16/06/2018,IFK Värnamo,IK Frej Täby,1,2,SE2,2018,13
+16/06/2018,Landskrona BoIS,IK Brage,1,2,SE2,2018,13
+16/06/2018,Örgryte IS,Norrby IF,1,2,SE2,2018,13
+16/06/2018,Gefle IF,Östers IF,2,4,SE2,2018,13
+17/06/2018,Jönköpings Södra IF,Falkenbergs FF,1,3,SE2,2018,13
+17/06/2018,Halmstads BK,AFC Eskilstuna,2,1,SE2,2018,13
+18/06/2018,GAIS,Degerfors IF,1,1,SE2,2018,13
+19/06/2018,Varbergs BoIS,Helsingborgs IF,3,3,SE2,2018,13
+24/06/2018,Norrby IF,Landskrona BoIS,1,0,SE2,2018,14
+24/06/2018,Varbergs BoIS,GAIS,2,2,SE2,2018,14
+24/06/2018,Östers IF,AFC Eskilstuna,0,0,SE2,2018,14
+24/06/2018,Helsingborgs IF,IFK Värnamo,1,0,SE2,2018,14
+24/06/2018,IK Frej Täby,Gefle IF,0,0,SE2,2018,14
+25/06/2018,Degerfors IF,Falkenbergs FF,0,2,SE2,2018,14
+25/06/2018,IK Brage,Halmstads BK,3,2,SE2,2018,14
+26/06/2018,Örgryte IS,Jönköpings Södra IF,1,2,SE2,2018,14
+30/06/2018,Jönköpings Södra IF,Halmstads BK,1,1,SE2,2018,15
+30/06/2018,IFK Värnamo,IK Brage,2,3,SE2,2018,15
+30/06/2018,GAIS,Norrby IF,4,1,SE2,2018,15
+30/06/2018,Degerfors IF,IK Frej Täby,3,1,SE2,2018,15
+30/06/2018,Gefle IF,Varbergs BoIS,2,2,SE2,2018,15
+01/07/2018,Falkenbergs FF,Helsingborgs IF,2,3,SE2,2018,15
+01/07/2018,Landskrona BoIS,Östers IF,2,3,SE2,2018,15
+02/07/2018,AFC Eskilstuna,Örgryte IS,0,0,SE2,2018,15
+28/07/2018,Norrby IF,Östers IF,0,2,SE2,2018,16
+28/07/2018,Varbergs BoIS,Falkenbergs FF,0,3,SE2,2018,16
+28/07/2018,IK Brage,IFK Värnamo,0,1,SE2,2018,16
+28/07/2018,IK Frej Täby,GAIS,3,1,SE2,2018,16
+29/07/2018,Landskrona BoIS,Gefle IF,3,1,SE2,2018,16
+29/07/2018,Jönköpings Södra IF,Helsingborgs IF,1,3,SE2,2018,16
+30/07/2018,Örgryte IS,AFC Eskilstuna,0,0,SE2,2018,16
+31/07/2018,Halmstads BK,Degerfors IF,2,1,SE2,2018,16
+02/08/2018,Helsingborgs IF,Norrby IF,2,0,SE2,2018,17
+04/08/2018,Östers IF,Varbergs BoIS,1,1,SE2,2018,17
+04/08/2018,Degerfors IF,Jönköpings Södra IF,2,1,SE2,2018,17
+05/08/2018,Gefle IF,IK Frej Täby,2,5,SE2,2018,17
+05/08/2018,AFC Eskilstuna,Halmstads BK,2,1,SE2,2018,17
+06/08/2018,IFK Värnamo,Landskrona BoIS,1,1,SE2,2018,17
+06/08/2018,GAIS,IK Brage,1,1,SE2,2018,17
+07/08/2018,Falkenbergs FF,Örgryte IS,1,1,SE2,2018,17
+10/08/2018,Landskrona BoIS,Degerfors IF,1,2,SE2,2018,18
+11/08/2018,Halmstads BK,Gefle IF,1,2,SE2,2018,18
+11/08/2018,Varbergs BoIS,AFC Eskilstuna,1,1,SE2,2018,18
+11/08/2018,IK Brage,Östers IF,0,4,SE2,2018,18
+12/08/2018,IK Frej Täby,Falkenbergs FF,3,2,SE2,2018,18
+12/08/2018,Norrby IF,GAIS,1,1,SE2,2018,18
+13/08/2018,Jönköpings Södra IF,IFK Värnamo,1,3,SE2,2018,18
+14/08/2018,Örgryte IS,Helsingborgs IF,3,4,SE2,2018,18
+17/08/2018,Falkenbergs FF,Halmstads BK,1,0,SE2,2018,19
+18/08/2018,AFC Eskilstuna,Jönköpings Södra IF,1,0,SE2,2018,19
+19/08/2018,GAIS,Varbergs BoIS,0,2,SE2,2018,19
+19/08/2018,Helsingborgs IF,Landskrona BoIS,2,0,SE2,2018,19
+20/08/2018,Östers IF,IK Frej Täby,2,0,SE2,2018,19
+20/08/2018,IFK Värnamo,Örgryte IS,2,1,SE2,2018,19
+20/08/2018,Degerfors IF,Norrby IF,2,1,SE2,2018,19
+20/08/2018,Gefle IF,IK Brage,0,2,SE2,2018,19
+25/08/2018,Helsingborgs IF,Gefle IF,3,0,SE2,2018,20
+26/08/2018,IK Frej Täby,Halmstads BK,1,5,SE2,2018,20
+26/08/2018,IK Brage,Landskrona BoIS,5,1,SE2,2018,20
+26/08/2018,Norrby IF,AFC Eskilstuna,0,2,SE2,2018,20
+26/08/2018,Falkenbergs FF,Degerfors IF,4,1,SE2,2018,20
+27/08/2018,Jönköpings Södra IF,Varbergs BoIS,4,2,SE2,2018,20
+27/08/2018,IFK Värnamo,Östers IF,1,0,SE2,2018,20
+28/08/2018,Örgryte IS,GAIS,1,3,SE2,2018,20
+01/09/2018,IK Brage,IK Frej Täby,1,0,SE2,2018,21
+01/09/2018,Degerfors IF,Helsingborgs IF,1,1,SE2,2018,21
+02/09/2018,Landskrona BoIS,Norrby IF,1,1,SE2,2018,21
+02/09/2018,Halmstads BK,Jönköpings Södra IF,1,0,SE2,2018,21
+03/09/2018,Östers IF,Falkenbergs FF,2,3,SE2,2018,21
+03/09/2018,Varbergs BoIS,IFK Värnamo,2,2,SE2,2018,21
+03/09/2018,AFC Eskilstuna,GAIS,2,1,SE2,2018,21
+04/09/2018,Gefle IF,Örgryte IS,0,1,SE2,2018,21
+08/09/2018,Jönköpings Södra IF,Gefle IF,1,0,SE2,2018,22
+08/09/2018,Degerfors IF,AFC Eskilstuna,2,2,SE2,2018,22
+09/09/2018,Norrby IF,IK Frej Täby,3,2,SE2,2018,22
+09/09/2018,Örgryte IS,Östers IF,1,0,SE2,2018,22
+11/09/2018,Falkenbergs FF,Landskrona BoIS,1,2,SE2,2018,22
+12/09/2018,GAIS,IFK Värnamo,1,2,SE2,2018,22
+14/09/2018,Halmstads BK,Varbergs BoIS,1,1,SE2,2018,22
+19/09/2018,Helsingborgs IF,IK Brage,4,1,SE2,2018,22
+15/09/2018,IK Brage,Norrby IF,2,3,SE2,2018,23
+15/09/2018,AFC Eskilstuna,Helsingborgs IF,0,0,SE2,2018,23
+16/09/2018,IFK Värnamo,Degerfors IF,1,2,SE2,2018,23
+16/09/2018,Gefle IF,Falkenbergs FF,0,3,SE2,2018,23
+17/09/2018,Östers IF,Jönköpings Södra IF,0,0,SE2,2018,23
+17/09/2018,IK Frej Täby,Örgryte IS,2,1,SE2,2018,23
+18/09/2018,GAIS,Halmstads BK,1,2,SE2,2018,23
+18/09/2018,Landskrona BoIS,Varbergs BoIS,0,2,SE2,2018,23
+22/09/2018,Degerfors IF,GAIS,1,1,SE2,2018,24
+23/09/2018,Varbergs BoIS,Gefle IF,1,2,SE2,2018,24
+23/09/2018,Falkenbergs FF,Jönköpings Södra IF,2,0,SE2,2018,24
+23/09/2018,Örgryte IS,IK Brage,4,1,SE2,2018,24
+23/09/2018,Helsingborgs IF,IK Frej Täby,1,0,SE2,2018,24
+24/09/2018,Norrby IF,IFK Värnamo,2,1,SE2,2018,24
+24/09/2018,AFC Eskilstuna,Östers IF,3,0,SE2,2018,24
+25/09/2018,Halmstads BK,Landskrona BoIS,2,1,SE2,2018,24
+28/09/2018,Falkenbergs FF,IK Brage,3,2,SE2,2018,25
+29/09/2018,GAIS,Helsingborgs IF,1,1,SE2,2018,25
+29/09/2018,Degerfors IF,Varbergs BoIS,0,1,SE2,2018,25
+30/09/2018,Östers IF,Gefle IF,0,0,SE2,2018,25
+30/09/2018,Landskrona BoIS,IK Frej Täby,3,4,SE2,2018,25
+30/09/2018,Norrby IF,Halmstads BK,3,2,SE2,2018,25
+01/10/2018,IFK Värnamo,AFC Eskilstuna,0,0,SE2,2018,25
+02/10/2018,Jönköpings Södra IF,Örgryte IS,2,2,SE2,2018,25
+05/10/2018,IK Brage,AFC Eskilstuna,0,0,SE2,2018,26
+06/10/2018,Östers IF,Landskrona BoIS,5,0,SE2,2018,26
+06/10/2018,Halmstads BK,IFK Värnamo,0,3,SE2,2018,26
+07/10/2018,Varbergs BoIS,Norrby IF,4,0,SE2,2018,26
+07/10/2018,Helsingborgs IF,Falkenbergs FF,1,0,SE2,2018,26
+08/10/2018,Gefle IF,GAIS,1,0,SE2,2018,26
+08/10/2018,IK Frej Täby,Jönköpings Södra IF,1,1,SE2,2018,26
+09/10/2018,Örgryte IS,Degerfors IF,2,0,SE2,2018,26
+19/10/2018,Norrby IF,Örgryte IS,0,1,SE2,2018,27
+20/10/2018,Degerfors IF,Östers IF,1,3,SE2,2018,27
+20/10/2018,GAIS,Landskrona BoIS,3,1,SE2,2018,27
+21/10/2018,AFC Eskilstuna,Falkenbergs FF,1,0,SE2,2018,27
+21/10/2018,IK Brage,Jönköpings Södra IF,3,2,SE2,2018,27
+22/10/2018,Varbergs BoIS,IK Frej Täby,1,2,SE2,2018,27
+22/10/2018,IFK Värnamo,Gefle IF,3,2,SE2,2018,27
+23/10/2018,Helsingborgs IF,Halmstads BK,1,1,SE2,2018,27
+26/10/2018,Landskrona BoIS,AFC Eskilstuna,0,0,SE2,2018,28
+27/10/2018,Östers IF,Helsingborgs IF,4,4,SE2,2018,28
+27/10/2018,IK Frej Täby,Degerfors IF,2,2,SE2,2018,28
+28/10/2018,Halmstads BK,IK Brage,1,0,SE2,2018,28
+28/10/2018,Falkenbergs FF,IFK Värnamo,3,0,SE2,2018,28
+29/10/2018,Jönköpings Södra IF,GAIS,2,0,SE2,2018,28
+29/10/2018,Gefle IF,Norrby IF,3,1,SE2,2018,28
+30/10/2018,Örgryte IS,Varbergs BoIS,5,2,SE2,2018,28
+02/11/2018,Norrby IF,Falkenbergs FF,2,2,SE2,2018,29
+03/11/2018,Halmstads BK,Örgryte IS,1,2,SE2,2018,29
+03/11/2018,Degerfors IF,Gefle IF,4,0,SE2,2018,29
+03/11/2018,Landskrona BoIS,Jönköpings Södra IF,1,2,SE2,2018,29
+03/11/2018,AFC Eskilstuna,IK Frej Täby,2,2,SE2,2018,29
+04/11/2018,IFK Värnamo,Helsingborgs IF,1,0,SE2,2018,29
+05/11/2018,Varbergs BoIS,IK Brage,1,2,SE2,2018,29
+05/11/2018,GAIS,Östers IF,1,1,SE2,2018,29
+10/11/2018,Jönköpings Södra IF,Norrby IF,0,0,SE2,2018,30
+10/11/2018,Östers IF,Halmstads BK,1,4,SE2,2018,30
+10/11/2018,Örgryte IS,Landskrona BoIS,4,0,SE2,2018,30
+10/11/2018,Helsingborgs IF,Varbergs BoIS,3,1,SE2,2018,30
+10/11/2018,Gefle IF,AFC Eskilstuna,2,2,SE2,2018,30
+10/11/2018,Falkenbergs FF,GAIS,0,2,SE2,2018,30
+10/11/2018,IK Frej Täby,IFK Värnamo,1,0,SE2,2018,30
+10/11/2018,IK Brage,Degerfors IF,1,1,SE2,2018,30
+30/03/2019,IF Brommapojkarna,Västerås SK,1,2,SE2,2019,1
+30/03/2019,Örgryte IS,Norrby IF,1,1,SE2,2019,1
+30/03/2019,Trelleborgs FF,GAIS,2,2,SE2,2019,1
+30/03/2019,Mjällby AIF,Varbergs BoIS,0,1,SE2,2019,1
+31/03/2019,Östers IF,Dalkurd FF,0,0,SE2,2019,1
+31/03/2019,Syrianska FC,Degerfors IF,1,4,SE2,2019,1
+01/04/2019,IK Brage,IK Frej Täby,2,0,SE2,2019,1
+02/04/2019,Jönköpings Södra IF,Halmstads BK,0,1,SE2,2019,1
+05/04/2019,GAIS,Östers IF,1,1,SE2,2019,2
+06/04/2019,Degerfors IF,Jönköpings Södra IF,2,1,SE2,2019,2
+06/04/2019,Halmstads BK,Örgryte IS,1,3,SE2,2019,2
+07/04/2019,Dalkurd FF,IF Brommapojkarna,0,4,SE2,2019,2
+07/04/2019,Varbergs BoIS,Trelleborgs FF,3,1,SE2,2019,2
+07/04/2019,IK Frej Täby,Syrianska FC,0,3,SE2,2019,2
+08/04/2019,Norrby IF,Mjällby AIF,2,1,SE2,2019,2
+09/04/2019,Västerås SK,IK Brage,1,1,SE2,2019,2
+12/04/2019,Jönköpings Södra IF,Dalkurd FF,1,0,SE2,2019,3
+13/04/2019,Mjällby AIF,Västerås SK,2,1,SE2,2019,3
+13/04/2019,IK Brage,Halmstads BK,2,0,SE2,2019,3
+14/04/2019,IF Brommapojkarna,GAIS,1,2,SE2,2019,3
+14/04/2019,Syrianska FC,Varbergs BoIS,1,5,SE2,2019,3
+15/04/2019,Örgryte IS,IK Frej Täby,2,0,SE2,2019,3
+15/04/2019,Trelleborgs FF,Norrby IF,1,1,SE2,2019,3
+16/04/2019,Östers IF,Degerfors IF,1,1,SE2,2019,3
+19/04/2019,GAIS,IK Brage,0,3,SE2,2019,4
+20/04/2019,Degerfors IF,Örgryte IS,1,2,SE2,2019,4
+21/04/2019,Norrby IF,Jönköpings Södra IF,1,7,SE2,2019,4
+21/04/2019,Dalkurd FF,Mjällby AIF,2,1,SE2,2019,4
+22/04/2019,Västerås SK,Trelleborgs FF,0,0,SE2,2019,4
+22/04/2019,Halmstads BK,Syrianska FC,2,2,SE2,2019,4
+22/04/2019,IK Frej Täby,Östers IF,3,2,SE2,2019,4
+22/04/2019,Varbergs BoIS,IF Brommapojkarna,3,0,SE2,2019,4
+26/04/2019,Örgryte IS,Västerås SK,0,2,SE2,2019,5
+27/04/2019,Mjällby AIF,Degerfors IF,1,0,SE2,2019,5
+27/04/2019,Jönköpings Södra IF,IK Frej Täby,1,1,SE2,2019,5
+27/04/2019,IF Brommapojkarna,Halmstads BK,2,1,SE2,2019,5
+28/04/2019,Trelleborgs FF,Dalkurd FF,2,0,SE2,2019,5
+28/04/2019,IK Brage,Varbergs BoIS,1,2,SE2,2019,5
+28/04/2019,Syrianska FC,GAIS,0,0,SE2,2019,5
+29/04/2019,Östers IF,Norrby IF,0,1,SE2,2019,5
+03/05/2019,Norrby IF,IF Brommapojkarna,2,0,SE2,2019,6
+04/05/2019,Västerås SK,Varbergs BoIS,1,2,SE2,2019,6
+04/05/2019,Mjällby AIF,Örgryte IS,2,1,SE2,2019,6
+05/05/2019,GAIS,Jönköpings Södra IF,1,0,SE2,2019,6
+05/05/2019,Halmstads BK,Östers IF,0,1,SE2,2019,6
+06/05/2019,Dalkurd FF,Syrianska FC,4,1,SE2,2019,6
+06/05/2019,IK Frej Täby,Trelleborgs FF,3,3,SE2,2019,6
+07/05/2019,Degerfors IF,IK Brage,1,0,SE2,2019,6
+10/05/2019,GAIS,IK Frej Täby,0,1,SE2,2019,7
+11/05/2019,Trelleborgs FF,Halmstads BK,0,1,SE2,2019,7
+11/05/2019,Varbergs BoIS,Dalkurd FF,2,0,SE2,2019,7
+11/05/2019,IF Brommapojkarna,Degerfors IF,2,3,SE2,2019,7
+11/05/2019,Örgryte IS,Jönköpings Södra IF,1,1,SE2,2019,7
+12/05/2019,Östers IF,Västerås SK,0,0,SE2,2019,7
+12/05/2019,IK Brage,Norrby IF,0,0,SE2,2019,7
+12/05/2019,Syrianska FC,Mjällby AIF,1,2,SE2,2019,7
+14/05/2019,Halmstads BK,GAIS,1,2,SE2,2019,8
+15/05/2019,Örgryte IS,Varbergs BoIS,1,1,SE2,2019,8
+15/05/2019,Mjällby AIF,Trelleborgs FF,2,1,SE2,2019,8
+15/05/2019,IK Frej Täby,IF Brommapojkarna,1,1,SE2,2019,8
+16/05/2019,Västerås SK,Syrianska FC,0,0,SE2,2019,8
+16/05/2019,Jönköpings Södra IF,Östers IF,2,0,SE2,2019,8
+16/05/2019,Dalkurd FF,IK Brage,1,3,SE2,2019,8
+16/05/2019,Degerfors IF,Norrby IF,0,0,SE2,2019,8
+18/05/2019,Varbergs BoIS,Halmstads BK,1,0,SE2,2019,9
+19/05/2019,Trelleborgs FF,Örgryte IS,2,1,SE2,2019,9
+19/05/2019,Norrby IF,IK Frej Täby,3,0,SE2,2019,9
+19/05/2019,Östers IF,Mjällby AIF,0,1,SE2,2019,9
+20/05/2019,IF Brommapojkarna,Jönköpings Södra IF,0,2,SE2,2019,9
+20/05/2019,IK Brage,Syrianska FC,1,0,SE2,2019,9
+21/05/2019,GAIS,Västerås SK,1,1,SE2,2019,9
+21/05/2019,Degerfors IF,Dalkurd FF,1,2,SE2,2019,9
+25/05/2019,Halmstads BK,Degerfors IF,3,0,SE2,2019,10
+25/05/2019,IK Frej Täby,Varbergs BoIS,1,1,SE2,2019,10
+25/05/2019,Syrianska FC,IF Brommapojkarna,1,0,SE2,2019,10
+25/05/2019,Jönköpings Södra IF,IK Brage,2,0,SE2,2019,10
+26/05/2019,Mjällby AIF,GAIS,2,0,SE2,2019,10
+26/05/2019,Trelleborgs FF,Östers IF,1,1,SE2,2019,10
+27/05/2019,Västerås SK,Norrby IF,1,3,SE2,2019,10
+28/05/2019,Dalkurd FF,Örgryte IS,3,2,SE2,2019,10
+01/06/2019,Halmstads BK,Västerås SK,0,0,SE2,2019,11
+01/06/2019,Norrby IF,Dalkurd FF,0,0,SE2,2019,11
+01/06/2019,Mjällby AIF,Jönköpings Södra IF,1,0,SE2,2019,11
+01/06/2019,Degerfors IF,IK Frej Täby,2,3,SE2,2019,11
+02/06/2019,Varbergs BoIS,GAIS,2,1,SE2,2019,11
+02/06/2019,IF Brommapojkarna,Trelleborgs FF,2,3,SE2,2019,11
+03/06/2019,Östers IF,IK Brage,2,2,SE2,2019,11
+04/06/2019,Örgryte IS,Syrianska FC,2,0,SE2,2019,11
+08/06/2019,Västerås SK,IK Frej Täby,2,0,SE2,2019,12
+08/06/2019,Trelleborgs FF,Degerfors IF,0,0,SE2,2019,12
+08/06/2019,IF Brommapojkarna,Mjällby AIF,1,1,SE2,2019,12
+09/06/2019,Dalkurd FF,Halmstads BK,1,0,SE2,2019,12
+11/06/2019,IK Brage,Örgryte IS,0,1,SE2,2019,12
+19/06/2019,Jönköpings Södra IF,Varbergs BoIS,3,1,SE2,2019,12
+24/07/2019,GAIS,Norrby IF,1,0,SE2,2019,12
+31/07/2019,Syrianska FC,Östers IF,1,1,SE2,2019,12
+14/06/2019,Syrianska FC,Jönköpings Södra IF,2,1,SE2,2019,13
+15/06/2019,Östers IF,IF Brommapojkarna,2,2,SE2,2019,13
+15/06/2019,IK Brage,Trelleborgs FF,2,0,SE2,2019,13
+15/06/2019,IK Frej Täby,Dalkurd FF,1,3,SE2,2019,13
+15/06/2019,Varbergs BoIS,Norrby IF,3,2,SE2,2019,13
+15/06/2019,Degerfors IF,Västerås SK,3,2,SE2,2019,13
+16/06/2019,Halmstads BK,Mjällby AIF,2,0,SE2,2019,13
+17/06/2019,Örgryte IS,GAIS,1,0,SE2,2019,13
+23/06/2019,Jönköpings Södra IF,Trelleborgs FF,2,0,SE2,2019,14
+23/06/2019,Mjällby AIF,IK Brage,1,2,SE2,2019,14
+23/06/2019,Halmstads BK,IK Frej Täby,4,1,SE2,2019,14
+23/06/2019,IF Brommapojkarna,Örgryte IS,0,0,SE2,2019,14
+24/06/2019,Östers IF,Varbergs BoIS,1,1,SE2,2019,14
+24/06/2019,Norrby IF,Syrianska FC,3,2,SE2,2019,14
+24/06/2019,GAIS,Degerfors IF,0,3,SE2,2019,14
+25/06/2019,Dalkurd FF,Västerås SK,1,6,SE2,2019,14
+10/07/2019,Varbergs BoIS,Degerfors IF,1,0,SE2,2019,15
+13/07/2019,Örgryte IS,Östers IF,2,0,SE2,2019,15
+13/07/2019,Trelleborgs FF,Syrianska FC,1,2,SE2,2019,15
+13/07/2019,IK Frej Täby,Mjällby AIF,1,2,SE2,2019,15
+13/07/2019,IK Brage,IF Brommapojkarna,3,1,SE2,2019,15
+14/07/2019,GAIS,Dalkurd FF,1,5,SE2,2019,15
+14/07/2019,Norrby IF,Halmstads BK,0,1,SE2,2019,15
+16/07/2019,Västerås SK,Jönköpings Södra IF,2,2,SE2,2019,15
+20/07/2019,IF Brommapojkarna,Norrby IF,3,1,SE2,2019,16
+20/07/2019,Dalkurd FF,Varbergs BoIS,1,0,SE2,2019,16
+20/07/2019,Degerfors IF,GAIS,0,1,SE2,2019,16
+20/07/2019,Syrianska FC,IK Brage,0,2,SE2,2019,16
+20/07/2019,IK Frej Täby,Örgryte IS,1,1,SE2,2019,16
+21/07/2019,Mjällby AIF,Halmstads BK,2,0,SE2,2019,16
+21/07/2019,Östers IF,Trelleborgs FF,0,2,SE2,2019,16
+23/07/2019,Jönköpings Södra IF,Västerås SK,2,1,SE2,2019,16
+25/07/2019,Halmstads BK,IF Brommapojkarna,2,2,SE2,2019,17
+27/07/2019,Trelleborgs FF,IK Frej Täby,1,0,SE2,2019,17
+27/07/2019,Norrby IF,Östers IF,3,1,SE2,2019,17
+27/07/2019,IK Brage,Mjällby AIF,1,2,SE2,2019,17
+27/07/2019,GAIS,Syrianska FC,0,1,SE2,2019,17
+27/07/2019,Jönköpings Södra IF,Degerfors IF,1,1,SE2,2019,17
+28/07/2019,Västerås SK,Dalkurd FF,1,1,SE2,2019,17
+28/07/2019,Varbergs BoIS,Örgryte IS,1,2,SE2,2019,17
+01/08/2019,Mjällby AIF,Norrby IF,1,1,SE2,2019,18
+03/08/2019,Dalkurd FF,Jönköpings Södra IF,0,2,SE2,2019,18
+03/08/2019,Degerfors IF,Varbergs BoIS,3,1,SE2,2019,18
+03/08/2019,IF Brommapojkarna,IK Brage,1,2,SE2,2019,18
+04/08/2019,IK Frej Täby,Västerås SK,1,1,SE2,2019,18
+04/08/2019,Syrianska FC,Trelleborgs FF,2,2,SE2,2019,18
+04/08/2019,Östers IF,GAIS,2,1,SE2,2019,18
+06/08/2019,Örgryte IS,Halmstads BK,3,1,SE2,2019,18
+09/08/2019,Varbergs BoIS,IK Frej Täby,2,2,SE2,2019,19
+10/08/2019,Halmstads BK,Dalkurd FF,2,0,SE2,2019,19
+10/08/2019,Norrby IF,Degerfors IF,1,0,SE2,2019,19
+11/08/2019,Trelleborgs FF,IF Brommapojkarna,1,1,SE2,2019,19
+11/08/2019,IK Brage,Östers IF,5,1,SE2,2019,19
+11/08/2019,Västerås SK,Örgryte IS,2,0,SE2,2019,19
+11/08/2019,GAIS,Mjällby AIF,1,2,SE2,2019,19
+12/08/2019,Jönköpings Södra IF,Syrianska FC,3,1,SE2,2019,19
+16/08/2019,IK Frej Täby,Jönköpings Södra IF,1,3,SE2,2019,20
+17/08/2019,Västerås SK,Halmstads BK,2,3,SE2,2019,20
+17/08/2019,Örgryte IS,Mjällby AIF,1,1,SE2,2019,20
+17/08/2019,Syrianska FC,Norrby IF,4,4,SE2,2019,20
+17/08/2019,Degerfors IF,Trelleborgs FF,2,2,SE2,2019,20
+18/08/2019,Dalkurd FF,GAIS,3,0,SE2,2019,20
+18/08/2019,IF Brommapojkarna,Östers IF,1,1,SE2,2019,20
+19/08/2019,Varbergs BoIS,IK Brage,0,0,SE2,2019,20
+24/08/2019,Syrianska FC,Västerås SK,1,2,SE2,2019,21
+25/08/2019,IK Frej Täby,Degerfors IF,2,3,SE2,2019,21
+25/08/2019,Östers IF,Örgryte IS,1,3,SE2,2019,21
+25/08/2019,Mjällby AIF,Dalkurd FF,3,2,SE2,2019,21
+25/08/2019,GAIS,IF Brommapojkarna,2,0,SE2,2019,21
+26/08/2019,Trelleborgs FF,Varbergs BoIS,0,1,SE2,2019,21
+26/08/2019,Norrby IF,IK Brage,1,3,SE2,2019,21
+27/08/2019,Halmstads BK,Jönköpings Södra IF,1,2,SE2,2019,21
+30/08/2019,IK Brage,GAIS,1,1,SE2,2019,22
+31/08/2019,Degerfors IF,Halmstads BK,2,1,SE2,2019,22
+31/08/2019,Mjällby AIF,IK Frej Täby,2,1,SE2,2019,22
+31/08/2019,Varbergs BoIS,Östers IF,0,0,SE2,2019,22
+01/09/2019,Jönköpings Södra IF,Örgryte IS,5,2,SE2,2019,22
+01/09/2019,IF Brommapojkarna,Syrianska FC,1,1,SE2,2019,22
+01/09/2019,Trelleborgs FF,Västerås SK,2,1,SE2,2019,22
+01/09/2019,Dalkurd FF,Norrby IF,3,1,SE2,2019,22
+13/09/2019,GAIS,Halmstads BK,1,1,SE2,2019,23
+14/09/2019,Örgryte IS,Trelleborgs FF,0,1,SE2,2019,23
+14/09/2019,Östers IF,Jönköpings Södra IF,0,2,SE2,2019,23
+14/09/2019,Syrianska FC,IK Frej Täby,0,3,SE2,2019,23
+15/09/2019,IK Brage,Dalkurd FF,3,1,SE2,2019,23
+15/09/2019,Norrby IF,Varbergs BoIS,1,1,SE2,2019,23
+16/09/2019,Västerås SK,IF Brommapojkarna,1,2,SE2,2019,23
+17/09/2019,Degerfors IF,Mjällby AIF,2,1,SE2,2019,23
+20/09/2019,Örgryte IS,IK Brage,3,2,SE2,2019,24
+20/09/2019,IK Frej Täby,GAIS,1,0,SE2,2019,24
+21/09/2019,Varbergs BoIS,Syrianska FC,5,0,SE2,2019,24
+21/09/2019,Jönköpings Södra IF,Norrby IF,0,2,SE2,2019,24
+21/09/2019,Dalkurd FF,Östers IF,2,1,SE2,2019,24
+22/09/2019,Västerås SK,Degerfors IF,1,0,SE2,2019,24
+22/09/2019,Mjällby AIF,IF Brommapojkarna,0,2,SE2,2019,24
+22/09/2019,Halmstads BK,Trelleborgs FF,3,0,SE2,2019,24
+24/09/2019,GAIS,Örgryte IS,0,0,SE2,2019,25
+24/09/2019,Varbergs BoIS,Jönköpings Södra IF,0,0,SE2,2019,25
+25/09/2019,Trelleborgs FF,Mjällby AIF,0,3,SE2,2019,25
+25/09/2019,IF Brommapojkarna,IK Frej Täby,0,3,SE2,2019,25
+25/09/2019,Östers IF,Halmstads BK,1,0,SE2,2019,25
+25/09/2019,Norrby IF,Västerås SK,1,0,SE2,2019,25
+25/09/2019,Syrianska FC,Dalkurd FF,1,2,SE2,2019,25
+26/09/2019,IK Brage,Degerfors IF,1,2,SE2,2019,25
+28/09/2019,Örgryte IS,IF Brommapojkarna,3,2,SE2,2019,26
+29/09/2019,Halmstads BK,Varbergs BoIS,3,2,SE2,2019,26
+29/09/2019,Dalkurd FF,Trelleborgs FF,3,2,SE2,2019,26
+29/09/2019,Västerås SK,Östers IF,1,2,SE2,2019,26
+30/09/2019,IK Frej Täby,IK Brage,2,3,SE2,2019,26
+30/09/2019,Degerfors IF,Syrianska FC,2,0,SE2,2019,26
+01/10/2019,Jönköpings Södra IF,Mjällby AIF,0,0,SE2,2019,26
+01/10/2019,Norrby IF,GAIS,0,1,SE2,2019,26
+05/10/2019,Varbergs BoIS,Västerås SK,4,0,SE2,2019,27
+05/10/2019,Mjällby AIF,Östers IF,3,2,SE2,2019,27
+05/10/2019,Degerfors IF,IF Brommapojkarna,2,1,SE2,2019,27
+06/10/2019,Halmstads BK,Norrby IF,3,0,SE2,2019,27
+06/10/2019,Dalkurd FF,IK Frej Täby,1,1,SE2,2019,27
+06/10/2019,Syrianska FC,Örgryte IS,1,0,SE2,2019,27
+06/10/2019,Jönköpings Södra IF,GAIS,1,2,SE2,2019,27
+06/10/2019,Trelleborgs FF,IK Brage,2,2,SE2,2019,27
+18/10/2019,IK Frej Täby,Halmstads BK,0,3,SE2,2019,28
+19/10/2019,GAIS,Varbergs BoIS,0,1,SE2,2019,28
+19/10/2019,Västerås SK,Mjällby AIF,2,2,SE2,2019,28
+19/10/2019,IF Brommapojkarna,Dalkurd FF,2,1,SE2,2019,28
+20/10/2019,IK Brage,Jönköpings Södra IF,3,1,SE2,2019,28
+20/10/2019,Norrby IF,Trelleborgs FF,4,0,SE2,2019,28
+21/10/2019,Östers IF,Syrianska FC,4,0,SE2,2019,28
+22/10/2019,Örgryte IS,Degerfors IF,1,1,SE2,2019,28
+25/10/2019,IK Frej Täby,Norrby IF,1,0,SE2,2019,29
+26/10/2019,Trelleborgs FF,Jönköpings Södra IF,2,3,SE2,2019,29
+26/10/2019,Västerås SK,GAIS,4,1,SE2,2019,29
+26/10/2019,Degerfors IF,Östers IF,2,0,SE2,2019,29
+27/10/2019,Halmstads BK,IK Brage,3,2,SE2,2019,29
+27/10/2019,IF Brommapojkarna,Varbergs BoIS,1,1,SE2,2019,29
+28/10/2019,Örgryte IS,Dalkurd FF,0,0,SE2,2019,29
+28/10/2019,Mjällby AIF,Syrianska FC,2,0,SE2,2019,29
+03/11/2019,Jönköpings Södra IF,IF Brommapojkarna,2,2,SE2,2019,30
+03/11/2019,Östers IF,IK Frej Täby,4,0,SE2,2019,30
+03/11/2019,Norrby IF,Örgryte IS,4,4,SE2,2019,30
+03/11/2019,IK Brage,Västerås SK,2,1,SE2,2019,30
+03/11/2019,GAIS,Trelleborgs FF,0,0,SE2,2019,30
+03/11/2019,Dalkurd FF,Degerfors IF,1,3,SE2,2019,30
+03/11/2019,Varbergs BoIS,Mjällby AIF,1,1,SE2,2019,30
+03/11/2019,Syrianska FC,Halmstads BK,0,2,SE2,2019,30
+16/06/2020,Akropolis IF,Dalkurd FF,0,0,SE2,2020,1
+16/06/2020,AFC Eskilstuna,Västerås SK,0,1,SE2,2020,1
+16/06/2020,GIF Sundsvall,Umeå FC,3,1,SE2,2020,1
+16/06/2020,Halmstads BK,Trelleborgs FF,0,1,SE2,2020,1
+16/06/2020,GAIS,Jönköpings Södra IF,1,0,SE2,2020,1
+17/06/2020,Ljungskile SK,Örgryte IS,2,3,SE2,2020,1
+17/06/2020,Degerfors IF,IK Brage,4,1,SE2,2020,1
+17/06/2020,Östers IF,Norrby IF,2,1,SE2,2020,1
+21/06/2020,Norrby IF,GAIS,3,0,SE2,2020,2
+21/06/2020,Umeå FC,Akropolis IF,1,1,SE2,2020,2
+21/06/2020,Västerås SK,Degerfors IF,2,2,SE2,2020,2
+22/06/2020,IK Brage,GIF Sundsvall,1,2,SE2,2020,2
+23/06/2020,Trelleborgs FF,Östers IF,0,1,SE2,2020,2
+23/06/2020,Jönköpings Södra IF,Ljungskile SK,2,1,SE2,2020,2
+23/06/2020,Dalkurd FF,AFC Eskilstuna,5,0,SE2,2020,2
+23/06/2020,Örgryte IS,Halmstads BK,0,3,SE2,2020,2
+27/06/2020,AFC Eskilstuna,Umeå FC,1,3,SE2,2020,3
+27/06/2020,Akropolis IF,Örgryte IS,2,0,SE2,2020,3
+27/06/2020,GIF Sundsvall,Dalkurd FF,1,1,SE2,2020,3
+27/06/2020,Halmstads BK,Jönköpings Södra IF,3,0,SE2,2020,3
+27/06/2020,Östers IF,Västerås SK,0,0,SE2,2020,3
+28/06/2020,GAIS,IK Brage,0,1,SE2,2020,3
+28/06/2020,Degerfors IF,Norrby IF,0,1,SE2,2020,3
+28/06/2020,Ljungskile SK,Trelleborgs FF,2,0,SE2,2020,3
+03/07/2020,Trelleborgs FF,GIF Sundsvall,1,1,SE2,2020,4
+03/07/2020,Jönköpings Södra IF,Akropolis IF,3,1,SE2,2020,4
+04/07/2020,Dalkurd FF,Degerfors IF,1,2,SE2,2020,4
+04/07/2020,Umeå FC,Östers IF,0,0,SE2,2020,4
+04/07/2020,Norrby IF,Ljungskile SK,2,2,SE2,2020,4
+04/07/2020,Örgryte IS,AFC Eskilstuna,2,1,SE2,2020,4
+04/07/2020,IK Brage,Halmstads BK,0,0,SE2,2020,4
+05/07/2020,Västerås SK,GAIS,2,2,SE2,2020,4
+07/07/2020,Akropolis IF,Trelleborgs FF,2,2,SE2,2020,5
+07/07/2020,AFC Eskilstuna,Jönköpings Södra IF,3,2,SE2,2020,5
+07/07/2020,Degerfors IF,Umeå FC,1,0,SE2,2020,5
+08/07/2020,Ljungskile SK,IK Brage,1,3,SE2,2020,5
+08/07/2020,GIF Sundsvall,Västerås SK,3,1,SE2,2020,5
+08/07/2020,Halmstads BK,Norrby IF,3,0,SE2,2020,5
+08/07/2020,GAIS,Dalkurd FF,2,1,SE2,2020,5
+08/07/2020,Östers IF,Örgryte IS,2,0,SE2,2020,5
+11/07/2020,Jönköpings Södra IF,Degerfors IF,0,1,SE2,2020,6
+11/07/2020,Örgryte IS,GIF Sundsvall,0,2,SE2,2020,6
+12/07/2020,Umeå FC,Halmstads BK,0,1,SE2,2020,6
+12/07/2020,AFC Eskilstuna,IK Brage,1,2,SE2,2020,6
+12/07/2020,Västerås SK,Ljungskile SK,2,1,SE2,2020,6
+13/07/2020,Trelleborgs FF,GAIS,2,0,SE2,2020,6
+13/07/2020,Dalkurd FF,Östers IF,1,1,SE2,2020,6
+13/07/2020,Norrby IF,Akropolis IF,1,1,SE2,2020,6
+18/07/2020,Ljungskile SK,Dalkurd FF,2,2,SE2,2020,7
+18/07/2020,GIF Sundsvall,Norrby IF,0,0,SE2,2020,7
+18/07/2020,GAIS,Umeå FC,1,1,SE2,2020,7
+18/07/2020,Degerfors IF,Trelleborgs FF,1,0,SE2,2020,7
+18/07/2020,Östers IF,Jönköpings Södra IF,1,3,SE2,2020,7
+19/07/2020,IK Brage,Örgryte IS,3,2,SE2,2020,7
+19/07/2020,Halmstads BK,AFC Eskilstuna,2,1,SE2,2020,7
+20/07/2020,Akropolis IF,Västerås SK,2,0,SE2,2020,7
+24/07/2020,AFC Eskilstuna,GAIS,2,0,SE2,2020,8
+24/07/2020,Örgryte IS,Degerfors IF,1,1,SE2,2020,8
+25/07/2020,Umeå FC,Ljungskile SK,3,1,SE2,2020,8
+25/07/2020,Västerås SK,Norrby IF,1,2,SE2,2020,8
+25/07/2020,Östers IF,GIF Sundsvall,1,1,SE2,2020,8
+25/07/2020,Trelleborgs FF,Dalkurd FF,4,1,SE2,2020,8
+25/07/2020,Jönköpings Södra IF,IK Brage,2,0,SE2,2020,8
+25/07/2020,Halmstads BK,Akropolis IF,2,3,SE2,2020,8
+29/07/2020,Västerås SK,Halmstads BK,2,3,SE2,2020,9
+29/07/2020,Jönköpings Södra IF,GIF Sundsvall,3,3,SE2,2020,9
+29/07/2020,Dalkurd FF,Örgryte IS,0,0,SE2,2020,9
+29/07/2020,GAIS,Ljungskile SK,1,1,SE2,2020,9
+29/07/2020,Norrby IF,AFC Eskilstuna,0,0,SE2,2020,9
+29/07/2020,Degerfors IF,Östers IF,3,1,SE2,2020,9
+30/07/2020,Trelleborgs FF,Umeå FC,1,1,SE2,2020,9
+30/07/2020,IK Brage,Akropolis IF,1,1,SE2,2020,9
+01/08/2020,Ljungskile SK,Halmstads BK,0,0,SE2,2020,10
+01/08/2020,AFC Eskilstuna,Östers IF,1,1,SE2,2020,10
+01/08/2020,GIF Sundsvall,Degerfors IF,1,4,SE2,2020,10
+02/08/2020,Norrby IF,Jönköpings Södra IF,1,2,SE2,2020,10
+02/08/2020,Akropolis IF,GAIS,2,2,SE2,2020,10
+03/08/2020,Umeå FC,Dalkurd FF,1,2,SE2,2020,10
+03/08/2020,Örgryte IS,Västerås SK,2,1,SE2,2020,10
+03/08/2020,IK Brage,Trelleborgs FF,3,0,SE2,2020,10
+07/08/2020,GIF Sundsvall,Ljungskile SK,5,2,SE2,2020,11
+07/08/2020,Västerås SK,IK Brage,2,1,SE2,2020,11
+07/08/2020,Östers IF,Akropolis IF,0,1,SE2,2020,11
+08/08/2020,Degerfors IF,AFC Eskilstuna,5,0,SE2,2020,11
+08/08/2020,Jönköpings Södra IF,Umeå FC,1,0,SE2,2020,11
+08/08/2020,Dalkurd FF,Norrby IF,2,2,SE2,2020,11
+08/08/2020,Halmstads BK,GAIS,0,0,SE2,2020,11
+09/08/2020,Örgryte IS,Trelleborgs FF,2,1,SE2,2020,11
+11/08/2020,Akropolis IF,GIF Sundsvall,1,1,SE2,2020,12
+11/08/2020,Halmstads BK,Östers IF,2,0,SE2,2020,12
+12/08/2020,GAIS,Degerfors IF,0,0,SE2,2020,12
+12/08/2020,IK Brage,Norrby IF,1,1,SE2,2020,12
+12/08/2020,Jönköpings Södra IF,Dalkurd FF,2,1,SE2,2020,12
+12/08/2020,Ljungskile SK,AFC Eskilstuna,2,1,SE2,2020,12
+12/08/2020,Trelleborgs FF,Västerås SK,1,0,SE2,2020,12
+12/08/2020,Umeå FC,Örgryte IS,2,2,SE2,2020,12
+15/08/2020,Dalkurd FF,Halmstads BK,1,1,SE2,2020,13
+15/08/2020,Östers IF,IK Brage,4,2,SE2,2020,13
+15/08/2020,GIF Sundsvall,GAIS,3,0,SE2,2020,13
+16/08/2020,Degerfors IF,Ljungskile SK,4,1,SE2,2020,13
+16/08/2020,Västerås SK,Umeå FC,2,0,SE2,2020,13
+16/08/2020,Norrby IF,Trelleborgs FF,1,3,SE2,2020,13
+17/08/2020,AFC Eskilstuna,Akropolis IF,1,2,SE2,2020,13
+18/08/2020,Örgryte IS,Jönköpings Södra IF,2,0,SE2,2020,13
+22/08/2020,Umeå FC,Norrby IF,1,1,SE2,2020,14
+22/08/2020,Halmstads BK,GIF Sundsvall,1,0,SE2,2020,14
+22/08/2020,GAIS,Örgryte IS,0,0,SE2,2020,14
+23/08/2020,Jönköpings Södra IF,Västerås SK,1,1,SE2,2020,14
+23/08/2020,Trelleborgs FF,AFC Eskilstuna,1,1,SE2,2020,14
+23/08/2020,Ljungskile SK,Östers IF,0,2,SE2,2020,14
+24/08/2020,Akropolis IF,Degerfors IF,1,1,SE2,2020,14
+24/08/2020,IK Brage,Dalkurd FF,2,1,SE2,2020,14
+29/08/2020,Dalkurd FF,Västerås SK,3,2,SE2,2020,15
+29/08/2020,Degerfors IF,Halmstads BK,0,2,SE2,2020,15
+29/08/2020,AFC Eskilstuna,GIF Sundsvall,3,2,SE2,2020,15
+29/08/2020,Trelleborgs FF,Jönköpings Södra IF,0,2,SE2,2020,15
+29/08/2020,Östers IF,GAIS,4,1,SE2,2020,15
+30/08/2020,IK Brage,Umeå FC,0,1,SE2,2020,15
+30/08/2020,Akropolis IF,Ljungskile SK,1,0,SE2,2020,15
+31/08/2020,Norrby IF,Örgryte IS,2,0,SE2,2020,15
+04/09/2020,GAIS,Trelleborgs FF,2,1,SE2,2020,16
+05/09/2020,Ljungskile SK,Akropolis IF,2,1,SE2,2020,16
+05/09/2020,GIF Sundsvall,Östers IF,1,2,SE2,2020,16
+05/09/2020,Jönköpings Södra IF,AFC Eskilstuna,3,0,SE2,2020,16
+05/09/2020,Örgryte IS,Norrby IF,2,0,SE2,2020,16
+06/09/2020,Umeå FC,IK Brage,1,1,SE2,2020,16
+06/09/2020,Västerås SK,Dalkurd FF,1,0,SE2,2020,16
+07/09/2020,Halmstads BK,Degerfors IF,1,4,SE2,2020,16
+11/09/2020,Akropolis IF,Östers IF,2,2,SE2,2020,17
+11/09/2020,Trelleborgs FF,IK Brage,0,1,SE2,2020,17
+11/09/2020,Dalkurd FF,Umeå FC,0,0,SE2,2020,17
+11/09/2020,Örgryte IS,Ljungskile SK,4,0,SE2,2020,17
+12/09/2020,GAIS,GIF Sundsvall,3,1,SE2,2020,17
+12/09/2020,AFC Eskilstuna,Halmstads BK,0,3,SE2,2020,17
+12/09/2020,Degerfors IF,Jönköpings Södra IF,4,2,SE2,2020,17
+13/09/2020,Norrby IF,Västerås SK,3,1,SE2,2020,17
+15/09/2020,Östers IF,Trelleborgs FF,1,0,SE2,2020,18
+16/09/2020,GIF Sundsvall,Akropolis IF,1,2,SE2,2020,18
+16/09/2020,Jönköpings Södra IF,Örgryte IS,2,0,SE2,2020,18
+16/09/2020,Halmstads BK,Umeå FC,4,0,SE2,2020,18
+16/09/2020,Degerfors IF,Dalkurd FF,2,1,SE2,2020,18
+16/09/2020,IK Brage,GAIS,2,1,SE2,2020,18
+17/09/2020,Ljungskile SK,Norrby IF,1,1,SE2,2020,18
+17/09/2020,Västerås SK,AFC Eskilstuna,0,1,SE2,2020,18
+19/09/2020,Trelleborgs FF,Örgryte IS,1,1,SE2,2020,19
+19/09/2020,Jönköpings Södra IF,Östers IF,4,1,SE2,2020,19
+20/09/2020,Akropolis IF,Halmstads BK,1,1,SE2,2020,19
+20/09/2020,Dalkurd FF,IK Brage,1,1,SE2,2020,19
+21/09/2020,AFC Eskilstuna,Ljungskile SK,0,0,SE2,2020,19
+21/09/2020,GAIS,Västerås SK,1,0,SE2,2020,19
+21/09/2020,Umeå FC,Degerfors IF,0,6,SE2,2020,19
+22/09/2020,Norrby IF,GIF Sundsvall,0,1,SE2,2020,19
+26/09/2020,Norrby IF,Degerfors IF,0,2,SE2,2020,20
+26/09/2020,Dalkurd FF,Akropolis IF,1,1,SE2,2020,20
+26/09/2020,Västerås SK,Jönköpings Södra IF,2,2,SE2,2020,20
+26/09/2020,Halmstads BK,Ljungskile SK,2,0,SE2,2020,20
+26/09/2020,IK Brage,Östers IF,1,2,SE2,2020,20
+27/09/2020,GIF Sundsvall,Trelleborgs FF,2,1,SE2,2020,20
+27/09/2020,Umeå FC,AFC Eskilstuna,0,3,SE2,2020,20
+28/09/2020,Örgryte IS,GAIS,0,2,SE2,2020,20
+03/10/2020,GIF Sundsvall,AFC Eskilstuna,2,3,SE2,2020,21
+03/10/2020,Jönköpings Södra IF,Halmstads BK,1,0,SE2,2020,21
+03/10/2020,Örgryte IS,IK Brage,1,3,SE2,2020,21
+04/10/2020,Östers IF,Dalkurd FF,2,1,SE2,2020,21
+04/10/2020,Ljungskile SK,GAIS,1,2,SE2,2020,21
+04/10/2020,Akropolis IF,Umeå FC,3,3,SE2,2020,21
+05/10/2020,Trelleborgs FF,Norrby IF,2,2,SE2,2020,21
+05/10/2020,Degerfors IF,Västerås SK,4,1,SE2,2020,21
+10/10/2020,Trelleborgs FF,Akropolis IF,1,1,SE2,2020,22
+10/10/2020,Umeå FC,Jönköpings Södra IF,1,2,SE2,2020,22
+10/10/2020,Dalkurd FF,Ljungskile SK,2,0,SE2,2020,22
+10/10/2020,GAIS,Halmstads BK,1,3,SE2,2020,22
+10/10/2020,IK Brage,Degerfors IF,0,0,SE2,2020,22
+11/10/2020,Västerås SK,GIF Sundsvall,3,2,SE2,2020,22
+11/10/2020,Norrby IF,Östers IF,0,2,SE2,2020,22
+12/10/2020,AFC Eskilstuna,Örgryte IS,1,0,SE2,2020,22
+16/10/2020,Akropolis IF,AFC Eskilstuna,3,2,SE2,2020,23
+16/10/2020,GAIS,Norrby IF,3,3,SE2,2020,23
+16/10/2020,Umeå FC,Trelleborgs FF,0,1,SE2,2020,23
+17/10/2020,Halmstads BK,IK Brage,2,0,SE2,2020,23
+17/10/2020,Östers IF,Degerfors IF,2,0,SE2,2020,23
+17/10/2020,Ljungskile SK,Västerås SK,0,2,SE2,2020,23
+17/10/2020,GIF Sundsvall,Jönköpings Södra IF,3,2,SE2,2020,23
+17/10/2020,Örgryte IS,Dalkurd FF,1,2,SE2,2020,23
+21/10/2020,AFC Eskilstuna,Trelleborgs FF,3,2,SE2,2020,24
+21/10/2020,Västerås SK,Akropolis IF,2,1,SE2,2020,24
+21/10/2020,Dalkurd FF,GIF Sundsvall,1,3,SE2,2020,24
+21/10/2020,Norrby IF,Halmstads BK,0,2,SE2,2020,24
+21/10/2020,Degerfors IF,Örgryte IS,2,0,SE2,2020,24
+21/10/2020,Östers IF,Umeå FC,2,0,SE2,2020,24
+22/10/2020,Jönköpings Södra IF,GAIS,1,0,SE2,2020,24
+22/10/2020,IK Brage,Ljungskile SK,0,1,SE2,2020,24
+24/10/2020,Halmstads BK,Västerås SK,2,1,SE2,2020,25
+24/10/2020,Örgryte IS,Östers IF,4,1,SE2,2020,25
+25/10/2020,Akropolis IF,Norrby IF,1,3,SE2,2020,25
+25/10/2020,AFC Eskilstuna,Dalkurd FF,0,1,SE2,2020,25
+25/10/2020,Trelleborgs FF,Degerfors IF,1,1,SE2,2020,25
+26/10/2020,Ljungskile SK,GIF Sundsvall,0,0,SE2,2020,25
+26/10/2020,Umeå FC,GAIS,3,0,SE2,2020,25
+26/10/2020,IK Brage,Jönköpings Södra IF,1,4,SE2,2020,25
+31/10/2020,Degerfors IF,Akropolis IF,3,2,SE2,2020,26
+31/10/2020,Dalkurd FF,Jönköpings Södra IF,1,1,SE2,2020,26
+31/10/2020,GIF Sundsvall,Örgryte IS,4,1,SE2,2020,26
+31/10/2020,Östers IF,Halmstads BK,0,3,SE2,2020,26
+01/11/2020,Ljungskile SK,Umeå FC,0,0,SE2,2020,26
+01/11/2020,Västerås SK,Trelleborgs FF,3,1,SE2,2020,26
+02/11/2020,GAIS,AFC Eskilstuna,2,0,SE2,2020,26
+02/11/2020,Norrby IF,IK Brage,1,4,SE2,2020,26
+07/11/2020,IK Brage,Västerås SK,0,3,SE2,2020,27
+07/11/2020,Halmstads BK,Dalkurd FF,4,0,SE2,2020,27
+07/11/2020,Jönköpings Södra IF,Norrby IF,1,0,SE2,2020,27
+07/11/2020,Degerfors IF,GAIS,2,1,SE2,2020,27
+07/11/2020,Örgryte IS,Akropolis IF,0,1,SE2,2020,27
+08/11/2020,Östers IF,AFC Eskilstuna,2,1,SE2,2020,27
+08/11/2020,Trelleborgs FF,Ljungskile SK,1,0,SE2,2020,27
+09/11/2020,Umeå FC,GIF Sundsvall,1,0,SE2,2020,27
+21/11/2020,Ljungskile SK,Jönköpings Södra IF,0,1,SE2,2020,28
+21/11/2020,AFC Eskilstuna,Degerfors IF,2,0,SE2,2020,28
+21/11/2020,GIF Sundsvall,Halmstads BK,0,6,SE2,2020,28
+21/11/2020,Dalkurd FF,Trelleborgs FF,0,1,SE2,2020,28
+21/11/2020,GAIS,Östers IF,0,1,SE2,2020,28
+21/11/2020,Norrby IF,Umeå FC,6,0,SE2,2020,28
+22/11/2020,Västerås SK,Örgryte IS,0,3,SE2,2020,28
+22/11/2020,Akropolis IF,IK Brage,2,1,SE2,2020,28
+28/11/2020,Jönköpings Södra IF,Trelleborgs FF,2,1,SE2,2020,29
+28/11/2020,Halmstads BK,Örgryte IS,1,0,SE2,2020,29
+28/11/2020,GAIS,Akropolis IF,1,1,SE2,2020,29
+28/11/2020,Degerfors IF,GIF Sundsvall,2,5,SE2,2020,29
+28/11/2020,Östers IF,Ljungskile SK,0,1,SE2,2020,29
+28/11/2020,Umeå FC,Västerås SK,0,0,SE2,2020,29
+29/11/2020,Norrby IF,Dalkurd FF,2,0,SE2,2020,29
+29/11/2020,IK Brage,AFC Eskilstuna,1,3,SE2,2020,29
+05/12/2020,Ljungskile SK,Degerfors IF,0,3,SE2,2020,30
+05/12/2020,Akropolis IF,Jönköpings Södra IF,1,1,SE2,2020,30
+05/12/2020,AFC Eskilstuna,Norrby IF,1,0,SE2,2020,30
+05/12/2020,GIF Sundsvall,IK Brage,0,1,SE2,2020,30
+05/12/2020,Trelleborgs FF,Halmstads BK,2,4,SE2,2020,30
+05/12/2020,Västerås SK,Östers IF,2,1,SE2,2020,30
+05/12/2020,Dalkurd FF,GAIS,0,1,SE2,2020,30
+05/12/2020,Örgryte IS,Umeå FC,1,1,SE2,2020,30
+10/04/2021,Falkenbergs FF,GAIS,0,1,SE2,2021,1
+10/04/2021,Landskrona BoIS,IFK Värnamo,2,0,SE2,2021,1
+11/04/2021,Akropolis IF,IK Brage,1,1,SE2,2021,1
+11/04/2021,Örgryte IS,Östers IF,0,1,SE2,2021,1
+11/04/2021,Jönköpings Södra IF,Vasalunds IF,5,1,SE2,2021,1
+11/04/2021,Trelleborgs FF,Norrby IF,2,1,SE2,2021,1
+12/04/2021,Västerås SK,AFC Eskilstuna,0,0,SE2,2021,1
+13/04/2021,GIF Sundsvall,Helsingborgs IF,2,2,SE2,2021,1
+17/04/2021,AFC Eskilstuna,Akropolis IF,3,0,SE2,2021,2
+17/04/2021,GAIS,Västerås SK,1,0,SE2,2021,2
+17/04/2021,IK Brage,Falkenbergs FF,0,1,SE2,2021,2
+17/04/2021,Vasalunds IF,Trelleborgs FF,2,2,SE2,2021,2
+18/04/2021,Östers IF,Landskrona BoIS,1,1,SE2,2021,2
+18/04/2021,IFK Värnamo,GIF Sundsvall,2,1,SE2,2021,2
+19/04/2021,Norrby IF,Jönköpings Södra IF,2,0,SE2,2021,2
+20/04/2021,Helsingborgs IF,Örgryte IS,4,1,SE2,2021,2
+24/04/2021,Trelleborgs FF,Örgryte IS,1,1,SE2,2021,3
+24/04/2021,GIF Sundsvall,Norrby IF,2,0,SE2,2021,3
+24/04/2021,IFK Värnamo,IK Brage,1,0,SE2,2021,3
+24/04/2021,Östers IF,Falkenbergs FF,2,1,SE2,2021,3
+25/04/2021,Landskrona BoIS,Akropolis IF,1,1,SE2,2021,3
+25/04/2021,AFC Eskilstuna,GAIS,0,0,SE2,2021,3
+26/04/2021,Västerås SK,Vasalunds IF,2,1,SE2,2021,3
+27/04/2021,Jönköpings Södra IF,Helsingborgs IF,0,0,SE2,2021,3
+01/05/2021,Norrby IF,Landskrona BoIS,1,1,SE2,2021,4
+01/05/2021,Akropolis IF,GIF Sundsvall,1,1,SE2,2021,4
+01/05/2021,Falkenbergs FF,IFK Värnamo,0,3,SE2,2021,4
+01/05/2021,Örgryte IS,Västerås SK,1,1,SE2,2021,4
+02/05/2021,Vasalunds IF,IK Brage,1,0,SE2,2021,4
+02/05/2021,Helsingborgs IF,AFC Eskilstuna,1,0,SE2,2021,4
+03/05/2021,Jönköpings Södra IF,Trelleborgs FF,1,1,SE2,2021,4
+04/05/2021,GAIS,Östers IF,3,2,SE2,2021,4
+08/05/2021,Landskrona BoIS,AFC Eskilstuna,1,0,SE2,2021,5
+08/05/2021,Falkenbergs FF,Örgryte IS,3,2,SE2,2021,5
+08/05/2021,Västerås SK,Jönköpings Södra IF,2,1,SE2,2021,5
+09/05/2021,Vasalunds IF,Norrby IF,0,1,SE2,2021,5
+09/05/2021,IK Brage,Helsingborgs IF,0,0,SE2,2021,5
+10/05/2021,Trelleborgs FF,Akropolis IF,1,1,SE2,2021,5
+10/05/2021,IFK Värnamo,GAIS,1,0,SE2,2021,5
+11/05/2021,Östers IF,GIF Sundsvall,0,2,SE2,2021,5
+15/05/2021,Akropolis IF,Örgryte IS,0,1,SE2,2021,6
+15/05/2021,IK Brage,Norrby IF,1,2,SE2,2021,6
+15/05/2021,GIF Sundsvall,Vasalunds IF,3,2,SE2,2021,6
+15/05/2021,Helsingborgs IF,Östers IF,0,1,SE2,2021,6
+16/05/2021,AFC Eskilstuna,Jönköpings Södra IF,1,0,SE2,2021,6
+17/05/2021,Västerås SK,IFK Värnamo,0,0,SE2,2021,6
+18/05/2021,GAIS,Trelleborgs FF,2,3,SE2,2021,6
+18/05/2021,Landskrona BoIS,Falkenbergs FF,2,1,SE2,2021,6
+22/05/2021,Örgryte IS,GIF Sundsvall,0,2,SE2,2021,7
+22/05/2021,Jönköpings Södra IF,Landskrona BoIS,3,1,SE2,2021,7
+23/05/2021,GAIS,Helsingborgs IF,0,1,SE2,2021,7
+23/05/2021,Östers IF,IK Brage,1,2,SE2,2021,7
+23/05/2021,Norrby IF,AFC Eskilstuna,2,1,SE2,2021,7
+23/05/2021,Falkenbergs FF,Vasalunds IF,0,3,SE2,2021,7
+24/05/2021,Trelleborgs FF,Västerås SK,0,1,SE2,2021,7
+24/05/2021,IFK Värnamo,Akropolis IF,1,0,SE2,2021,7
+29/05/2021,Landskrona BoIS,Örgryte IS,1,1,SE2,2021,8
+29/05/2021,AFC Eskilstuna,Trelleborgs FF,3,2,SE2,2021,8
+29/05/2021,Akropolis IF,Falkenbergs FF,1,0,SE2,2021,8
+29/05/2021,Norrby IF,GAIS,0,2,SE2,2021,8
+30/05/2021,Vasalunds IF,Östers IF,1,0,SE2,2021,8
+31/05/2021,Västerås SK,IK Brage,2,2,SE2,2021,8
+01/06/2021,GIF Sundsvall,Jönköpings Södra IF,1,2,SE2,2021,8
+22/07/2021,Helsingborgs IF,IFK Värnamo,2,3,SE2,2021,8
+05/06/2021,IK Brage,AFC Eskilstuna,1,0,SE2,2021,9
+05/06/2021,Trelleborgs FF,GIF Sundsvall,1,0,SE2,2021,9
+05/06/2021,Östers IF,Norrby IF,0,0,SE2,2021,9
+05/06/2021,Örgryte IS,IFK Värnamo,0,0,SE2,2021,9
+06/06/2021,Falkenbergs FF,Västerås SK,2,1,SE2,2021,9
+07/06/2021,Jönköpings Södra IF,Akropolis IF,4,1,SE2,2021,9
+08/06/2021,GAIS,Landskrona BoIS,1,3,SE2,2021,9
+04/08/2021,Vasalunds IF,Helsingborgs IF,0,1,SE2,2021,9
+19/05/2021,Helsingborgs IF,Norrby IF,0,2,SE2,2021,10
+12/06/2021,AFC Eskilstuna,Falkenbergs FF,1,1,SE2,2021,10
+12/06/2021,Västerås SK,Östers IF,0,0,SE2,2021,10
+12/06/2021,Akropolis IF,Vasalunds IF,3,2,SE2,2021,10
+12/06/2021,Örgryte IS,Jönköpings Södra IF,0,0,SE2,2021,10
+12/06/2021,Landskrona BoIS,IK Brage,2,1,SE2,2021,10
+13/06/2021,IFK Värnamo,Trelleborgs FF,0,1,SE2,2021,10
+15/06/2021,GIF Sundsvall,GAIS,2,0,SE2,2021,10
+19/06/2021,IK Brage,Örgryte IS,1,3,SE2,2021,11
+19/06/2021,Norrby IF,IFK Värnamo,2,0,SE2,2021,11
+19/06/2021,Östers IF,AFC Eskilstuna,2,0,SE2,2021,11
+19/06/2021,Jönköpings Södra IF,GAIS,1,0,SE2,2021,11
+19/06/2021,Vasalunds IF,Landskrona BoIS,0,3,SE2,2021,11
+20/06/2021,Trelleborgs FF,Falkenbergs FF,2,1,SE2,2021,11
+21/06/2021,GIF Sundsvall,Västerås SK,1,0,SE2,2021,11
+11/07/2021,Helsingborgs IF,Akropolis IF,1,0,SE2,2021,11
+17/07/2021,Akropolis IF,Norrby IF,0,3,SE2,2021,12
+17/07/2021,GAIS,IK Brage,0,2,SE2,2021,12
+17/07/2021,Landskrona BoIS,Trelleborgs FF,4,2,SE2,2021,12
+17/07/2021,IFK Värnamo,Östers IF,2,0,SE2,2021,12
+18/07/2021,AFC Eskilstuna,GIF Sundsvall,2,0,SE2,2021,12
+18/07/2021,Västerås SK,Helsingborgs IF,0,4,SE2,2021,12
+19/07/2021,Örgryte IS,Vasalunds IF,3,1,SE2,2021,12
+20/07/2021,Falkenbergs FF,Jönköpings Södra IF,2,3,SE2,2021,12
+24/07/2021,Landskrona BoIS,GIF Sundsvall,2,0,SE2,2021,13
+24/07/2021,IK Brage,Trelleborgs FF,0,1,SE2,2021,13
+25/07/2021,AFC Eskilstuna,Örgryte IS,4,0,SE2,2021,13
+25/07/2021,IFK Värnamo,Vasalunds IF,1,0,SE2,2021,13
+26/07/2021,GAIS,Akropolis IF,1,1,SE2,2021,13
+26/07/2021,Norrby IF,Västerås SK,4,1,SE2,2021,13
+27/07/2021,Helsingborgs IF,Falkenbergs FF,4,0,SE2,2021,13
+27/07/2021,Östers IF,Jönköpings Södra IF,1,0,SE2,2021,13
+31/07/2021,Trelleborgs FF,Helsingborgs IF,2,0,SE2,2021,14
+31/07/2021,Vasalunds IF,AFC Eskilstuna,4,2,SE2,2021,14
+01/08/2021,Falkenbergs FF,Norrby IF,1,1,SE2,2021,14
+01/08/2021,Västerås SK,Landskrona BoIS,3,1,SE2,2021,14
+02/08/2021,Jönköpings Södra IF,IFK Värnamo,0,3,SE2,2021,14
+02/08/2021,GIF Sundsvall,IK Brage,3,3,SE2,2021,14
+03/08/2021,Akropolis IF,Östers IF,1,0,SE2,2021,14
+03/08/2021,Örgryte IS,GAIS,1,0,SE2,2021,14
+07/08/2021,Falkenbergs FF,GIF Sundsvall,1,1,SE2,2021,15
+07/08/2021,IFK Värnamo,AFC Eskilstuna,1,1,SE2,2021,15
+08/08/2021,IK Brage,Jönköpings Södra IF,3,2,SE2,2021,15
+09/08/2021,GAIS,Vasalunds IF,2,0,SE2,2021,15
+09/08/2021,Norrby IF,Örgryte IS,2,1,SE2,2021,15
+09/08/2021,Västerås SK,Akropolis IF,2,3,SE2,2021,15
+10/08/2021,Helsingborgs IF,Landskrona BoIS,2,1,SE2,2021,15
+10/08/2021,Östers IF,Trelleborgs FF,0,0,SE2,2021,15
+14/08/2021,Jönköpings Södra IF,Östers IF,2,1,SE2,2021,16
+14/08/2021,Akropolis IF,Helsingborgs IF,0,3,SE2,2021,16
+14/08/2021,Örgryte IS,IK Brage,1,1,SE2,2021,16
+14/08/2021,GIF Sundsvall,IFK Värnamo,2,0,SE2,2021,16
+14/08/2021,AFC Eskilstuna,Norrby IF,4,1,SE2,2021,16
+15/08/2021,Landskrona BoIS,Västerås SK,1,0,SE2,2021,16
+15/08/2021,Trelleborgs FF,GAIS,1,0,SE2,2021,16
+15/08/2021,Vasalunds IF,Falkenbergs FF,3,1,SE2,2021,16
+21/08/2021,IFK Värnamo,Landskrona BoIS,2,0,SE2,2021,17
+21/08/2021,IK Brage,Västerås SK,3,3,SE2,2021,17
+22/08/2021,Falkenbergs FF,Trelleborgs FF,1,0,SE2,2021,17
+22/08/2021,GIF Sundsvall,AFC Eskilstuna,3,1,SE2,2021,17
+22/08/2021,Östers IF,Örgryte IS,0,0,SE2,2021,17
+23/08/2021,Helsingborgs IF,Vasalunds IF,0,0,SE2,2021,17
+23/08/2021,Norrby IF,Akropolis IF,0,1,SE2,2021,17
+24/08/2021,GAIS,Jönköpings Södra IF,0,1,SE2,2021,17
+28/08/2021,AFC Eskilstuna,IK Brage,2,1,SE2,2021,18
+28/08/2021,Landskrona BoIS,Helsingborgs IF,0,1,SE2,2021,18
+28/08/2021,Västerås SK,Falkenbergs FF,1,3,SE2,2021,18
+29/08/2021,Örgryte IS,Norrby IF,2,2,SE2,2021,18
+29/08/2021,Vasalunds IF,GAIS,3,4,SE2,2021,18
+30/08/2021,Akropolis IF,IFK Värnamo,1,2,SE2,2021,18
+31/08/2021,Trelleborgs FF,Östers IF,1,0,SE2,2021,18
+14/10/2021,Jönköpings Södra IF,GIF Sundsvall,1,1,SE2,2021,18
+04/09/2021,Falkenbergs FF,Akropolis IF,3,3,SE2,2021,19
+04/09/2021,IK Brage,Landskrona BoIS,1,0,SE2,2021,19
+05/09/2021,Norrby IF,Vasalunds IF,0,0,SE2,2021,19
+06/09/2021,GIF Sundsvall,Örgryte IS,0,1,SE2,2021,19
+06/09/2021,Östers IF,Västerås SK,1,1,SE2,2021,19
+14/09/2021,Helsingborgs IF,Trelleborgs FF,1,1,SE2,2021,19
+16/09/2021,IFK Värnamo,Jönköpings Södra IF,2,0,SE2,2021,19
+21/10/2021,GAIS,AFC Eskilstuna,2,3,SE2,2021,19
+11/09/2021,Örgryte IS,Akropolis IF,3,1,SE2,2021,20
+11/09/2021,Trelleborgs FF,IK Brage,3,1,SE2,2021,20
+11/09/2021,Jönköpings Södra IF,Falkenbergs FF,2,1,SE2,2021,20
+11/09/2021,Landskrona BoIS,GAIS,2,1,SE2,2021,20
+11/09/2021,Västerås SK,Norrby IF,1,1,SE2,2021,20
+11/09/2021,AFC Eskilstuna,Helsingborgs IF,2,2,SE2,2021,20
+12/09/2021,Östers IF,IFK Värnamo,2,0,SE2,2021,20
+13/09/2021,Vasalunds IF,GIF Sundsvall,1,2,SE2,2021,20
+18/09/2021,Norrby IF,Trelleborgs FF,1,1,SE2,2021,21
+18/09/2021,IK Brage,GAIS,1,4,SE2,2021,21
+18/09/2021,AFC Eskilstuna,Vasalunds IF,1,2,SE2,2021,21
+18/09/2021,GIF Sundsvall,Landskrona BoIS,1,0,SE2,2021,21
+19/09/2021,Akropolis IF,Västerås SK,0,2,SE2,2021,21
+19/09/2021,Falkenbergs FF,Östers IF,0,2,SE2,2021,21
+20/09/2021,IFK Värnamo,Örgryte IS,1,1,SE2,2021,21
+21/09/2021,Helsingborgs IF,Jönköpings Södra IF,3,0,SE2,2021,21
+24/09/2021,Örgryte IS,AFC Eskilstuna,2,2,SE2,2021,22
+25/09/2021,GAIS,Falkenbergs FF,0,0,SE2,2021,22
+25/09/2021,Västerås SK,GIF Sundsvall,1,2,SE2,2021,22
+25/09/2021,Landskrona BoIS,Norrby IF,1,0,SE2,2021,22
+25/09/2021,Vasalunds IF,Akropolis IF,0,1,SE2,2021,22
+25/09/2021,Jönköpings Södra IF,IK Brage,0,0,SE2,2021,22
+26/09/2021,Östers IF,Helsingborgs IF,2,1,SE2,2021,22
+26/09/2021,Trelleborgs FF,IFK Värnamo,2,3,SE2,2021,22
+29/09/2021,Akropolis IF,Jönköpings Södra IF,1,1,SE2,2021,23
+29/09/2021,Falkenbergs FF,Landskrona BoIS,2,1,SE2,2021,23
+29/09/2021,GAIS,Örgryte IS,2,1,SE2,2021,23
+29/09/2021,Norrby IF,Helsingborgs IF,2,2,SE2,2021,23
+29/09/2021,GIF Sundsvall,Trelleborgs FF,2,0,SE2,2021,23
+30/09/2021,AFC Eskilstuna,Östers IF,1,1,SE2,2021,23
+30/09/2021,IK Brage,Vasalunds IF,3,0,SE2,2021,23
+30/09/2021,IFK Värnamo,Västerås SK,3,2,SE2,2021,23
+03/10/2021,Akropolis IF,AFC Eskilstuna,1,0,SE2,2021,24
+03/10/2021,Jönköpings Södra IF,Norrby IF,0,1,SE2,2021,24
+03/10/2021,Helsingborgs IF,GIF Sundsvall,1,2,SE2,2021,24
+03/10/2021,Örgryte IS,Falkenbergs FF,1,1,SE2,2021,24
+04/10/2021,IK Brage,Östers IF,2,2,SE2,2021,24
+04/10/2021,Vasalunds IF,IFK Värnamo,1,1,SE2,2021,24
+05/10/2021,Trelleborgs FF,Landskrona BoIS,2,2,SE2,2021,24
+05/10/2021,Västerås SK,GAIS,3,0,SE2,2021,24
+16/10/2021,GAIS,IFK Värnamo,1,2,SE2,2021,25
+16/10/2021,AFC Eskilstuna,Västerås SK,0,1,SE2,2021,25
+17/10/2021,Norrby IF,IK Brage,2,3,SE2,2021,25
+18/10/2021,Örgryte IS,Trelleborgs FF,2,2,SE2,2021,25
+18/10/2021,GIF Sundsvall,Akropolis IF,3,0,SE2,2021,25
+18/10/2021,Östers IF,Vasalunds IF,3,2,SE2,2021,25
+19/10/2021,Falkenbergs FF,Helsingborgs IF,1,4,SE2,2021,25
+19/10/2021,Landskrona BoIS,Jönköpings Södra IF,2,0,SE2,2021,25
+23/10/2021,Vasalunds IF,Västerås SK,0,1,SE2,2021,26
+23/10/2021,Jönköpings Södra IF,Örgryte IS,0,2,SE2,2021,26
+23/10/2021,Norrby IF,Östers IF,0,0,SE2,2021,26
+24/10/2021,Akropolis IF,Landskrona BoIS,1,0,SE2,2021,26
+24/10/2021,IK Brage,GIF Sundsvall,0,0,SE2,2021,26
+25/10/2021,IFK Värnamo,Falkenbergs FF,3,2,SE2,2021,26
+26/10/2021,Helsingborgs IF,GAIS,0,1,SE2,2021,26
+26/10/2021,Trelleborgs FF,AFC Eskilstuna,4,0,SE2,2021,26
+30/10/2021,Västerås SK,Örgryte IS,2,2,SE2,2021,27
+31/10/2021,Akropolis IF,Trelleborgs FF,3,1,SE2,2021,27
+31/10/2021,Helsingborgs IF,IK Brage,3,0,SE2,2021,27
+31/10/2021,Vasalunds IF,Jönköpings Södra IF,1,1,SE2,2021,27
+01/11/2021,AFC Eskilstuna,IFK Värnamo,0,2,SE2,2021,27
+01/11/2021,GAIS,Norrby IF,1,4,SE2,2021,27
+02/11/2021,Landskrona BoIS,Östers IF,1,4,SE2,2021,27
+02/11/2021,GIF Sundsvall,Falkenbergs FF,1,1,SE2,2021,27
+06/11/2021,Trelleborgs FF,Vasalunds IF,1,2,SE2,2021,28
+06/11/2021,IFK Värnamo,Helsingborgs IF,3,1,SE2,2021,28
+06/11/2021,Örgryte IS,Landskrona BoIS,3,2,SE2,2021,28
+06/11/2021,Jönköpings Södra IF,Västerås SK,0,0,SE2,2021,28
+07/11/2021,Falkenbergs FF,AFC Eskilstuna,3,4,SE2,2021,28
+07/11/2021,Norrby IF,GIF Sundsvall,1,4,SE2,2021,28
+07/11/2021,Östers IF,GAIS,1,0,SE2,2021,28
+07/11/2021,IK Brage,Akropolis IF,2,0,SE2,2021,28
+20/11/2021,Örgryte IS,Helsingborgs IF,1,1,SE2,2021,29
+20/11/2021,IK Brage,IFK Värnamo,3,1,SE2,2021,29
+20/11/2021,GIF Sundsvall,Östers IF,1,1,SE2,2021,29
+20/11/2021,Landskrona BoIS,Vasalunds IF,3,1,SE2,2021,29
+20/11/2021,Norrby IF,Falkenbergs FF,1,0,SE2,2021,29
+20/11/2021,Västerås SK,Trelleborgs FF,1,1,SE2,2021,29
+21/11/2021,Akropolis IF,GAIS,0,0,SE2,2021,29
+21/11/2021,Jönköpings Södra IF,AFC Eskilstuna,1,2,SE2,2021,29
+27/11/2021,AFC Eskilstuna,Landskrona BoIS,1,0,SE2,2021,30
+27/11/2021,Falkenbergs FF,IK Brage,1,2,SE2,2021,30
+27/11/2021,GAIS,GIF Sundsvall,2,1,SE2,2021,30
+27/11/2021,Helsingborgs IF,Västerås SK,2,2,SE2,2021,30
+27/11/2021,Trelleborgs FF,Jönköpings Södra IF,1,3,SE2,2021,30
+27/11/2021,Vasalunds IF,Örgryte IS,1,2,SE2,2021,30
+27/11/2021,IFK Värnamo,Norrby IF,1,2,SE2,2021,30
+27/11/2021,Östers IF,Akropolis IF,2,1,SE2,2021,30
+02/04/2022,Jönköpings Södra IF,AFC Eskilstuna,2,3,SE2,2022,1
+02/04/2022,IF Brommapojkarna,Västerås SK,2,1,SE2,2022,1
+03/04/2022,Norrby IF,Dalkurd FF,1,0,SE2,2022,1
+03/04/2022,Trelleborgs FF,Utsiktens BK,1,0,SE2,2022,1
+03/04/2022,Östersunds FK,Skövde AIK,2,3,SE2,2022,1
+04/04/2022,Landskrona BoIS,Östers IF,1,3,SE2,2022,1
+04/04/2022,IK Brage,Örebro SK,3,0,SE2,2022,1
+05/04/2022,Örgryte IS,Halmstads BK,2,2,SE2,2022,1
+09/04/2022,AFC Eskilstuna,Örgryte IS,4,3,SE2,2022,2
+09/04/2022,Dalkurd FF,Trelleborgs FF,2,0,SE2,2022,2
+09/04/2022,Skövde AIK,Landskrona BoIS,2,0,SE2,2022,2
+10/04/2022,Östers IF,IK Brage,1,2,SE2,2022,2
+10/04/2022,Utsiktens BK,IF Brommapojkarna,3,2,SE2,2022,2
+11/04/2022,Västerås SK,Östersunds FK,1,1,SE2,2022,2
+11/04/2022,Halmstads BK,Norrby IF,1,2,SE2,2022,2
+12/04/2022,Örebro SK,Jönköpings Södra IF,3,1,SE2,2022,2
+17/04/2022,Västerås SK,Utsiktens BK,0,3,SE2,2022,3
+17/04/2022,AFC Eskilstuna,Landskrona BoIS,2,0,SE2,2022,3
+18/04/2022,IF Brommapojkarna,Skövde AIK,2,2,SE2,2022,3
+18/04/2022,IK Brage,Jönköpings Södra IF,1,2,SE2,2022,3
+18/04/2022,Norrby IF,Örebro SK,0,2,SE2,2022,3
+18/04/2022,Dalkurd FF,Halmstads BK,0,1,SE2,2022,3
+18/04/2022,Örgryte IS,Östers IF,0,1,SE2,2022,3
+19/04/2022,Trelleborgs FF,Östersunds FK,1,1,SE2,2022,3
+23/04/2022,Östersunds FK,Dalkurd FF,1,0,SE2,2022,4
+23/04/2022,Jönköpings Södra IF,Trelleborgs FF,2,3,SE2,2022,4
+23/04/2022,Utsiktens BK,AFC Eskilstuna,2,3,SE2,2022,4
+24/04/2022,Skövde AIK,Norrby IF,2,0,SE2,2022,4
+24/04/2022,IK Brage,IF Brommapojkarna,3,1,SE2,2022,4
+25/04/2022,Landskrona BoIS,Örgryte IS,3,2,SE2,2022,4
+25/04/2022,Östers IF,Västerås SK,1,1,SE2,2022,4
+26/04/2022,Örebro SK,Halmstads BK,0,2,SE2,2022,4
+30/04/2022,IF Brommapojkarna,Jönköpings Södra IF,2,1,SE2,2022,5
+30/04/2022,AFC Eskilstuna,Skövde AIK,1,2,SE2,2022,5
+30/04/2022,Trelleborgs FF,IK Brage,2,2,SE2,2022,5
+01/05/2022,Västerås SK,Örebro SK,2,1,SE2,2022,5
+01/05/2022,Örgryte IS,Utsiktens BK,0,2,SE2,2022,5
+02/05/2022,Dalkurd FF,Östers IF,0,3,SE2,2022,5
+02/05/2022,Norrby IF,Landskrona BoIS,0,0,SE2,2022,5
+03/05/2022,Halmstads BK,Östersunds FK,2,0,SE2,2022,5
+07/05/2022,IF Brommapojkarna,Trelleborgs FF,4,2,SE2,2022,6
+07/05/2022,AFC Eskilstuna,Västerås SK,5,2,SE2,2022,6
+07/05/2022,Östers IF,Norrby IF,2,0,SE2,2022,6
+08/05/2022,IK Brage,Örgryte IS,4,0,SE2,2022,6
+08/05/2022,Utsiktens BK,Dalkurd FF,3,0,SE2,2022,6
+09/05/2022,Örebro SK,Östersunds FK,1,0,SE2,2022,6
+09/05/2022,Skövde AIK,Halmstads BK,1,3,SE2,2022,6
+10/05/2022,Jönköpings Södra IF,Landskrona BoIS,2,4,SE2,2022,6
+13/05/2022,Dalkurd FF,Skövde AIK,3,1,SE2,2022,7
+14/05/2022,Örebro SK,Östers IF,2,1,SE2,2022,7
+14/05/2022,Trelleborgs FF,Västerås SK,3,0,SE2,2022,7
+14/05/2022,Jönköpings Södra IF,Utsiktens BK,5,2,SE2,2022,7
+14/05/2022,Halmstads BK,AFC Eskilstuna,2,1,SE2,2022,7
+14/05/2022,Norrby IF,Örgryte IS,1,1,SE2,2022,7
+15/05/2022,Landskrona BoIS,IF Brommapojkarna,3,3,SE2,2022,7
+15/05/2022,Östersunds FK,IK Brage,1,3,SE2,2022,7
+18/05/2022,Örgryte IS,Trelleborgs FF,1,2,SE2,2022,8
+18/05/2022,Västerås SK,Jönköpings Södra IF,2,2,SE2,2022,8
+18/05/2022,Skövde AIK,Örebro SK,0,0,SE2,2022,8
+18/05/2022,Utsiktens BK,Landskrona BoIS,2,2,SE2,2022,8
+19/05/2022,AFC Eskilstuna,Norrby IF,1,2,SE2,2022,8
+19/05/2022,IF Brommapojkarna,Östersunds FK,4,1,SE2,2022,8
+19/05/2022,IK Brage,Dalkurd FF,0,0,SE2,2022,8
+19/05/2022,Östers IF,Halmstads BK,1,4,SE2,2022,8
+22/05/2022,Dalkurd FF,Västerås SK,1,2,SE2,2022,9
+22/05/2022,Landskrona BoIS,IK Brage,1,1,SE2,2022,9
+22/05/2022,Trelleborgs FF,Östers IF,1,2,SE2,2022,9
+23/05/2022,Örebro SK,AFC Eskilstuna,1,0,SE2,2022,9
+23/05/2022,Halmstads BK,IF Brommapojkarna,2,0,SE2,2022,9
+23/05/2022,Norrby IF,Utsiktens BK,0,2,SE2,2022,9
+24/05/2022,Jönköpings Södra IF,Skövde AIK,0,1,SE2,2022,9
+24/05/2022,Östersunds FK,Örgryte IS,0,0,SE2,2022,9
+28/05/2022,IK Brage,Norrby IF,2,1,SE2,2022,10
+28/05/2022,Trelleborgs FF,Landskrona BoIS,1,1,SE2,2022,10
+28/05/2022,Västerås SK,Halmstads BK,2,2,SE2,2022,10
+28/05/2022,Östers IF,Jönköpings Södra IF,2,0,SE2,2022,10
+28/05/2022,AFC Eskilstuna,Östersunds FK,4,1,SE2,2022,10
+29/05/2022,Örgryte IS,Dalkurd FF,3,3,SE2,2022,10
+29/05/2022,Örebro SK,IF Brommapojkarna,0,2,SE2,2022,10
+30/05/2022,Utsiktens BK,Skövde AIK,1,1,SE2,2022,10
+26/06/2022,Skövde AIK,Västerås SK,0,2,SE2,2022,11
+26/06/2022,Utsiktens BK,IK Brage,1,0,SE2,2022,11
+26/06/2022,Dalkurd FF,AFC Eskilstuna,3,2,SE2,2022,11
+27/06/2022,Landskrona BoIS,Örebro SK,2,1,SE2,2022,11
+27/06/2022,IF Brommapojkarna,Östers IF,1,1,SE2,2022,11
+28/06/2022,Jönköpings Södra IF,Örgryte IS,2,2,SE2,2022,11
+28/06/2022,Halmstads BK,Trelleborgs FF,1,2,SE2,2022,11
+28/06/2022,Norrby IF,Östersunds FK,2,0,SE2,2022,11
+02/07/2022,Dalkurd FF,Landskrona BoIS,0,1,SE2,2022,12
+02/07/2022,Östersunds FK,Utsiktens BK,0,3,SE2,2022,12
+02/07/2022,Östers IF,Skövde AIK,2,3,SE2,2022,12
+03/07/2022,Västerås SK,IK Brage,1,3,SE2,2022,12
+03/07/2022,AFC Eskilstuna,IF Brommapojkarna,3,1,SE2,2022,12
+04/07/2022,Trelleborgs FF,Norrby IF,2,1,SE2,2022,12
+05/07/2022,Örgryte IS,Örebro SK,2,0,SE2,2022,12
+05/07/2022,Halmstads BK,Jönköpings Södra IF,3,0,SE2,2022,12
+09/07/2022,IF Brommapojkarna,Dalkurd FF,5,0,SE2,2022,13
+09/07/2022,Norrby IF,Västerås SK,1,0,SE2,2022,13
+10/07/2022,Jönköpings Södra IF,Östersunds FK,1,0,SE2,2022,13
+10/07/2022,Utsiktens BK,Östers IF,1,1,SE2,2022,13
+10/07/2022,Skövde AIK,Örgryte IS,2,1,SE2,2022,13
+11/07/2022,IK Brage,AFC Eskilstuna,1,1,SE2,2022,13
+12/07/2022,Landskrona BoIS,Halmstads BK,2,1,SE2,2022,13
+12/07/2022,Örebro SK,Trelleborgs FF,2,2,SE2,2022,13
+16/07/2022,Dalkurd FF,Örebro SK,0,2,SE2,2022,14
+16/07/2022,Skövde AIK,IK Brage,1,1,SE2,2022,14
+16/07/2022,Östersunds FK,Östers IF,1,1,SE2,2022,14
+17/07/2022,Västerås SK,Landskrona BoIS,3,0,SE2,2022,14
+17/07/2022,Halmstads BK,Utsiktens BK,4,1,SE2,2022,14
+18/07/2022,AFC Eskilstuna,Trelleborgs FF,1,0,SE2,2022,14
+19/07/2022,Örgryte IS,IF Brommapojkarna,1,1,SE2,2022,14
+19/07/2022,Norrby IF,Jönköpings Södra IF,1,1,SE2,2022,14
+23/07/2022,Landskrona BoIS,Östersunds FK,1,1,SE2,2022,15
+23/07/2022,IK Brage,Halmstads BK,1,2,SE2,2022,15
+23/07/2022,Jönköpings Södra IF,Dalkurd FF,0,1,SE2,2022,15
+24/07/2022,IF Brommapojkarna,Norrby IF,5,2,SE2,2022,15
+24/07/2022,Örebro SK,Utsiktens BK,2,0,SE2,2022,15
+24/07/2022,Östers IF,AFC Eskilstuna,3,2,SE2,2022,15
+25/07/2022,Trelleborgs FF,Skövde AIK,2,1,SE2,2022,15
+26/07/2022,Örgryte IS,Västerås SK,1,1,SE2,2022,15
+30/07/2022,Norrby IF,Trelleborgs FF,2,3,SE2,2022,16
+30/07/2022,Östersunds FK,Jönköpings Södra IF,1,1,SE2,2022,16
+30/07/2022,Örebro SK,IK Brage,1,3,SE2,2022,16
+30/07/2022,AFC Eskilstuna,Dalkurd FF,0,0,SE2,2022,16
+30/07/2022,Halmstads BK,Landskrona BoIS,2,1,SE2,2022,16
+31/07/2022,Skövde AIK,IF Brommapojkarna,1,1,SE2,2022,16
+31/07/2022,Västerås SK,Östers IF,2,2,SE2,2022,16
+31/07/2022,Utsiktens BK,Örgryte IS,0,1,SE2,2022,16
+03/08/2022,Trelleborgs FF,Halmstads BK,0,4,SE2,2022,17
+03/08/2022,Dalkurd FF,Norrby IF,2,1,SE2,2022,17
+03/08/2022,Landskrona BoIS,Skövde AIK,0,1,SE2,2022,17
+03/08/2022,IF Brommapojkarna,Örebro SK,2,1,SE2,2022,17
+03/08/2022,IK Brage,Östersunds FK,1,0,SE2,2022,17
+04/08/2022,Örgryte IS,AFC Eskilstuna,2,2,SE2,2022,17
+04/08/2022,Jönköpings Södra IF,Västerås SK,2,1,SE2,2022,17
+04/08/2022,Östers IF,Utsiktens BK,3,1,SE2,2022,17
+07/08/2022,AFC Eskilstuna,Jönköpings Södra IF,0,2,SE2,2022,18
+07/08/2022,Utsiktens BK,Trelleborgs FF,0,0,SE2,2022,18
+07/08/2022,Östersunds FK,Landskrona BoIS,3,1,SE2,2022,18
+07/08/2022,Halmstads BK,Dalkurd FF,3,1,SE2,2022,18
+08/08/2022,Västerås SK,IF Brommapojkarna,0,1,SE2,2022,18
+08/08/2022,Örebro SK,Örgryte IS,0,1,SE2,2022,18
+09/08/2022,Norrby IF,IK Brage,2,2,SE2,2022,18
+09/08/2022,Skövde AIK,Östers IF,0,0,SE2,2022,18
+13/08/2022,Dalkurd FF,Örgryte IS,1,2,SE2,2022,19
+13/08/2022,Jönköpings Södra IF,Halmstads BK,0,5,SE2,2022,19
+14/08/2022,Utsiktens BK,Norrby IF,1,1,SE2,2022,19
+14/08/2022,Skövde AIK,Östersunds FK,1,3,SE2,2022,19
+15/08/2022,IF Brommapojkarna,AFC Eskilstuna,1,0,SE2,2022,19
+15/08/2022,IK Brage,Landskrona BoIS,1,1,SE2,2022,19
+16/08/2022,Västerås SK,Trelleborgs FF,4,4,SE2,2022,19
+16/08/2022,Östers IF,Örebro SK,1,1,SE2,2022,19
+20/08/2022,Landskrona BoIS,Jönköpings Södra IF,1,1,SE2,2022,20
+20/08/2022,Östersunds FK,IF Brommapojkarna,2,3,SE2,2022,20
+21/08/2022,AFC Eskilstuna,Utsiktens BK,3,1,SE2,2022,20
+21/08/2022,Trelleborgs FF,Dalkurd FF,4,2,SE2,2022,20
+21/08/2022,Halmstads BK,Västerås SK,1,1,SE2,2022,20
+21/08/2022,IK Brage,Östers IF,0,3,SE2,2022,20
+23/08/2022,Örgryte IS,Norrby IF,5,1,SE2,2022,20
+23/08/2022,Örebro SK,Skövde AIK,0,1,SE2,2022,20
+26/08/2022,Dalkurd FF,IK Brage,1,2,SE2,2022,21
+27/08/2022,Landskrona BoIS,Trelleborgs FF,2,1,SE2,2022,21
+27/08/2022,IF Brommapojkarna,Halmstads BK,2,1,SE2,2022,21
+27/08/2022,Västerås SK,Örgryte IS,1,1,SE2,2022,21
+27/08/2022,Östers IF,Östersunds FK,2,1,SE2,2022,21
+28/08/2022,Utsiktens BK,Örebro SK,1,2,SE2,2022,21
+28/08/2022,Norrby IF,AFC Eskilstuna,2,1,SE2,2022,21
+28/08/2022,Skövde AIK,Jönköpings Södra IF,1,1,SE2,2022,21
+03/09/2022,Östersunds FK,Västerås SK,2,2,SE2,2022,22
+03/09/2022,Örgryte IS,Landskrona BoIS,0,1,SE2,2022,22
+04/09/2022,Halmstads BK,Skövde AIK,3,2,SE2,2022,22
+04/09/2022,Örebro SK,Norrby IF,0,0,SE2,2022,22
+05/09/2022,Dalkurd FF,IF Brommapojkarna,0,2,SE2,2022,22
+05/09/2022,IK Brage,Utsiktens BK,1,2,SE2,2022,22
+06/09/2022,Jönköpings Södra IF,Östers IF,2,1,SE2,2022,22
+06/09/2022,Trelleborgs FF,AFC Eskilstuna,0,1,SE2,2022,22
+10/09/2022,IF Brommapojkarna,Landskrona BoIS,3,0,SE2,2022,23
+10/09/2022,Västerås SK,Skövde AIK,4,1,SE2,2022,23
+10/09/2022,Östersunds FK,Örebro SK,2,0,SE2,2022,23
+11/09/2022,Utsiktens BK,Jönköpings Södra IF,0,1,SE2,2022,23
+11/09/2022,Östers IF,Dalkurd FF,2,0,SE2,2022,23
+12/09/2022,Trelleborgs FF,Örgryte IS,2,1,SE2,2022,23
+13/09/2022,AFC Eskilstuna,IK Brage,2,3,SE2,2022,23
+13/09/2022,Norrby IF,Halmstads BK,3,0,SE2,2022,23
+17/09/2022,Dalkurd FF,Utsiktens BK,4,1,SE2,2022,24
+17/09/2022,Örgryte IS,Östersunds FK,0,1,SE2,2022,24
+17/09/2022,Jönköpings Södra IF,IF Brommapojkarna,1,2,SE2,2022,24
+17/09/2022,Örebro SK,Västerås SK,5,2,SE2,2022,24
+17/09/2022,Halmstads BK,Östers IF,2,0,SE2,2022,24
+18/09/2022,Skövde AIK,AFC Eskilstuna,4,0,SE2,2022,24
+18/09/2022,Landskrona BoIS,Norrby IF,3,2,SE2,2022,24
+18/09/2022,IK Brage,Trelleborgs FF,1,2,SE2,2022,24
+01/10/2022,AFC Eskilstuna,Örebro SK,0,1,SE2,2022,25
+01/10/2022,Örgryte IS,IK Brage,4,0,SE2,2022,25
+01/10/2022,Landskrona BoIS,Dalkurd FF,3,1,SE2,2022,25
+01/10/2022,Östersunds FK,Halmstads BK,0,0,SE2,2022,25
+02/10/2022,Trelleborgs FF,Jönköpings Södra IF,1,3,SE2,2022,25
+02/10/2022,Utsiktens BK,Västerås SK,0,2,SE2,2022,25
+02/10/2022,Norrby IF,Skövde AIK,0,0,SE2,2022,25
+04/10/2022,Östers IF,IF Brommapojkarna,4,1,SE2,2022,25
+08/10/2022,Skövde AIK,Trelleborgs FF,3,1,SE2,2022,26
+08/10/2022,Östers IF,Landskrona BoIS,0,0,SE2,2022,26
+09/10/2022,Västerås SK,Norrby IF,3,2,SE2,2022,26
+09/10/2022,IF Brommapojkarna,Utsiktens BK,0,1,SE2,2022,26
+09/10/2022,Östersunds FK,AFC Eskilstuna,0,2,SE2,2022,26
+10/10/2022,Örebro SK,Dalkurd FF,1,3,SE2,2022,26
+11/10/2022,Jönköpings Södra IF,IK Brage,1,1,SE2,2022,26
+11/10/2022,Halmstads BK,Örgryte IS,2,3,SE2,2022,26
+15/10/2022,Norrby IF,IF Brommapojkarna,0,3,SE2,2022,27
+16/10/2022,Dalkurd FF,Östersunds FK,1,1,SE2,2022,27
+16/10/2022,Örgryte IS,Jönköpings Södra IF,0,0,SE2,2022,27
+16/10/2022,AFC Eskilstuna,Östers IF,1,2,SE2,2022,27
+17/10/2022,Landskrona BoIS,Västerås SK,1,0,SE2,2022,27
+17/10/2022,Trelleborgs FF,Örebro SK,2,1,SE2,2022,27
+17/10/2022,Utsiktens BK,Halmstads BK,2,1,SE2,2022,27
+18/10/2022,IK Brage,Skövde AIK,0,0,SE2,2022,27
+22/10/2022,Landskrona BoIS,AFC Eskilstuna,1,1,SE2,2022,28
+22/10/2022,Östers IF,Örgryte IS,2,2,SE2,2022,28
+23/10/2022,Östersunds FK,Trelleborgs FF,2,0,SE2,2022,28
+23/10/2022,Västerås SK,Dalkurd FF,4,1,SE2,2022,28
+23/10/2022,Skövde AIK,Utsiktens BK,1,1,SE2,2022,28
+24/10/2022,Jönköpings Södra IF,Norrby IF,2,1,SE2,2022,28
+25/10/2022,Halmstads BK,Örebro SK,0,0,SE2,2022,28
+25/10/2022,IF Brommapojkarna,IK Brage,3,2,SE2,2022,28
+29/10/2022,Örgryte IS,Skövde AIK,3,0,SE2,2022,29
+29/10/2022,IK Brage,Västerås SK,0,2,SE2,2022,29
+29/10/2022,Norrby IF,Östers IF,2,0,SE2,2022,29
+29/10/2022,Örebro SK,Landskrona BoIS,2,2,SE2,2022,29
+29/10/2022,AFC Eskilstuna,Halmstads BK,2,0,SE2,2022,29
+29/10/2022,Utsiktens BK,Östersunds FK,3,3,SE2,2022,29
+30/10/2022,Dalkurd FF,Jönköpings Södra IF,5,2,SE2,2022,29
+30/10/2022,Trelleborgs FF,IF Brommapojkarna,1,2,SE2,2022,29
+05/11/2022,Västerås SK,AFC Eskilstuna,2,0,SE2,2022,30
+05/11/2022,Landskrona BoIS,Utsiktens BK,2,0,SE2,2022,30
+05/11/2022,Jönköpings Södra IF,Örebro SK,1,1,SE2,2022,30
+05/11/2022,Halmstads BK,IK Brage,1,0,SE2,2022,30
+05/11/2022,IF Brommapojkarna,Örgryte IS,3,1,SE2,2022,30
+05/11/2022,Skövde AIK,Dalkurd FF,2,2,SE2,2022,30
+05/11/2022,Östers IF,Trelleborgs FF,0,1,SE2,2022,30
+05/11/2022,Östersunds FK,Norrby IF,1,0,SE2,2022,30
+01/04/2023,IK Brage,Västerås SK,1,2,SE2,2023,1
+01/04/2023,GIF Sundsvall,Landskrona BoIS,2,0,SE2,2023,1
+02/04/2023,Trelleborgs FF,Gefle IF,0,1,SE2,2023,1
+02/04/2023,Utsiktens BK,Skövde AIK,1,0,SE2,2023,1
+02/04/2023,Östersunds FK,GAIS,1,1,SE2,2023,1
+03/04/2023,Örgryte IS,AFC Eskilstuna,2,2,SE2,2023,1
+03/04/2023,Jönköpings Södra IF,Örebro SK,0,0,SE2,2023,1
+04/04/2023,Helsingborgs IF,Östers IF,0,1,SE2,2023,1
+07/04/2023,GAIS,IK Brage,3,0,SE2,2023,2
+09/04/2023,Landskrona BoIS,Utsiktens BK,1,3,SE2,2023,2
+09/04/2023,Skövde AIK,Jönköpings Södra IF,3,3,SE2,2023,2
+09/04/2023,Örebro SK,Östersunds FK,0,0,SE2,2023,2
+10/04/2023,Gefle IF,Helsingborgs IF,1,0,SE2,2023,2
+10/04/2023,Västerås SK,Örgryte IS,0,0,SE2,2023,2
+10/04/2023,Östers IF,Trelleborgs FF,5,2,SE2,2023,2
+10/04/2023,AFC Eskilstuna,GIF Sundsvall,0,1,SE2,2023,2
+15/04/2023,Helsingborgs IF,Västerås SK,0,1,SE2,2023,3
+15/04/2023,Östers IF,AFC Eskilstuna,3,0,SE2,2023,3
+15/04/2023,Landskrona BoIS,Skövde AIK,2,0,SE2,2023,3
+15/04/2023,Örebro SK,IK Brage,0,2,SE2,2023,3
+16/04/2023,Utsiktens BK,GAIS,1,2,SE2,2023,3
+17/04/2023,Jönköpings Södra IF,Gefle IF,2,1,SE2,2023,3
+17/04/2023,Trelleborgs FF,Örgryte IS,2,0,SE2,2023,3
+18/04/2023,GIF Sundsvall,Östersunds FK,0,3,SE2,2023,3
+22/04/2023,AFC Eskilstuna,Trelleborgs FF,1,0,SE2,2023,4
+22/04/2023,GAIS,Landskrona BoIS,2,0,SE2,2023,4
+22/04/2023,IK Brage,Helsingborgs IF,1,0,SE2,2023,4
+23/04/2023,GIF Sundsvall,Östers IF,2,3,SE2,2023,4
+23/04/2023,Gefle IF,Utsiktens BK,1,1,SE2,2023,4
+24/04/2023,Örgryte IS,Jönköpings Södra IF,2,2,SE2,2023,4
+24/04/2023,Östersunds FK,Skövde AIK,2,1,SE2,2023,4
+25/04/2023,Västerås SK,Örebro SK,3,0,SE2,2023,4
+29/04/2023,Östers IF,Östersunds FK,0,1,SE2,2023,5
+29/04/2023,Landskrona BoIS,Gefle IF,1,0,SE2,2023,5
+29/04/2023,Jönköpings Södra IF,Västerås SK,2,1,SE2,2023,5
+30/04/2023,Skövde AIK,IK Brage,0,0,SE2,2023,5
+30/04/2023,Örebro SK,AFC Eskilstuna,3,0,SE2,2023,5
+01/05/2023,Trelleborgs FF,GIF Sundsvall,3,4,SE2,2023,5
+01/05/2023,Utsiktens BK,Örgryte IS,2,1,SE2,2023,5
+02/05/2023,Helsingborgs IF,GAIS,2,1,SE2,2023,5
+05/05/2023,AFC Eskilstuna,Utsiktens BK,1,1,SE2,2023,6
+06/05/2023,Gefle IF,Västerås SK,0,3,SE2,2023,6
+06/05/2023,Östersunds FK,Jönköpings Södra IF,3,3,SE2,2023,6
+07/05/2023,Skövde AIK,Örebro SK,1,2,SE2,2023,6
+07/05/2023,GAIS,Trelleborgs FF,2,1,SE2,2023,6
+08/05/2023,Örgryte IS,Östers IF,2,2,SE2,2023,6
+08/05/2023,IK Brage,GIF Sundsvall,2,0,SE2,2023,6
+09/05/2023,Landskrona BoIS,Helsingborgs IF,2,1,SE2,2023,6
+12/05/2023,Jönköpings Södra IF,AFC Eskilstuna,2,3,SE2,2023,7
+13/05/2023,Västerås SK,Landskrona BoIS,0,0,SE2,2023,7
+13/05/2023,Östers IF,GAIS,1,2,SE2,2023,7
+14/05/2023,Utsiktens BK,IK Brage,4,1,SE2,2023,7
+14/05/2023,Gefle IF,Skövde AIK,4,1,SE2,2023,7
+15/05/2023,Trelleborgs FF,Östersunds FK,1,0,SE2,2023,7
+15/05/2023,GIF Sundsvall,Helsingborgs IF,1,1,SE2,2023,7
+16/05/2023,Örebro SK,Örgryte IS,0,0,SE2,2023,7
+19/05/2023,IK Brage,Gefle IF,1,1,SE2,2023,8
+20/05/2023,Landskrona BoIS,Örebro SK,3,2,SE2,2023,8
+20/05/2023,GAIS,Jönköpings Södra IF,0,1,SE2,2023,8
+20/05/2023,Skövde AIK,Trelleborgs FF,2,3,SE2,2023,8
+21/05/2023,AFC Eskilstuna,Östersunds FK,1,1,SE2,2023,8
+21/05/2023,Helsingborgs IF,Utsiktens BK,0,1,SE2,2023,8
+22/05/2023,Västerås SK,Östers IF,2,1,SE2,2023,8
+23/05/2023,Örgryte IS,GIF Sundsvall,1,0,SE2,2023,8
+26/05/2023,AFC Eskilstuna,GAIS,0,0,SE2,2023,9
+26/05/2023,Östers IF,Landskrona BoIS,2,1,SE2,2023,9
+27/05/2023,Jönköpings Södra IF,IK Brage,4,1,SE2,2023,9
+27/05/2023,Örgryte IS,Gefle IF,3,1,SE2,2023,9
+27/05/2023,Trelleborgs FF,Västerås SK,3,2,SE2,2023,9
+27/05/2023,GIF Sundsvall,Skövde AIK,2,0,SE2,2023,9
+28/05/2023,Östersunds FK,Utsiktens BK,1,2,SE2,2023,9
+28/05/2023,Örebro SK,Helsingborgs IF,1,1,SE2,2023,9
+31/05/2023,Landskrona BoIS,Trelleborgs FF,1,1,SE2,2023,10
+31/05/2023,Gefle IF,GIF Sundsvall,1,3,SE2,2023,10
+31/05/2023,IK Brage,Östersunds FK,2,1,SE2,2023,10
+31/05/2023,Utsiktens BK,Örebro SK,2,1,SE2,2023,10
+01/06/2023,GAIS,Örgryte IS,0,1,SE2,2023,10
+01/06/2023,Västerås SK,AFC Eskilstuna,0,0,SE2,2023,10
+01/06/2023,Jönköpings Södra IF,Östers IF,2,3,SE2,2023,10
+01/06/2023,Helsingborgs IF,Skövde AIK,0,0,SE2,2023,10
+04/06/2023,Östers IF,Utsiktens BK,0,1,SE2,2023,11
+04/06/2023,Örebro SK,Gefle IF,2,0,SE2,2023,11
+04/06/2023,Östersunds FK,Västerås SK,1,2,SE2,2023,11
+05/06/2023,Skövde AIK,AFC Eskilstuna,1,0,SE2,2023,11
+05/06/2023,Trelleborgs FF,IK Brage,1,0,SE2,2023,11
+06/06/2023,Örgryte IS,Landskrona BoIS,0,1,SE2,2023,11
+06/06/2023,Helsingborgs IF,Jönköpings Södra IF,2,2,SE2,2023,11
+06/06/2023,GIF Sundsvall,GAIS,0,3,SE2,2023,11
+10/06/2023,Västerås SK,Skövde AIK,4,0,SE2,2023,12
+10/06/2023,Gefle IF,Östers IF,3,2,SE2,2023,12
+10/06/2023,Jönköpings Södra IF,Trelleborgs FF,3,1,SE2,2023,12
+10/06/2023,Utsiktens BK,GIF Sundsvall,5,0,SE2,2023,12
+11/06/2023,AFC Eskilstuna,Helsingborgs IF,0,1,SE2,2023,12
+11/06/2023,IK Brage,Landskrona BoIS,2,1,SE2,2023,12
+11/06/2023,GAIS,Örebro SK,4,0,SE2,2023,12
+11/06/2023,Östersunds FK,Örgryte IS,2,1,SE2,2023,12
+07/07/2023,Landskrona BoIS,Jönköpings Södra IF,1,1,SE2,2023,13
+07/07/2023,Örebro SK,Östers IF,1,1,SE2,2023,13
+08/07/2023,GIF Sundsvall,Västerås SK,1,3,SE2,2023,13
+08/07/2023,Gefle IF,AFC Eskilstuna,2,0,SE2,2023,13
+09/07/2023,IK Brage,Örgryte IS,4,1,SE2,2023,13
+09/07/2023,Skövde AIK,GAIS,0,0,SE2,2023,13
+10/07/2023,Helsingborgs IF,Östersunds FK,1,0,SE2,2023,13
+10/07/2023,Trelleborgs FF,Utsiktens BK,0,3,SE2,2023,13
+14/07/2023,Östers IF,Skövde AIK,2,1,SE2,2023,14
+15/07/2023,Jönköpings Södra IF,GIF Sundsvall,1,0,SE2,2023,14
+15/07/2023,Örgryte IS,Helsingborgs IF,1,2,SE2,2023,14
+15/07/2023,Västerås SK,Utsiktens BK,1,0,SE2,2023,14
+15/07/2023,Östersunds FK,Landskrona BoIS,4,1,SE2,2023,14
+16/07/2023,GAIS,Gefle IF,1,1,SE2,2023,14
+16/07/2023,AFC Eskilstuna,IK Brage,2,1,SE2,2023,14
+17/07/2023,Örebro SK,Trelleborgs FF,0,0,SE2,2023,14
+22/07/2023,Landskrona BoIS,AFC Eskilstuna,1,2,SE2,2023,15
+22/07/2023,Gefle IF,Östersunds FK,2,2,SE2,2023,15
+22/07/2023,Skövde AIK,Örgryte IS,2,0,SE2,2023,15
+22/07/2023,GIF Sundsvall,Örebro SK,2,2,SE2,2023,15
+23/07/2023,Utsiktens BK,Jönköpings Södra IF,2,1,SE2,2023,15
+23/07/2023,IK Brage,Östers IF,1,2,SE2,2023,15
+24/07/2023,GAIS,Västerås SK,0,2,SE2,2023,15
+24/07/2023,Helsingborgs IF,Trelleborgs FF,1,3,SE2,2023,15
+28/07/2023,AFC Eskilstuna,Skövde AIK,3,0,SE2,2023,16
+29/07/2023,Östersunds FK,GIF Sundsvall,1,1,SE2,2023,16
+29/07/2023,Örgryte IS,IK Brage,1,1,SE2,2023,16
+29/07/2023,Östers IF,Jönköpings Södra IF,4,0,SE2,2023,16
+30/07/2023,Trelleborgs FF,Landskrona BoIS,0,3,SE2,2023,16
+30/07/2023,Västerås SK,Gefle IF,1,0,SE2,2023,16
+31/07/2023,Örebro SK,GAIS,0,0,SE2,2023,16
+31/07/2023,Utsiktens BK,Helsingborgs IF,1,1,SE2,2023,16
+05/08/2023,AFC Eskilstuna,Östers IF,1,1,SE2,2023,17
+05/08/2023,Landskrona BoIS,Östersunds FK,0,1,SE2,2023,17
+05/08/2023,Jönköpings Södra IF,Utsiktens BK,0,2,SE2,2023,17
+05/08/2023,Gefle IF,IK Brage,2,0,SE2,2023,17
+06/08/2023,Skövde AIK,Västerås SK,0,2,SE2,2023,17
+06/08/2023,GAIS,GIF Sundsvall,3,3,SE2,2023,17
+07/08/2023,Trelleborgs FF,Örebro SK,2,2,SE2,2023,17
+08/08/2023,Helsingborgs IF,Örgryte IS,2,3,SE2,2023,17
+12/08/2023,IK Brage,GAIS,0,4,SE2,2023,18
+12/08/2023,Utsiktens BK,Landskrona BoIS,5,1,SE2,2023,18
+12/08/2023,Östers IF,Gefle IF,1,2,SE2,2023,18
+12/08/2023,Östersunds FK,AFC Eskilstuna,1,1,SE2,2023,18
+13/08/2023,Västerås SK,Helsingborgs IF,3,2,SE2,2023,18
+13/08/2023,GIF Sundsvall,Trelleborgs FF,1,1,SE2,2023,18
+14/08/2023,Örgryte IS,Skövde AIK,1,2,SE2,2023,18
+14/08/2023,Örebro SK,Jönköpings Södra IF,3,0,SE2,2023,18
+18/08/2023,GAIS,AFC Eskilstuna,3,0,SE2,2023,19
+18/08/2023,Utsiktens BK,Västerås SK,4,0,SE2,2023,19
+19/08/2023,Landskrona BoIS,IK Brage,3,0,SE2,2023,19
+19/08/2023,Skövde AIK,GIF Sundsvall,2,0,SE2,2023,19
+19/08/2023,Jönköpings Södra IF,Helsingborgs IF,2,2,SE2,2023,19
+19/08/2023,Gefle IF,Örebro SK,2,1,SE2,2023,19
+20/08/2023,Örgryte IS,Östersunds FK,2,2,SE2,2023,19
+20/08/2023,Trelleborgs FF,Östers IF,1,3,SE2,2023,19
+26/08/2023,Örebro SK,Västerås SK,1,1,SE2,2023,20
+27/08/2023,IK Brage,Utsiktens BK,3,0,SE2,2023,20
+27/08/2023,Östers IF,Örgryte IS,2,0,SE2,2023,20
+27/08/2023,Östersunds FK,Trelleborgs FF,2,2,SE2,2023,20
+28/08/2023,GAIS,Skövde AIK,3,1,SE2,2023,20
+28/08/2023,AFC Eskilstuna,Gefle IF,2,1,SE2,2023,20
+28/08/2023,GIF Sundsvall,Jönköpings Södra IF,3,2,SE2,2023,20
+29/08/2023,Helsingborgs IF,Landskrona BoIS,1,2,SE2,2023,20
+01/09/2023,Örgryte IS,Örebro SK,0,3,SE2,2023,21
+02/09/2023,Landskrona BoIS,GAIS,2,1,SE2,2023,21
+02/09/2023,Utsiktens BK,Östersunds FK,0,0,SE2,2023,21
+02/09/2023,Västerås SK,IK Brage,0,0,SE2,2023,21
+02/09/2023,Gefle IF,Jönköpings Södra IF,1,0,SE2,2023,21
+02/09/2023,Skövde AIK,Östers IF,1,2,SE2,2023,21
+03/09/2023,Helsingborgs IF,GIF Sundsvall,3,2,SE2,2023,21
+03/09/2023,Trelleborgs FF,AFC Eskilstuna,2,0,SE2,2023,21
+16/09/2023,AFC Eskilstuna,Örgryte IS,1,3,SE2,2023,22
+16/09/2023,IK Brage,Trelleborgs FF,1,1,SE2,2023,22
+16/09/2023,Östersunds FK,Gefle IF,2,2,SE2,2023,22
+17/09/2023,GAIS,Helsingborgs IF,4,1,SE2,2023,22
+17/09/2023,GIF Sundsvall,Utsiktens BK,1,0,SE2,2023,22
+17/09/2023,Örebro SK,Skövde AIK,5,3,SE2,2023,22
+18/09/2023,Jönköpings Södra IF,Landskrona BoIS,1,2,SE2,2023,22
+18/09/2023,Östers IF,Västerås SK,2,2,SE2,2023,22
+22/09/2023,Helsingborgs IF,AFC Eskilstuna,1,0,SE2,2023,23
+22/09/2023,IK Brage,Örebro SK,2,1,SE2,2023,23
+23/09/2023,Landskrona BoIS,Östers IF,2,2,SE2,2023,23
+23/09/2023,Västerås SK,GIF Sundsvall,2,0,SE2,2023,23
+23/09/2023,Gefle IF,GAIS,0,6,SE2,2023,23
+23/09/2023,Skövde AIK,Östersunds FK,5,1,SE2,2023,23
+23/09/2023,Jönköpings Södra IF,Örgryte IS,2,1,SE2,2023,23
+24/09/2023,Utsiktens BK,Trelleborgs FF,2,3,SE2,2023,23
+27/09/2023,AFC Eskilstuna,Västerås SK,1,2,SE2,2023,24
+27/09/2023,Skövde AIK,Landskrona BoIS,4,2,SE2,2023,24
+27/09/2023,Östers IF,Helsingborgs IF,1,1,SE2,2023,24
+27/09/2023,Östersunds FK,IK Brage,2,0,SE2,2023,24
+28/09/2023,Örgryte IS,GAIS,1,4,SE2,2023,24
+28/09/2023,Örebro SK,Utsiktens BK,5,1,SE2,2023,24
+28/09/2023,Trelleborgs FF,Jönköpings Södra IF,2,1,SE2,2023,24
+28/09/2023,GIF Sundsvall,Gefle IF,2,2,SE2,2023,24
+01/10/2023,Västerås SK,Trelleborgs FF,3,0,SE2,2023,25
+02/10/2023,Jönköpings Södra IF,Östersunds FK,1,1,SE2,2023,25
+02/10/2023,IK Brage,Skövde AIK,3,2,SE2,2023,25
+02/10/2023,Utsiktens BK,AFC Eskilstuna,1,1,SE2,2023,25
+03/10/2023,GAIS,Östers IF,1,0,SE2,2023,25
+03/10/2023,Landskrona BoIS,GIF Sundsvall,2,2,SE2,2023,25
+03/10/2023,Helsingborgs IF,Örebro SK,4,1,SE2,2023,25
+03/10/2023,Gefle IF,Örgryte IS,0,1,SE2,2023,25
+07/10/2023,Västerås SK,Jönköpings Södra IF,3,1,SE2,2023,26
+07/10/2023,Skövde AIK,Gefle IF,3,1,SE2,2023,26
+07/10/2023,Östers IF,Örebro SK,3,0,SE2,2023,26
+07/10/2023,Östersunds FK,Helsingborgs IF,1,0,SE2,2023,26
+08/10/2023,AFC Eskilstuna,Landskrona BoIS,0,1,SE2,2023,26
+08/10/2023,Trelleborgs FF,GAIS,0,6,SE2,2023,26
+08/10/2023,Örgryte IS,Utsiktens BK,2,2,SE2,2023,26
+08/10/2023,GIF Sundsvall,IK Brage,1,2,SE2,2023,26
+21/10/2023,GAIS,Östersunds FK,2,1,SE2,2023,27
+21/10/2023,Helsingborgs IF,Gefle IF,0,0,SE2,2023,27
+22/10/2023,Landskrona BoIS,Västerås SK,0,1,SE2,2023,27
+22/10/2023,Örgryte IS,Trelleborgs FF,0,2,SE2,2023,27
+22/10/2023,IK Brage,AFC Eskilstuna,4,0,SE2,2023,27
+23/10/2023,Jönköpings Södra IF,Skövde AIK,2,2,SE2,2023,27
+24/10/2023,Örebro SK,GIF Sundsvall,0,1,SE2,2023,27
+24/10/2023,Utsiktens BK,Östers IF,2,1,SE2,2023,27
+28/10/2023,Gefle IF,Landskrona BoIS,3,3,SE2,2023,28
+28/10/2023,AFC Eskilstuna,Jönköpings Södra IF,2,2,SE2,2023,28
+28/10/2023,Trelleborgs FF,Helsingborgs IF,0,0,SE2,2023,28
+28/10/2023,Östersunds FK,Örebro SK,4,3,SE2,2023,28
+29/10/2023,Västerås SK,GAIS,2,1,SE2,2023,28
+29/10/2023,Skövde AIK,Utsiktens BK,2,0,SE2,2023,28
+29/10/2023,Östers IF,IK Brage,1,0,SE2,2023,28
+30/10/2023,GIF Sundsvall,Örgryte IS,1,0,SE2,2023,28
+03/11/2023,Utsiktens BK,Gefle IF,0,0,SE2,2023,29
+04/11/2023,Örgryte IS,Västerås SK,1,0,SE2,2023,29
+04/11/2023,Helsingborgs IF,IK Brage,2,0,SE2,2023,29
+04/11/2023,Östersunds FK,Östers IF,1,2,SE2,2023,29
+04/11/2023,Örebro SK,Landskrona BoIS,4,0,SE2,2023,29
+05/11/2023,Jönköpings Södra IF,GAIS,0,2,SE2,2023,29
+05/11/2023,Trelleborgs FF,Skövde AIK,2,2,SE2,2023,29
+05/11/2023,GIF Sundsvall,AFC Eskilstuna,1,1,SE2,2023,29
+11/11/2023,GAIS,Utsiktens BK,0,1,SE2,2023,30
+11/11/2023,Västerås SK,Östersunds FK,0,2,SE2,2023,30
+11/11/2023,Landskrona BoIS,Örgryte IS,1,2,SE2,2023,30
+11/11/2023,AFC Eskilstuna,Örebro SK,3,0,SE2,2023,30
+11/11/2023,Gefle IF,Trelleborgs FF,1,1,SE2,2023,30
+11/11/2023,IK Brage,Jönköpings Södra IF,4,0,SE2,2023,30
+11/11/2023,Skövde AIK,Helsingborgs IF,1,0,SE2,2023,30
+11/11/2023,Östers IF,GIF Sundsvall,4,0,SE2,2023,30
+30/03/2024,GIF Sundsvall,Östersunds FK,1,0,SE2,2024,1
+30/03/2024,Örgryte IS,Utsiktens BK,1,2,SE2,2024,1
+31/03/2024,Landskrona BoIS,Sandvikens IF,4,0,SE2,2024,1
+31/03/2024,Trelleborgs FF,IK Oddevold,1,2,SE2,2024,1
+01/04/2024,Örebro SK,Skövde AIK,0,1,SE2,2024,1
+01/04/2024,Gefle IF,Helsingborgs IF,2,3,SE2,2024,1
+01/04/2024,IK Brage,Varbergs BoIS,1,0,SE2,2024,1
+02/04/2024,Östers IF,Degerfors IF,1,1,SE2,2024,1
+06/04/2024,Östersunds FK,Trelleborgs FF,1,0,SE2,2024,2
+06/04/2024,Sandvikens IF,Örebro SK,2,1,SE2,2024,2
+06/04/2024,Degerfors IF,GIF Sundsvall,2,0,SE2,2024,2
+06/04/2024,Varbergs BoIS,Östers IF,1,2,SE2,2024,2
+07/04/2024,Utsiktens BK,Gefle IF,0,0,SE2,2024,2
+07/04/2024,Skövde AIK,Landskrona BoIS,0,0,SE2,2024,2
+08/04/2024,IK Oddevold,Örgryte IS,0,0,SE2,2024,2
+09/04/2024,Helsingborgs IF,IK Brage,1,1,SE2,2024,2
+12/04/2024,GIF Sundsvall,Skövde AIK,3,1,SE2,2024,3
+13/04/2024,Landskrona BoIS,IK Oddevold,2,1,SE2,2024,3
+13/04/2024,Varbergs BoIS,Östersunds FK,2,0,SE2,2024,3
+14/04/2024,Trelleborgs FF,Sandvikens IF,1,0,SE2,2024,3
+14/04/2024,Helsingborgs IF,Utsiktens BK,1,1,SE2,2024,3
+15/04/2024,Örgryte IS,IK Brage,1,2,SE2,2024,3
+15/04/2024,Gefle IF,Degerfors IF,2,2,SE2,2024,3
+16/04/2024,Östers IF,Örebro SK,2,0,SE2,2024,3
+20/04/2024,Skövde AIK,Trelleborgs FF,1,0,SE2,2024,4
+20/04/2024,Sandvikens IF,Östers IF,1,0,SE2,2024,4
+20/04/2024,Utsiktens BK,GIF Sundsvall,1,0,SE2,2024,4
+20/04/2024,Östersunds FK,Örgryte IS,1,1,SE2,2024,4
+21/04/2024,IK Oddevold,Gefle IF,2,1,SE2,2024,4
+21/04/2024,IK Brage,Landskrona BoIS,1,1,SE2,2024,4
+22/04/2024,Örebro SK,Varbergs BoIS,3,1,SE2,2024,4
+23/04/2024,Degerfors IF,Helsingborgs IF,2,1,SE2,2024,4
+27/04/2024,Landskrona BoIS,Utsiktens BK,1,0,SE2,2024,5
+27/04/2024,Gefle IF,Sandvikens IF,2,2,SE2,2024,5
+27/04/2024,GIF Sundsvall,Varbergs BoIS,1,1,SE2,2024,5
+27/04/2024,Örgryte IS,Östers IF,2,2,SE2,2024,5
+28/04/2024,Helsingborgs IF,Östersunds FK,0,0,SE2,2024,5
+28/04/2024,Örebro SK,IK Brage,2,1,SE2,2024,5
+29/04/2024,Trelleborgs FF,Degerfors IF,1,1,SE2,2024,5
+30/04/2024,Skövde AIK,IK Oddevold,0,0,SE2,2024,5
+04/05/2024,Sandvikens IF,IK Brage,0,1,SE2,2024,6
+04/05/2024,IK Oddevold,GIF Sundsvall,1,0,SE2,2024,6
+04/05/2024,Utsiktens BK,Skövde AIK,4,1,SE2,2024,6
+04/05/2024,Östers IF,Gefle IF,0,0,SE2,2024,6
+04/05/2024,Degerfors IF,Landskrona BoIS,1,3,SE2,2024,6
+05/05/2024,Östersunds FK,Örebro SK,1,1,SE2,2024,6
+06/05/2024,Varbergs BoIS,Trelleborgs FF,0,1,SE2,2024,6
+07/05/2024,Örgryte IS,Helsingborgs IF,0,1,SE2,2024,6
+10/05/2024,Östers IF,IK Oddevold,3,0,SE2,2024,7
+11/05/2024,Trelleborgs FF,Utsiktens BK,2,2,SE2,2024,7
+11/05/2024,GIF Sundsvall,Landskrona BoIS,1,3,SE2,2024,7
+11/05/2024,Varbergs BoIS,Örgryte IS,1,3,SE2,2024,7
+12/05/2024,Gefle IF,Skövde AIK,2,0,SE2,2024,7
+12/05/2024,Helsingborgs IF,Sandvikens IF,2,2,SE2,2024,7
+12/05/2024,IK Brage,Östersunds FK,2,1,SE2,2024,7
+14/05/2024,Örebro SK,Degerfors IF,2,1,SE2,2024,7
+17/05/2024,Gefle IF,GIF Sundsvall,1,0,SE2,2024,8
+17/05/2024,Trelleborgs FF,Helsingborgs IF,0,0,SE2,2024,8
+17/05/2024,Utsiktens BK,Östers IF,1,1,SE2,2024,8
+18/05/2024,Skövde AIK,Östersunds FK,1,0,SE2,2024,8
+18/05/2024,IK Oddevold,IK Brage,1,1,SE2,2024,8
+18/05/2024,Degerfors IF,Örgryte IS,4,1,SE2,2024,8
+19/05/2024,Landskrona BoIS,Örebro SK,0,0,SE2,2024,8
+19/05/2024,Sandvikens IF,Varbergs BoIS,3,1,SE2,2024,8
+22/05/2024,Örgryte IS,Trelleborgs FF,1,2,SE2,2024,9
+22/05/2024,Helsingborgs IF,Skövde AIK,0,1,SE2,2024,9
+22/05/2024,Östers IF,Landskrona BoIS,2,1,SE2,2024,9
+22/05/2024,Östersunds FK,Gefle IF,4,3,SE2,2024,9
+22/05/2024,GIF Sundsvall,Sandvikens IF,0,0,SE2,2024,9
+23/05/2024,Örebro SK,Utsiktens BK,0,1,SE2,2024,9
+23/05/2024,IK Brage,Degerfors IF,0,1,SE2,2024,9
+23/05/2024,Varbergs BoIS,IK Oddevold,2,1,SE2,2024,9
+26/05/2024,Skövde AIK,Östers IF,1,2,SE2,2024,10
+26/05/2024,Gefle IF,Örebro SK,3,1,SE2,2024,10
+26/05/2024,Sandvikens IF,Örgryte IS,3,1,SE2,2024,10
+26/05/2024,IK Oddevold,Östersunds FK,1,2,SE2,2024,10
+26/05/2024,Helsingborgs IF,Landskrona BoIS,0,1,SE2,2024,10
+27/05/2024,Trelleborgs FF,GIF Sundsvall,3,2,SE2,2024,10
+27/05/2024,Utsiktens BK,IK Brage,1,0,SE2,2024,10
+28/05/2024,Degerfors IF,Varbergs BoIS,1,1,SE2,2024,10
+01/06/2024,Degerfors IF,Utsiktens BK,3,1,SE2,2024,11
+01/06/2024,IK Brage,Östers IF,1,0,SE2,2024,11
+01/06/2024,Östersunds FK,Sandvikens IF,0,2,SE2,2024,11
+01/06/2024,Landskrona BoIS,Trelleborgs FF,2,0,SE2,2024,11
+02/06/2024,Örebro SK,IK Oddevold,2,2,SE2,2024,11
+02/06/2024,Örgryte IS,Gefle IF,3,0,SE2,2024,11
+02/06/2024,GIF Sundsvall,Helsingborgs IF,1,3,SE2,2024,11
+02/06/2024,Varbergs BoIS,Skövde AIK,2,2,SE2,2024,11
+14/06/2024,Örgryte IS,GIF Sundsvall,1,1,SE2,2024,12
+15/06/2024,Gefle IF,Landskrona BoIS,1,2,SE2,2024,12
+15/06/2024,Skövde AIK,Degerfors IF,0,2,SE2,2024,12
+15/06/2024,Utsiktens BK,Varbergs BoIS,0,1,SE2,2024,12
+16/06/2024,Helsingborgs IF,Örebro SK,1,0,SE2,2024,12
+16/06/2024,Östers IF,Östersunds FK,1,1,SE2,2024,12
+16/06/2024,Sandvikens IF,IK Oddevold,2,0,SE2,2024,12
+17/06/2024,Trelleborgs FF,IK Brage,1,0,SE2,2024,12
+23/06/2024,IK Brage,GIF Sundsvall,5,0,SE2,2024,13
+23/06/2024,Östersunds FK,Utsiktens BK,1,0,SE2,2024,13
+23/06/2024,IK Oddevold,Degerfors IF,1,1,SE2,2024,13
+23/06/2024,Skövde AIK,Sandvikens IF,0,2,SE2,2024,13
+23/06/2024,Varbergs BoIS,Gefle IF,4,3,SE2,2024,13
+24/06/2024,Landskrona BoIS,Örgryte IS,4,3,SE2,2024,13
+24/06/2024,Örebro SK,Trelleborgs FF,1,1,SE2,2024,13
+24/06/2024,Östers IF,Helsingborgs IF,4,0,SE2,2024,13
+28/06/2024,Helsingborgs IF,Varbergs BoIS,1,0,SE2,2024,14
+28/06/2024,IK Brage,Gefle IF,2,2,SE2,2024,14
+29/06/2024,Utsiktens BK,IK Oddevold,2,3,SE2,2024,14
+29/06/2024,GIF Sundsvall,Örebro SK,1,3,SE2,2024,14
+29/06/2024,Degerfors IF,Sandvikens IF,4,1,SE2,2024,14
+30/06/2024,Landskrona BoIS,Östersunds FK,4,3,SE2,2024,14
+30/06/2024,Örgryte IS,Skövde AIK,2,0,SE2,2024,14
+30/06/2024,Trelleborgs FF,Östers IF,1,4,SE2,2024,14
+20/07/2024,Gefle IF,Trelleborgs FF,2,2,SE2,2024,15
+20/07/2024,Östers IF,GIF Sundsvall,2,0,SE2,2024,15
+20/07/2024,IK Oddevold,Helsingborgs IF,0,3,SE2,2024,15
+20/07/2024,Örebro SK,Örgryte IS,0,0,SE2,2024,15
+21/07/2024,Östersunds FK,Degerfors IF,2,1,SE2,2024,15
+21/07/2024,Skövde AIK,IK Brage,1,0,SE2,2024,15
+22/07/2024,Sandvikens IF,Utsiktens BK,1,2,SE2,2024,15
+22/07/2024,Varbergs BoIS,Landskrona BoIS,1,1,SE2,2024,15
+27/07/2024,Helsingborgs IF,Östers IF,3,2,SE2,2024,16
+27/07/2024,Utsiktens BK,Sandvikens IF,2,1,SE2,2024,16
+27/07/2024,Östersunds FK,Varbergs BoIS,2,1,SE2,2024,16
+27/07/2024,Degerfors IF,Skövde AIK,2,0,SE2,2024,16
+28/07/2024,GIF Sundsvall,Trelleborgs FF,2,1,SE2,2024,16
+28/07/2024,Landskrona BoIS,Gefle IF,0,2,SE2,2024,16
+28/07/2024,IK Brage,Örebro SK,2,0,SE2,2024,16
+29/07/2024,Örgryte IS,IK Oddevold,4,2,SE2,2024,16
+02/08/2024,Örebro SK,Östersunds FK,4,1,SE2,2024,17
+02/08/2024,GIF Sundsvall,Utsiktens BK,1,0,SE2,2024,17
+03/08/2024,Trelleborgs FF,Landskrona BoIS,1,3,SE2,2024,17
+03/08/2024,Degerfors IF,IK Oddevold,2,2,SE2,2024,17
+03/08/2024,Sandvikens IF,Gefle IF,4,0,SE2,2024,17
+03/08/2024,Varbergs BoIS,Helsingborgs IF,0,3,SE2,2024,17
+04/08/2024,Skövde AIK,Örgryte IS,0,2,SE2,2024,17
+04/08/2024,Östers IF,IK Brage,0,2,SE2,2024,17
+09/08/2024,IK Brage,Skövde AIK,3,0,SE2,2024,18
+10/08/2024,Gefle IF,Varbergs BoIS,0,4,SE2,2024,18
+10/08/2024,Utsiktens BK,Trelleborgs FF,0,2,SE2,2024,18
+10/08/2024,Östersunds FK,Östers IF,0,0,SE2,2024,18
+11/08/2024,IK Oddevold,Sandvikens IF,2,2,SE2,2024,18
+12/08/2024,Örgryte IS,Örebro SK,3,1,SE2,2024,18
+12/08/2024,Landskrona BoIS,GIF Sundsvall,0,0,SE2,2024,18
+13/08/2024,Helsingborgs IF,Degerfors IF,1,1,SE2,2024,18
+16/08/2024,IK Oddevold,Utsiktens BK,2,1,SE2,2024,19
+16/08/2024,Varbergs BoIS,GIF Sundsvall,3,0,SE2,2024,19
+17/08/2024,Trelleborgs FF,Östersunds FK,1,0,SE2,2024,19
+17/08/2024,Östers IF,Örgryte IS,1,0,SE2,2024,19
+17/08/2024,Örebro SK,Gefle IF,4,1,SE2,2024,19
+17/08/2024,Skövde AIK,Helsingborgs IF,1,3,SE2,2024,19
+18/08/2024,Degerfors IF,IK Brage,1,1,SE2,2024,19
+18/08/2024,Sandvikens IF,Landskrona BoIS,2,0,SE2,2024,19
+25/08/2024,Östersunds FK,Skövde AIK,2,2,SE2,2024,20
+25/08/2024,Gefle IF,Östers IF,2,1,SE2,2024,20
+25/08/2024,Sandvikens IF,Trelleborgs FF,4,0,SE2,2024,20
+26/08/2024,Örgryte IS,Degerfors IF,1,3,SE2,2024,20
+26/08/2024,Landskrona BoIS,Varbergs BoIS,1,4,SE2,2024,20
+26/08/2024,GIF Sundsvall,IK Oddevold,3,0,SE2,2024,20
+27/08/2024,IK Brage,Helsingborgs IF,0,3,SE2,2024,20
+27/08/2024,Utsiktens BK,Örebro SK,3,2,SE2,2024,20
+31/08/2024,Örebro SK,GIF Sundsvall,0,0,SE2,2024,21
+31/08/2024,Degerfors IF,Östersunds FK,2,0,SE2,2024,21
+31/08/2024,Östers IF,Sandvikens IF,2,2,SE2,2024,21
+31/08/2024,Varbergs BoIS,Utsiktens BK,1,1,SE2,2024,21
+01/09/2024,IK Oddevold,Landskrona BoIS,0,3,SE2,2024,21
+01/09/2024,Helsingborgs IF,Trelleborgs FF,0,3,SE2,2024,21
+01/09/2024,Skövde AIK,Gefle IF,0,1,SE2,2024,21
+01/09/2024,IK Brage,Örgryte IS,0,2,SE2,2024,21
+13/09/2024,Landskrona BoIS,Östers IF,0,0,SE2,2024,22
+13/09/2024,Trelleborgs FF,Örebro SK,2,1,SE2,2024,22
+13/09/2024,Östersunds FK,Helsingborgs IF,1,0,SE2,2024,22
+14/09/2024,IK Oddevold,Varbergs BoIS,3,2,SE2,2024,22
+14/09/2024,Utsiktens BK,Degerfors IF,0,3,SE2,2024,22
+14/09/2024,GIF Sundsvall,IK Brage,0,0,SE2,2024,22
+14/09/2024,Sandvikens IF,Skövde AIK,2,2,SE2,2024,22
+15/09/2024,Gefle IF,Örgryte IS,2,3,SE2,2024,22
+18/09/2024,Örebro SK,Sandvikens IF,1,0,SE2,2024,23
+18/09/2024,IK Brage,Utsiktens BK,0,0,SE2,2024,23
+18/09/2024,Skövde AIK,Varbergs BoIS,2,2,SE2,2024,23
+18/09/2024,Östers IF,Trelleborgs FF,4,1,SE2,2024,23
+18/09/2024,Östersunds FK,GIF Sundsvall,1,2,SE2,2024,23
+19/09/2024,Örgryte IS,Landskrona BoIS,2,1,SE2,2024,23
+19/09/2024,Helsingborgs IF,IK Oddevold,0,0,SE2,2024,23
+19/09/2024,Degerfors IF,Gefle IF,1,0,SE2,2024,23
+22/09/2024,Trelleborgs FF,Skövde AIK,1,1,SE2,2024,24
+22/09/2024,Varbergs BoIS,IK Brage,0,1,SE2,2024,24
+23/09/2024,GIF Sundsvall,Östers IF,0,2,SE2,2024,24
+23/09/2024,Sandvikens IF,Degerfors IF,0,1,SE2,2024,24
+23/09/2024,IK Oddevold,Örebro SK,0,0,SE2,2024,24
+24/09/2024,Landskrona BoIS,Helsingborgs IF,0,1,SE2,2024,24
+24/09/2024,Gefle IF,Östersunds FK,0,0,SE2,2024,24
+24/09/2024,Utsiktens BK,Örgryte IS,1,1,SE2,2024,24
+28/09/2024,Skövde AIK,GIF Sundsvall,0,2,SE2,2024,25
+28/09/2024,Degerfors IF,Trelleborgs FF,2,0,SE2,2024,25
+28/09/2024,Örgryte IS,Varbergs BoIS,3,3,SE2,2024,25
+28/09/2024,IK Brage,Sandvikens IF,1,2,SE2,2024,25
+28/09/2024,Örebro SK,Landskrona BoIS,1,0,SE2,2024,25
+29/09/2024,Helsingborgs IF,Gefle IF,4,0,SE2,2024,25
+30/09/2024,Östers IF,Utsiktens BK,5,2,SE2,2024,25
+30/09/2024,Östersunds FK,IK Oddevold,0,2,SE2,2024,25
+04/10/2024,Landskrona BoIS,Skövde AIK,4,1,SE2,2024,26
+05/10/2024,Utsiktens BK,Helsingborgs IF,4,0,SE2,2024,26
+05/10/2024,Sandvikens IF,Östersunds FK,3,1,SE2,2024,26
+05/10/2024,Gefle IF,IK Brage,2,1,SE2,2024,26
+05/10/2024,Varbergs BoIS,Örebro SK,1,1,SE2,2024,26
+06/10/2024,Trelleborgs FF,Örgryte IS,1,0,SE2,2024,26
+06/10/2024,GIF Sundsvall,Degerfors IF,1,2,SE2,2024,26
+06/10/2024,IK Oddevold,Östers IF,1,1,SE2,2024,26
+18/10/2024,Örgryte IS,Sandvikens IF,4,2,SE2,2024,27
+19/10/2024,Gefle IF,IK Oddevold,1,1,SE2,2024,27
+19/10/2024,Skövde AIK,Utsiktens BK,1,1,SE2,2024,27
+19/10/2024,IK Brage,Trelleborgs FF,1,0,SE2,2024,27
+19/10/2024,Östersunds FK,Landskrona BoIS,2,1,SE2,2024,27
+20/10/2024,Östers IF,Varbergs BoIS,3,4,SE2,2024,27
+21/10/2024,Helsingborgs IF,GIF Sundsvall,2,1,SE2,2024,27
+22/10/2024,Degerfors IF,Örebro SK,1,2,SE2,2024,27
+26/10/2024,Landskrona BoIS,IK Brage,3,0,SE2,2024,28
+26/10/2024,Utsiktens BK,Östersunds FK,3,1,SE2,2024,28
+26/10/2024,Sandvikens IF,Helsingborgs IF,2,2,SE2,2024,28
+26/10/2024,Trelleborgs FF,Gefle IF,1,0,SE2,2024,28
+26/10/2024,GIF Sundsvall,Örgryte IS,1,1,SE2,2024,28
+27/10/2024,Varbergs BoIS,Degerfors IF,0,0,SE2,2024,28
+27/10/2024,Örebro SK,Östers IF,0,1,SE2,2024,28
+28/10/2024,IK Oddevold,Skövde AIK,2,2,SE2,2024,28
+02/11/2024,Landskrona BoIS,Degerfors IF,1,1,SE2,2024,29
+02/11/2024,Gefle IF,Utsiktens BK,2,0,SE2,2024,29
+02/11/2024,Trelleborgs FF,Varbergs BoIS,0,1,SE2,2024,29
+02/11/2024,Sandvikens IF,GIF Sundsvall,1,2,SE2,2024,29
+03/11/2024,Örebro SK,Helsingborgs IF,2,1,SE2,2024,29
+03/11/2024,IK Brage,IK Oddevold,1,2,SE2,2024,29
+03/11/2024,Östers IF,Skövde AIK,5,2,SE2,2024,29
+04/11/2024,Örgryte IS,Östersunds FK,2,1,SE2,2024,29
+09/11/2024,Helsingborgs IF,Örgryte IS,1,2,SE2,2024,30
+09/11/2024,Skövde AIK,Örebro SK,2,2,SE2,2024,30
+09/11/2024,Utsiktens BK,Landskrona BoIS,3,0,SE2,2024,30
+09/11/2024,Östersunds FK,IK Brage,1,1,SE2,2024,30
+09/11/2024,GIF Sundsvall,Gefle IF,3,0,SE2,2024,30
+09/11/2024,IK Oddevold,Trelleborgs FF,0,3,SE2,2024,30
+09/11/2024,Degerfors IF,Östers IF,1,2,SE2,2024,30
+09/11/2024,Varbergs BoIS,Sandvikens IF,2,1,SE2,2024,30
+29/03/2025,GIF Sundsvall,Helsingborgs IF,2,0,SE2,2025,1
+29/03/2025,Sandvikens IF,Kalmar FF,0,0,SE2,2025,1
+29/03/2025,Örgryte IS,Utsiktens BK,2,1,SE2,2025,1
+29/03/2025,Falkenbergs FF,Varbergs BoIS,2,2,SE2,2025,1
+30/03/2025,Landskrona BoIS,IK Brage,2,2,SE2,2025,1
+30/03/2025,Trelleborgs FF,Östersunds FK,0,1,SE2,2025,1
+31/03/2025,IK Oddevold,Umeå FC,1,0,SE2,2025,1
+01/04/2025,Örebro SK,Västerås SK,0,2,SE2,2025,1
+05/04/2025,Utsiktens BK,IK Oddevold,0,2,SE2,2025,2
+05/04/2025,Helsingborgs IF,Sandvikens IF,1,2,SE2,2025,2
+05/04/2025,Kalmar FF,GIF Sundsvall,1,0,SE2,2025,2
+05/04/2025,Östersunds FK,Landskrona BoIS,3,3,SE2,2025,2
+06/04/2025,Umeå FC,Trelleborgs FF,0,1,SE2,2025,2
+07/04/2025,IK Brage,Falkenbergs FF,0,2,SE2,2025,2
+07/04/2025,Varbergs BoIS,Örebro SK,2,1,SE2,2025,2
+08/04/2025,Västerås SK,Örgryte IS,1,1,SE2,2025,2
+11/04/2025,IK Oddevold,Kalmar FF,1,3,SE2,2025,3
+12/04/2025,Sandvikens IF,Trelleborgs FF,2,0,SE2,2025,3
+12/04/2025,Landskrona BoIS,Utsiktens BK,2,1,SE2,2025,3
+12/04/2025,Örgryte IS,GIF Sundsvall,0,0,SE2,2025,3
+12/04/2025,Umeå FC,Östersunds FK,2,2,SE2,2025,3
+13/04/2025,IK Brage,Varbergs BoIS,1,1,SE2,2025,3
+14/04/2025,Västerås SK,Falkenbergs FF,1,0,SE2,2025,3
+15/04/2025,Örebro SK,Helsingborgs IF,0,2,SE2,2025,3
+19/04/2025,Falkenbergs FF,IK Oddevold,2,2,SE2,2025,4
+19/04/2025,Örgryte IS,Örebro SK,3,0,SE2,2025,4
+20/04/2025,Utsiktens BK,Sandvikens IF,4,1,SE2,2025,4
+20/04/2025,GIF Sundsvall,Landskrona BoIS,1,2,SE2,2025,4
+20/04/2025,Trelleborgs FF,IK Brage,0,1,SE2,2025,4
+20/04/2025,Kalmar FF,Östersunds FK,2,0,SE2,2025,4
+21/04/2025,Varbergs BoIS,Umeå FC,4,0,SE2,2025,4
+22/04/2025,Helsingborgs IF,Västerås SK,2,0,SE2,2025,4
+26/04/2025,IK Oddevold,GIF Sundsvall,1,2,SE2,2025,5
+26/04/2025,Landskrona BoIS,Sandvikens IF,1,0,SE2,2025,5
+26/04/2025,Östersunds FK,Örgryte IS,2,1,SE2,2025,5
+27/04/2025,Helsingborgs IF,Kalmar FF,1,5,SE2,2025,5
+27/04/2025,Trelleborgs FF,Varbergs BoIS,0,4,SE2,2025,5
+27/04/2025,Umeå FC,IK Brage,0,1,SE2,2025,5
+28/04/2025,Utsiktens BK,Västerås SK,2,2,SE2,2025,5
+29/04/2025,Falkenbergs FF,Örebro SK,2,1,SE2,2025,5
+03/05/2025,GIF Sundsvall,Utsiktens BK,2,2,SE2,2025,6
+03/05/2025,Sandvikens IF,IK Oddevold,0,2,SE2,2025,6
+03/05/2025,Umeå FC,Landskrona BoIS,0,2,SE2,2025,6
+03/05/2025,Varbergs BoIS,Helsingborgs IF,1,0,SE2,2025,6
+04/05/2025,Örgryte IS,Falkenbergs FF,4,2,SE2,2025,6
+05/05/2025,IK Brage,Östersunds FK,0,2,SE2,2025,6
+05/05/2025,Örebro SK,Trelleborgs FF,0,0,SE2,2025,6
+06/05/2025,Västerås SK,Kalmar FF,2,2,SE2,2025,6
+10/05/2025,Sandvikens IF,Umeå FC,2,1,SE2,2025,7
+10/05/2025,GIF Sundsvall,Västerås SK,1,2,SE2,2025,7
+10/05/2025,IK Oddevold,Örebro SK,2,1,SE2,2025,7
+10/05/2025,Utsiktens BK,Falkenbergs FF,2,2,SE2,2025,7
+11/05/2025,Östersunds FK,Varbergs BoIS,0,1,SE2,2025,7
+11/05/2025,Kalmar FF,Trelleborgs FF,2,0,SE2,2025,7
+12/05/2025,Landskrona BoIS,Örgryte IS,1,1,SE2,2025,7
+13/05/2025,Helsingborgs IF,IK Brage,1,0,SE2,2025,7
+16/05/2025,Falkenbergs FF,Kalmar FF,0,0,SE2,2025,8
+16/05/2025,Örgryte IS,Varbergs BoIS,5,1,SE2,2025,8
+17/05/2025,Trelleborgs FF,Västerås SK,5,0,SE2,2025,8
+17/05/2025,Umeå FC,Utsiktens BK,1,3,SE2,2025,8
+17/05/2025,Örebro SK,GIF Sundsvall,1,2,SE2,2025,8
+17/05/2025,Östersunds FK,Sandvikens IF,2,2,SE2,2025,8
+18/05/2025,IK Brage,IK Oddevold,1,2,SE2,2025,8
+19/05/2025,Landskrona BoIS,Helsingborgs IF,3,3,SE2,2025,8
+21/05/2025,Falkenbergs FF,Trelleborgs FF,4,0,SE2,2025,9
+21/05/2025,Utsiktens BK,Örebro SK,4,4,SE2,2025,9
+21/05/2025,Västerås SK,Östersunds FK,1,0,SE2,2025,9
+21/05/2025,Örgryte IS,Sandvikens IF,4,0,SE2,2025,9
+22/05/2025,GIF Sundsvall,IK Brage,0,2,SE2,2025,9
+22/05/2025,Helsingborgs IF,IK Oddevold,0,2,SE2,2025,9
+22/05/2025,Kalmar FF,Umeå FC,2,0,SE2,2025,9
+22/05/2025,Varbergs BoIS,Landskrona BoIS,4,2,SE2,2025,9
+24/05/2025,Östersunds FK,Örebro SK,3,1,SE2,2025,10
+25/05/2025,Varbergs BoIS,Kalmar FF,0,0,SE2,2025,10
+26/05/2025,IK Brage,Utsiktens BK,2,2,SE2,2025,10
+26/05/2025,IK Oddevold,Västerås SK,1,5,SE2,2025,10
+26/05/2025,Landskrona BoIS,Falkenbergs FF,0,3,SE2,2025,10
+26/05/2025,Umeå FC,Örgryte IS,3,3,SE2,2025,10
+27/05/2025,Sandvikens IF,GIF Sundsvall,0,1,SE2,2025,10
+27/05/2025,Trelleborgs FF,Helsingborgs IF,0,0,SE2,2025,10
+30/05/2025,Örebro SK,IK Brage,3,3,SE2,2025,11
+31/05/2025,Utsiktens BK,Kalmar FF,1,1,SE2,2025,11
+31/05/2025,Västerås SK,Umeå FC,2,2,SE2,2025,11
+31/05/2025,Sandvikens IF,Varbergs BoIS,2,1,SE2,2025,11
+31/05/2025,Örgryte IS,Trelleborgs FF,2,0,SE2,2025,11
+01/06/2025,GIF Sundsvall,Falkenbergs FF,0,0,SE2,2025,11
+01/06/2025,Helsingborgs IF,Östersunds FK,0,0,SE2,2025,11
+01/06/2025,IK Oddevold,Landskrona BoIS,1,2,SE2,2025,11
+13/06/2025,Örebro SK,Sandvikens IF,0,1,SE2,2025,12
+14/06/2025,Falkenbergs FF,Helsingborgs IF,2,2,SE2,2025,12
+14/06/2025,Kalmar FF,Landskrona BoIS,3,2,SE2,2025,12
+14/06/2025,Östersunds FK,IK Oddevold,1,3,SE2,2025,12
+14/06/2025,Umeå FC,GIF Sundsvall,0,1,SE2,2025,12
+15/06/2025,IK Brage,Örgryte IS,3,2,SE2,2025,12
+15/06/2025,Trelleborgs FF,Utsiktens BK,1,1,SE2,2025,12
+15/06/2025,Varbergs BoIS,Västerås SK,1,0,SE2,2025,12
+22/06/2025,Sandvikens IF,Falkenbergs FF,4,1,SE2,2025,13
+22/06/2025,Utsiktens BK,Östersunds FK,1,0,SE2,2025,13
+22/06/2025,Västerås SK,IK Brage,2,2,SE2,2025,13
+22/06/2025,IK Oddevold,Varbergs BoIS,2,1,SE2,2025,13
+22/06/2025,Kalmar FF,Örgryte IS,2,3,SE2,2025,13
+22/06/2025,Landskrona BoIS,Örebro SK,1,0,SE2,2025,13
+23/06/2025,GIF Sundsvall,Trelleborgs FF,4,2,SE2,2025,13
+23/06/2025,Helsingborgs IF,Umeå FC,5,1,SE2,2025,13
+27/06/2025,IK Brage,Sandvikens IF,1,2,SE2,2025,14
+27/06/2025,Varbergs BoIS,Utsiktens BK,1,1,SE2,2025,14
+28/06/2025,Västerås SK,Landskrona BoIS,1,0,SE2,2025,14
+28/06/2025,Örgryte IS,Helsingborgs IF,0,2,SE2,2025,14
+28/06/2025,GIF Sundsvall,Östersunds FK,1,1,SE2,2025,14
+28/06/2025,Trelleborgs FF,IK Oddevold,0,0,SE2,2025,14
+29/06/2025,Örebro SK,Kalmar FF,2,2,SE2,2025,14
+29/06/2025,Falkenbergs FF,Umeå FC,2,0,SE2,2025,14
+19/07/2025,IK Oddevold,Örgryte IS,0,1,SE2,2025,15
+19/07/2025,Umeå FC,Örebro SK,1,1,SE2,2025,15
+19/07/2025,Östersunds FK,Falkenbergs FF,3,1,SE2,2025,15
+19/07/2025,Sandvikens IF,Västerås SK,0,3,SE2,2025,15
+20/07/2025,Varbergs BoIS,GIF Sundsvall,0,2,SE2,2025,15
+20/07/2025,Kalmar FF,IK Brage,2,2,SE2,2025,15
+21/07/2025,Landskrona BoIS,Trelleborgs FF,1,2,SE2,2025,15
+21/07/2025,Utsiktens BK,Helsingborgs IF,1,2,SE2,2025,15
+26/07/2025,GIF Sundsvall,Örebro SK,1,1,SE2,2025,16
+26/07/2025,IK Oddevold,Sandvikens IF,1,1,SE2,2025,16
+26/07/2025,IK Brage,Umeå FC,2,2,SE2,2025,16
+27/07/2025,Kalmar FF,Utsiktens BK,1,0,SE2,2025,16
+27/07/2025,Falkenbergs FF,Landskrona BoIS,1,1,SE2,2025,16
+27/07/2025,Örgryte IS,Östersunds FK,6,0,SE2,2025,16
+28/07/2025,Helsingborgs IF,Varbergs BoIS,1,2,SE2,2025,16
+28/07/2025,Västerås SK,Trelleborgs FF,3,0,SE2,2025,16
+01/08/2025,Örebro SK,IK Oddevold,0,0,SE2,2025,17
+02/08/2025,Östersunds FK,Helsingborgs IF,2,2,SE2,2025,17
+02/08/2025,Trelleborgs FF,Kalmar FF,0,0,SE2,2025,17
+02/08/2025,Utsiktens BK,GIF Sundsvall,4,1,SE2,2025,17
+02/08/2025,Varbergs BoIS,Örgryte IS,1,2,SE2,2025,17
+02/08/2025,Sandvikens IF,IK Brage,2,5,SE2,2025,17
+03/08/2025,Landskrona BoIS,Västerås SK,1,2,SE2,2025,17
+04/08/2025,Umeå FC,Falkenbergs FF,0,2,SE2,2025,17
+09/08/2025,GIF Sundsvall,Sandvikens IF,1,0,SE2,2025,18
+09/08/2025,Falkenbergs FF,IK Brage,0,1,SE2,2025,18
+09/08/2025,Landskrona BoIS,Östersunds FK,2,0,SE2,2025,18
+09/08/2025,Örgryte IS,IK Oddevold,0,0,SE2,2025,18
+10/08/2025,Kalmar FF,Varbergs BoIS,2,0,SE2,2025,18
+10/08/2025,Helsingborgs IF,Utsiktens BK,3,0,SE2,2025,18
+10/08/2025,Trelleborgs FF,Umeå FC,0,2,SE2,2025,18
+12/08/2025,Västerås SK,Örebro SK,2,1,SE2,2025,18
+15/08/2025,IK Oddevold,Trelleborgs FF,3,2,SE2,2025,19
+15/08/2025,Utsiktens BK,Varbergs BoIS,1,1,SE2,2025,19
+16/08/2025,Östersunds FK,GIF Sundsvall,1,3,SE2,2025,19
+16/08/2025,Helsingborgs IF,Falkenbergs FF,0,0,SE2,2025,19
+16/08/2025,IK Brage,Västerås SK,3,1,SE2,2025,19
+16/08/2025,Umeå FC,Kalmar FF,0,1,SE2,2025,19
+17/08/2025,Örebro SK,Örgryte IS,1,3,SE2,2025,19
+17/08/2025,Sandvikens IF,Landskrona BoIS,0,1,SE2,2025,19
+23/08/2025,Örgryte IS,IK Brage,2,2,SE2,2025,20
+24/08/2025,Varbergs BoIS,Östersunds FK,1,1,SE2,2025,20
+24/08/2025,Västerås SK,Utsiktens BK,3,0,SE2,2025,20
+25/08/2025,Falkenbergs FF,Sandvikens IF,4,0,SE2,2025,20
+25/08/2025,GIF Sundsvall,IK Oddevold,0,1,SE2,2025,20
+25/08/2025,Trelleborgs FF,Landskrona BoIS,1,0,SE2,2025,20
+25/08/2025,Örebro SK,Umeå FC,1,1,SE2,2025,20
+26/08/2025,Kalmar FF,Helsingborgs IF,2,0,SE2,2025,20
+30/08/2025,Varbergs BoIS,Falkenbergs FF,3,2,SE2,2025,21
+30/08/2025,Västerås SK,Helsingborgs IF,4,0,SE2,2025,21
+30/08/2025,Landskrona BoIS,GIF Sundsvall,2,1,SE2,2025,21
+30/08/2025,Sandvikens IF,Örebro SK,2,1,SE2,2025,21
+30/08/2025,Östersunds FK,Kalmar FF,0,0,SE2,2025,21
+31/08/2025,Umeå FC,IK Oddevold,0,2,SE2,2025,21
+31/08/2025,IK Brage,Trelleborgs FF,2,1,SE2,2025,21
+31/08/2025,Utsiktens BK,Örgryte IS,1,2,SE2,2025,21
+13/09/2025,Falkenbergs FF,Utsiktens BK,3,1,SE2,2025,22
+13/09/2025,GIF Sundsvall,Varbergs BoIS,2,3,SE2,2025,22
+13/09/2025,IK Oddevold,IK Brage,4,0,SE2,2025,22
+13/09/2025,Örebro SK,Östersunds FK,2,0,SE2,2025,22
+14/09/2025,Kalmar FF,Västerås SK,2,1,SE2,2025,22
+14/09/2025,Trelleborgs FF,Sandvikens IF,1,2,SE2,2025,22
+15/09/2025,Örgryte IS,Umeå FC,3,1,SE2,2025,22
+16/09/2025,Helsingborgs IF,Landskrona BoIS,0,0,SE2,2025,22
+19/09/2025,Falkenbergs FF,GIF Sundsvall,3,0,SE2,2025,23
+19/09/2025,Västerås SK,IK Oddevold,2,0,SE2,2025,23
+19/09/2025,Östersunds FK,Umeå FC,3,0,SE2,2025,23
+20/09/2025,Helsingborgs IF,Örgryte IS,0,1,SE2,2025,23
+20/09/2025,Varbergs BoIS,Trelleborgs FF,3,1,SE2,2025,23
+20/09/2025,IK Brage,Örebro SK,4,5,SE2,2025,23
+20/09/2025,Kalmar FF,Sandvikens IF,4,0,SE2,2025,23
+20/09/2025,Utsiktens BK,Landskrona BoIS,4,0,SE2,2025,23
+24/09/2025,IK Brage,GIF Sundsvall,0,1,SE2,2025,24
+24/09/2025,IK Oddevold,Falkenbergs FF,2,2,SE2,2025,24
+24/09/2025,Landskrona BoIS,Kalmar FF,0,0,SE2,2025,24
+24/09/2025,Örebro SK,Varbergs BoIS,1,1,SE2,2025,24
+25/09/2025,Sandvikens IF,Helsingborgs IF,0,1,SE2,2025,24
+25/09/2025,Trelleborgs FF,Örgryte IS,0,2,SE2,2025,24
+25/09/2025,Umeå FC,Västerås SK,1,2,SE2,2025,24
+25/09/2025,Östersunds FK,Utsiktens BK,2,1,SE2,2025,24
+28/09/2025,Varbergs BoIS,IK Oddevold,1,1,SE2,2025,25
+28/09/2025,Falkenbergs FF,Östersunds FK,4,0,SE2,2025,25
+28/09/2025,Västerås SK,Sandvikens IF,3,0,SE2,2025,25
+29/09/2025,GIF Sundsvall,Umeå FC,3,1,SE2,2025,25
+29/09/2025,Helsingborgs IF,Trelleborgs FF,4,1,SE2,2025,25
+29/09/2025,Utsiktens BK,IK Brage,2,1,SE2,2025,25
+30/09/2025,Kalmar FF,Örebro SK,2,1,SE2,2025,25
+30/09/2025,Örgryte IS,Landskrona BoIS,2,0,SE2,2025,25
+04/10/2025,Östersunds FK,Västerås SK,1,6,SE2,2025,26
+04/10/2025,IK Brage,Kalmar FF,1,3,SE2,2025,26
+04/10/2025,Umeå FC,Helsingborgs IF,1,0,SE2,2025,26
+05/10/2025,IK Oddevold,Utsiktens BK,1,0,SE2,2025,26
+05/10/2025,Trelleborgs FF,GIF Sundsvall,2,1,SE2,2025,26
+05/10/2025,Örebro SK,Falkenbergs FF,4,1,SE2,2025,26
+06/10/2025,Landskrona BoIS,Varbergs BoIS,2,1,SE2,2025,26
+06/10/2025,Sandvikens IF,Örgryte IS,1,1,SE2,2025,26
+18/10/2025,Västerås SK,GIF Sundsvall,2,1,SE2,2025,27
+18/10/2025,Kalmar FF,IK Oddevold,3,2,SE2,2025,27
+18/10/2025,Varbergs BoIS,Sandvikens IF,0,0,SE2,2025,27
+18/10/2025,Östersunds FK,IK Brage,1,0,SE2,2025,27
+18/10/2025,Falkenbergs FF,Örgryte IS,3,0,SE2,2025,27
+19/10/2025,Utsiktens BK,Trelleborgs FF,3,1,SE2,2025,27
+19/10/2025,Helsingborgs IF,Örebro SK,3,2,SE2,2025,27
+19/10/2025,Landskrona BoIS,Umeå FC,1,3,SE2,2025,27
+24/10/2025,Örgryte IS,Västerås SK,0,2,SE2,2025,28
+25/10/2025,Umeå FC,Varbergs BoIS,2,2,SE2,2025,28
+25/10/2025,GIF Sundsvall,Kalmar FF,0,2,SE2,2025,28
+25/10/2025,IK Brage,Helsingborgs IF,3,2,SE2,2025,28
+25/10/2025,IK Oddevold,Östersunds FK,0,0,SE2,2025,28
+25/10/2025,Sandvikens IF,Utsiktens BK,3,1,SE2,2025,28
+26/10/2025,Trelleborgs FF,Falkenbergs FF,1,1,SE2,2025,28
+26/10/2025,Örebro SK,Landskrona BoIS,1,2,SE2,2025,28
+01/11/2025,Falkenbergs FF,Västerås SK,0,1,SE2,2025,29
+01/11/2025,Örgryte IS,Kalmar FF,0,2,SE2,2025,29
+01/11/2025,Helsingborgs IF,GIF Sundsvall,1,1,SE2,2025,29
+01/11/2025,Umeå FC,Sandvikens IF,1,2,SE2,2025,29
+01/11/2025,Varbergs BoIS,IK Brage,1,2,SE2,2025,29
+01/11/2025,Östersunds FK,Trelleborgs FF,2,0,SE2,2025,29
+02/11/2025,Örebro SK,Utsiktens BK,2,1,SE2,2025,29
+03/11/2025,Landskrona BoIS,IK Oddevold,2,2,SE2,2025,29
+08/11/2025,GIF Sundsvall,Örgryte IS,1,1,SE2,2025,30
+08/11/2025,IK Brage,Landskrona BoIS,4,1,SE2,2025,30
+08/11/2025,IK Oddevold,Helsingborgs IF,1,4,SE2,2025,30
+08/11/2025,Kalmar FF,Falkenbergs FF,1,2,SE2,2025,30
+08/11/2025,Sandvikens IF,Östersunds FK,5,0,SE2,2025,30
+08/11/2025,Trelleborgs FF,Örebro SK,1,1,SE2,2025,30
+08/11/2025,Utsiktens BK,Umeå FC,1,4,SE2,2025,30
+08/11/2025,Västerås SK,Varbergs BoIS,4,1,SE2,2025,30

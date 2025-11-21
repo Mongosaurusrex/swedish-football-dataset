@@ -1,0 +1,2930 @@
+date,home_team,away_team,home_goals,away_goals,league,season,matchday
+14/04/2011,Norrby IF,Husqvarna FF,0,0,SE3S,2011,1
+16/04/2011,IK Oddevold,Varbergs BoIS,0,3,SE3S,2011,1
+16/04/2011,FC Trollhättan,IK Sleipner,0,2,SE3S,2011,1
+16/04/2011,Kristianstads FF,IF Limhamn Bunkeflo,0,0,SE3S,2011,1
+16/04/2011,Örgryte IS,Skövde AIK,1,3,SE3S,2011,1
+16/04/2011,FC Rosengård,Motala AIF,3,1,SE3S,2011,1
+16/04/2011,IF Sylvia,Lunds BK,1,3,SE3S,2011,1
+22/04/2011,Husqvarna FF,Kristianstads FF,0,2,SE3S,2011,2
+22/04/2011,Varbergs BoIS,IF Sylvia,3,2,SE3S,2011,2
+24/04/2011,Lunds BK,FC Rosengård,2,0,SE3S,2011,2
+25/04/2011,Skövde AIK,Norrby IF,0,1,SE3S,2011,2
+25/04/2011,IF Limhamn Bunkeflo,FC Trollhättan,3,2,SE3S,2011,2
+25/04/2011,Motala AIF,Örgryte IS,1,0,SE3S,2011,2
+25/04/2011,IK Sleipner,IK Oddevold,1,0,SE3S,2011,2
+30/04/2011,FC Rosengård,IF Sylvia,2,1,SE3S,2011,3
+01/05/2011,Kristianstads FF,Skövde AIK,3,2,SE3S,2011,3
+01/05/2011,IK Oddevold,IF Limhamn Bunkeflo,3,0,SE3S,2011,3
+01/05/2011,FC Trollhättan,Husqvarna FF,3,0,SE3S,2011,3
+01/05/2011,Norrby IF,Motala AIF,1,0,SE3S,2011,3
+01/05/2011,Örgryte IS,Lunds BK,1,1,SE3S,2011,3
+01/05/2011,IK Sleipner,Varbergs BoIS,2,2,SE3S,2011,3
+07/05/2011,IF Limhamn Bunkeflo,IK Sleipner,2,0,SE3S,2011,4
+07/05/2011,Husqvarna FF,IK Oddevold,1,3,SE3S,2011,4
+07/05/2011,Varbergs BoIS,FC Rosengård,2,1,SE3S,2011,4
+08/05/2011,Lunds BK,Norrby IF,2,0,SE3S,2011,4
+08/05/2011,IF Sylvia,Örgryte IS,0,2,SE3S,2011,4
+08/05/2011,Motala AIF,Kristianstads FF,0,1,SE3S,2011,4
+09/05/2011,Skövde AIK,FC Trollhättan,1,2,SE3S,2011,4
+14/05/2011,Örgryte IS,FC Rosengård,1,0,SE3S,2011,5
+15/05/2011,IF Limhamn Bunkeflo,Varbergs BoIS,3,2,SE3S,2011,5
+15/05/2011,IK Oddevold,Skövde AIK,2,2,SE3S,2011,5
+15/05/2011,FC Trollhättan,Motala AIF,2,0,SE3S,2011,5
+15/05/2011,Norrby IF,IF Sylvia,2,1,SE3S,2011,5
+16/05/2011,Kristianstads FF,Lunds BK,2,2,SE3S,2011,5
+16/05/2011,IK Sleipner,Husqvarna FF,3,1,SE3S,2011,5
+21/05/2011,FC Rosengård,Norrby IF,2,3,SE3S,2011,6
+21/05/2011,Motala AIF,IK Oddevold,1,5,SE3S,2011,6
+21/05/2011,Varbergs BoIS,Örgryte IS,0,0,SE3S,2011,6
+22/05/2011,Lunds BK,FC Trollhättan,0,1,SE3S,2011,6
+22/05/2011,IF Sylvia,Kristianstads FF,0,0,SE3S,2011,6
+22/05/2011,Skövde AIK,IK Sleipner,1,2,SE3S,2011,6
+22/05/2011,Husqvarna FF,IF Limhamn Bunkeflo,2,0,SE3S,2011,6
+28/05/2011,Husqvarna FF,Varbergs BoIS,0,3,SE3S,2011,7
+28/05/2011,IF Limhamn Bunkeflo,Skövde AIK,2,2,SE3S,2011,7
+29/05/2011,IK Oddevold,Lunds BK,1,2,SE3S,2011,7
+29/05/2011,FC Trollhättan,IF Sylvia,2,3,SE3S,2011,7
+30/05/2011,Kristianstads FF,FC Rosengård,1,1,SE3S,2011,7
+30/05/2011,Norrby IF,Örgryte IS,1,3,SE3S,2011,7
+31/05/2011,IK Sleipner,Motala AIF,3,2,SE3S,2011,7
+02/06/2011,IF Sylvia,IK Oddevold,4,0,SE3S,2011,8
+04/06/2011,Varbergs BoIS,Norrby IF,1,0,SE3S,2011,8
+05/06/2011,FC Rosengård,FC Trollhättan,5,2,SE3S,2011,8
+05/06/2011,Lunds BK,IK Sleipner,1,1,SE3S,2011,8
+06/06/2011,Motala AIF,IF Limhamn Bunkeflo,2,2,SE3S,2011,8
+06/06/2011,Skövde AIK,Husqvarna FF,2,0,SE3S,2011,8
+06/06/2011,Örgryte IS,Kristianstads FF,1,0,SE3S,2011,8
+09/06/2011,IK Sleipner,IF Sylvia,0,5,SE3S,2011,9
+11/06/2011,IK Oddevold,FC Rosengård,0,0,SE3S,2011,9
+11/06/2011,IF Limhamn Bunkeflo,Lunds BK,0,1,SE3S,2011,9
+12/06/2011,Kristianstads FF,Norrby IF,3,2,SE3S,2011,9
+12/06/2011,FC Trollhättan,Örgryte IS,3,0,SE3S,2011,9
+12/06/2011,Skövde AIK,Varbergs BoIS,0,4,SE3S,2011,9
+06/07/2011,Husqvarna FF,Motala AIF,4,2,SE3S,2011,9
+18/06/2011,Örgryte IS,IK Oddevold,6,1,SE3S,2011,10
+18/06/2011,IF Sylvia,IF Limhamn Bunkeflo,2,0,SE3S,2011,10
+18/06/2011,Varbergs BoIS,Kristianstads FF,2,0,SE3S,2011,10
+19/06/2011,FC Rosengård,IK Sleipner,2,1,SE3S,2011,10
+19/06/2011,Lunds BK,Husqvarna FF,2,0,SE3S,2011,10
+19/06/2011,Motala AIF,Skövde AIK,1,2,SE3S,2011,10
+20/06/2011,Norrby IF,FC Trollhättan,1,3,SE3S,2011,10
+23/06/2011,Husqvarna FF,IF Sylvia,0,1,SE3S,2011,11
+26/06/2011,Motala AIF,Varbergs BoIS,1,1,SE3S,2011,11
+26/06/2011,FC Trollhättan,Kristianstads FF,2,2,SE3S,2011,11
+26/06/2011,Skövde AIK,Lunds BK,1,0,SE3S,2011,11
+26/06/2011,IK Sleipner,Örgryte IS,5,2,SE3S,2011,11
+27/06/2011,IK Oddevold,Norrby IF,1,3,SE3S,2011,11
+27/06/2011,IF Limhamn Bunkeflo,FC Rosengård,0,2,SE3S,2011,11
+02/07/2011,Kristianstads FF,IK Oddevold,6,0,SE3S,2011,12
+02/07/2011,FC Rosengård,Husqvarna FF,1,1,SE3S,2011,12
+02/07/2011,IF Sylvia,Skövde AIK,5,1,SE3S,2011,12
+03/07/2011,Örgryte IS,IF Limhamn Bunkeflo,1,1,SE3S,2011,12
+03/07/2011,Lunds BK,Motala AIF,2,1,SE3S,2011,12
+03/07/2011,Norrby IF,IK Sleipner,6,0,SE3S,2011,12
+03/07/2011,Varbergs BoIS,FC Trollhättan,4,2,SE3S,2011,12
+09/07/2011,IK Oddevold,FC Trollhättan,3,2,SE3S,2011,13
+09/07/2011,Motala AIF,IF Sylvia,1,2,SE3S,2011,13
+09/07/2011,Skövde AIK,FC Rosengård,2,1,SE3S,2011,13
+09/07/2011,Husqvarna FF,Örgryte IS,1,0,SE3S,2011,13
+09/07/2011,IF Limhamn Bunkeflo,Norrby IF,4,3,SE3S,2011,13
+10/07/2011,Lunds BK,Varbergs BoIS,0,0,SE3S,2011,13
+10/07/2011,IK Sleipner,Kristianstads FF,1,3,SE3S,2011,13
+30/07/2011,Kristianstads FF,IK Sleipner,4,0,SE3S,2011,14
+30/07/2011,Varbergs BoIS,Lunds BK,2,0,SE3S,2011,14
+31/07/2011,FC Rosengård,Skövde AIK,1,2,SE3S,2011,14
+31/07/2011,IF Sylvia,Motala AIF,5,0,SE3S,2011,14
+31/07/2011,Norrby IF,IF Limhamn Bunkeflo,4,2,SE3S,2011,14
+31/07/2011,Örgryte IS,Husqvarna FF,3,0,SE3S,2011,14
+01/08/2011,FC Trollhättan,IK Oddevold,1,1,SE3S,2011,14
+06/08/2011,IF Limhamn Bunkeflo,Örgryte IS,3,0,SE3S,2011,15
+07/08/2011,IK Oddevold,Kristianstads FF,2,2,SE3S,2011,15
+07/08/2011,FC Trollhättan,Varbergs BoIS,1,5,SE3S,2011,15
+07/08/2011,Motala AIF,Lunds BK,1,3,SE3S,2011,15
+07/08/2011,Skövde AIK,IF Sylvia,1,2,SE3S,2011,15
+07/08/2011,IK Sleipner,Norrby IF,2,1,SE3S,2011,15
+14/09/2011,Husqvarna FF,FC Rosengård,3,2,SE3S,2011,15
+13/08/2011,Kristianstads FF,FC Trollhättan,0,3,SE3S,2011,16
+13/08/2011,Örgryte IS,IK Sleipner,2,0,SE3S,2011,16
+13/08/2011,Varbergs BoIS,Motala AIF,3,1,SE3S,2011,16
+14/08/2011,Lunds BK,Skövde AIK,3,0,SE3S,2011,16
+14/08/2011,IF Sylvia,Husqvarna FF,3,0,SE3S,2011,16
+15/08/2011,FC Rosengård,IF Limhamn Bunkeflo,1,1,SE3S,2011,16
+16/08/2011,Norrby IF,IK Oddevold,0,1,SE3S,2011,16
+20/08/2011,Kristianstads FF,Varbergs BoIS,2,2,SE3S,2011,17
+21/08/2011,IF Limhamn Bunkeflo,IF Sylvia,0,1,SE3S,2011,17
+21/08/2011,IK Sleipner,FC Rosengård,3,0,SE3S,2011,17
+21/08/2011,IK Oddevold,Örgryte IS,1,2,SE3S,2011,17
+21/08/2011,Skövde AIK,Motala AIF,2,1,SE3S,2011,17
+21/08/2011,Husqvarna FF,Lunds BK,2,0,SE3S,2011,17
+22/08/2011,FC Trollhättan,Norrby IF,2,0,SE3S,2011,17
+27/08/2011,FC Rosengård,IK Oddevold,0,0,SE3S,2011,18
+27/08/2011,Varbergs BoIS,Skövde AIK,4,0,SE3S,2011,18
+28/08/2011,Lunds BK,IF Limhamn Bunkeflo,4,0,SE3S,2011,18
+28/08/2011,Norrby IF,Kristianstads FF,2,1,SE3S,2011,18
+29/08/2011,Örgryte IS,FC Trollhättan,2,2,SE3S,2011,18
+29/08/2011,IF Sylvia,IK Sleipner,5,0,SE3S,2011,18
+29/08/2011,Motala AIF,Husqvarna FF,1,1,SE3S,2011,18
+03/09/2011,IK Oddevold,Motala AIF,1,2,SE3S,2011,19
+03/09/2011,Kristianstads FF,IF Sylvia,1,2,SE3S,2011,19
+03/09/2011,IF Limhamn Bunkeflo,Husqvarna FF,3,2,SE3S,2011,19
+03/09/2011,Örgryte IS,Varbergs BoIS,4,1,SE3S,2011,19
+04/09/2011,FC Trollhättan,Lunds BK,2,1,SE3S,2011,19
+04/09/2011,Norrby IF,FC Rosengård,0,2,SE3S,2011,19
+04/09/2011,IK Sleipner,Skövde AIK,0,0,SE3S,2011,19
+10/09/2011,FC Rosengård,Örgryte IS,1,4,SE3S,2011,20
+10/09/2011,Husqvarna FF,IK Sleipner,1,2,SE3S,2011,20
+10/09/2011,Varbergs BoIS,IF Limhamn Bunkeflo,0,3,SE3S,2011,20
+11/09/2011,Lunds BK,Kristianstads FF,1,1,SE3S,2011,20
+11/09/2011,IF Sylvia,Norrby IF,2,1,SE3S,2011,20
+11/09/2011,Motala AIF,FC Trollhättan,1,0,SE3S,2011,20
+11/09/2011,Skövde AIK,IK Oddevold,1,2,SE3S,2011,20
+17/09/2011,Kristianstads FF,Örgryte IS,3,4,SE3S,2011,21
+18/09/2011,IF Limhamn Bunkeflo,Motala AIF,4,1,SE3S,2011,21
+18/09/2011,Husqvarna FF,Skövde AIK,1,0,SE3S,2011,21
+18/09/2011,IK Sleipner,Lunds BK,3,0,SE3S,2011,21
+18/09/2011,IK Oddevold,IF Sylvia,1,0,SE3S,2011,21
+18/09/2011,FC Trollhättan,FC Rosengård,2,2,SE3S,2011,21
+19/09/2011,Norrby IF,Varbergs BoIS,0,1,SE3S,2011,21
+24/09/2011,FC Rosengård,Kristianstads FF,0,2,SE3S,2011,22
+24/09/2011,IF Sylvia,FC Trollhättan,3,2,SE3S,2011,22
+24/09/2011,Varbergs BoIS,Husqvarna FF,4,0,SE3S,2011,22
+25/09/2011,Lunds BK,IK Oddevold,0,1,SE3S,2011,22
+25/09/2011,Skövde AIK,IF Limhamn Bunkeflo,0,0,SE3S,2011,22
+26/09/2011,Örgryte IS,Norrby IF,1,3,SE3S,2011,22
+26/09/2011,Motala AIF,IK Sleipner,3,1,SE3S,2011,22
+30/09/2011,Norrby IF,Lunds BK,0,0,SE3S,2011,23
+01/10/2011,IK Oddevold,Husqvarna FF,4,0,SE3S,2011,23
+01/10/2011,Kristianstads FF,Motala AIF,3,3,SE3S,2011,23
+01/10/2011,FC Rosengård,Varbergs BoIS,1,1,SE3S,2011,23
+02/10/2011,Örgryte IS,IF Sylvia,4,0,SE3S,2011,23
+02/10/2011,IK Sleipner,IF Limhamn Bunkeflo,1,1,SE3S,2011,23
+03/10/2011,FC Trollhättan,Skövde AIK,1,2,SE3S,2011,23
+08/10/2011,IF Limhamn Bunkeflo,IK Oddevold,0,3,SE3S,2011,24
+08/10/2011,IF Sylvia,FC Rosengård,0,2,SE3S,2011,24
+09/10/2011,Lunds BK,Örgryte IS,0,1,SE3S,2011,24
+09/10/2011,Skövde AIK,Kristianstads FF,2,2,SE3S,2011,24
+09/10/2011,Husqvarna FF,FC Trollhättan,2,0,SE3S,2011,24
+09/10/2011,Varbergs BoIS,IK Sleipner,3,1,SE3S,2011,24
+09/10/2011,Motala AIF,Norrby IF,2,3,SE3S,2011,24
+15/10/2011,FC Rosengård,Lunds BK,1,3,SE3S,2011,25
+15/10/2011,IK Oddevold,IK Sleipner,2,0,SE3S,2011,25
+15/10/2011,Kristianstads FF,Husqvarna FF,2,0,SE3S,2011,25
+15/10/2011,IF Sylvia,Varbergs BoIS,1,3,SE3S,2011,25
+15/10/2011,Örgryte IS,Motala AIF,3,0,SE3S,2011,25
+16/10/2011,FC Trollhättan,IF Limhamn Bunkeflo,2,0,SE3S,2011,25
+16/10/2011,Norrby IF,Skövde AIK,0,1,SE3S,2011,25
+22/10/2011,Skövde AIK,Örgryte IS,1,1,SE3S,2011,26
+22/10/2011,Husqvarna FF,Norrby IF,1,2,SE3S,2011,26
+22/10/2011,Lunds BK,IF Sylvia,2,3,SE3S,2011,26
+22/10/2011,Motala AIF,FC Rosengård,2,1,SE3S,2011,26
+22/10/2011,IF Limhamn Bunkeflo,Kristianstads FF,4,0,SE3S,2011,26
+22/10/2011,IK Sleipner,FC Trollhättan,2,1,SE3S,2011,26
+22/10/2011,Varbergs BoIS,IK Oddevold,0,2,SE3S,2011,26
+14/04/2012,Kristianstads FF,IK Gauthiod,2,0,SE3S,2012,1
+14/04/2012,Norrby IF,IF Sylvia,2,1,SE3S,2012,1
+14/04/2012,Utsiktens BK,IF Limhamn Bunkeflo,1,2,SE3S,2012,1
+15/04/2012,Lunds BK,Qviding FIF,2,0,SE3S,2012,1
+15/04/2012,FC Trollhättan,Karlstad BK (- 2019),2,2,SE3S,2012,1
+15/04/2012,IK Sleipner,IK Oddevold,2,4,SE3S,2012,1
+16/04/2012,Örgryte IS,Skövde AIK,2,2,SE3S,2012,1
+21/04/2012,Karlstad BK (- 2019),Örgryte IS,1,4,SE3S,2012,2
+21/04/2012,IK Oddevold,Kristianstads FF,0,1,SE3S,2012,2
+21/04/2012,IK Gauthiod,Norrby IF,3,3,SE3S,2012,2
+21/04/2012,Skövde AIK,Lunds BK,0,3,SE3S,2012,2
+22/04/2012,IF Sylvia,Utsiktens BK,2,1,SE3S,2012,2
+22/04/2012,IF Limhamn Bunkeflo,FC Trollhättan,0,2,SE3S,2012,2
+22/04/2012,Qviding FIF,IK Sleipner,2,1,SE3S,2012,2
+26/04/2012,IK Oddevold,IK Gauthiod,2,0,SE3S,2012,3
+27/04/2012,Utsiktens BK,Norrby IF,2,1,SE3S,2012,3
+28/04/2012,IK Sleipner,Skövde AIK,1,2,SE3S,2012,3
+28/04/2012,Kristianstads FF,Qviding FIF,2,0,SE3S,2012,3
+28/04/2012,Lunds BK,Karlstad BK (- 2019),3,0,SE3S,2012,3
+29/04/2012,Örgryte IS,IF Limhamn Bunkeflo,1,0,SE3S,2012,3
+29/04/2012,FC Trollhättan,IF Sylvia,0,3,SE3S,2012,3
+05/05/2012,IK Gauthiod,Utsiktens BK,2,0,SE3S,2012,4
+05/05/2012,IF Sylvia,Örgryte IS,2,2,SE3S,2012,4
+05/05/2012,Karlstad BK (- 2019),IK Sleipner,0,0,SE3S,2012,4
+05/05/2012,Skövde AIK,Kristianstads FF,2,1,SE3S,2012,4
+06/05/2012,Qviding FIF,IK Oddevold,2,0,SE3S,2012,4
+07/05/2012,IF Limhamn Bunkeflo,Lunds BK,0,3,SE3S,2012,4
+08/05/2012,Norrby IF,FC Trollhättan,0,3,SE3S,2012,4
+12/05/2012,Qviding FIF,IK Gauthiod,1,0,SE3S,2012,5
+12/05/2012,IK Sleipner,IF Limhamn Bunkeflo,2,0,SE3S,2012,5
+13/05/2012,Lunds BK,IF Sylvia,1,0,SE3S,2012,5
+13/05/2012,Kristianstads FF,Karlstad BK (- 2019),1,0,SE3S,2012,5
+13/05/2012,Örgryte IS,Norrby IF,3,1,SE3S,2012,5
+13/05/2012,IK Oddevold,Skövde AIK,1,1,SE3S,2012,5
+14/05/2012,FC Trollhättan,Utsiktens BK,0,1,SE3S,2012,5
+19/05/2012,Norrby IF,Lunds BK,2,3,SE3S,2012,6
+19/05/2012,Skövde AIK,Qviding FIF,2,1,SE3S,2012,6
+20/05/2012,Utsiktens BK,Örgryte IS,0,2,SE3S,2012,6
+20/05/2012,Karlstad BK (- 2019),IK Oddevold,0,1,SE3S,2012,6
+21/05/2012,IF Sylvia,IK Sleipner,2,2,SE3S,2012,6
+21/05/2012,IF Limhamn Bunkeflo,Kristianstads FF,1,2,SE3S,2012,6
+21/05/2012,IK Gauthiod,FC Trollhättan,2,1,SE3S,2012,6
+24/05/2012,Skövde AIK,IK Gauthiod,2,1,SE3S,2012,7
+26/05/2012,Örgryte IS,FC Trollhättan,1,1,SE3S,2012,7
+26/05/2012,Qviding FIF,Karlstad BK (- 2019),3,4,SE3S,2012,7
+26/05/2012,IK Oddevold,IF Limhamn Bunkeflo,2,1,SE3S,2012,7
+27/05/2012,Lunds BK,Utsiktens BK,1,1,SE3S,2012,7
+27/05/2012,Kristianstads FF,IF Sylvia,2,2,SE3S,2012,7
+27/05/2012,IK Sleipner,Norrby IF,1,4,SE3S,2012,7
+02/06/2012,Utsiktens BK,IK Sleipner,1,1,SE3S,2012,8
+02/06/2012,IF Limhamn Bunkeflo,Qviding FIF,1,1,SE3S,2012,8
+02/06/2012,Karlstad BK (- 2019),Skövde AIK,1,1,SE3S,2012,8
+02/06/2012,IK Gauthiod,Örgryte IS,0,1,SE3S,2012,8
+03/06/2012,Norrby IF,Kristianstads FF,1,1,SE3S,2012,8
+03/06/2012,FC Trollhättan,Lunds BK,1,2,SE3S,2012,8
+03/06/2012,IF Sylvia,IK Oddevold,0,3,SE3S,2012,8
+09/06/2012,Kristianstads FF,Utsiktens BK,0,1,SE3S,2012,9
+09/06/2012,Lunds BK,Örgryte IS,2,2,SE3S,2012,9
+09/06/2012,Karlstad BK (- 2019),IK Gauthiod,2,2,SE3S,2012,9
+09/06/2012,Skövde AIK,IF Limhamn Bunkeflo,2,2,SE3S,2012,9
+10/06/2012,IK Oddevold,Norrby IF,3,0,SE3S,2012,9
+10/06/2012,IK Sleipner,FC Trollhättan,0,1,SE3S,2012,9
+10/06/2012,Qviding FIF,IF Sylvia,3,1,SE3S,2012,9
+16/06/2012,Norrby IF,Qviding FIF,2,1,SE3S,2012,10
+16/06/2012,FC Trollhättan,Kristianstads FF,4,2,SE3S,2012,10
+16/06/2012,Utsiktens BK,IK Oddevold,3,2,SE3S,2012,10
+16/06/2012,IF Sylvia,Skövde AIK,1,0,SE3S,2012,10
+17/06/2012,IF Limhamn Bunkeflo,Karlstad BK (- 2019),3,0,SE3S,2012,10
+17/06/2012,Örgryte IS,IK Sleipner,6,0,SE3S,2012,10
+17/06/2012,IK Gauthiod,Lunds BK,2,1,SE3S,2012,10
+21/06/2012,Skövde AIK,Norrby IF,4,0,SE3S,2012,11
+21/06/2012,Qviding FIF,Utsiktens BK,1,1,SE3S,2012,11
+24/06/2012,IF Limhamn Bunkeflo,IK Gauthiod,2,3,SE3S,2012,11
+24/06/2012,Kristianstads FF,Örgryte IS,0,3,SE3S,2012,11
+24/06/2012,IK Sleipner,Lunds BK,0,1,SE3S,2012,11
+24/06/2012,Karlstad BK (- 2019),IF Sylvia,1,2,SE3S,2012,11
+25/06/2012,IK Oddevold,FC Trollhättan,4,2,SE3S,2012,11
+30/06/2012,Lunds BK,Kristianstads FF,0,0,SE3S,2012,12
+30/06/2012,Örgryte IS,IK Oddevold,1,0,SE3S,2012,12
+30/06/2012,Utsiktens BK,Skövde AIK,2,0,SE3S,2012,12
+30/06/2012,Norrby IF,Karlstad BK (- 2019),4,2,SE3S,2012,12
+30/06/2012,IF Sylvia,IF Limhamn Bunkeflo,4,3,SE3S,2012,12
+30/06/2012,IK Gauthiod,IK Sleipner,4,1,SE3S,2012,12
+01/07/2012,FC Trollhättan,Qviding FIF,2,0,SE3S,2012,12
+07/07/2012,Kristianstads FF,IK Sleipner,1,1,SE3S,2012,13
+07/07/2012,IF Sylvia,IK Gauthiod,2,0,SE3S,2012,13
+07/07/2012,IF Limhamn Bunkeflo,Norrby IF,1,1,SE3S,2012,13
+07/07/2012,IK Oddevold,Lunds BK,1,0,SE3S,2012,13
+08/07/2012,Skövde AIK,FC Trollhättan,3,0,SE3S,2012,13
+08/07/2012,Karlstad BK (- 2019),Utsiktens BK,2,1,SE3S,2012,13
+08/07/2012,Qviding FIF,Örgryte IS,1,4,SE3S,2012,13
+14/07/2012,IK Sleipner,Kristianstads FF,2,1,SE3S,2012,14
+14/07/2012,Lunds BK,IK Oddevold,0,0,SE3S,2012,14
+14/07/2012,FC Trollhättan,Skövde AIK,2,2,SE3S,2012,14
+14/07/2012,Utsiktens BK,Karlstad BK (- 2019),1,2,SE3S,2012,14
+14/07/2012,Norrby IF,IF Limhamn Bunkeflo,1,1,SE3S,2012,14
+15/07/2012,Örgryte IS,Qviding FIF,0,1,SE3S,2012,14
+15/07/2012,IK Gauthiod,IF Sylvia,2,3,SE3S,2012,14
+11/08/2012,IK Sleipner,IK Gauthiod,2,1,SE3S,2012,15
+11/08/2012,Karlstad BK (- 2019),Norrby IF,3,2,SE3S,2012,15
+11/08/2012,Qviding FIF,FC Trollhättan,0,0,SE3S,2012,15
+12/08/2012,IF Limhamn Bunkeflo,IF Sylvia,3,1,SE3S,2012,15
+12/08/2012,Skövde AIK,Utsiktens BK,3,1,SE3S,2012,15
+13/08/2012,Kristianstads FF,Lunds BK,4,1,SE3S,2012,15
+13/08/2012,IK Oddevold,Örgryte IS,2,2,SE3S,2012,15
+16/08/2012,Utsiktens BK,Qviding FIF,1,2,SE3S,2012,16
+19/08/2012,IK Gauthiod,IF Limhamn Bunkeflo,1,2,SE3S,2012,16
+20/08/2012,FC Trollhättan,IK Oddevold,2,2,SE3S,2012,16
+22/08/2012,Örgryte IS,Kristianstads FF,1,0,SE3S,2012,16
+22/08/2012,Norrby IF,Skövde AIK,0,3,SE3S,2012,16
+22/08/2012,IF Sylvia,Karlstad BK (- 2019),0,3,SE3S,2012,16
+29/08/2012,Lunds BK,IK Sleipner,5,1,SE3S,2012,16
+25/08/2012,Kristianstads FF,FC Trollhättan,1,2,SE3S,2012,17
+25/08/2012,Lunds BK,IK Gauthiod,5,1,SE3S,2012,17
+25/08/2012,Karlstad BK (- 2019),IF Limhamn Bunkeflo,2,0,SE3S,2012,17
+26/08/2012,Qviding FIF,Norrby IF,0,1,SE3S,2012,17
+26/08/2012,Skövde AIK,IF Sylvia,3,6,SE3S,2012,17
+26/08/2012,IK Sleipner,Örgryte IS,0,4,SE3S,2012,17
+27/08/2012,IK Oddevold,Utsiktens BK,2,1,SE3S,2012,17
+01/09/2012,Utsiktens BK,Kristianstads FF,1,1,SE3S,2012,18
+01/09/2012,IF Sylvia,Qviding FIF,1,3,SE3S,2012,18
+02/09/2012,IF Limhamn Bunkeflo,Skövde AIK,4,1,SE3S,2012,18
+02/09/2012,FC Trollhättan,IK Sleipner,5,2,SE3S,2012,18
+02/09/2012,IK Gauthiod,Karlstad BK (- 2019),1,2,SE3S,2012,18
+03/09/2012,Örgryte IS,Lunds BK,2,0,SE3S,2012,18
+03/09/2012,Norrby IF,IK Oddevold,1,2,SE3S,2012,18
+08/09/2012,Kristianstads FF,Norrby IF,3,0,SE3S,2012,19
+08/09/2012,Örgryte IS,IK Gauthiod,6,0,SE3S,2012,19
+09/09/2012,Lunds BK,FC Trollhättan,4,1,SE3S,2012,19
+09/09/2012,Qviding FIF,IF Limhamn Bunkeflo,1,1,SE3S,2012,19
+09/09/2012,Skövde AIK,Karlstad BK (- 2019),2,2,SE3S,2012,19
+09/09/2012,IK Oddevold,IF Sylvia,5,2,SE3S,2012,19
+09/09/2012,IK Sleipner,Utsiktens BK,1,0,SE3S,2012,19
+15/09/2012,Norrby IF,IK Sleipner,1,1,SE3S,2012,20
+15/09/2012,Utsiktens BK,Lunds BK,0,1,SE3S,2012,20
+15/09/2012,Karlstad BK (- 2019),Qviding FIF,2,2,SE3S,2012,20
+15/09/2012,IK Gauthiod,Skövde AIK,1,2,SE3S,2012,20
+16/09/2012,IF Sylvia,Kristianstads FF,0,2,SE3S,2012,20
+16/09/2012,IF Limhamn Bunkeflo,IK Oddevold,2,3,SE3S,2012,20
+17/09/2012,FC Trollhättan,Örgryte IS,2,2,SE3S,2012,20
+20/09/2012,IK Sleipner,IF Sylvia,0,0,SE3S,2012,21
+22/09/2012,Kristianstads FF,IF Limhamn Bunkeflo,0,0,SE3S,2012,21
+23/09/2012,Lunds BK,Norrby IF,2,1,SE3S,2012,21
+23/09/2012,Qviding FIF,Skövde AIK,0,0,SE3S,2012,21
+23/09/2012,IK Oddevold,Karlstad BK (- 2019),3,2,SE3S,2012,21
+24/09/2012,FC Trollhättan,IK Gauthiod,3,1,SE3S,2012,21
+25/09/2012,Örgryte IS,Utsiktens BK,5,1,SE3S,2012,21
+29/09/2012,Utsiktens BK,FC Trollhättan,3,2,SE3S,2012,22
+29/09/2012,Karlstad BK (- 2019),Kristianstads FF,1,3,SE3S,2012,22
+29/09/2012,IK Gauthiod,Qviding FIF,2,1,SE3S,2012,22
+29/09/2012,Skövde AIK,IK Oddevold,0,2,SE3S,2012,22
+30/09/2012,IF Sylvia,Lunds BK,1,2,SE3S,2012,22
+30/09/2012,IF Limhamn Bunkeflo,IK Sleipner,4,3,SE3S,2012,22
+01/10/2012,Norrby IF,Örgryte IS,0,3,SE3S,2012,22
+06/10/2012,Kristianstads FF,Skövde AIK,3,1,SE3S,2012,23
+06/10/2012,IK Oddevold,Qviding FIF,2,1,SE3S,2012,23
+06/10/2012,Örgryte IS,IF Sylvia,4,0,SE3S,2012,23
+06/10/2012,Utsiktens BK,IK Gauthiod,2,0,SE3S,2012,23
+07/10/2012,IK Sleipner,Karlstad BK (- 2019),3,1,SE3S,2012,23
+08/10/2012,Lunds BK,IF Limhamn Bunkeflo,3,0,SE3S,2012,23
+08/10/2012,FC Trollhättan,Norrby IF,2,2,SE3S,2012,23
+13/10/2012,Karlstad BK (- 2019),Lunds BK,0,0,SE3S,2012,24
+13/10/2012,Qviding FIF,Kristianstads FF,4,0,SE3S,2012,24
+13/10/2012,IF Limhamn Bunkeflo,Örgryte IS,1,3,SE3S,2012,24
+13/10/2012,Skövde AIK,IK Sleipner,2,2,SE3S,2012,24
+14/10/2012,IF Sylvia,FC Trollhättan,1,4,SE3S,2012,24
+15/10/2012,Norrby IF,Utsiktens BK,1,1,SE3S,2012,24
+17/10/2012,IK Gauthiod,IK Oddevold,0,1,SE3S,2012,24
+20/10/2012,Norrby IF,IK Gauthiod,3,2,SE3S,2012,25
+20/10/2012,Kristianstads FF,IK Oddevold,2,1,SE3S,2012,25
+20/10/2012,IK Sleipner,Qviding FIF,6,0,SE3S,2012,25
+20/10/2012,Lunds BK,Skövde AIK,2,1,SE3S,2012,25
+20/10/2012,Utsiktens BK,IF Sylvia,4,1,SE3S,2012,25
+20/10/2012,Örgryte IS,Karlstad BK (- 2019),0,0,SE3S,2012,25
+21/10/2012,FC Trollhättan,IF Limhamn Bunkeflo,1,1,SE3S,2012,25
+27/10/2012,IF Sylvia,Norrby IF,2,0,SE3S,2012,26
+27/10/2012,IF Limhamn Bunkeflo,Utsiktens BK,2,1,SE3S,2012,26
+27/10/2012,Karlstad BK (- 2019),FC Trollhättan,2,2,SE3S,2012,26
+27/10/2012,Skövde AIK,Örgryte IS,0,1,SE3S,2012,26
+27/10/2012,Qviding FIF,Lunds BK,0,2,SE3S,2012,26
+27/10/2012,IK Oddevold,IK Sleipner,1,2,SE3S,2012,26
+27/10/2012,IK Gauthiod,Kristianstads FF,4,1,SE3S,2012,26
+13/04/2013,Utsiktens BK,Qviding FIF,1,0,SE3S,2013,1
+13/04/2013,IK Oddevold,Torslanda IK,1,1,SE3S,2013,1
+14/04/2013,IF Limhamn Bunkeflo,Skövde AIK,3,0,SE3S,2013,1
+14/04/2013,Karlstad BK (- 2019),Kristianstads FF,2,4,SE3S,2013,1
+14/04/2013,IS Halmia,Trelleborgs FF,0,2,SE3S,2013,1
+14/04/2013,FC Trollhättan,Husqvarna FF,1,3,SE3S,2013,1
+14/04/2013,IF Sylvia,Lunds BK,2,2,SE3S,2013,1
+20/04/2013,Torslanda IK,IS Halmia,0,0,SE3S,2013,2
+20/04/2013,Skövde AIK,Utsiktens BK,0,0,SE3S,2013,2
+20/04/2013,Husqvarna FF,Karlstad BK (- 2019),4,0,SE3S,2013,2
+20/04/2013,Qviding FIF,IF Sylvia,0,3,SE3S,2013,2
+21/04/2013,Kristianstads FF,IK Oddevold,0,0,SE3S,2013,2
+21/04/2013,Lunds BK,FC Trollhättan,0,0,SE3S,2013,2
+22/04/2013,Trelleborgs FF,IF Limhamn Bunkeflo,0,1,SE3S,2013,2
+27/04/2013,Utsiktens BK,Trelleborgs FF,2,0,SE3S,2013,3
+27/04/2013,IK Oddevold,Husqvarna FF,1,0,SE3S,2013,3
+27/04/2013,Skövde AIK,Qviding FIF,1,0,SE3S,2013,3
+27/04/2013,IS Halmia,Kristianstads FF,3,0,SE3S,2013,3
+28/04/2013,FC Trollhättan,IF Sylvia,1,1,SE3S,2013,3
+28/04/2013,IF Limhamn Bunkeflo,Torslanda IK,0,3,SE3S,2013,3
+28/04/2013,Karlstad BK (- 2019),Lunds BK,3,0,SE3S,2013,3
+05/05/2013,Lunds BK,IK Oddevold,2,2,SE3S,2013,4
+05/05/2013,IF Sylvia,Karlstad BK (- 2019),2,1,SE3S,2013,4
+05/05/2013,Kristianstads FF,IF Limhamn Bunkeflo,0,0,SE3S,2013,4
+05/05/2013,Trelleborgs FF,Skövde AIK,2,2,SE3S,2013,4
+05/05/2013,Qviding FIF,FC Trollhättan,1,3,SE3S,2013,4
+05/05/2013,Husqvarna FF,IS Halmia,1,0,SE3S,2013,4
+05/05/2013,Torslanda IK,Utsiktens BK,1,0,SE3S,2013,4
+09/05/2013,IF Limhamn Bunkeflo,Husqvarna FF,1,3,SE3S,2013,5
+11/05/2013,Skövde AIK,Torslanda IK,2,1,SE3S,2013,5
+12/05/2013,Trelleborgs FF,Qviding FIF,3,0,SE3S,2013,5
+12/05/2013,Utsiktens BK,Kristianstads FF,1,0,SE3S,2013,5
+12/05/2013,IK Oddevold,IF Sylvia,2,1,SE3S,2013,5
+13/05/2013,Karlstad BK (- 2019),FC Trollhättan,0,2,SE3S,2013,5
+13/05/2013,IS Halmia,Lunds BK,2,1,SE3S,2013,5
+18/05/2013,IF Sylvia,IS Halmia,0,1,SE3S,2013,6
+18/05/2013,Kristianstads FF,Skövde AIK,2,0,SE3S,2013,6
+18/05/2013,Qviding FIF,Karlstad BK (- 2019),1,1,SE3S,2013,6
+18/05/2013,Torslanda IK,Trelleborgs FF,1,2,SE3S,2013,6
+18/05/2013,Husqvarna FF,Utsiktens BK,1,0,SE3S,2013,6
+20/05/2013,FC Trollhättan,IK Oddevold,2,2,SE3S,2013,6
+21/05/2013,Lunds BK,IF Limhamn Bunkeflo,6,2,SE3S,2013,6
+23/05/2013,Skövde AIK,Husqvarna FF,0,2,SE3S,2013,7
+25/05/2013,IF Limhamn Bunkeflo,IF Sylvia,1,2,SE3S,2013,7
+25/05/2013,IK Oddevold,Karlstad BK (- 2019),0,0,SE3S,2013,7
+25/05/2013,IS Halmia,FC Trollhättan,2,1,SE3S,2013,7
+25/05/2013,Torslanda IK,Qviding FIF,1,0,SE3S,2013,7
+26/05/2013,Utsiktens BK,Lunds BK,3,2,SE3S,2013,7
+27/05/2013,Trelleborgs FF,Kristianstads FF,2,1,SE3S,2013,7
+01/06/2013,Qviding FIF,IK Oddevold,1,2,SE3S,2013,8
+01/06/2013,IF Sylvia,Utsiktens BK,4,3,SE3S,2013,8
+01/06/2013,FC Trollhättan,IF Limhamn Bunkeflo,0,2,SE3S,2013,8
+01/06/2013,Husqvarna FF,Trelleborgs FF,0,0,SE3S,2013,8
+02/06/2013,Lunds BK,Skövde AIK,2,3,SE3S,2013,8
+02/06/2013,Kristianstads FF,Torslanda IK,0,0,SE3S,2013,8
+02/06/2013,Karlstad BK (- 2019),IS Halmia,0,1,SE3S,2013,8
+06/06/2013,Torslanda IK,Husqvarna FF,0,1,SE3S,2013,9
+08/06/2013,Kristianstads FF,Qviding FIF,0,1,SE3S,2013,9
+08/06/2013,IF Limhamn Bunkeflo,Karlstad BK (- 2019),0,4,SE3S,2013,9
+09/06/2013,Skövde AIK,IF Sylvia,0,0,SE3S,2013,9
+10/06/2013,Utsiktens BK,FC Trollhättan,0,3,SE3S,2013,9
+10/06/2013,Trelleborgs FF,Lunds BK,0,3,SE3S,2013,9
+10/06/2013,IS Halmia,IK Oddevold,2,1,SE3S,2013,9
+15/06/2013,Lunds BK,Torslanda IK,4,1,SE3S,2013,10
+15/06/2013,Husqvarna FF,Kristianstads FF,1,0,SE3S,2013,10
+15/06/2013,Qviding FIF,IS Halmia,1,1,SE3S,2013,10
+16/06/2013,IK Oddevold,IF Limhamn Bunkeflo,2,0,SE3S,2013,10
+16/06/2013,IF Sylvia,Trelleborgs FF,3,1,SE3S,2013,10
+16/06/2013,Karlstad BK (- 2019),Utsiktens BK,1,2,SE3S,2013,10
+17/06/2013,FC Trollhättan,Skövde AIK,1,3,SE3S,2013,10
+20/06/2013,Kristianstads FF,Lunds BK,1,0,SE3S,2013,11
+20/06/2013,IF Limhamn Bunkeflo,IS Halmia,0,0,SE3S,2013,11
+23/06/2013,Torslanda IK,IF Sylvia,1,1,SE3S,2013,11
+23/06/2013,Trelleborgs FF,FC Trollhättan,5,0,SE3S,2013,11
+23/06/2013,Husqvarna FF,Qviding FIF,1,0,SE3S,2013,11
+24/06/2013,Utsiktens BK,IK Oddevold,3,1,SE3S,2013,11
+24/06/2013,Skövde AIK,Karlstad BK (- 2019),0,0,SE3S,2013,11
+06/06/2013,IS Halmia,Utsiktens BK,2,0,SE3S,2013,12
+29/06/2013,Karlstad BK (- 2019),Trelleborgs FF,1,2,SE3S,2013,12
+29/06/2013,Qviding FIF,IF Limhamn Bunkeflo,1,4,SE3S,2013,12
+30/06/2013,Lunds BK,Husqvarna FF,1,2,SE3S,2013,12
+30/06/2013,IF Sylvia,Kristianstads FF,2,1,SE3S,2013,12
+30/06/2013,IK Oddevold,Skövde AIK,3,0,SE3S,2013,12
+01/07/2013,FC Trollhättan,Torslanda IK,1,0,SE3S,2013,12
+06/07/2013,Kristianstads FF,FC Trollhättan,2,3,SE3S,2013,13
+06/07/2013,Torslanda IK,Karlstad BK (- 2019),3,0,SE3S,2013,13
+07/07/2013,Lunds BK,Qviding FIF,2,2,SE3S,2013,13
+07/07/2013,Utsiktens BK,IF Limhamn Bunkeflo,3,3,SE3S,2013,13
+07/07/2013,Husqvarna FF,IF Sylvia,1,1,SE3S,2013,13
+07/07/2013,Skövde AIK,IS Halmia,3,2,SE3S,2013,13
+07/07/2013,Trelleborgs FF,IK Oddevold,0,3,SE3S,2013,13
+13/07/2013,IF Limhamn Bunkeflo,Utsiktens BK,0,0,SE3S,2013,14
+13/07/2013,Qviding FIF,Lunds BK,4,3,SE3S,2013,14
+14/07/2013,FC Trollhättan,Kristianstads FF,3,1,SE3S,2013,14
+14/07/2013,IK Oddevold,Trelleborgs FF,0,1,SE3S,2013,14
+14/07/2013,Karlstad BK (- 2019),Torslanda IK,0,3,SE3S,2013,14
+14/07/2013,IF Sylvia,Husqvarna FF,1,1,SE3S,2013,14
+28/08/2013,IS Halmia,Skövde AIK,1,1,SE3S,2013,14
+20/07/2013,IF Limhamn Bunkeflo,Qviding FIF,2,3,SE3S,2013,15
+20/07/2013,Skövde AIK,IK Oddevold,0,3,SE3S,2013,15
+20/07/2013,Kristianstads FF,IF Sylvia,3,1,SE3S,2013,15
+20/07/2013,Husqvarna FF,Lunds BK,0,2,SE3S,2013,15
+20/07/2013,Utsiktens BK,IS Halmia,0,0,SE3S,2013,15
+20/07/2013,Torslanda IK,FC Trollhättan,1,2,SE3S,2013,15
+21/07/2013,Trelleborgs FF,Karlstad BK (- 2019),2,1,SE3S,2013,15
+16/08/2013,Karlstad BK (- 2019),Skövde AIK,0,0,SE3S,2013,16
+16/08/2013,IS Halmia,IF Limhamn Bunkeflo,1,2,SE3S,2013,16
+17/08/2013,IF Sylvia,Torslanda IK,3,1,SE3S,2013,16
+18/08/2013,FC Trollhättan,Trelleborgs FF,0,1,SE3S,2013,16
+19/08/2013,IK Oddevold,Utsiktens BK,3,2,SE3S,2013,16
+19/08/2013,Lunds BK,Kristianstads FF,0,2,SE3S,2013,16
+19/08/2013,Qviding FIF,Husqvarna FF,1,1,SE3S,2013,16
+23/08/2013,IS Halmia,Qviding FIF,1,1,SE3S,2013,17
+24/08/2013,Kristianstads FF,Husqvarna FF,2,2,SE3S,2013,17
+25/08/2013,IF Limhamn Bunkeflo,IK Oddevold,1,5,SE3S,2013,17
+25/08/2013,Skövde AIK,FC Trollhättan,1,2,SE3S,2013,17
+25/08/2013,Utsiktens BK,Karlstad BK (- 2019),1,1,SE3S,2013,17
+25/08/2013,Trelleborgs FF,IF Sylvia,2,4,SE3S,2013,17
+26/08/2013,Torslanda IK,Lunds BK,0,2,SE3S,2013,17
+31/08/2013,Husqvarna FF,Torslanda IK,3,1,SE3S,2013,18
+31/08/2013,IF Sylvia,Skövde AIK,3,1,SE3S,2013,18
+31/08/2013,Karlstad BK (- 2019),IF Limhamn Bunkeflo,3,1,SE3S,2013,18
+01/09/2013,Qviding FIF,Kristianstads FF,3,1,SE3S,2013,18
+01/09/2013,IK Oddevold,IS Halmia,2,0,SE3S,2013,18
+02/09/2013,FC Trollhättan,Utsiktens BK,0,2,SE3S,2013,18
+02/09/2013,Lunds BK,Trelleborgs FF,0,1,SE3S,2013,18
+07/09/2013,Torslanda IK,Kristianstads FF,1,2,SE3S,2013,19
+07/09/2013,IS Halmia,Karlstad BK (- 2019),3,0,SE3S,2013,19
+08/09/2013,IF Limhamn Bunkeflo,FC Trollhättan,3,2,SE3S,2013,19
+08/09/2013,Utsiktens BK,IF Sylvia,1,1,SE3S,2013,19
+08/09/2013,Skövde AIK,Lunds BK,0,1,SE3S,2013,19
+08/09/2013,IK Oddevold,Qviding FIF,1,1,SE3S,2013,19
+08/09/2013,Trelleborgs FF,Husqvarna FF,2,1,SE3S,2013,19
+13/09/2013,Qviding FIF,Torslanda IK,3,0,SE3S,2013,20
+15/09/2013,Lunds BK,Utsiktens BK,0,1,SE3S,2013,20
+15/09/2013,Husqvarna FF,Skövde AIK,2,0,SE3S,2013,20
+15/09/2013,Kristianstads FF,Trelleborgs FF,3,2,SE3S,2013,20
+15/09/2013,IF Sylvia,IF Limhamn Bunkeflo,4,0,SE3S,2013,20
+15/09/2013,Karlstad BK (- 2019),IK Oddevold,2,3,SE3S,2013,20
+16/09/2013,FC Trollhättan,IS Halmia,3,3,SE3S,2013,20
+21/09/2013,Utsiktens BK,Husqvarna FF,2,1,SE3S,2013,21
+21/09/2013,IS Halmia,IF Sylvia,4,1,SE3S,2013,21
+22/09/2013,Skövde AIK,Kristianstads FF,5,1,SE3S,2013,21
+22/09/2013,Karlstad BK (- 2019),Qviding FIF,1,3,SE3S,2013,21
+22/09/2013,Trelleborgs FF,Torslanda IK,3,1,SE3S,2013,21
+23/09/2013,IF Limhamn Bunkeflo,Lunds BK,1,3,SE3S,2013,21
+23/09/2013,IK Oddevold,FC Trollhättan,2,3,SE3S,2013,21
+28/09/2013,Kristianstads FF,Utsiktens BK,2,3,SE3S,2013,22
+28/09/2013,Torslanda IK,Skövde AIK,1,3,SE3S,2013,22
+29/09/2013,Husqvarna FF,IF Limhamn Bunkeflo,3,0,SE3S,2013,22
+29/09/2013,IF Sylvia,IK Oddevold,2,3,SE3S,2013,22
+29/09/2013,Qviding FIF,Trelleborgs FF,3,1,SE3S,2013,22
+30/09/2013,FC Trollhättan,Karlstad BK (- 2019),2,0,SE3S,2013,22
+30/09/2013,Lunds BK,IS Halmia,1,2,SE3S,2013,22
+05/10/2013,Utsiktens BK,Torslanda IK,0,0,SE3S,2013,23
+05/10/2013,IS Halmia,Husqvarna FF,0,2,SE3S,2013,23
+05/10/2013,Skövde AIK,Trelleborgs FF,5,0,SE3S,2013,23
+06/10/2013,Karlstad BK (- 2019),IF Sylvia,2,0,SE3S,2013,23
+06/10/2013,IK Oddevold,Lunds BK,1,1,SE3S,2013,23
+06/10/2013,FC Trollhättan,Qviding FIF,2,0,SE3S,2013,23
+07/10/2013,IF Limhamn Bunkeflo,Kristianstads FF,1,3,SE3S,2013,23
+12/10/2013,Qviding FIF,Skövde AIK,1,0,SE3S,2013,24
+12/10/2013,Kristianstads FF,IS Halmia,2,4,SE3S,2013,24
+12/10/2013,Husqvarna FF,IK Oddevold,3,1,SE3S,2013,24
+12/10/2013,Torslanda IK,IF Limhamn Bunkeflo,1,0,SE3S,2013,24
+13/10/2013,Lunds BK,Karlstad BK (- 2019),3,2,SE3S,2013,24
+13/10/2013,Trelleborgs FF,Utsiktens BK,2,1,SE3S,2013,24
+13/10/2013,IF Sylvia,FC Trollhättan,0,0,SE3S,2013,24
+19/10/2013,Karlstad BK (- 2019),Husqvarna FF,0,2,SE3S,2013,25
+19/10/2013,Utsiktens BK,Skövde AIK,2,1,SE3S,2013,25
+19/10/2013,IS Halmia,Torslanda IK,4,1,SE3S,2013,25
+20/10/2013,FC Trollhättan,Lunds BK,2,0,SE3S,2013,25
+20/10/2013,IK Oddevold,Kristianstads FF,3,1,SE3S,2013,25
+20/10/2013,IF Sylvia,Qviding FIF,0,3,SE3S,2013,25
+21/10/2013,IF Limhamn Bunkeflo,Trelleborgs FF,1,1,SE3S,2013,25
+26/10/2013,Kristianstads FF,Karlstad BK (- 2019),4,0,SE3S,2013,26
+26/10/2013,Lunds BK,IF Sylvia,5,2,SE3S,2013,26
+26/10/2013,Skövde AIK,IF Limhamn Bunkeflo,3,1,SE3S,2013,26
+26/10/2013,Qviding FIF,Utsiktens BK,0,0,SE3S,2013,26
+26/10/2013,Husqvarna FF,FC Trollhättan,1,0,SE3S,2013,26
+26/10/2013,Torslanda IK,IK Oddevold,0,2,SE3S,2013,26
+26/10/2013,Trelleborgs FF,IS Halmia,4,1,SE3S,2013,26
+18/04/2014,Motala AIF,Trelleborgs FF,3,2,SE3S,2014,1
+18/04/2014,IFK Uddevalla,Utsiktens BK,1,2,SE3S,2014,1
+19/04/2014,Oskarshamns AIK,IS Halmia,2,2,SE3S,2014,1
+21/04/2014,Kristianstads FF,IK Oddevold,1,1,SE3S,2014,1
+21/04/2014,FC Trollhättan,Qviding FIF,4,0,SE3S,2014,1
+21/04/2014,Norrby IF,Lunds BK,3,1,SE3S,2014,1
+21/04/2014,Örgryte IS,Skövde AIK,1,0,SE3S,2014,1
+26/04/2014,IS Halmia,Örgryte IS,0,3,SE3S,2014,2
+26/04/2014,Qviding FIF,Oskarshamns AIK,1,1,SE3S,2014,2
+26/04/2014,IK Oddevold,Motala AIF,2,1,SE3S,2014,2
+26/04/2014,Skövde AIK,Norrby IF,0,0,SE3S,2014,2
+27/04/2014,Trelleborgs FF,IFK Uddevalla,1,1,SE3S,2014,2
+28/04/2014,Utsiktens BK,FC Trollhättan,3,1,SE3S,2014,2
+29/04/2014,Lunds BK,Kristianstads FF,6,1,SE3S,2014,2
+03/05/2014,IFK Uddevalla,IK Oddevold,1,2,SE3S,2014,3
+03/05/2014,Motala AIF,Lunds BK,3,0,SE3S,2014,3
+03/05/2014,Oskarshamns AIK,Utsiktens BK,0,0,SE3S,2014,3
+04/05/2014,Kristianstads FF,Skövde AIK,4,1,SE3S,2014,3
+04/05/2014,Qviding FIF,IS Halmia,2,1,SE3S,2014,3
+04/05/2014,FC Trollhättan,Trelleborgs FF,0,2,SE3S,2014,3
+06/05/2014,Norrby IF,Örgryte IS,1,2,SE3S,2014,3
+10/05/2014,Lunds BK,IFK Uddevalla,4,2,SE3S,2014,4
+10/05/2014,IS Halmia,Norrby IF,2,3,SE3S,2014,4
+10/05/2014,Skövde AIK,Motala AIF,0,0,SE3S,2014,4
+11/05/2014,Örgryte IS,Kristianstads FF,1,1,SE3S,2014,4
+11/05/2014,Trelleborgs FF,Oskarshamns AIK,2,1,SE3S,2014,4
+12/05/2014,Utsiktens BK,Qviding FIF,0,0,SE3S,2014,4
+12/05/2014,IK Oddevold,FC Trollhättan,3,2,SE3S,2014,4
+17/05/2014,Motala AIF,Örgryte IS,3,0,SE3S,2014,5
+17/05/2014,IFK Uddevalla,Skövde AIK,1,2,SE3S,2014,5
+17/05/2014,Kristianstads FF,Norrby IF,1,5,SE3S,2014,5
+17/05/2014,Oskarshamns AIK,IK Oddevold,0,1,SE3S,2014,5
+18/05/2014,Qviding FIF,Trelleborgs FF,1,0,SE3S,2014,5
+18/05/2014,FC Trollhättan,Lunds BK,3,3,SE3S,2014,5
+19/05/2014,Utsiktens BK,IS Halmia,0,4,SE3S,2014,5
+22/05/2014,Skövde AIK,FC Trollhättan,3,4,SE3S,2014,6
+24/05/2014,Lunds BK,Oskarshamns AIK,4,2,SE3S,2014,6
+24/05/2014,IS Halmia,Kristianstads FF,1,1,SE3S,2014,6
+24/05/2014,Trelleborgs FF,Utsiktens BK,0,3,SE3S,2014,6
+25/05/2014,Örgryte IS,IFK Uddevalla,2,0,SE3S,2014,6
+25/05/2014,Norrby IF,Motala AIF,2,4,SE3S,2014,6
+26/05/2014,IK Oddevold,Qviding FIF,1,2,SE3S,2014,6
+31/05/2014,IFK Uddevalla,Norrby IF,0,0,SE3S,2014,7
+31/05/2014,Motala AIF,Kristianstads FF,0,1,SE3S,2014,7
+31/05/2014,Oskarshamns AIK,Skövde AIK,3,0,SE3S,2014,7
+01/06/2014,Qviding FIF,Lunds BK,0,4,SE3S,2014,7
+01/06/2014,Trelleborgs FF,IS Halmia,2,2,SE3S,2014,7
+02/06/2014,Utsiktens BK,IK Oddevold,1,1,SE3S,2014,7
+02/06/2014,FC Trollhättan,Örgryte IS,1,2,SE3S,2014,7
+06/06/2014,IS Halmia,Motala AIF,2,1,SE3S,2014,8
+07/06/2014,Kristianstads FF,IFK Uddevalla,3,1,SE3S,2014,8
+07/06/2014,Lunds BK,Utsiktens BK,1,2,SE3S,2014,8
+08/06/2014,Skövde AIK,Qviding FIF,1,3,SE3S,2014,8
+08/06/2014,IK Oddevold,Trelleborgs FF,2,1,SE3S,2014,8
+08/06/2014,Örgryte IS,Oskarshamns AIK,3,0,SE3S,2014,8
+11/06/2014,Norrby IF,FC Trollhättan,2,4,SE3S,2014,8
+14/06/2014,Utsiktens BK,Skövde AIK,1,0,SE3S,2014,9
+14/06/2014,Qviding FIF,Örgryte IS,1,1,SE3S,2014,9
+14/06/2014,Oskarshamns AIK,Norrby IF,1,0,SE3S,2014,9
+14/06/2014,IFK Uddevalla,Motala AIF,3,1,SE3S,2014,9
+15/06/2014,IK Oddevold,IS Halmia,3,2,SE3S,2014,9
+15/06/2014,FC Trollhättan,Kristianstads FF,4,1,SE3S,2014,9
+15/06/2014,Trelleborgs FF,Lunds BK,0,0,SE3S,2014,9
+19/06/2014,Lunds BK,IK Oddevold,5,1,SE3S,2014,10
+19/06/2014,Kristianstads FF,Oskarshamns AIK,3,2,SE3S,2014,10
+22/06/2014,IS Halmia,IFK Uddevalla,0,2,SE3S,2014,10
+22/06/2014,Skövde AIK,Trelleborgs FF,3,2,SE3S,2014,10
+23/06/2014,Norrby IF,Qviding FIF,1,1,SE3S,2014,10
+23/06/2014,Örgryte IS,Utsiktens BK,2,1,SE3S,2014,10
+23/06/2014,Motala AIF,FC Trollhättan,4,1,SE3S,2014,10
+26/06/2014,Lunds BK,IS Halmia,2,0,SE3S,2014,11
+28/06/2014,Trelleborgs FF,Örgryte IS,1,2,SE3S,2014,11
+28/06/2014,Qviding FIF,Kristianstads FF,0,1,SE3S,2014,11
+28/06/2014,Oskarshamns AIK,Motala AIF,2,2,SE3S,2014,11
+29/06/2014,FC Trollhättan,IFK Uddevalla,1,0,SE3S,2014,11
+30/06/2014,IK Oddevold,Skövde AIK,2,1,SE3S,2014,11
+30/06/2014,Utsiktens BK,Norrby IF,3,0,SE3S,2014,11
+05/07/2014,Kristianstads FF,Utsiktens BK,2,2,SE3S,2014,12
+05/07/2014,Skövde AIK,Lunds BK,1,2,SE3S,2014,12
+05/07/2014,Motala AIF,Qviding FIF,2,2,SE3S,2014,12
+05/07/2014,IFK Uddevalla,Oskarshamns AIK,1,1,SE3S,2014,12
+06/07/2014,IS Halmia,FC Trollhättan,2,0,SE3S,2014,12
+06/07/2014,Norrby IF,Trelleborgs FF,2,1,SE3S,2014,12
+07/07/2014,Örgryte IS,IK Oddevold,0,0,SE3S,2014,12
+11/07/2014,Trelleborgs FF,Kristianstads FF,2,0,SE3S,2014,13
+12/07/2014,Lunds BK,Örgryte IS,4,2,SE3S,2014,13
+12/07/2014,Qviding FIF,IFK Uddevalla,3,2,SE3S,2014,13
+12/07/2014,Oskarshamns AIK,FC Trollhättan,2,2,SE3S,2014,13
+12/07/2014,IK Oddevold,Norrby IF,1,3,SE3S,2014,13
+12/07/2014,Skövde AIK,IS Halmia,1,1,SE3S,2014,13
+12/07/2014,Utsiktens BK,Motala AIF,3,2,SE3S,2014,13
+09/08/2014,Motala AIF,IK Oddevold,3,0,SE3S,2014,14
+09/08/2014,IFK Uddevalla,Trelleborgs FF,1,1,SE3S,2014,14
+10/08/2014,Oskarshamns AIK,Qviding FIF,1,0,SE3S,2014,14
+11/08/2014,Örgryte IS,IS Halmia,2,1,SE3S,2014,14
+11/08/2014,FC Trollhättan,Utsiktens BK,0,2,SE3S,2014,14
+11/08/2014,Kristianstads FF,Lunds BK,0,2,SE3S,2014,14
+11/08/2014,Norrby IF,Skövde AIK,3,2,SE3S,2014,14
+16/08/2014,Lunds BK,Norrby IF,4,4,SE3S,2014,15
+16/08/2014,IS Halmia,Oskarshamns AIK,5,1,SE3S,2014,15
+16/08/2014,Utsiktens BK,IFK Uddevalla,3,0,SE3S,2014,15
+17/08/2014,Qviding FIF,FC Trollhättan,0,1,SE3S,2014,15
+17/08/2014,Skövde AIK,Örgryte IS,0,1,SE3S,2014,15
+17/08/2014,IK Oddevold,Kristianstads FF,0,1,SE3S,2014,15
+17/08/2014,Trelleborgs FF,Motala AIF,3,1,SE3S,2014,15
+23/08/2014,IS Halmia,Qviding FIF,1,0,SE3S,2014,16
+23/08/2014,Lunds BK,Motala AIF,3,3,SE3S,2014,16
+23/08/2014,Trelleborgs FF,FC Trollhättan,1,1,SE3S,2014,16
+24/08/2014,Utsiktens BK,Oskarshamns AIK,2,0,SE3S,2014,16
+24/08/2014,Skövde AIK,Kristianstads FF,1,1,SE3S,2014,16
+25/08/2014,IK Oddevold,IFK Uddevalla,2,0,SE3S,2014,16
+25/08/2014,Örgryte IS,Norrby IF,3,0,SE3S,2014,16
+29/08/2014,Qviding FIF,Utsiktens BK,0,2,SE3S,2014,17
+30/08/2014,Oskarshamns AIK,Trelleborgs FF,1,0,SE3S,2014,17
+30/08/2014,Kristianstads FF,Örgryte IS,0,0,SE3S,2014,17
+30/08/2014,IFK Uddevalla,Lunds BK,1,0,SE3S,2014,17
+31/08/2014,Motala AIF,Skövde AIK,1,1,SE3S,2014,17
+31/08/2014,Norrby IF,IS Halmia,1,1,SE3S,2014,17
+01/09/2014,FC Trollhättan,IK Oddevold,1,1,SE3S,2014,17
+06/09/2014,Lunds BK,FC Trollhättan,3,1,SE3S,2014,18
+06/09/2014,Skövde AIK,IFK Uddevalla,2,2,SE3S,2014,18
+07/09/2014,Norrby IF,Kristianstads FF,0,1,SE3S,2014,18
+07/09/2014,Trelleborgs FF,Qviding FIF,1,0,SE3S,2014,18
+07/09/2014,IK Oddevold,Oskarshamns AIK,2,3,SE3S,2014,18
+07/09/2014,Örgryte IS,Motala AIF,2,1,SE3S,2014,18
+10/09/2014,IS Halmia,Utsiktens BK,0,5,SE3S,2014,18
+13/09/2014,IFK Uddevalla,Örgryte IS,1,1,SE3S,2014,19
+13/09/2014,Motala AIF,Norrby IF,2,1,SE3S,2014,19
+13/09/2014,Oskarshamns AIK,Lunds BK,2,2,SE3S,2014,19
+13/09/2014,Kristianstads FF,IS Halmia,0,1,SE3S,2014,19
+13/09/2014,Utsiktens BK,Trelleborgs FF,0,3,SE3S,2014,19
+14/09/2014,Qviding FIF,IK Oddevold,3,2,SE3S,2014,19
+15/09/2014,FC Trollhättan,Skövde AIK,1,1,SE3S,2014,19
+20/09/2014,Lunds BK,Qviding FIF,3,4,SE3S,2014,20
+20/09/2014,IS Halmia,Trelleborgs FF,0,0,SE3S,2014,20
+20/09/2014,Kristianstads FF,Motala AIF,1,2,SE3S,2014,20
+20/09/2014,Skövde AIK,Oskarshamns AIK,3,0,SE3S,2014,20
+21/09/2014,Norrby IF,IFK Uddevalla,7,1,SE3S,2014,20
+22/09/2014,IK Oddevold,Utsiktens BK,1,0,SE3S,2014,20
+22/09/2014,Örgryte IS,FC Trollhättan,4,0,SE3S,2014,20
+27/09/2014,Oskarshamns AIK,Örgryte IS,4,1,SE3S,2014,21
+27/09/2014,Motala AIF,IS Halmia,2,1,SE3S,2014,21
+27/09/2014,Trelleborgs FF,IK Oddevold,2,1,SE3S,2014,21
+27/09/2014,Utsiktens BK,Lunds BK,2,0,SE3S,2014,21
+28/09/2014,Qviding FIF,Skövde AIK,1,0,SE3S,2014,21
+28/09/2014,IFK Uddevalla,Kristianstads FF,2,3,SE3S,2014,21
+29/09/2014,FC Trollhättan,Norrby IF,0,1,SE3S,2014,21
+03/10/2014,Qviding FIF,Norrby IF,1,2,SE3S,2014,22
+04/10/2014,IFK Uddevalla,IS Halmia,0,2,SE3S,2014,22
+04/10/2014,Oskarshamns AIK,Kristianstads FF,5,2,SE3S,2014,22
+04/10/2014,Utsiktens BK,Örgryte IS,3,1,SE3S,2014,22
+05/10/2014,IK Oddevold,Lunds BK,4,3,SE3S,2014,22
+05/10/2014,Trelleborgs FF,Skövde AIK,0,1,SE3S,2014,22
+05/10/2014,FC Trollhättan,Motala AIF,1,2,SE3S,2014,22
+11/10/2014,IS Halmia,IK Oddevold,2,1,SE3S,2014,23
+11/10/2014,Kristianstads FF,FC Trollhättan,0,1,SE3S,2014,23
+11/10/2014,Motala AIF,IFK Uddevalla,4,0,SE3S,2014,23
+11/10/2014,Skövde AIK,Utsiktens BK,2,3,SE3S,2014,23
+11/10/2014,Norrby IF,Oskarshamns AIK,2,3,SE3S,2014,23
+12/10/2014,Lunds BK,Trelleborgs FF,2,1,SE3S,2014,23
+13/10/2014,Örgryte IS,Qviding FIF,1,2,SE3S,2014,23
+18/10/2014,Örgryte IS,Lunds BK,3,1,SE3S,2014,24
+18/10/2014,Kristianstads FF,Trelleborgs FF,2,2,SE3S,2014,24
+18/10/2014,IS Halmia,Skövde AIK,4,2,SE3S,2014,24
+18/10/2014,Motala AIF,Utsiktens BK,1,2,SE3S,2014,24
+18/10/2014,Norrby IF,IK Oddevold,2,3,SE3S,2014,24
+18/10/2014,IFK Uddevalla,Qviding FIF,0,5,SE3S,2014,24
+19/10/2014,FC Trollhättan,Oskarshamns AIK,3,0,SE3S,2014,24
+25/10/2014,Utsiktens BK,Kristianstads FF,1,0,SE3S,2014,25
+25/10/2014,Trelleborgs FF,Norrby IF,2,2,SE3S,2014,25
+25/10/2014,Lunds BK,Skövde AIK,6,0,SE3S,2014,25
+25/10/2014,Oskarshamns AIK,IFK Uddevalla,2,0,SE3S,2014,25
+26/10/2014,Qviding FIF,Motala AIF,2,3,SE3S,2014,25
+27/10/2014,FC Trollhättan,IS Halmia,0,2,SE3S,2014,25
+27/10/2014,IK Oddevold,Örgryte IS,3,3,SE3S,2014,25
+01/11/2014,IFK Uddevalla,FC Trollhättan,0,5,SE3S,2014,26
+01/11/2014,Norrby IF,Utsiktens BK,4,1,SE3S,2014,26
+01/11/2014,Skövde AIK,IK Oddevold,1,3,SE3S,2014,26
+01/11/2014,Kristianstads FF,Qviding FIF,2,1,SE3S,2014,26
+01/11/2014,Örgryte IS,Trelleborgs FF,2,4,SE3S,2014,26
+01/11/2014,IS Halmia,Lunds BK,0,1,SE3S,2014,26
+01/11/2014,Motala AIF,Oskarshamns AIK,2,0,SE3S,2014,26
+11/04/2015,Oskarshamns AIK,Lunds BK,2,0,SE3S,2015,1
+11/04/2015,Norrby IF,Östers IF,0,1,SE3S,2015,1
+12/04/2015,FC Höllviken (- 2016),Qviding FIF,0,0,SE3S,2015,1
+12/04/2015,Kristianstad FC,IS Halmia,2,1,SE3S,2015,1
+12/04/2015,Landskrona BoIS,IK Oddevold,0,1,SE3S,2015,1
+13/04/2015,Trelleborgs FF,Eskilsminne IF,3,2,SE3S,2015,1
+15/04/2015,Örgryte IS,Husqvarna FF,2,0,SE3S,2015,1
+18/04/2015,Qviding FIF,Landskrona BoIS,0,0,SE3S,2015,2
+18/04/2015,IS Halmia,Norrby IF,3,1,SE3S,2015,2
+18/04/2015,Östers IF,Trelleborgs FF,1,3,SE3S,2015,2
+19/04/2015,Eskilsminne IF,Örgryte IS,2,1,SE3S,2015,2
+19/04/2015,IK Oddevold,Kristianstad FC,3,0,SE3S,2015,2
+19/04/2015,Husqvarna FF,Oskarshamns AIK,0,1,SE3S,2015,2
+20/04/2015,Lunds BK,FC Höllviken (- 2016),2,1,SE3S,2015,2
+25/04/2015,Oskarshamns AIK,IS Halmia,0,2,SE3S,2015,3
+25/04/2015,Lunds BK,Östers IF,0,2,SE3S,2015,3
+25/04/2015,Örgryte IS,IK Oddevold,2,2,SE3S,2015,3
+26/04/2015,Kristianstad FC,Eskilsminne IF,1,1,SE3S,2015,3
+26/04/2015,FC Höllviken (- 2016),Norrby IF,3,1,SE3S,2015,3
+26/04/2015,Landskrona BoIS,Husqvarna FF,0,3,SE3S,2015,3
+26/04/2015,Trelleborgs FF,Qviding FIF,1,2,SE3S,2015,3
+01/05/2015,Eskilsminne IF,Landskrona BoIS,3,0,SE3S,2015,4
+01/05/2015,Husqvarna FF,Lunds BK,4,0,SE3S,2015,4
+02/05/2015,IS Halmia,Örgryte IS,1,4,SE3S,2015,4
+02/05/2015,Qviding FIF,Oskarshamns AIK,1,1,SE3S,2015,4
+02/05/2015,Östers IF,Kristianstad FC,1,0,SE3S,2015,4
+03/05/2015,IK Oddevold,FC Höllviken (- 2016),2,2,SE3S,2015,4
+03/05/2015,Norrby IF,Trelleborgs FF,0,2,SE3S,2015,4
+09/05/2015,Oskarshamns AIK,IK Oddevold,0,4,SE3S,2015,5
+09/05/2015,Lunds BK,Norrby IF,2,2,SE3S,2015,5
+10/05/2015,Kristianstad FC,Husqvarna FF,0,0,SE3S,2015,5
+10/05/2015,FC Höllviken (- 2016),Eskilsminne IF,4,0,SE3S,2015,5
+10/05/2015,Trelleborgs FF,IS Halmia,1,0,SE3S,2015,5
+11/05/2015,Landskrona BoIS,Östers IF,0,1,SE3S,2015,5
+11/05/2015,Örgryte IS,Qviding FIF,3,0,SE3S,2015,5
+14/05/2015,Husqvarna FF,Trelleborgs FF,1,2,SE3S,2015,6
+16/05/2015,Eskilsminne IF,Oskarshamns AIK,1,1,SE3S,2015,6
+16/05/2015,Qviding FIF,Kristianstad FC,2,1,SE3S,2015,6
+16/05/2015,IS Halmia,Landskrona BoIS,0,2,SE3S,2015,6
+17/05/2015,IK Oddevold,Lunds BK,2,1,SE3S,2015,6
+17/05/2015,Östers IF,FC Höllviken (- 2016),0,1,SE3S,2015,6
+18/05/2015,Norrby IF,Örgryte IS,0,0,SE3S,2015,6
+23/05/2015,Oskarshamns AIK,Östers IF,1,1,SE3S,2015,7
+23/05/2015,Kristianstad FC,Norrby IF,3,2,SE3S,2015,7
+24/05/2015,FC Höllviken (- 2016),IS Halmia,0,0,SE3S,2015,7
+24/05/2015,Trelleborgs FF,IK Oddevold,4,1,SE3S,2015,7
+24/05/2015,Husqvarna FF,Qviding FIF,0,2,SE3S,2015,7
+26/05/2015,Örgryte IS,Landskrona BoIS,0,2,SE3S,2015,7
+26/05/2015,Lunds BK,Eskilsminne IF,1,3,SE3S,2015,7
+30/05/2015,Lunds BK,Örgryte IS,0,5,SE3S,2015,8
+30/05/2015,Norrby IF,Oskarshamns AIK,1,2,SE3S,2015,8
+30/05/2015,Qviding FIF,Östers IF,3,0,SE3S,2015,8
+31/05/2015,IK Oddevold,Husqvarna FF,0,0,SE3S,2015,8
+31/05/2015,Eskilsminne IF,IS Halmia,3,0,SE3S,2015,8
+01/06/2015,Landskrona BoIS,Trelleborgs FF,1,4,SE3S,2015,8
+01/06/2015,Kristianstad FC,FC Höllviken (- 2016),2,2,SE3S,2015,8
+04/06/2015,Östers IF,IK Oddevold,0,0,SE3S,2015,9
+06/06/2015,Husqvarna FF,Eskilsminne IF,2,2,SE3S,2015,9
+06/06/2015,FC Höllviken (- 2016),Örgryte IS,0,2,SE3S,2015,9
+07/06/2015,Oskarshamns AIK,Landskrona BoIS,1,2,SE3S,2015,9
+07/06/2015,IS Halmia,Lunds BK,8,0,SE3S,2015,9
+08/06/2015,Norrby IF,Qviding FIF,2,0,SE3S,2015,9
+08/06/2015,Trelleborgs FF,Kristianstad FC,4,3,SE3S,2015,9
+12/06/2015,Östers IF,Husqvarna FF,1,1,SE3S,2015,10
+13/06/2015,Qviding FIF,IS Halmia,3,1,SE3S,2015,10
+13/06/2015,FC Höllviken (- 2016),Trelleborgs FF,0,1,SE3S,2015,10
+14/06/2015,Örgryte IS,Oskarshamns AIK,3,2,SE3S,2015,10
+14/06/2015,IK Oddevold,Eskilsminne IF,5,2,SE3S,2015,10
+14/06/2015,Landskrona BoIS,Norrby IF,0,0,SE3S,2015,10
+15/06/2015,Kristianstad FC,Lunds BK,1,0,SE3S,2015,10
+18/06/2015,IS Halmia,Östers IF,1,5,SE3S,2015,11
+18/06/2015,Lunds BK,Landskrona BoIS,0,4,SE3S,2015,11
+21/06/2015,Eskilsminne IF,Qviding FIF,1,1,SE3S,2015,11
+21/06/2015,Trelleborgs FF,Örgryte IS,2,1,SE3S,2015,11
+21/06/2015,Husqvarna FF,FC Höllviken (- 2016),5,2,SE3S,2015,11
+22/06/2015,IK Oddevold,Norrby IF,4,3,SE3S,2015,11
+22/06/2015,Oskarshamns AIK,Kristianstad FC,2,3,SE3S,2015,11
+27/06/2015,Qviding FIF,Lunds BK,0,2,SE3S,2015,12
+27/06/2015,IS Halmia,IK Oddevold,0,1,SE3S,2015,12
+28/06/2015,Östers IF,Eskilsminne IF,4,1,SE3S,2015,12
+28/06/2015,Oskarshamns AIK,Trelleborgs FF,2,3,SE3S,2015,12
+28/06/2015,Örgryte IS,Kristianstad FC,5,0,SE3S,2015,12
+29/06/2015,Norrby IF,Husqvarna FF,1,1,SE3S,2015,12
+29/06/2015,Landskrona BoIS,FC Höllviken (- 2016),4,2,SE3S,2015,12
+04/07/2015,IK Oddevold,Qviding FIF,3,1,SE3S,2015,13
+04/07/2015,Eskilsminne IF,Norrby IF,3,4,SE3S,2015,13
+04/07/2015,Husqvarna FF,IS Halmia,2,1,SE3S,2015,13
+05/07/2015,FC Höllviken (- 2016),Oskarshamns AIK,2,3,SE3S,2015,13
+06/07/2015,Kristianstad FC,Landskrona BoIS,0,1,SE3S,2015,13
+06/07/2015,Örgryte IS,Östers IF,1,0,SE3S,2015,13
+06/07/2015,Trelleborgs FF,Lunds BK,4,0,SE3S,2015,13
+11/07/2015,Eskilsminne IF,IK Oddevold,0,0,SE3S,2015,14
+11/07/2015,Oskarshamns AIK,Husqvarna FF,3,0,SE3S,2015,14
+11/07/2015,Landskrona BoIS,Qviding FIF,0,1,SE3S,2015,14
+11/07/2015,Östers IF,Örgryte IS,0,2,SE3S,2015,14
+11/07/2015,Norrby IF,FC Höllviken (- 2016),1,3,SE3S,2015,14
+12/07/2015,IS Halmia,Trelleborgs FF,2,2,SE3S,2015,14
+13/07/2015,Lunds BK,Kristianstad FC,0,1,SE3S,2015,14
+15/08/2015,Qviding FIF,Eskilsminne IF,1,1,SE3S,2015,15
+15/08/2015,Örgryte IS,Lunds BK,2,0,SE3S,2015,15
+15/08/2015,Husqvarna FF,Landskrona BoIS,0,5,SE3S,2015,15
+15/08/2015,IS Halmia,Kristianstad FC,1,3,SE3S,2015,15
+16/08/2015,FC Höllviken (- 2016),Östers IF,0,1,SE3S,2015,15
+16/08/2015,IK Oddevold,Oskarshamns AIK,3,0,SE3S,2015,15
+16/08/2015,Trelleborgs FF,Norrby IF,7,0,SE3S,2015,15
+22/08/2015,Eskilsminne IF,FC Höllviken (- 2016),1,1,SE3S,2015,16
+22/08/2015,Lunds BK,Husqvarna FF,1,3,SE3S,2015,16
+23/08/2015,Oskarshamns AIK,Qviding FIF,4,2,SE3S,2015,16
+23/08/2015,Landskrona BoIS,Örgryte IS,2,1,SE3S,2015,16
+24/08/2015,Kristianstad FC,Trelleborgs FF,2,4,SE3S,2015,16
+24/08/2015,Östers IF,IS Halmia,2,1,SE3S,2015,16
+24/08/2015,Norrby IF,IK Oddevold,2,1,SE3S,2015,16
+29/08/2015,Qviding FIF,Örgryte IS,2,5,SE3S,2015,17
+29/08/2015,Kristianstad FC,Oskarshamns AIK,1,1,SE3S,2015,17
+29/08/2015,IS Halmia,Eskilsminne IF,1,1,SE3S,2015,17
+30/08/2015,FC Höllviken (- 2016),Lunds BK,3,0,SE3S,2015,17
+30/08/2015,IK Oddevold,Landskrona BoIS,0,1,SE3S,2015,17
+30/08/2015,Trelleborgs FF,Östers IF,0,0,SE3S,2015,17
+31/08/2015,Husqvarna FF,Norrby IF,4,1,SE3S,2015,17
+05/09/2015,Eskilsminne IF,Kristianstad FC,0,2,SE3S,2015,18
+05/09/2015,Östers IF,Qviding FIF,4,0,SE3S,2015,18
+06/09/2015,Landskrona BoIS,Oskarshamns AIK,2,3,SE3S,2015,18
+06/09/2015,Norrby IF,IS Halmia,4,3,SE3S,2015,18
+06/09/2015,Örgryte IS,FC Höllviken (- 2016),1,1,SE3S,2015,18
+07/09/2015,Lunds BK,Trelleborgs FF,1,2,SE3S,2015,18
+09/09/2015,Husqvarna FF,IK Oddevold,4,1,SE3S,2015,18
+12/09/2015,Qviding FIF,Norrby IF,1,1,SE3S,2015,19
+12/09/2015,IS Halmia,FC Höllviken (- 2016),0,0,SE3S,2015,19
+13/09/2015,Oskarshamns AIK,Eskilsminne IF,2,0,SE3S,2015,19
+13/09/2015,Kristianstad FC,Örgryte IS,1,7,SE3S,2015,19
+13/09/2015,Trelleborgs FF,Husqvarna FF,5,0,SE3S,2015,19
+14/09/2015,IK Oddevold,Östers IF,1,2,SE3S,2015,19
+14/09/2015,Landskrona BoIS,Lunds BK,3,0,SE3S,2015,19
+19/09/2015,Lunds BK,IK Oddevold,2,1,SE3S,2015,20
+19/09/2015,Örgryte IS,IS Halmia,5,1,SE3S,2015,20
+19/09/2015,Qviding FIF,Trelleborgs FF,1,2,SE3S,2015,20
+20/09/2015,Eskilsminne IF,Husqvarna FF,2,1,SE3S,2015,20
+20/09/2015,FC Höllviken (- 2016),Landskrona BoIS,3,2,SE3S,2015,20
+20/09/2015,Norrby IF,Kristianstad FC,6,0,SE3S,2015,20
+21/09/2015,Östers IF,Oskarshamns AIK,0,0,SE3S,2015,20
+26/09/2015,Oskarshamns AIK,FC Höllviken (- 2016),2,3,SE3S,2015,21
+26/09/2015,Norrby IF,Eskilsminne IF,3,1,SE3S,2015,21
+26/09/2015,Husqvarna FF,Örgryte IS,0,3,SE3S,2015,21
+27/09/2015,Kristianstad FC,IK Oddevold,1,2,SE3S,2015,21
+27/09/2015,IS Halmia,Qviding FIF,2,1,SE3S,2015,21
+27/09/2015,Östers IF,Lunds BK,3,1,SE3S,2015,21
+28/09/2015,Trelleborgs FF,Landskrona BoIS,1,0,SE3S,2015,21
+03/10/2015,Eskilsminne IF,Östers IF,0,2,SE3S,2015,22
+03/10/2015,Qviding FIF,Husqvarna FF,1,2,SE3S,2015,22
+03/10/2015,Lunds BK,Oskarshamns AIK,2,0,SE3S,2015,22
+04/10/2015,FC Höllviken (- 2016),Kristianstad FC,1,2,SE3S,2015,22
+04/10/2015,IK Oddevold,Trelleborgs FF,1,1,SE3S,2015,22
+05/10/2015,Landskrona BoIS,IS Halmia,3,1,SE3S,2015,22
+05/10/2015,Örgryte IS,Norrby IF,6,2,SE3S,2015,22
+10/10/2015,IS Halmia,Husqvarna FF,6,1,SE3S,2015,23
+10/10/2015,Norrby IF,Lunds BK,4,2,SE3S,2015,23
+11/10/2015,Kristianstad FC,Qviding FIF,2,1,SE3S,2015,23
+11/10/2015,FC Höllviken (- 2016),IK Oddevold,3,0,SE3S,2015,23
+11/10/2015,Örgryte IS,Eskilsminne IF,4,1,SE3S,2015,23
+11/10/2015,Trelleborgs FF,Oskarshamns AIK,1,0,SE3S,2015,23
+13/10/2015,Östers IF,Landskrona BoIS,2,0,SE3S,2015,23
+17/10/2015,Eskilsminne IF,Trelleborgs FF,2,5,SE3S,2015,24
+17/10/2015,Oskarshamns AIK,Norrby IF,4,2,SE3S,2015,24
+17/10/2015,Lunds BK,IS Halmia,1,2,SE3S,2015,24
+17/10/2015,Husqvarna FF,Östers IF,0,5,SE3S,2015,24
+17/10/2015,Qviding FIF,FC Höllviken (- 2016),1,0,SE3S,2015,24
+19/10/2015,IK Oddevold,Örgryte IS,1,2,SE3S,2015,24
+19/10/2015,Landskrona BoIS,Kristianstad FC,2,2,SE3S,2015,24
+24/10/2015,IS Halmia,Oskarshamns AIK,2,1,SE3S,2015,25
+24/10/2015,Norrby IF,Landskrona BoIS,2,0,SE3S,2015,25
+24/10/2015,Eskilsminne IF,Lunds BK,1,1,SE3S,2015,25
+24/10/2015,Qviding FIF,IK Oddevold,1,1,SE3S,2015,25
+24/10/2015,Kristianstad FC,Östers IF,2,0,SE3S,2015,25
+25/10/2015,Örgryte IS,Trelleborgs FF,2,1,SE3S,2015,25
+25/10/2015,FC Höllviken (- 2016),Husqvarna FF,1,0,SE3S,2015,25
+01/11/2015,IK Oddevold,IS Halmia,6,1,SE3S,2015,26
+01/11/2015,Oskarshamns AIK,Örgryte IS,3,1,SE3S,2015,26
+01/11/2015,Lunds BK,Qviding FIF,2,2,SE3S,2015,26
+01/11/2015,Östers IF,Norrby IF,1,0,SE3S,2015,26
+01/11/2015,Landskrona BoIS,Eskilsminne IF,1,1,SE3S,2015,26
+01/11/2015,Husqvarna FF,Kristianstad FC,2,3,SE3S,2015,26
+01/11/2015,Trelleborgs FF,FC Höllviken (- 2016),0,0,SE3S,2015,26
+16/04/2016,KSF Prespa Birlik,Östers IF,1,1,SE3S,2016,1
+16/04/2016,Oskarshamns AIK,Landskrona BoIS,0,0,SE3S,2016,1
+16/04/2016,Qviding FIF,Husqvarna FF,2,2,SE3S,2016,1
+16/04/2016,FC Höllviken (- 2016),Utsiktens BK,2,2,SE3S,2016,1
+16/04/2016,Norrby IF,Mjällby AIF,1,1,SE3S,2016,1
+17/04/2016,FC Trollhättan,Kristianstad FC,0,1,SE3S,2016,1
+17/04/2016,Tvååkers IF,IK Oddevold,3,3,SE3S,2016,1
+23/04/2016,Östers IF,Tvååkers IF,5,0,SE3S,2016,2
+24/04/2016,Kristianstad FC,Oskarshamns AIK,1,1,SE3S,2016,2
+24/04/2016,Mjällby AIF,FC Trollhättan,2,2,SE3S,2016,2
+24/04/2016,Landskrona BoIS,Qviding FIF,2,0,SE3S,2016,2
+24/04/2016,Utsiktens BK,Norrby IF,2,2,SE3S,2016,2
+24/04/2016,IK Oddevold,FC Höllviken (- 2016),1,1,SE3S,2016,2
+24/04/2016,Husqvarna FF,KSF Prespa Birlik,1,2,SE3S,2016,2
+29/04/2016,Qviding FIF,Utsiktens BK,0,1,SE3S,2016,3
+29/04/2016,Oskarshamns AIK,Husqvarna FF,2,2,SE3S,2016,3
+30/04/2016,KSF Prespa Birlik,IK Oddevold,1,2,SE3S,2016,3
+30/04/2016,Tvååkers IF,Mjällby AIF,0,1,SE3S,2016,3
+01/05/2016,FC Höllviken (- 2016),Östers IF,1,1,SE3S,2016,3
+01/05/2016,FC Trollhättan,Landskrona BoIS,0,3,SE3S,2016,3
+01/05/2016,Norrby IF,Kristianstad FC,2,0,SE3S,2016,3
+05/05/2016,Husqvarna FF,FC Höllviken (- 2016),1,0,SE3S,2016,4
+07/05/2016,Kristianstad FC,Qviding FIF,1,0,SE3S,2016,4
+07/05/2016,Östers IF,Oskarshamns AIK,3,0,SE3S,2016,4
+08/05/2016,Landskrona BoIS,Norrby IF,2,1,SE3S,2016,4
+08/05/2016,Mjällby AIF,KSF Prespa Birlik,1,0,SE3S,2016,4
+08/05/2016,Utsiktens BK,Tvååkers IF,2,2,SE3S,2016,4
+09/05/2016,IK Oddevold,FC Trollhättan,1,2,SE3S,2016,4
+14/05/2016,Qviding FIF,Östers IF,0,2,SE3S,2016,5
+14/05/2016,Tvååkers IF,Landskrona BoIS,3,0,SE3S,2016,5
+15/05/2016,Oskarshamns AIK,IK Oddevold,2,1,SE3S,2016,5
+15/05/2016,FC Höllviken (- 2016),Mjällby AIF,1,1,SE3S,2016,5
+15/05/2016,FC Trollhättan,Utsiktens BK,0,0,SE3S,2016,5
+16/05/2016,Norrby IF,Husqvarna FF,2,1,SE3S,2016,5
+16/05/2016,KSF Prespa Birlik,Kristianstad FC,2,0,SE3S,2016,5
+21/05/2016,Husqvarna FF,FC Trollhättan,4,1,SE3S,2016,6
+21/05/2016,Kristianstad FC,Tvååkers IF,1,1,SE3S,2016,6
+22/05/2016,Mjällby AIF,Oskarshamns AIK,0,3,SE3S,2016,6
+22/05/2016,Landskrona BoIS,FC Höllviken (- 2016),4,0,SE3S,2016,6
+22/05/2016,Utsiktens BK,KSF Prespa Birlik,0,2,SE3S,2016,6
+22/05/2016,Östers IF,Norrby IF,1,0,SE3S,2016,6
+23/05/2016,IK Oddevold,Qviding FIF,3,1,SE3S,2016,6
+28/05/2016,Qviding FIF,Tvååkers IF,2,0,SE3S,2016,7
+29/05/2016,Landskrona BoIS,Utsiktens BK,2,1,SE3S,2016,7
+29/05/2016,Oskarshamns AIK,FC Trollhättan,2,1,SE3S,2016,7
+29/05/2016,FC Höllviken (- 2016),Kristianstad FC,4,2,SE3S,2016,7
+29/05/2016,IK Oddevold,Östers IF,0,1,SE3S,2016,7
+29/05/2016,Husqvarna FF,Mjällby AIF,1,0,SE3S,2016,7
+29/05/2016,Norrby IF,KSF Prespa Birlik,2,2,SE3S,2016,7
+02/06/2016,Östers IF,Husqvarna FF,0,0,SE3S,2016,8
+04/06/2016,Kristianstad FC,IK Oddevold,1,2,SE3S,2016,8
+04/06/2016,Tvååkers IF,Norrby IF,2,1,SE3S,2016,8
+05/06/2016,Mjällby AIF,Landskrona BoIS,1,1,SE3S,2016,8
+05/06/2016,Utsiktens BK,Oskarshamns AIK,4,2,SE3S,2016,8
+06/06/2016,KSF Prespa Birlik,FC Höllviken (- 2016),2,2,SE3S,2016,8
+06/06/2016,FC Trollhättan,Qviding FIF,3,1,SE3S,2016,8
+11/06/2016,Östers IF,Landskrona BoIS,2,1,SE3S,2016,9
+11/06/2016,IK Oddevold,Utsiktens BK,0,1,SE3S,2016,9
+11/06/2016,FC Höllviken (- 2016),Tvååkers IF,2,0,SE3S,2016,9
+11/06/2016,Oskarshamns AIK,KSF Prespa Birlik,0,3,SE3S,2016,9
+11/06/2016,Qviding FIF,Mjällby AIF,2,1,SE3S,2016,9
+12/06/2016,Husqvarna FF,Kristianstad FC,0,1,SE3S,2016,9
+14/06/2016,Norrby IF,FC Trollhättan,2,1,SE3S,2016,9
+18/06/2016,Kristianstad FC,Östers IF,3,2,SE3S,2016,10
+18/06/2016,Tvååkers IF,Oskarshamns AIK,2,2,SE3S,2016,10
+18/06/2016,Mjällby AIF,IK Oddevold,1,2,SE3S,2016,10
+19/06/2016,Utsiktens BK,Husqvarna FF,2,1,SE3S,2016,10
+19/06/2016,FC Trollhättan,FC Höllviken (- 2016),1,0,SE3S,2016,10
+19/06/2016,Norrby IF,Qviding FIF,1,1,SE3S,2016,10
+20/06/2016,Landskrona BoIS,KSF Prespa Birlik,3,0,SE3S,2016,10
+23/06/2016,Oskarshamns AIK,Norrby IF,2,3,SE3S,2016,11
+23/06/2016,Östers IF,Mjällby AIF,0,0,SE3S,2016,11
+23/06/2016,Husqvarna FF,Tvååkers IF,2,0,SE3S,2016,11
+26/06/2016,Utsiktens BK,Kristianstad FC,0,1,SE3S,2016,11
+26/06/2016,FC Höllviken (- 2016),Qviding FIF,1,0,SE3S,2016,11
+26/06/2016,IK Oddevold,Landskrona BoIS,0,0,SE3S,2016,11
+26/06/2016,KSF Prespa Birlik,FC Trollhättan,3,2,SE3S,2016,11
+03/07/2016,Qviding FIF,Oskarshamns AIK,3,1,SE3S,2016,12
+03/07/2016,Husqvarna FF,IK Oddevold,1,2,SE3S,2016,12
+03/07/2016,Tvååkers IF,KSF Prespa Birlik,3,4,SE3S,2016,12
+03/07/2016,Mjällby AIF,Utsiktens BK,3,1,SE3S,2016,12
+03/07/2016,Norrby IF,FC Höllviken (- 2016),2,1,SE3S,2016,12
+04/07/2016,Kristianstad FC,Landskrona BoIS,0,2,SE3S,2016,12
+04/07/2016,FC Trollhättan,Östers IF,3,0,SE3S,2016,12
+09/07/2016,Mjällby AIF,Kristianstad FC,0,0,SE3S,2016,13
+09/07/2016,Landskrona BoIS,Husqvarna FF,0,1,SE3S,2016,13
+09/07/2016,Östers IF,Utsiktens BK,1,0,SE3S,2016,13
+09/07/2016,FC Höllviken (- 2016),Oskarshamns AIK,0,1,SE3S,2016,13
+09/07/2016,KSF Prespa Birlik,Qviding FIF,0,0,SE3S,2016,13
+10/07/2016,FC Trollhättan,Tvååkers IF,0,0,SE3S,2016,13
+11/07/2016,IK Oddevold,Norrby IF,2,3,SE3S,2016,13
+14/07/2016,Husqvarna FF,Östers IF,0,2,SE3S,2016,14
+16/07/2016,Qviding FIF,FC Trollhättan,1,0,SE3S,2016,14
+16/07/2016,Tvååkers IF,FC Höllviken (- 2016),1,0,SE3S,2016,14
+16/07/2016,Oskarshamns AIK,Mjällby AIF,2,3,SE3S,2016,14
+16/07/2016,Kristianstad FC,KSF Prespa Birlik,5,3,SE3S,2016,14
+17/07/2016,Utsiktens BK,Landskrona BoIS,2,0,SE3S,2016,14
+16/08/2016,Norrby IF,IK Oddevold,2,2,SE3S,2016,14
+19/08/2016,Östers IF,Qviding FIF,3,0,SE3S,2016,15
+20/08/2016,KSF Prespa Birlik,Oskarshamns AIK,2,3,SE3S,2016,15
+20/08/2016,IK Oddevold,Husqvarna FF,1,1,SE3S,2016,15
+20/08/2016,Mjällby AIF,Norrby IF,0,3,SE3S,2016,15
+20/08/2016,FC Höllviken (- 2016),FC Trollhättan,0,0,SE3S,2016,15
+20/08/2016,Tvååkers IF,Utsiktens BK,0,3,SE3S,2016,15
+21/08/2016,Landskrona BoIS,Kristianstad FC,1,0,SE3S,2016,15
+28/08/2016,Utsiktens BK,Östers IF,2,1,SE3S,2016,16
+28/08/2016,Oskarshamns AIK,FC Höllviken (- 2016),2,0,SE3S,2016,16
+28/08/2016,Husqvarna FF,Landskrona BoIS,1,0,SE3S,2016,16
+28/08/2016,Kristianstad FC,Mjällby AIF,4,1,SE3S,2016,16
+28/08/2016,Qviding FIF,KSF Prespa Birlik,2,0,SE3S,2016,16
+29/08/2016,FC Trollhättan,IK Oddevold,1,1,SE3S,2016,16
+29/08/2016,Norrby IF,Tvååkers IF,6,1,SE3S,2016,16
+03/09/2016,KSF Prespa Birlik,Utsiktens BK,0,0,SE3S,2016,17
+03/09/2016,FC Höllviken (- 2016),Norrby IF,1,2,SE3S,2016,17
+03/09/2016,Östers IF,FC Trollhättan,5,0,SE3S,2016,17
+03/09/2016,Tvååkers IF,Husqvarna FF,2,2,SE3S,2016,17
+04/09/2016,Mjällby AIF,Qviding FIF,1,1,SE3S,2016,17
+04/09/2016,Landskrona BoIS,Oskarshamns AIK,4,0,SE3S,2016,17
+04/09/2016,IK Oddevold,Kristianstad FC,2,1,SE3S,2016,17
+10/09/2016,Qviding FIF,IK Oddevold,2,2,SE3S,2016,18
+10/09/2016,Kristianstad FC,FC Höllviken (- 2016),2,0,SE3S,2016,18
+10/09/2016,Oskarshamns AIK,Östers IF,0,2,SE3S,2016,18
+11/09/2016,Mjällby AIF,Tvååkers IF,1,1,SE3S,2016,18
+11/09/2016,Norrby IF,Landskrona BoIS,2,0,SE3S,2016,18
+11/09/2016,Husqvarna FF,Utsiktens BK,0,1,SE3S,2016,18
+11/09/2016,FC Trollhättan,KSF Prespa Birlik,2,1,SE3S,2016,18
+15/09/2016,Östers IF,Kristianstad FC,2,0,SE3S,2016,19
+17/09/2016,KSF Prespa Birlik,Norrby IF,1,6,SE3S,2016,19
+17/09/2016,FC Höllviken (- 2016),Husqvarna FF,0,3,SE3S,2016,19
+17/09/2016,Tvååkers IF,FC Trollhättan,1,1,SE3S,2016,19
+18/09/2016,Utsiktens BK,Qviding FIF,1,0,SE3S,2016,19
+18/09/2016,Landskrona BoIS,Mjällby AIF,4,1,SE3S,2016,19
+18/09/2016,IK Oddevold,Oskarshamns AIK,3,1,SE3S,2016,19
+24/09/2016,Qviding FIF,FC Höllviken (- 2016),1,0,SE3S,2016,20
+24/09/2016,Kristianstad FC,Norrby IF,0,3,SE3S,2016,20
+24/09/2016,Utsiktens BK,IK Oddevold,4,1,SE3S,2016,20
+24/09/2016,Oskarshamns AIK,Tvååkers IF,0,1,SE3S,2016,20
+25/09/2016,Mjällby AIF,Östers IF,0,1,SE3S,2016,20
+25/09/2016,FC Trollhättan,Husqvarna FF,2,2,SE3S,2016,20
+26/09/2016,KSF Prespa Birlik,Landskrona BoIS,2,6,SE3S,2016,20
+01/10/2016,Kristianstad FC,Utsiktens BK,3,0,SE3S,2016,21
+01/10/2016,Norrby IF,Oskarshamns AIK,2,1,SE3S,2016,21
+01/10/2016,Tvååkers IF,Östers IF,2,1,SE3S,2016,21
+01/10/2016,FC Höllviken (- 2016),KSF Prespa Birlik,2,1,SE3S,2016,21
+02/10/2016,Landskrona BoIS,FC Trollhättan,2,2,SE3S,2016,21
+02/10/2016,IK Oddevold,Mjällby AIF,2,1,SE3S,2016,21
+02/10/2016,Husqvarna FF,Qviding FIF,0,1,SE3S,2016,21
+07/10/2016,Qviding FIF,Norrby IF,1,2,SE3S,2016,22
+08/10/2016,KSF Prespa Birlik,Husqvarna FF,2,2,SE3S,2016,22
+08/10/2016,Östers IF,IK Oddevold,2,1,SE3S,2016,22
+09/10/2016,Oskarshamns AIK,Kristianstad FC,2,1,SE3S,2016,22
+09/10/2016,Utsiktens BK,FC Höllviken (- 2016),5,0,SE3S,2016,22
+09/10/2016,FC Trollhättan,Mjällby AIF,1,1,SE3S,2016,22
+09/10/2016,Landskrona BoIS,Tvååkers IF,3,0,SE3S,2016,22
+15/10/2016,Kristianstad FC,FC Trollhättan,1,2,SE3S,2016,23
+15/10/2016,FC Höllviken (- 2016),Landskrona BoIS,0,5,SE3S,2016,23
+15/10/2016,Norrby IF,Östers IF,0,1,SE3S,2016,23
+15/10/2016,Tvååkers IF,Qviding FIF,1,1,SE3S,2016,23
+16/10/2016,Oskarshamns AIK,Utsiktens BK,1,0,SE3S,2016,23
+16/10/2016,Mjällby AIF,Husqvarna FF,3,2,SE3S,2016,23
+16/10/2016,IK Oddevold,KSF Prespa Birlik,0,1,SE3S,2016,23
+22/10/2016,KSF Prespa Birlik,Tvååkers IF,0,1,SE3S,2016,24
+22/10/2016,Qviding FIF,Kristianstad FC,1,2,SE3S,2016,24
+22/10/2016,Östers IF,FC Höllviken (- 2016),2,0,SE3S,2016,24
+23/10/2016,Landskrona BoIS,IK Oddevold,3,0,SE3S,2016,24
+23/10/2016,Utsiktens BK,Mjällby AIF,2,2,SE3S,2016,24
+23/10/2016,Husqvarna FF,Oskarshamns AIK,3,2,SE3S,2016,24
+24/10/2016,FC Trollhättan,Norrby IF,1,1,SE3S,2016,24
+29/10/2016,Kristianstad FC,Husqvarna FF,1,1,SE3S,2016,25
+29/10/2016,Qviding FIF,Landskrona BoIS,3,1,SE3S,2016,25
+29/10/2016,Norrby IF,Utsiktens BK,2,1,SE3S,2016,25
+29/10/2016,Östers IF,KSF Prespa Birlik,1,0,SE3S,2016,25
+30/10/2016,Mjällby AIF,FC Höllviken (- 2016),6,2,SE3S,2016,25
+30/10/2016,FC Trollhättan,Oskarshamns AIK,1,1,SE3S,2016,25
+31/10/2016,IK Oddevold,Tvååkers IF,2,2,SE3S,2016,25
+05/11/2016,Utsiktens BK,FC Trollhättan,3,0,SE3S,2016,26
+05/11/2016,FC Höllviken (- 2016),IK Oddevold,3,3,SE3S,2016,26
+05/11/2016,Landskrona BoIS,Östers IF,1,3,SE3S,2016,26
+05/11/2016,Oskarshamns AIK,Qviding FIF,1,1,SE3S,2016,26
+05/11/2016,Husqvarna FF,Norrby IF,5,1,SE3S,2016,26
+05/11/2016,KSF Prespa Birlik,Mjällby AIF,0,3,SE3S,2016,26
+05/11/2016,Tvååkers IF,Kristianstad FC,1,3,SE3S,2016,26
+14/04/2017,Kristianstad FC,FK Karlskrona,1,2,SE3S,2017,1
+15/04/2017,FC Rosengård,Skövde AIK,0,1,SE3S,2017,1
+16/04/2017,Mjällby AIF,Qviding FIF,2,1,SE3S,2017,1
+16/04/2017,Assyriska BK,IK Oddevold,2,1,SE3S,2017,1
+17/04/2017,Ängelholms FF,Oskarshamns AIK,2,0,SE3S,2017,1
+17/04/2017,Husqvarna FF,Landskrona BoIS,1,2,SE3S,2017,1
+17/04/2017,Ljungskile SK,Utsiktens BK,1,0,SE3S,2017,1
+22/04/2017,Oskarshamns AIK,Husqvarna FF,2,1,SE3S,2017,2
+22/04/2017,Qviding FIF,Ängelholms FF,0,3,SE3S,2017,2
+22/04/2017,FK Karlskrona,FC Rosengård,1,0,SE3S,2017,2
+22/04/2017,Utsiktens BK,Mjällby AIF,2,1,SE3S,2017,2
+22/04/2017,Skövde AIK,Ljungskile SK,0,2,SE3S,2017,2
+22/04/2017,IK Oddevold,Kristianstad FC,1,0,SE3S,2017,2
+23/04/2017,Landskrona BoIS,Assyriska BK,2,0,SE3S,2017,2
+29/04/2017,Qviding FIF,Oskarshamns AIK,0,1,SE3S,2017,3
+29/04/2017,Assyriska BK,Husqvarna FF,4,3,SE3S,2017,3
+30/04/2017,Ängelholms FF,Utsiktens BK,0,0,SE3S,2017,3
+30/04/2017,FC Rosengård,IK Oddevold,2,6,SE3S,2017,3
+30/04/2017,Ljungskile SK,FK Karlskrona,2,1,SE3S,2017,3
+30/04/2017,Mjällby AIF,Skövde AIK,3,0,SE3S,2017,3
+01/05/2017,Kristianstad FC,Landskrona BoIS,1,1,SE3S,2017,3
+06/05/2017,IK Oddevold,Ljungskile SK,1,1,SE3S,2017,4
+06/05/2017,Husqvarna FF,Kristianstad FC,1,1,SE3S,2017,4
+06/05/2017,Skövde AIK,Ängelholms FF,1,1,SE3S,2017,4
+07/05/2017,Oskarshamns AIK,Assyriska BK,2,1,SE3S,2017,4
+07/05/2017,FK Karlskrona,Mjällby AIF,4,1,SE3S,2017,4
+08/05/2017,Landskrona BoIS,FC Rosengård,3,0,SE3S,2017,4
+08/05/2017,Utsiktens BK,Qviding FIF,3,1,SE3S,2017,4
+12/05/2017,Ängelholms FF,FK Karlskrona,3,1,SE3S,2017,5
+13/05/2017,Qviding FIF,Skövde AIK,2,1,SE3S,2017,5
+13/05/2017,Utsiktens BK,Oskarshamns AIK,5,0,SE3S,2017,5
+13/05/2017,Kristianstad FC,Assyriska BK,7,1,SE3S,2017,5
+13/05/2017,Ljungskile SK,Landskrona BoIS,1,2,SE3S,2017,5
+14/05/2017,FC Rosengård,Husqvarna FF,3,3,SE3S,2017,5
+14/05/2017,Mjällby AIF,IK Oddevold,3,1,SE3S,2017,5
+18/05/2017,Skövde AIK,Utsiktens BK,3,2,SE3S,2017,6
+20/05/2017,Oskarshamns AIK,Kristianstad FC,2,1,SE3S,2017,6
+20/05/2017,Husqvarna FF,Ljungskile SK,0,0,SE3S,2017,6
+20/05/2017,Assyriska BK,FC Rosengård,1,0,SE3S,2017,6
+21/05/2017,FK Karlskrona,Qviding FIF,0,0,SE3S,2017,6
+21/05/2017,Landskrona BoIS,Mjällby AIF,1,1,SE3S,2017,6
+21/05/2017,IK Oddevold,Ängelholms FF,0,1,SE3S,2017,6
+25/05/2017,Skövde AIK,Oskarshamns AIK,1,1,SE3S,2017,7
+27/05/2017,Qviding FIF,IK Oddevold,1,0,SE3S,2017,7
+27/05/2017,Utsiktens BK,FK Karlskrona,2,1,SE3S,2017,7
+28/05/2017,Mjällby AIF,Husqvarna FF,1,1,SE3S,2017,7
+28/05/2017,Ängelholms FF,Landskrona BoIS,0,1,SE3S,2017,7
+28/05/2017,Ljungskile SK,Assyriska BK,2,1,SE3S,2017,7
+29/05/2017,FC Rosengård,Kristianstad FC,0,1,SE3S,2017,7
+03/06/2017,Oskarshamns AIK,FC Rosengård,3,2,SE3S,2017,8
+03/06/2017,Kristianstad FC,Ljungskile SK,0,2,SE3S,2017,8
+03/06/2017,Assyriska BK,Mjällby AIF,1,4,SE3S,2017,8
+03/06/2017,FK Karlskrona,Skövde AIK,0,2,SE3S,2017,8
+04/06/2017,Landskrona BoIS,Qviding FIF,3,0,SE3S,2017,8
+04/06/2017,Husqvarna FF,Ängelholms FF,3,0,SE3S,2017,8
+05/06/2017,IK Oddevold,Utsiktens BK,1,3,SE3S,2017,8
+10/06/2017,Skövde AIK,IK Oddevold,1,1,SE3S,2017,9
+10/06/2017,Utsiktens BK,Landskrona BoIS,1,0,SE3S,2017,9
+10/06/2017,Qviding FIF,Husqvarna FF,0,4,SE3S,2017,9
+11/06/2017,Ängelholms FF,Assyriska BK,3,0,SE3S,2017,9
+11/06/2017,Ljungskile SK,FC Rosengård,1,1,SE3S,2017,9
+11/06/2017,FK Karlskrona,Oskarshamns AIK,1,0,SE3S,2017,9
+12/06/2017,Mjällby AIF,Kristianstad FC,2,1,SE3S,2017,9
+16/06/2017,Assyriska BK,Qviding FIF,1,1,SE3S,2017,10
+17/06/2017,Husqvarna FF,Utsiktens BK,2,1,SE3S,2017,10
+17/06/2017,IK Oddevold,FK Karlskrona,2,1,SE3S,2017,10
+17/06/2017,Oskarshamns AIK,Ljungskile SK,4,0,SE3S,2017,10
+18/06/2017,FC Rosengård,Mjällby AIF,1,5,SE3S,2017,10
+18/06/2017,Landskrona BoIS,Skövde AIK,2,0,SE3S,2017,10
+19/06/2017,Kristianstad FC,Ängelholms FF,3,0,SE3S,2017,10
+22/06/2017,Skövde AIK,Husqvarna FF,1,1,SE3S,2017,11
+25/06/2017,Ängelholms FF,FC Rosengård,0,3,SE3S,2017,11
+25/06/2017,Mjällby AIF,Ljungskile SK,1,0,SE3S,2017,11
+25/06/2017,IK Oddevold,Oskarshamns AIK,2,2,SE3S,2017,11
+25/06/2017,FK Karlskrona,Landskrona BoIS,0,3,SE3S,2017,11
+25/06/2017,Qviding FIF,Kristianstad FC,0,0,SE3S,2017,11
+26/06/2017,Utsiktens BK,Assyriska BK,2,1,SE3S,2017,11
+01/07/2017,Oskarshamns AIK,Mjällby AIF,3,3,SE3S,2017,12
+01/07/2017,Kristianstad FC,Utsiktens BK,2,3,SE3S,2017,12
+01/07/2017,Assyriska BK,Skövde AIK,1,1,SE3S,2017,12
+01/07/2017,Husqvarna FF,FK Karlskrona,2,2,SE3S,2017,12
+02/07/2017,FC Rosengård,Qviding FIF,0,1,SE3S,2017,12
+02/07/2017,Landskrona BoIS,IK Oddevold,4,0,SE3S,2017,12
+02/07/2017,Ljungskile SK,Ängelholms FF,0,1,SE3S,2017,12
+08/07/2017,FK Karlskrona,Assyriska BK,3,1,SE3S,2017,13
+08/07/2017,Skövde AIK,Kristianstad FC,2,3,SE3S,2017,13
+08/07/2017,Utsiktens BK,FC Rosengård,4,3,SE3S,2017,13
+09/07/2017,Ängelholms FF,Mjällby AIF,1,2,SE3S,2017,13
+09/07/2017,Landskrona BoIS,Oskarshamns AIK,2,2,SE3S,2017,13
+09/07/2017,IK Oddevold,Husqvarna FF,3,3,SE3S,2017,13
+09/07/2017,Qviding FIF,Ljungskile SK,0,1,SE3S,2017,13
+15/07/2017,Mjällby AIF,Utsiktens BK,6,0,SE3S,2017,14
+15/07/2017,Ljungskile SK,Skövde AIK,2,1,SE3S,2017,14
+15/07/2017,Kristianstad FC,IK Oddevold,3,0,SE3S,2017,14
+15/07/2017,Assyriska BK,Landskrona BoIS,1,4,SE3S,2017,14
+15/07/2017,Husqvarna FF,Oskarshamns AIK,0,0,SE3S,2017,14
+16/07/2017,Ängelholms FF,Qviding FIF,1,2,SE3S,2017,14
+16/07/2017,FC Rosengård,FK Karlskrona,1,5,SE3S,2017,14
+16/08/2017,FK Karlskrona,Kristianstad FC,1,1,SE3S,2017,15
+19/08/2017,Oskarshamns AIK,Ängelholms FF,3,2,SE3S,2017,15
+19/08/2017,Skövde AIK,FC Rosengård,2,1,SE3S,2017,15
+19/08/2017,Utsiktens BK,Ljungskile SK,3,0,SE3S,2017,15
+19/08/2017,Qviding FIF,Mjällby AIF,0,4,SE3S,2017,15
+20/08/2017,Landskrona BoIS,Husqvarna FF,3,3,SE3S,2017,15
+21/08/2017,IK Oddevold,Assyriska BK,5,0,SE3S,2017,15
+26/08/2017,Oskarshamns AIK,Qviding FIF,1,0,SE3S,2017,16
+26/08/2017,Husqvarna FF,Assyriska BK,1,2,SE3S,2017,16
+26/08/2017,FK Karlskrona,Ljungskile SK,6,1,SE3S,2017,16
+27/08/2017,Landskrona BoIS,Kristianstad FC,1,0,SE3S,2017,16
+27/08/2017,IK Oddevold,FC Rosengård,0,2,SE3S,2017,16
+27/08/2017,Skövde AIK,Mjällby AIF,1,0,SE3S,2017,16
+27/08/2017,Utsiktens BK,Ängelholms FF,2,0,SE3S,2017,16
+02/09/2017,Ängelholms FF,Skövde AIK,2,1,SE3S,2017,17
+02/09/2017,Qviding FIF,Utsiktens BK,1,1,SE3S,2017,17
+02/09/2017,Assyriska BK,Oskarshamns AIK,2,1,SE3S,2017,17
+03/09/2017,Kristianstad FC,Husqvarna FF,4,1,SE3S,2017,17
+03/09/2017,Mjällby AIF,FK Karlskrona,3,0,SE3S,2017,17
+03/09/2017,FC Rosengård,Landskrona BoIS,0,2,SE3S,2017,17
+03/09/2017,Ljungskile SK,IK Oddevold,0,2,SE3S,2017,17
+09/09/2017,IK Oddevold,Mjällby AIF,2,0,SE3S,2017,18
+09/09/2017,Assyriska BK,Kristianstad FC,0,0,SE3S,2017,18
+09/09/2017,Husqvarna FF,FC Rosengård,4,0,SE3S,2017,18
+09/09/2017,FK Karlskrona,Ängelholms FF,2,3,SE3S,2017,18
+09/09/2017,Skövde AIK,Qviding FIF,2,2,SE3S,2017,18
+09/09/2017,Oskarshamns AIK,Utsiktens BK,2,3,SE3S,2017,18
+10/09/2017,Landskrona BoIS,Ljungskile SK,2,0,SE3S,2017,18
+16/09/2017,Kristianstad FC,Oskarshamns AIK,2,3,SE3S,2017,19
+16/09/2017,Qviding FIF,FK Karlskrona,3,1,SE3S,2017,19
+16/09/2017,FC Rosengård,Assyriska BK,4,5,SE3S,2017,19
+16/09/2017,Utsiktens BK,Skövde AIK,3,1,SE3S,2017,19
+17/09/2017,Ängelholms FF,IK Oddevold,3,0,SE3S,2017,19
+17/09/2017,Mjällby AIF,Landskrona BoIS,1,2,SE3S,2017,19
+17/09/2017,Ljungskile SK,Husqvarna FF,0,2,SE3S,2017,19
+23/09/2017,Oskarshamns AIK,Skövde AIK,2,0,SE3S,2017,20
+23/09/2017,Assyriska BK,Ljungskile SK,2,4,SE3S,2017,20
+23/09/2017,Husqvarna FF,Mjällby AIF,2,2,SE3S,2017,20
+23/09/2017,FK Karlskrona,Utsiktens BK,2,1,SE3S,2017,20
+24/09/2017,Landskrona BoIS,Ängelholms FF,2,0,SE3S,2017,20
+25/09/2017,Kristianstad FC,FC Rosengård,4,0,SE3S,2017,20
+25/09/2017,IK Oddevold,Qviding FIF,3,1,SE3S,2017,20
+30/09/2017,Ljungskile SK,Kristianstad FC,0,1,SE3S,2017,21
+30/09/2017,Qviding FIF,Landskrona BoIS,0,2,SE3S,2017,21
+30/09/2017,FC Rosengård,Oskarshamns AIK,3,0,SE3S,2017,21
+30/09/2017,Skövde AIK,FK Karlskrona,1,1,SE3S,2017,21
+30/09/2017,Utsiktens BK,IK Oddevold,1,4,SE3S,2017,21
+01/10/2017,Mjällby AIF,Assyriska BK,4,1,SE3S,2017,21
+01/10/2017,Ängelholms FF,Husqvarna FF,2,1,SE3S,2017,21
+07/10/2017,Qviding FIF,Assyriska BK,0,3,SE3S,2017,22
+07/10/2017,FK Karlskrona,IK Oddevold,3,1,SE3S,2017,22
+07/10/2017,Skövde AIK,Landskrona BoIS,1,0,SE3S,2017,22
+07/10/2017,Utsiktens BK,Husqvarna FF,3,3,SE3S,2017,22
+08/10/2017,Mjällby AIF,FC Rosengård,2,1,SE3S,2017,22
+08/10/2017,Ljungskile SK,Oskarshamns AIK,3,1,SE3S,2017,22
+08/10/2017,Ängelholms FF,Kristianstad FC,0,2,SE3S,2017,22
+14/10/2017,Oskarshamns AIK,FK Karlskrona,3,4,SE3S,2017,23
+14/10/2017,Assyriska BK,Ängelholms FF,2,0,SE3S,2017,23
+15/10/2017,FC Rosengård,Ljungskile SK,1,5,SE3S,2017,23
+15/10/2017,Landskrona BoIS,Utsiktens BK,2,0,SE3S,2017,23
+15/10/2017,IK Oddevold,Skövde AIK,1,0,SE3S,2017,23
+15/10/2017,Kristianstad FC,Mjällby AIF,0,3,SE3S,2017,23
+15/10/2017,Husqvarna FF,Qviding FIF,4,1,SE3S,2017,23
+21/10/2017,Oskarshamns AIK,Landskrona BoIS,2,1,SE3S,2017,24
+21/10/2017,Kristianstad FC,Skövde AIK,2,1,SE3S,2017,24
+21/10/2017,Assyriska BK,FK Karlskrona,0,0,SE3S,2017,24
+21/10/2017,Husqvarna FF,IK Oddevold,2,1,SE3S,2017,24
+22/10/2017,Mjällby AIF,Ängelholms FF,2,0,SE3S,2017,24
+22/10/2017,FC Rosengård,Utsiktens BK,1,1,SE3S,2017,24
+23/10/2017,Ljungskile SK,Qviding FIF,4,0,SE3S,2017,24
+28/10/2017,FK Karlskrona,Husqvarna FF,1,0,SE3S,2017,25
+28/10/2017,IK Oddevold,Landskrona BoIS,3,2,SE3S,2017,25
+28/10/2017,Qviding FIF,FC Rosengård,0,2,SE3S,2017,25
+28/10/2017,Skövde AIK,Assyriska BK,2,0,SE3S,2017,25
+28/10/2017,Utsiktens BK,Kristianstad FC,3,3,SE3S,2017,25
+29/10/2017,Ängelholms FF,Ljungskile SK,2,2,SE3S,2017,25
+29/10/2017,Mjällby AIF,Oskarshamns AIK,2,1,SE3S,2017,25
+04/11/2017,Ljungskile SK,Mjällby AIF,2,2,SE3S,2017,26
+04/11/2017,FC Rosengård,Ängelholms FF,1,5,SE3S,2017,26
+04/11/2017,Kristianstad FC,Qviding FIF,5,2,SE3S,2017,26
+04/11/2017,Assyriska BK,Utsiktens BK,1,2,SE3S,2017,26
+04/11/2017,Husqvarna FF,Skövde AIK,1,3,SE3S,2017,26
+04/11/2017,Landskrona BoIS,FK Karlskrona,2,0,SE3S,2017,26
+04/11/2017,Oskarshamns AIK,IK Oddevold,1,1,SE3S,2017,26
+07/04/2018,Tvååkers IF,Utsiktens BK,2,1,SE3S,2018,1
+07/04/2018,Lunds BK,Torns IF,1,2,SE3S,2018,1
+07/04/2018,Eskilsminne IF,Kristianstad FC,2,1,SE3S,2018,1
+07/04/2018,Grebbestads IF,Oskarshamns AIK,1,2,SE3S,2018,1
+07/04/2018,Åtvidabergs FF,Ljungskile SK,1,1,SE3S,2018,1
+07/04/2018,Skövde AIK,Ängelholms FF,0,2,SE3S,2018,1
+08/04/2018,FK Karlskrona,IK Oddevold,1,1,SE3S,2018,1
+08/04/2018,Husqvarna FF,Mjällby AIF,0,0,SE3S,2018,1
+14/04/2018,Torns IF,Grebbestads IF,2,1,SE3S,2018,2
+14/04/2018,Oskarshamns AIK,Tvååkers IF,2,3,SE3S,2018,2
+14/04/2018,Utsiktens BK,Åtvidabergs FF,1,1,SE3S,2018,2
+14/04/2018,Kristianstad FC,Lunds BK,0,1,SE3S,2018,2
+15/04/2018,Mjällby AIF,Skövde AIK,4,1,SE3S,2018,2
+15/04/2018,Ängelholms FF,FK Karlskrona,2,2,SE3S,2018,2
+15/04/2018,Ljungskile SK,Eskilsminne IF,1,1,SE3S,2018,2
+16/04/2018,IK Oddevold,Husqvarna FF,2,1,SE3S,2018,2
+21/04/2018,Torns IF,Ljungskile SK,1,0,SE3S,2018,3
+21/04/2018,Åtvidabergs FF,Oskarshamns AIK,0,2,SE3S,2018,3
+21/04/2018,Grebbestads IF,FK Karlskrona,0,2,SE3S,2018,3
+21/04/2018,Tvååkers IF,Mjällby AIF,2,5,SE3S,2018,3
+21/04/2018,Eskilsminne IF,IK Oddevold,1,4,SE3S,2018,3
+21/04/2018,Skövde AIK,Lunds BK,0,2,SE3S,2018,3
+21/04/2018,Husqvarna FF,Utsiktens BK,2,3,SE3S,2018,3
+23/04/2018,Kristianstad FC,Ängelholms FF,2,1,SE3S,2018,3
+28/04/2018,Lunds BK,Grebbestads IF,2,2,SE3S,2018,4
+28/04/2018,Utsiktens BK,Torns IF,1,2,SE3S,2018,4
+29/04/2018,Mjällby AIF,Eskilsminne IF,2,0,SE3S,2018,4
+29/04/2018,Ängelholms FF,Åtvidabergs FF,2,1,SE3S,2018,4
+29/04/2018,Ljungskile SK,Kristianstad FC,0,1,SE3S,2018,4
+29/04/2018,Oskarshamns AIK,Husqvarna FF,3,1,SE3S,2018,4
+01/05/2018,FK Karlskrona,Tvååkers IF,1,3,SE3S,2018,4
+01/05/2018,IK Oddevold,Skövde AIK,1,0,SE3S,2018,4
+05/05/2018,Tvååkers IF,Lunds BK,0,0,SE3S,2018,5
+05/05/2018,Eskilsminne IF,FK Karlskrona,2,0,SE3S,2018,5
+05/05/2018,Kristianstad FC,Oskarshamns AIK,1,1,SE3S,2018,5
+05/05/2018,Åtvidabergs FF,Mjällby AIF,0,1,SE3S,2018,5
+05/05/2018,Skövde AIK,Utsiktens BK,4,0,SE3S,2018,5
+05/05/2018,Husqvarna FF,Ljungskile SK,2,4,SE3S,2018,5
+06/05/2018,Grebbestads IF,Ängelholms FF,2,1,SE3S,2018,5
+06/05/2018,Torns IF,IK Oddevold,0,0,SE3S,2018,5
+10/05/2018,Utsiktens BK,Grebbestads IF,3,0,SE3S,2018,6
+12/05/2018,Lunds BK,Åtvidabergs FF,6,3,SE3S,2018,6
+12/05/2018,Oskarshamns AIK,Eskilsminne IF,3,1,SE3S,2018,6
+12/05/2018,Ljungskile SK,Tvååkers IF,0,1,SE3S,2018,6
+13/05/2018,FK Karlskrona,Skövde AIK,1,1,SE3S,2018,6
+13/05/2018,Mjällby AIF,Torns IF,2,1,SE3S,2018,6
+13/05/2018,Ängelholms FF,Husqvarna FF,2,0,SE3S,2018,6
+13/05/2018,IK Oddevold,Kristianstad FC,4,0,SE3S,2018,6
+17/05/2018,Ängelholms FF,Torns IF,0,1,SE3S,2018,7
+18/05/2018,Grebbestads IF,Tvååkers IF,0,1,SE3S,2018,7
+19/05/2018,Kristianstad FC,Skövde AIK,3,3,SE3S,2018,7
+19/05/2018,Eskilsminne IF,Åtvidabergs FF,3,0,SE3S,2018,7
+19/05/2018,Utsiktens BK,Mjällby AIF,3,2,SE3S,2018,7
+19/05/2018,Lunds BK,Oskarshamns AIK,4,5,SE3S,2018,7
+20/05/2018,Husqvarna FF,FK Karlskrona,1,2,SE3S,2018,7
+20/05/2018,Ljungskile SK,IK Oddevold,4,1,SE3S,2018,7
+25/05/2018,Torns IF,Eskilsminne IF,1,3,SE3S,2018,8
+26/05/2018,Tvååkers IF,Ängelholms FF,4,1,SE3S,2018,8
+26/05/2018,Oskarshamns AIK,Utsiktens BK,3,2,SE3S,2018,8
+27/05/2018,Åtvidabergs FF,Kristianstad FC,1,1,SE3S,2018,8
+27/05/2018,FK Karlskrona,Ljungskile SK,2,1,SE3S,2018,8
+27/05/2018,Mjällby AIF,Grebbestads IF,3,2,SE3S,2018,8
+27/05/2018,IK Oddevold,Lunds BK,1,0,SE3S,2018,8
+29/05/2018,Skövde AIK,Husqvarna FF,0,5,SE3S,2018,8
+31/05/2018,Kristianstad FC,Torns IF,0,0,SE3S,2018,9
+02/06/2018,Lunds BK,FK Karlskrona,4,2,SE3S,2018,9
+02/06/2018,Eskilsminne IF,Tvååkers IF,1,0,SE3S,2018,9
+02/06/2018,Ljungskile SK,Oskarshamns AIK,0,1,SE3S,2018,9
+02/06/2018,Grebbestads IF,Skövde AIK,1,2,SE3S,2018,9
+02/06/2018,Mjällby AIF,IK Oddevold,6,0,SE3S,2018,9
+02/06/2018,Ängelholms FF,Utsiktens BK,1,0,SE3S,2018,9
+03/06/2018,Husqvarna FF,Åtvidabergs FF,4,2,SE3S,2018,9
+06/06/2018,Torns IF,Oskarshamns AIK,2,1,SE3S,2018,10
+06/06/2018,Tvååkers IF,Kristianstad FC,1,1,SE3S,2018,10
+06/06/2018,Åtvidabergs FF,FK Karlskrona,2,0,SE3S,2018,10
+06/06/2018,Skövde AIK,Ljungskile SK,1,1,SE3S,2018,10
+06/06/2018,Husqvarna FF,Lunds BK,2,0,SE3S,2018,10
+06/06/2018,Utsiktens BK,Eskilsminne IF,0,1,SE3S,2018,10
+06/06/2018,Ängelholms FF,Mjällby AIF,2,1,SE3S,2018,10
+06/06/2018,IK Oddevold,Grebbestads IF,1,1,SE3S,2018,10
+09/06/2018,Grebbestads IF,Åtvidabergs FF,3,1,SE3S,2018,11
+09/06/2018,Torns IF,Tvååkers IF,3,0,SE3S,2018,11
+09/06/2018,Ljungskile SK,Ängelholms FF,4,0,SE3S,2018,11
+10/06/2018,Utsiktens BK,IK Oddevold,4,2,SE3S,2018,11
+10/06/2018,Eskilsminne IF,Lunds BK,2,3,SE3S,2018,11
+10/06/2018,FK Karlskrona,Mjällby AIF,2,2,SE3S,2018,11
+10/06/2018,Oskarshamns AIK,Skövde AIK,0,0,SE3S,2018,11
+10/06/2018,Kristianstad FC,Husqvarna FF,3,1,SE3S,2018,11
+16/06/2018,Tvååkers IF,Husqvarna FF,2,0,SE3S,2018,12
+16/06/2018,Lunds BK,Utsiktens BK,3,2,SE3S,2018,12
+16/06/2018,Åtvidabergs FF,Torns IF,1,1,SE3S,2018,12
+16/06/2018,Skövde AIK,Eskilsminne IF,0,2,SE3S,2018,12
+16/06/2018,IK Oddevold,Ängelholms FF,3,1,SE3S,2018,12
+16/06/2018,Mjällby AIF,Oskarshamns AIK,1,1,SE3S,2018,12
+17/06/2018,Kristianstad FC,FK Karlskrona,4,3,SE3S,2018,12
+17/06/2018,Ljungskile SK,Grebbestads IF,2,0,SE3S,2018,12
+20/06/2018,FK Karlskrona,Torns IF,1,1,SE3S,2018,13
+20/06/2018,Lunds BK,Mjällby AIF,0,4,SE3S,2018,13
+21/06/2018,Utsiktens BK,Ljungskile SK,4,1,SE3S,2018,13
+21/06/2018,Skövde AIK,Tvååkers IF,2,1,SE3S,2018,13
+24/06/2018,Grebbestads IF,Kristianstad FC,3,1,SE3S,2018,13
+24/06/2018,Husqvarna FF,Eskilsminne IF,2,2,SE3S,2018,13
+24/06/2018,Ängelholms FF,Oskarshamns AIK,0,1,SE3S,2018,13
+24/06/2018,IK Oddevold,Åtvidabergs FF,1,0,SE3S,2018,13
+30/06/2018,Torns IF,Skövde AIK,2,1,SE3S,2018,14
+30/06/2018,Tvååkers IF,Åtvidabergs FF,2,0,SE3S,2018,14
+30/06/2018,Grebbestads IF,Husqvarna FF,1,2,SE3S,2018,14
+30/06/2018,Oskarshamns AIK,IK Oddevold,3,0,SE3S,2018,14
+30/06/2018,Eskilsminne IF,Ängelholms FF,4,1,SE3S,2018,14
+01/07/2018,FK Karlskrona,Utsiktens BK,2,2,SE3S,2018,14
+01/07/2018,Kristianstad FC,Mjällby AIF,1,2,SE3S,2018,14
+01/07/2018,Ljungskile SK,Lunds BK,1,1,SE3S,2018,14
+06/07/2018,Eskilsminne IF,Grebbestads IF,1,2,SE3S,2018,15
+07/07/2018,Mjällby AIF,Ljungskile SK,1,0,SE3S,2018,15
+07/07/2018,Utsiktens BK,Kristianstad FC,1,0,SE3S,2018,15
+07/07/2018,Lunds BK,Ängelholms FF,4,0,SE3S,2018,15
+08/07/2018,Åtvidabergs FF,Skövde AIK,1,1,SE3S,2018,15
+08/07/2018,Oskarshamns AIK,FK Karlskrona,1,1,SE3S,2018,15
+08/07/2018,Husqvarna FF,Torns IF,0,1,SE3S,2018,15
+09/07/2018,IK Oddevold,Tvååkers IF,0,3,SE3S,2018,15
+13/07/2018,Grebbestads IF,IK Oddevold,1,1,SE3S,2018,16
+13/07/2018,Torns IF,Lunds BK,2,1,SE3S,2018,16
+14/07/2018,Skövde AIK,Åtvidabergs FF,1,0,SE3S,2018,16
+14/07/2018,Tvååkers IF,Oskarshamns AIK,2,0,SE3S,2018,16
+14/07/2018,FK Karlskrona,Husqvarna FF,4,2,SE3S,2018,16
+14/07/2018,Ängelholms FF,Eskilsminne IF,1,0,SE3S,2018,16
+14/07/2018,Ljungskile SK,Mjällby AIF,0,0,SE3S,2018,16
+15/07/2018,Kristianstad FC,Utsiktens BK,1,3,SE3S,2018,16
+18/07/2018,IK Oddevold,Torns IF,0,2,SE3S,2018,17
+19/07/2018,Åtvidabergs FF,Grebbestads IF,3,1,SE3S,2018,17
+21/07/2018,Oskarshamns AIK,Ljungskile SK,2,2,SE3S,2018,17
+21/07/2018,Mjällby AIF,Ängelholms FF,3,0,SE3S,2018,17
+21/07/2018,Utsiktens BK,FK Karlskrona,8,1,SE3S,2018,17
+21/07/2018,Lunds BK,Kristianstad FC,2,1,SE3S,2018,17
+21/07/2018,Eskilsminne IF,Skövde AIK,2,2,SE3S,2018,17
+22/07/2018,Husqvarna FF,Tvååkers IF,1,2,SE3S,2018,17
+18/08/2018,Torns IF,Utsiktens BK,2,0,SE3S,2018,18
+18/08/2018,Grebbestads IF,Lunds BK,2,1,SE3S,2018,18
+18/08/2018,Skövde AIK,Mjällby AIF,1,3,SE3S,2018,18
+18/08/2018,Oskarshamns AIK,Kristianstad FC,4,1,SE3S,2018,18
+19/08/2018,Åtvidabergs FF,Tvååkers IF,4,0,SE3S,2018,18
+19/08/2018,FK Karlskrona,Ängelholms FF,0,0,SE3S,2018,18
+19/08/2018,IK Oddevold,Eskilsminne IF,1,4,SE3S,2018,18
+20/08/2018,Ljungskile SK,Husqvarna FF,1,1,SE3S,2018,18
+25/08/2018,Tvååkers IF,FK Karlskrona,2,0,SE3S,2018,19
+25/08/2018,Lunds BK,IK Oddevold,3,0,SE3S,2018,19
+25/08/2018,Mjällby AIF,Åtvidabergs FF,3,0,SE3S,2018,19
+26/08/2018,Eskilsminne IF,Torns IF,3,0,SE3S,2018,19
+26/08/2018,Utsiktens BK,Skövde AIK,1,1,SE3S,2018,19
+26/08/2018,Husqvarna FF,Oskarshamns AIK,0,3,SE3S,2018,19
+26/08/2018,Kristianstad FC,Ljungskile SK,1,1,SE3S,2018,19
+26/08/2018,Ängelholms FF,Grebbestads IF,2,1,SE3S,2018,19
+01/09/2018,Tvååkers IF,Ljungskile SK,1,2,SE3S,2018,20
+01/09/2018,Grebbestads IF,Eskilsminne IF,2,2,SE3S,2018,20
+01/09/2018,Åtvidabergs FF,Utsiktens BK,2,1,SE3S,2018,20
+01/09/2018,Skövde AIK,Kristianstad FC,0,0,SE3S,2018,20
+01/09/2018,Oskarshamns AIK,Lunds BK,2,2,SE3S,2018,20
+02/09/2018,Torns IF,Mjällby AIF,0,1,SE3S,2018,20
+02/09/2018,IK Oddevold,FK Karlskrona,0,0,SE3S,2018,20
+02/09/2018,Husqvarna FF,Ängelholms FF,4,2,SE3S,2018,20
+08/09/2018,Lunds BK,Skövde AIK,1,0,SE3S,2018,21
+08/09/2018,Eskilsminne IF,Husqvarna FF,2,0,SE3S,2018,21
+08/09/2018,FK Karlskrona,Åtvidabergs FF,0,4,SE3S,2018,21
+08/09/2018,Kristianstad FC,Grebbestads IF,2,2,SE3S,2018,21
+08/09/2018,Utsiktens BK,Oskarshamns AIK,2,2,SE3S,2018,21
+09/09/2018,Mjällby AIF,Tvååkers IF,2,1,SE3S,2018,21
+09/09/2018,Ängelholms FF,IK Oddevold,2,2,SE3S,2018,21
+09/09/2018,Ljungskile SK,Torns IF,1,1,SE3S,2018,21
+15/09/2018,Torns IF,Ängelholms FF,4,0,SE3S,2018,22
+15/09/2018,Tvååkers IF,Eskilsminne IF,0,1,SE3S,2018,22
+15/09/2018,Grebbestads IF,Ljungskile SK,1,2,SE3S,2018,22
+15/09/2018,Åtvidabergs FF,Lunds BK,3,1,SE3S,2018,22
+15/09/2018,Skövde AIK,FK Karlskrona,0,1,SE3S,2018,22
+15/09/2018,Oskarshamns AIK,Mjällby AIF,1,3,SE3S,2018,22
+16/09/2018,Husqvarna FF,Kristianstad FC,3,3,SE3S,2018,22
+17/09/2018,IK Oddevold,Utsiktens BK,1,2,SE3S,2018,22
+22/09/2018,Eskilsminne IF,Utsiktens BK,0,1,SE3S,2018,23
+22/09/2018,Kristianstad FC,IK Oddevold,1,2,SE3S,2018,23
+22/09/2018,Oskarshamns AIK,Torns IF,1,0,SE3S,2018,23
+23/09/2018,Lunds BK,Tvååkers IF,0,1,SE3S,2018,23
+23/09/2018,Mjällby AIF,Husqvarna FF,5,1,SE3S,2018,23
+23/09/2018,FK Karlskrona,Grebbestads IF,1,1,SE3S,2018,23
+23/09/2018,Ängelholms FF,Skövde AIK,1,3,SE3S,2018,23
+23/09/2018,Ljungskile SK,Åtvidabergs FF,3,1,SE3S,2018,23
+28/09/2018,FK Karlskrona,Oskarshamns AIK,1,1,SE3S,2018,24
+29/09/2018,Torns IF,Kristianstad FC,0,1,SE3S,2018,24
+29/09/2018,Tvååkers IF,IK Oddevold,1,1,SE3S,2018,24
+29/09/2018,Åtvidabergs FF,Eskilsminne IF,0,2,SE3S,2018,24
+29/09/2018,Skövde AIK,Grebbestads IF,3,0,SE3S,2018,24
+29/09/2018,Utsiktens BK,Husqvarna FF,0,0,SE3S,2018,24
+30/09/2018,Mjällby AIF,Lunds BK,2,2,SE3S,2018,24
+30/09/2018,Ängelholms FF,Ljungskile SK,0,3,SE3S,2018,24
+04/10/2018,Oskarshamns AIK,Åtvidabergs FF,1,2,SE3S,2018,25
+06/10/2018,Lunds BK,Eskilsminne IF,0,1,SE3S,2018,25
+06/10/2018,Grebbestads IF,Torns IF,2,2,SE3S,2018,25
+06/10/2018,Kristianstad FC,Tvååkers IF,4,3,SE3S,2018,25
+06/10/2018,Ljungskile SK,FK Karlskrona,5,0,SE3S,2018,25
+06/10/2018,Utsiktens BK,Ängelholms FF,0,1,SE3S,2018,25
+07/10/2018,Husqvarna FF,Skövde AIK,0,1,SE3S,2018,25
+07/10/2018,IK Oddevold,Mjällby AIF,1,2,SE3S,2018,25
+13/10/2018,Torns IF,Husqvarna FF,1,3,SE3S,2018,26
+13/10/2018,Tvååkers IF,Grebbestads IF,2,1,SE3S,2018,26
+13/10/2018,Åtvidabergs FF,IK Oddevold,2,1,SE3S,2018,26
+13/10/2018,Eskilsminne IF,Ljungskile SK,1,1,SE3S,2018,26
+13/10/2018,Skövde AIK,Oskarshamns AIK,1,2,SE3S,2018,26
+14/10/2018,Mjällby AIF,Utsiktens BK,1,1,SE3S,2018,26
+14/10/2018,FK Karlskrona,Lunds BK,5,4,SE3S,2018,26
+15/10/2018,Ängelholms FF,Kristianstad FC,0,2,SE3S,2018,26
+06/04/2019,Torns IF,IK Oddevold,0,1,SE3S,2019,1
+06/04/2019,Eskilsminne IF,Åtvidabergs FF,1,1,SE3S,2019,1
+06/04/2019,Utsiktens BK,Tvååkers IF,3,2,SE3S,2019,1
+07/04/2019,Assyriska IK,Skövde AIK,0,1,SE3S,2019,1
+07/04/2019,IFK Värnamo,Oskarshamns AIK,0,0,SE3S,2019,1
+07/04/2019,Ljungskile SK,Lindome GIF,1,1,SE3S,2019,1
+07/04/2019,Landskrona BoIS,FC Trollhättan,1,0,SE3S,2019,1
+07/04/2019,Kristianstad FC,Lunds BK,0,2,SE3S,2019,1
+13/04/2019,Lindome GIF,Utsiktens BK,3,0,SE3S,2019,2
+13/04/2019,Lunds BK,Eskilsminne IF,3,0,SE3S,2019,2
+13/04/2019,Tvååkers IF,Ljungskile SK,1,4,SE3S,2019,2
+13/04/2019,Oskarshamns AIK,Kristianstad FC,6,2,SE3S,2019,2
+13/04/2019,Åtvidabergs FF,Assyriska IK,2,0,SE3S,2019,2
+13/04/2019,FC Trollhättan,Torns IF,1,2,SE3S,2019,2
+14/04/2019,IK Oddevold,Landskrona BoIS,0,1,SE3S,2019,2
+14/04/2019,Skövde AIK,IFK Värnamo,1,3,SE3S,2019,2
+19/04/2019,Utsiktens BK,Lunds BK,3,2,SE3S,2019,3
+19/04/2019,Assyriska IK,FC Trollhättan,1,1,SE3S,2019,3
+21/04/2019,Ljungskile SK,Eskilsminne IF,1,1,SE3S,2019,3
+22/04/2019,Torns IF,Åtvidabergs FF,1,2,SE3S,2019,3
+22/04/2019,IFK Värnamo,Tvååkers IF,2,2,SE3S,2019,3
+22/04/2019,Landskrona BoIS,Oskarshamns AIK,1,1,SE3S,2019,3
+22/04/2019,Kristianstad FC,Skövde AIK,0,1,SE3S,2019,3
+22/04/2019,IK Oddevold,Lindome GIF,0,1,SE3S,2019,3
+26/04/2019,FC Trollhättan,Utsiktens BK,0,1,SE3S,2019,4
+27/04/2019,Eskilsminne IF,Torns IF,0,1,SE3S,2019,4
+27/04/2019,Lunds BK,IFK Värnamo,0,2,SE3S,2019,4
+27/04/2019,Lindome GIF,Kristianstad FC,5,1,SE3S,2019,4
+27/04/2019,Tvååkers IF,Assyriska IK,2,2,SE3S,2019,4
+27/04/2019,Oskarshamns AIK,Ljungskile SK,1,0,SE3S,2019,4
+27/04/2019,Skövde AIK,IK Oddevold,2,0,SE3S,2019,4
+27/04/2019,Åtvidabergs FF,Landskrona BoIS,0,5,SE3S,2019,4
+01/05/2019,Utsiktens BK,Oskarshamns AIK,4,2,SE3S,2019,5
+01/05/2019,Assyriska IK,Lunds BK,0,0,SE3S,2019,5
+01/05/2019,Ljungskile SK,Åtvidabergs FF,4,0,SE3S,2019,5
+01/05/2019,Torns IF,Skövde AIK,2,2,SE3S,2019,5
+01/05/2019,Kristianstad FC,FC Trollhättan,0,2,SE3S,2019,5
+01/05/2019,IFK Värnamo,Lindome GIF,1,3,SE3S,2019,5
+01/05/2019,Landskrona BoIS,Tvååkers IF,0,0,SE3S,2019,5
+01/05/2019,IK Oddevold,Eskilsminne IF,4,1,SE3S,2019,5
+04/05/2019,Lunds BK,Torns IF,2,2,SE3S,2019,6
+05/05/2019,Lindome GIF,Landskrona BoIS,0,0,SE3S,2019,6
+05/05/2019,Tvååkers IF,IK Oddevold,0,0,SE3S,2019,6
+05/05/2019,Eskilsminne IF,Kristianstad FC,3,1,SE3S,2019,6
+05/05/2019,Åtvidabergs FF,Utsiktens BK,1,2,SE3S,2019,6
+05/05/2019,Oskarshamns AIK,Assyriska IK,1,3,SE3S,2019,6
+05/05/2019,Skövde AIK,Ljungskile SK,2,1,SE3S,2019,6
+05/05/2019,FC Trollhättan,IFK Värnamo,3,0,SE3S,2019,6
+11/05/2019,Landskrona BoIS,Lunds BK,2,0,SE3S,2019,7
+11/05/2019,Utsiktens BK,Skövde AIK,0,0,SE3S,2019,7
+11/05/2019,Assyriska IK,Eskilsminne IF,1,0,SE3S,2019,7
+11/05/2019,Torns IF,Lindome GIF,1,0,SE3S,2019,7
+11/05/2019,Ljungskile SK,FC Trollhättan,1,2,SE3S,2019,7
+12/05/2019,IK Oddevold,Oskarshamns AIK,3,3,SE3S,2019,7
+12/05/2019,Kristianstad FC,Tvååkers IF,1,1,SE3S,2019,7
+12/05/2019,IFK Värnamo,Åtvidabergs FF,1,1,SE3S,2019,7
+18/05/2019,Lindome GIF,Assyriska IK,1,2,SE3S,2019,8
+18/05/2019,Eskilsminne IF,Utsiktens BK,4,1,SE3S,2019,8
+18/05/2019,Lunds BK,IK Oddevold,0,2,SE3S,2019,8
+18/05/2019,Tvååkers IF,Torns IF,0,1,SE3S,2019,8
+18/05/2019,Oskarshamns AIK,Skövde AIK,1,2,SE3S,2019,8
+18/05/2019,Ljungskile SK,Kristianstad FC,2,1,SE3S,2019,8
+19/05/2019,IFK Värnamo,Landskrona BoIS,2,2,SE3S,2019,8
+19/05/2019,FC Trollhättan,Åtvidabergs FF,2,1,SE3S,2019,8
+23/05/2019,Skövde AIK,FC Trollhättan,2,2,SE3S,2019,9
+25/05/2019,Lindome GIF,Eskilsminne IF,0,0,SE3S,2019,9
+25/05/2019,Oskarshamns AIK,Lunds BK,5,1,SE3S,2019,9
+25/05/2019,Utsiktens BK,IK Oddevold,1,0,SE3S,2019,9
+25/05/2019,Assyriska IK,Ljungskile SK,1,3,SE3S,2019,9
+25/05/2019,Kristianstad FC,IFK Värnamo,3,2,SE3S,2019,9
+25/05/2019,Åtvidabergs FF,Tvååkers IF,1,2,SE3S,2019,9
+26/05/2019,Torns IF,Landskrona BoIS,1,1,SE3S,2019,9
+29/05/2019,IFK Värnamo,Torns IF,0,0,SE3S,2019,10
+29/05/2019,Ljungskile SK,Utsiktens BK,2,2,SE3S,2019,10
+29/05/2019,FC Trollhättan,Lindome GIF,2,0,SE3S,2019,10
+30/05/2019,Tvååkers IF,Skövde AIK,2,2,SE3S,2019,10
+30/05/2019,Eskilsminne IF,Oskarshamns AIK,2,2,SE3S,2019,10
+30/05/2019,Lunds BK,Åtvidabergs FF,0,2,SE3S,2019,10
+30/05/2019,Landskrona BoIS,Assyriska IK,0,2,SE3S,2019,10
+30/05/2019,IK Oddevold,Kristianstad FC,2,3,SE3S,2019,10
+02/06/2019,Lunds BK,Tvååkers IF,0,1,SE3S,2019,11
+02/06/2019,Lindome GIF,Åtvidabergs FF,1,3,SE3S,2019,11
+02/06/2019,Utsiktens BK,Torns IF,4,1,SE3S,2019,11
+02/06/2019,Assyriska IK,IK Oddevold,3,1,SE3S,2019,11
+02/06/2019,Oskarshamns AIK,FC Trollhättan,0,1,SE3S,2019,11
+02/06/2019,Landskrona BoIS,Kristianstad FC,0,1,SE3S,2019,11
+02/06/2019,Skövde AIK,Eskilsminne IF,1,0,SE3S,2019,11
+02/06/2019,IFK Värnamo,Ljungskile SK,0,2,SE3S,2019,11
+06/06/2019,Lindome GIF,Tvååkers IF,1,3,SE3S,2019,12
+07/06/2019,Åtvidabergs FF,Oskarshamns AIK,2,0,SE3S,2019,12
+08/06/2019,Eskilsminne IF,IFK Värnamo,1,2,SE3S,2019,12
+08/06/2019,Torns IF,Assyriska IK,3,1,SE3S,2019,12
+08/06/2019,Kristianstad FC,Utsiktens BK,2,1,SE3S,2019,12
+08/06/2019,Ljungskile SK,Landskrona BoIS,3,0,SE3S,2019,12
+09/06/2019,IK Oddevold,FC Trollhättan,0,2,SE3S,2019,12
+09/06/2019,Skövde AIK,Lunds BK,1,0,SE3S,2019,12
+15/06/2019,Lunds BK,Lindome GIF,1,1,SE3S,2019,13
+15/06/2019,Landskrona BoIS,Skövde AIK,0,0,SE3S,2019,13
+15/06/2019,Assyriska IK,Kristianstad FC,0,0,SE3S,2019,13
+15/06/2019,Torns IF,Ljungskile SK,1,3,SE3S,2019,13
+15/06/2019,Tvååkers IF,Oskarshamns AIK,1,1,SE3S,2019,13
+15/06/2019,Åtvidabergs FF,IK Oddevold,3,1,SE3S,2019,13
+15/06/2019,FC Trollhättan,Eskilsminne IF,3,2,SE3S,2019,13
+16/06/2019,IFK Värnamo,Utsiktens BK,2,2,SE3S,2019,13
+19/06/2019,Kristianstad FC,Torns IF,0,2,SE3S,2019,14
+20/06/2019,Oskarshamns AIK,Lindome GIF,4,0,SE3S,2019,14
+20/06/2019,Utsiktens BK,Assyriska IK,2,1,SE3S,2019,14
+20/06/2019,Tvååkers IF,FC Trollhättan,1,2,SE3S,2019,14
+20/06/2019,Skövde AIK,Åtvidabergs FF,4,0,SE3S,2019,14
+20/06/2019,Ljungskile SK,Lunds BK,3,2,SE3S,2019,14
+24/06/2019,Eskilsminne IF,Landskrona BoIS,2,1,SE3S,2019,14
+24/06/2019,IK Oddevold,IFK Värnamo,3,1,SE3S,2019,14
+27/06/2019,Lindome GIF,Skövde AIK,1,0,SE3S,2019,15
+28/06/2019,Assyriska IK,IFK Värnamo,1,1,SE3S,2019,15
+29/06/2019,Eskilsminne IF,Tvååkers IF,0,3,SE3S,2019,15
+29/06/2019,Torns IF,Oskarshamns AIK,2,2,SE3S,2019,15
+29/06/2019,Åtvidabergs FF,Kristianstad FC,1,2,SE3S,2019,15
+29/06/2019,FC Trollhättan,Lunds BK,2,2,SE3S,2019,15
+29/06/2019,Landskrona BoIS,Utsiktens BK,1,0,SE3S,2019,15
+01/07/2019,IK Oddevold,Ljungskile SK,0,1,SE3S,2019,15
+02/07/2019,Assyriska IK,Lindome GIF,1,2,SE3S,2019,16
+03/07/2019,Skövde AIK,Torns IF,2,1,SE3S,2019,16
+04/07/2019,Lunds BK,FC Trollhättan,1,1,SE3S,2019,16
+06/07/2019,Utsiktens BK,Åtvidabergs FF,3,0,SE3S,2019,16
+06/07/2019,Kristianstad FC,Ljungskile SK,2,3,SE3S,2019,16
+06/07/2019,Tvååkers IF,Landskrona BoIS,1,2,SE3S,2019,16
+07/07/2019,Oskarshamns AIK,IK Oddevold,0,0,SE3S,2019,16
+07/07/2019,IFK Värnamo,Eskilsminne IF,2,2,SE3S,2019,16
+03/08/2019,Utsiktens BK,Landskrona BoIS,1,1,SE3S,2019,17
+03/08/2019,Oskarshamns AIK,Tvååkers IF,0,2,SE3S,2019,17
+03/08/2019,Åtvidabergs FF,IFK Värnamo,0,2,SE3S,2019,17
+04/08/2019,Torns IF,Kristianstad FC,2,0,SE3S,2019,17
+04/08/2019,FC Trollhättan,Assyriska IK,2,4,SE3S,2019,17
+04/08/2019,Ljungskile SK,Skövde AIK,3,0,SE3S,2019,17
+05/08/2019,Lindome GIF,IK Oddevold,0,4,SE3S,2019,17
+07/08/2019,Eskilsminne IF,Lunds BK,0,1,SE3S,2019,17
+10/08/2019,Assyriska IK,Torns IF,1,0,SE3S,2019,18
+10/08/2019,Tvååkers IF,Lindome GIF,1,0,SE3S,2019,18
+11/08/2019,Lunds BK,Utsiktens BK,2,1,SE3S,2019,18
+11/08/2019,Skövde AIK,Oskarshamns AIK,3,0,SE3S,2019,18
+11/08/2019,Landskrona BoIS,Ljungskile SK,1,1,SE3S,2019,18
+11/08/2019,IK Oddevold,Åtvidabergs FF,3,1,SE3S,2019,18
+11/08/2019,IFK Värnamo,FC Trollhättan,5,1,SE3S,2019,18
+12/08/2019,Kristianstad FC,Eskilsminne IF,1,3,SE3S,2019,18
+17/08/2019,Lindome GIF,Lunds BK,1,3,SE3S,2019,19
+17/08/2019,Eskilsminne IF,IK Oddevold,4,1,SE3S,2019,19
+17/08/2019,Torns IF,IFK Värnamo,1,2,SE3S,2019,19
+17/08/2019,Utsiktens BK,Kristianstad FC,0,0,SE3S,2019,19
+17/08/2019,Oskarshamns AIK,Landskrona BoIS,1,3,SE3S,2019,19
+17/08/2019,Åtvidabergs FF,Skövde AIK,0,1,SE3S,2019,19
+18/08/2019,FC Trollhättan,Tvååkers IF,1,0,SE3S,2019,19
+18/08/2019,Ljungskile SK,Assyriska IK,2,1,SE3S,2019,19
+24/08/2019,Lunds BK,Skövde AIK,2,1,SE3S,2019,20
+24/08/2019,Tvååkers IF,Utsiktens BK,2,2,SE3S,2019,20
+24/08/2019,Kristianstad FC,Lindome GIF,1,0,SE3S,2019,20
+24/08/2019,Åtvidabergs FF,Eskilsminne IF,1,1,SE3S,2019,20
+25/08/2019,Assyriska IK,Oskarshamns AIK,0,0,SE3S,2019,20
+25/08/2019,IK Oddevold,Torns IF,0,0,SE3S,2019,20
+25/08/2019,Landskrona BoIS,IFK Värnamo,4,0,SE3S,2019,20
+26/08/2019,FC Trollhättan,Ljungskile SK,0,2,SE3S,2019,20
+31/08/2019,Utsiktens BK,Eskilsminne IF,2,0,SE3S,2019,21
+31/08/2019,Assyriska IK,Tvååkers IF,0,1,SE3S,2019,21
+31/08/2019,IFK Värnamo,IK Oddevold,1,0,SE3S,2019,21
+01/09/2019,Lindome GIF,FC Trollhättan,0,0,SE3S,2019,21
+01/09/2019,Torns IF,Lunds BK,2,3,SE3S,2019,21
+01/09/2019,Ljungskile SK,Oskarshamns AIK,9,0,SE3S,2019,21
+01/09/2019,Landskrona BoIS,Åtvidabergs FF,1,0,SE3S,2019,21
+01/09/2019,Skövde AIK,Kristianstad FC,4,0,SE3S,2019,21
+06/09/2019,Oskarshamns AIK,Åtvidabergs FF,4,3,SE3S,2019,22
+07/09/2019,Lindome GIF,Torns IF,3,0,SE3S,2019,22
+07/09/2019,Eskilsminne IF,Ljungskile SK,0,1,SE3S,2019,22
+07/09/2019,Lunds BK,Landskrona BoIS,0,2,SE3S,2019,22
+07/09/2019,Tvååkers IF,IFK Värnamo,0,2,SE3S,2019,22
+08/09/2019,Kristianstad FC,Assyriska IK,2,1,SE3S,2019,22
+09/09/2019,IK Oddevold,Utsiktens BK,1,1,SE3S,2019,22
+09/09/2019,FC Trollhättan,Skövde AIK,2,1,SE3S,2019,22
+14/09/2019,Eskilsminne IF,Assyriska IK,2,0,SE3S,2019,23
+14/09/2019,Lunds BK,Kristianstad FC,3,1,SE3S,2019,23
+14/09/2019,Skövde AIK,Lindome GIF,0,2,SE3S,2019,23
+14/09/2019,Utsiktens BK,FC Trollhättan,4,0,SE3S,2019,23
+14/09/2019,Åtvidabergs FF,Torns IF,1,2,SE3S,2019,23
+15/09/2019,Ljungskile SK,Tvååkers IF,1,0,SE3S,2019,23
+15/09/2019,Landskrona BoIS,IK Oddevold,1,0,SE3S,2019,23
+15/09/2019,Oskarshamns AIK,IFK Värnamo,0,1,SE3S,2019,23
+21/09/2019,Lindome GIF,Ljungskile SK,2,0,SE3S,2019,24
+21/09/2019,Tvååkers IF,Åtvidabergs FF,1,1,SE3S,2019,24
+21/09/2019,Assyriska IK,Utsiktens BK,2,1,SE3S,2019,24
+21/09/2019,Torns IF,Eskilsminne IF,1,1,SE3S,2019,24
+22/09/2019,Kristianstad FC,Oskarshamns AIK,1,2,SE3S,2019,24
+22/09/2019,IK Oddevold,Lunds BK,0,3,SE3S,2019,24
+22/09/2019,IFK Värnamo,Skövde AIK,2,2,SE3S,2019,24
+22/09/2019,FC Trollhättan,Landskrona BoIS,0,1,SE3S,2019,24
+28/09/2019,Lunds BK,Assyriska IK,3,0,SE3S,2019,25
+28/09/2019,Oskarshamns AIK,Eskilsminne IF,2,4,SE3S,2019,25
+28/09/2019,Utsiktens BK,Lindome GIF,3,0,SE3S,2019,25
+28/09/2019,Kristianstad FC,IK Oddevold,1,0,SE3S,2019,25
+28/09/2019,Åtvidabergs FF,FC Trollhättan,0,2,SE3S,2019,25
+29/09/2019,Ljungskile SK,IFK Värnamo,3,0,SE3S,2019,25
+29/09/2019,Landskrona BoIS,Torns IF,3,0,SE3S,2019,25
+29/09/2019,Skövde AIK,Tvååkers IF,2,3,SE3S,2019,25
+05/10/2019,Eskilsminne IF,Lindome GIF,1,0,SE3S,2019,26
+05/10/2019,Torns IF,Utsiktens BK,2,0,SE3S,2019,26
+05/10/2019,Tvååkers IF,Kristianstad FC,2,1,SE3S,2019,26
+05/10/2019,Åtvidabergs FF,Ljungskile SK,1,1,SE3S,2019,26
+05/10/2019,FC Trollhättan,Oskarshamns AIK,0,2,SE3S,2019,26
+06/10/2019,IFK Värnamo,Lunds BK,3,1,SE3S,2019,26
+06/10/2019,IK Oddevold,Assyriska IK,0,1,SE3S,2019,26
+06/10/2019,Skövde AIK,Landskrona BoIS,1,1,SE3S,2019,26
+14/06/2020,Eskilsminne IF,Lindome GIF,0,2,SE3S,2020,1
+14/06/2020,Lunds BK,Qviding FIF,1,0,SE3S,2020,1
+14/06/2020,Tvååkers IF,FK Karlskrona,1,0,SE3S,2020,1
+14/06/2020,Skövde AIK,Utsiktens BK,2,2,SE3S,2020,1
+14/06/2020,Torns IF,Assyriska IK,1,1,SE3S,2020,1
+14/06/2020,FC Linköping City,FC Trollhättan,1,1,SE3S,2020,1
+14/06/2020,Oskarshamns AIK,Landskrona BoIS,1,1,SE3S,2020,1
+14/06/2020,IFK Värnamo,Motala AIF,1,0,SE3S,2020,1
+17/06/2020,Qviding FIF,FC Linköping City,1,3,SE3S,2020,2
+17/06/2020,Assyriska IK,Oskarshamns AIK,0,2,SE3S,2020,2
+17/06/2020,Landskrona BoIS,Eskilsminne IF,1,0,SE3S,2020,2
+17/06/2020,Lindome GIF,Lunds BK,2,1,SE3S,2020,2
+17/06/2020,Utsiktens BK,Tvååkers IF,3,3,SE3S,2020,2
+17/06/2020,FC Trollhättan,IFK Värnamo,0,1,SE3S,2020,2
+17/06/2020,Motala AIF,Skövde AIK,2,2,SE3S,2020,2
+17/06/2020,FK Karlskrona,Torns IF,1,1,SE3S,2020,2
+21/06/2020,Eskilsminne IF,FC Trollhättan,1,1,SE3S,2020,3
+21/06/2020,Lunds BK,FC Linköping City,3,1,SE3S,2020,3
+21/06/2020,Tvååkers IF,Assyriska IK,1,3,SE3S,2020,3
+21/06/2020,Skövde AIK,Landskrona BoIS,2,3,SE3S,2020,3
+21/06/2020,Motala AIF,Utsiktens BK,1,3,SE3S,2020,3
+21/06/2020,Torns IF,Qviding FIF,3,0,SE3S,2020,3
+21/06/2020,IFK Värnamo,Lindome GIF,2,0,SE3S,2020,3
+22/06/2020,Oskarshamns AIK,FK Karlskrona,3,2,SE3S,2020,3
+26/06/2020,Lindome GIF,Tvååkers IF,0,1,SE3S,2020,4
+27/06/2020,Qviding FIF,FK Karlskrona,2,2,SE3S,2020,4
+27/06/2020,Eskilsminne IF,Skövde AIK,1,0,SE3S,2020,4
+27/06/2020,Assyriska IK,Lunds BK,0,2,SE3S,2020,4
+27/06/2020,FC Trollhättan,Torns IF,2,1,SE3S,2020,4
+27/06/2020,Landskrona BoIS,IFK Värnamo,1,4,SE3S,2020,4
+27/06/2020,Utsiktens BK,Oskarshamns AIK,2,2,SE3S,2020,4
+28/06/2020,FC Linköping City,Motala AIF,2,0,SE3S,2020,4
+01/07/2020,FK Karlskrona,Landskrona BoIS,0,3,SE3S,2020,5
+01/07/2020,Lunds BK,Eskilsminne IF,3,1,SE3S,2020,5
+01/07/2020,IFK Värnamo,Utsiktens BK,0,1,SE3S,2020,5
+01/07/2020,Oskarshamns AIK,FC Linköping City,1,0,SE3S,2020,5
+01/07/2020,Torns IF,Lindome GIF,3,0,SE3S,2020,5
+01/07/2020,Motala AIF,Assyriska IK,2,3,SE3S,2020,5
+01/07/2020,Skövde AIK,Qviding FIF,3,1,SE3S,2020,5
+01/07/2020,Tvååkers IF,FC Trollhättan,2,1,SE3S,2020,5
+05/07/2020,Eskilsminne IF,Motala AIF,2,2,SE3S,2020,6
+05/07/2020,Lindome GIF,Oskarshamns AIK,7,1,SE3S,2020,6
+05/07/2020,FC Linköping City,Torns IF,1,1,SE3S,2020,6
+05/07/2020,Assyriska IK,IFK Värnamo,2,0,SE3S,2020,6
+05/07/2020,Landskrona BoIS,Lunds BK,4,4,SE3S,2020,6
+05/07/2020,Utsiktens BK,FK Karlskrona,4,0,SE3S,2020,6
+05/07/2020,FC Trollhättan,Skövde AIK,1,0,SE3S,2020,6
+06/07/2020,Qviding FIF,Tvååkers IF,1,1,SE3S,2020,6
+11/07/2020,Qviding FIF,Assyriska IK,3,1,SE3S,2020,7
+11/07/2020,Lunds BK,Tvååkers IF,3,1,SE3S,2020,7
+11/07/2020,FK Karlskrona,FC Linköping City,0,6,SE3S,2020,7
+11/07/2020,Skövde AIK,Lindome GIF,1,3,SE3S,2020,7
+11/07/2020,IFK Värnamo,Eskilsminne IF,3,0,SE3S,2020,7
+11/07/2020,Oskarshamns AIK,FC Trollhättan,0,1,SE3S,2020,7
+11/07/2020,Torns IF,Utsiktens BK,4,0,SE3S,2020,7
+11/07/2020,Motala AIF,Landskrona BoIS,1,3,SE3S,2020,7
+15/07/2020,FC Linköping City,Skövde AIK,5,1,SE3S,2020,8
+15/07/2020,Eskilsminne IF,Oskarshamns AIK,1,4,SE3S,2020,8
+15/07/2020,Assyriska IK,FK Karlskrona,2,0,SE3S,2020,8
+15/07/2020,Lindome GIF,Motala AIF,0,1,SE3S,2020,8
+15/07/2020,Tvååkers IF,Torns IF,1,2,SE3S,2020,8
+15/07/2020,Landskrona BoIS,Qviding FIF,1,0,SE3S,2020,8
+15/07/2020,Utsiktens BK,FC Trollhättan,2,0,SE3S,2020,8
+15/07/2020,IFK Värnamo,Lunds BK,4,0,SE3S,2020,8
+18/07/2020,FK Karlskrona,Lindome GIF,0,2,SE3S,2020,9
+18/07/2020,Torns IF,Landskrona BoIS,0,0,SE3S,2020,9
+19/07/2020,Qviding FIF,Eskilsminne IF,1,0,SE3S,2020,9
+19/07/2020,Lunds BK,Motala AIF,1,2,SE3S,2020,9
+19/07/2020,Oskarshamns AIK,IFK Värnamo,1,2,SE3S,2020,9
+19/07/2020,FC Trollhättan,Assyriska IK,1,3,SE3S,2020,9
+19/07/2020,Skövde AIK,Tvååkers IF,2,0,SE3S,2020,9
+19/07/2020,Utsiktens BK,FC Linköping City,2,1,SE3S,2020,9
+07/08/2020,Assyriska IK,Skövde AIK,0,4,SE3S,2020,10
+07/08/2020,Lindome GIF,Utsiktens BK,2,2,SE3S,2020,10
+08/08/2020,FK Karlskrona,Eskilsminne IF,2,2,SE3S,2020,10
+08/08/2020,IFK Värnamo,Qviding FIF,5,0,SE3S,2020,10
+08/08/2020,FC Trollhättan,Lunds BK,2,1,SE3S,2020,10
+08/08/2020,Motala AIF,Torns IF,2,2,SE3S,2020,10
+08/08/2020,Tvååkers IF,Oskarshamns AIK,1,0,SE3S,2020,10
+09/08/2020,FC Linköping City,Landskrona BoIS,2,0,SE3S,2020,10
+12/08/2020,Oskarshamns AIK,Motala AIF,1,2,SE3S,2020,11
+12/08/2020,FK Karlskrona,Lunds BK,1,1,SE3S,2020,11
+12/08/2020,Skövde AIK,IFK Värnamo,0,3,SE3S,2020,11
+12/08/2020,Assyriska IK,Utsiktens BK,1,1,SE3S,2020,11
+12/08/2020,Landskrona BoIS,Tvååkers IF,4,0,SE3S,2020,11
+12/08/2020,Lindome GIF,FC Linköping City,3,1,SE3S,2020,11
+12/08/2020,Torns IF,Eskilsminne IF,1,1,SE3S,2020,11
+12/08/2020,Qviding FIF,FC Trollhättan,2,1,SE3S,2020,11
+15/08/2020,FK Karlskrona,FC Trollhättan,4,5,SE3S,2020,12
+15/08/2020,Torns IF,Oskarshamns AIK,2,0,SE3S,2020,12
+16/08/2020,Eskilsminne IF,Assyriska IK,0,6,SE3S,2020,12
+16/08/2020,Lunds BK,Skövde AIK,0,3,SE3S,2020,12
+16/08/2020,Motala AIF,Tvååkers IF,1,1,SE3S,2020,12
+16/08/2020,Utsiktens BK,Qviding FIF,2,0,SE3S,2020,12
+17/08/2020,FC Linköping City,IFK Värnamo,0,4,SE3S,2020,12
+21/10/2020,Landskrona BoIS,Lindome GIF,1,2,SE3S,2020,12
+22/08/2020,Qviding FIF,Motala AIF,0,0,SE3S,2020,13
+22/08/2020,Tvååkers IF,FC Linköping City,3,2,SE3S,2020,13
+22/08/2020,Oskarshamns AIK,Lunds BK,3,2,SE3S,2020,13
+22/08/2020,Skövde AIK,FK Karlskrona,2,0,SE3S,2020,13
+22/08/2020,Assyriska IK,Lindome GIF,2,0,SE3S,2020,13
+22/08/2020,Utsiktens BK,Eskilsminne IF,3,2,SE3S,2020,13
+22/08/2020,FC Trollhättan,Landskrona BoIS,2,2,SE3S,2020,13
+23/08/2020,IFK Värnamo,Torns IF,1,1,SE3S,2020,13
+29/08/2020,Lindome GIF,FC Trollhättan,1,1,SE3S,2020,14
+29/08/2020,Eskilsminne IF,FC Linköping City,2,0,SE3S,2020,14
+29/08/2020,Lunds BK,Utsiktens BK,2,2,SE3S,2020,14
+29/08/2020,Motala AIF,FK Karlskrona,1,3,SE3S,2020,14
+29/08/2020,Landskrona BoIS,Assyriska IK,2,1,SE3S,2020,14
+29/08/2020,Oskarshamns AIK,Qviding FIF,2,2,SE3S,2020,14
+29/08/2020,Torns IF,Skövde AIK,2,2,SE3S,2020,14
+30/08/2020,IFK Värnamo,Tvååkers IF,4,2,SE3S,2020,14
+02/09/2020,FK Karlskrona,IFK Värnamo,0,1,SE3S,2020,15
+02/09/2020,FC Linköping City,Assyriska IK,2,0,SE3S,2020,15
+02/09/2020,Skövde AIK,Oskarshamns AIK,4,1,SE3S,2020,15
+02/09/2020,Lunds BK,Torns IF,0,0,SE3S,2020,15
+02/09/2020,Utsiktens BK,Landskrona BoIS,1,1,SE3S,2020,15
+02/09/2020,FC Trollhättan,Motala AIF,2,1,SE3S,2020,15
+02/09/2020,Tvååkers IF,Eskilsminne IF,2,2,SE3S,2020,15
+02/09/2020,Qviding FIF,Lindome GIF,1,0,SE3S,2020,15
+05/09/2020,Torns IF,Tvååkers IF,1,1,SE3S,2020,16
+06/09/2020,Lindome GIF,Skövde AIK,2,1,SE3S,2020,16
+06/09/2020,Eskilsminne IF,Qviding FIF,3,0,SE3S,2020,16
+06/09/2020,Oskarshamns AIK,Utsiktens BK,2,2,SE3S,2020,16
+06/09/2020,Motala AIF,Lunds BK,0,0,SE3S,2020,16
+06/09/2020,Assyriska IK,FC Linköping City,2,2,SE3S,2020,16
+06/09/2020,Landskrona BoIS,FC Trollhättan,1,0,SE3S,2020,16
+06/09/2020,IFK Värnamo,FK Karlskrona,4,1,SE3S,2020,16
+12/09/2020,Tvååkers IF,IFK Värnamo,0,2,SE3S,2020,17
+12/09/2020,Lunds BK,Oskarshamns AIK,1,1,SE3S,2020,17
+12/09/2020,FC Linköping City,Eskilsminne IF,1,1,SE3S,2020,17
+12/09/2020,Skövde AIK,Torns IF,1,1,SE3S,2020,17
+12/09/2020,Utsiktens BK,Motala AIF,2,0,SE3S,2020,17
+12/09/2020,Qviding FIF,Landskrona BoIS,1,0,SE3S,2020,17
+12/09/2020,FK Karlskrona,Assyriska IK,3,2,SE3S,2020,17
+13/09/2020,FC Trollhättan,Lindome GIF,0,1,SE3S,2020,17
+19/09/2020,Eskilsminne IF,Lunds BK,1,1,SE3S,2020,18
+19/09/2020,IFK Värnamo,Skövde AIK,3,1,SE3S,2020,18
+19/09/2020,Assyriska IK,Qviding FIF,4,0,SE3S,2020,18
+19/09/2020,Oskarshamns AIK,Tvååkers IF,2,1,SE3S,2020,18
+19/09/2020,Torns IF,FC Linköping City,3,0,SE3S,2020,18
+19/09/2020,Motala AIF,FC Trollhättan,1,3,SE3S,2020,18
+19/09/2020,Lindome GIF,FK Karlskrona,6,0,SE3S,2020,18
+19/09/2020,Landskrona BoIS,Utsiktens BK,0,0,SE3S,2020,18
+23/09/2020,Qviding FIF,Lunds BK,0,0,SE3S,2020,19
+23/09/2020,FC Linköping City,Oskarshamns AIK,2,1,SE3S,2020,19
+23/09/2020,Skövde AIK,Assyriska IK,3,2,SE3S,2020,19
+23/09/2020,Motala AIF,IFK Värnamo,5,3,SE3S,2020,19
+23/09/2020,Lindome GIF,Torns IF,2,0,SE3S,2020,19
+23/09/2020,FC Trollhättan,Utsiktens BK,1,2,SE3S,2020,19
+23/09/2020,Tvååkers IF,Landskrona BoIS,0,2,SE3S,2020,19
+23/09/2020,Eskilsminne IF,FK Karlskrona,3,1,SE3S,2020,19
+26/09/2020,Torns IF,Motala AIF,1,0,SE3S,2020,20
+26/09/2020,FK Karlskrona,Qviding FIF,3,0,SE3S,2020,20
+27/09/2020,Utsiktens BK,Lindome GIF,0,1,SE3S,2020,20
+27/09/2020,Oskarshamns AIK,Eskilsminne IF,4,0,SE3S,2020,20
+27/09/2020,Skövde AIK,FC Linköping City,4,3,SE3S,2020,20
+27/09/2020,Assyriska IK,Tvååkers IF,0,0,SE3S,2020,20
+27/09/2020,IFK Värnamo,FC Trollhättan,2,0,SE3S,2020,20
+27/09/2020,Lunds BK,Landskrona BoIS,1,2,SE3S,2020,20
+03/10/2020,Qviding FIF,Torns IF,1,0,SE3S,2020,21
+03/10/2020,Eskilsminne IF,IFK Värnamo,0,1,SE3S,2020,21
+03/10/2020,Lunds BK,Assyriska IK,0,1,SE3S,2020,21
+03/10/2020,Motala AIF,Oskarshamns AIK,1,1,SE3S,2020,21
+03/10/2020,FC Linköping City,Lindome GIF,2,1,SE3S,2020,21
+03/10/2020,Landskrona BoIS,Skövde AIK,3,2,SE3S,2020,21
+03/10/2020,FC Trollhättan,FK Karlskrona,4,1,SE3S,2020,21
+04/10/2020,Tvååkers IF,Utsiktens BK,2,2,SE3S,2020,21
+07/10/2020,FK Karlskrona,Oskarshamns AIK,4,4,SE3S,2020,22
+07/10/2020,Landskrona BoIS,Torns IF,2,0,SE3S,2020,22
+07/10/2020,Lindome GIF,Eskilsminne IF,1,2,SE3S,2020,22
+10/10/2020,FK Karlskrona,Utsiktens BK,2,5,SE3S,2020,23
+11/10/2020,Eskilsminne IF,Landskrona BoIS,0,1,SE3S,2020,23
+11/10/2020,Motala AIF,Lindome GIF,1,2,SE3S,2020,23
+11/10/2020,Skövde AIK,Lunds BK,2,0,SE3S,2020,23
+17/10/2020,Lindome GIF,Qviding FIF,1,1,SE3S,2020,24
+17/10/2020,Tvååkers IF,Skövde AIK,2,1,SE3S,2020,24
+17/10/2020,Motala AIF,Eskilsminne IF,3,5,SE3S,2020,24
+17/10/2020,Torns IF,IFK Värnamo,2,1,SE3S,2020,24
+17/10/2020,Utsiktens BK,Assyriska IK,4,0,SE3S,2020,24
+17/10/2020,Lunds BK,FK Karlskrona,3,0,SE3S,2020,24
+17/10/2020,Landskrona BoIS,Oskarshamns AIK,3,0,SE3S,2020,24
+18/10/2020,FC Trollhättan,FC Linköping City,3,2,SE3S,2020,24
+24/10/2020,Qviding FIF,Skövde AIK,3,2,SE3S,2020,25
+24/10/2020,FK Karlskrona,Motala AIF,1,2,SE3S,2020,25
+24/10/2020,Eskilsminne IF,Utsiktens BK,2,1,SE3S,2020,25
+24/10/2020,FC Linköping City,Lunds BK,3,1,SE3S,2020,25
+24/10/2020,Assyriska IK,Torns IF,2,1,SE3S,2020,25
+25/10/2020,IFK Värnamo,Oskarshamns AIK,0,1,SE3S,2020,25
+25/10/2020,Lindome GIF,Landskrona BoIS,2,2,SE3S,2020,25
+26/10/2020,FC Trollhättan,Tvååkers IF,3,4,SE3S,2020,25
+30/10/2020,Landskrona BoIS,FK Karlskrona,4,0,SE3S,2020,26
+31/10/2020,Lunds BK,IFK Värnamo,3,1,SE3S,2020,26
+31/10/2020,Assyriska IK,FC Trollhättan,5,2,SE3S,2020,26
+31/10/2020,Tvååkers IF,Motala AIF,2,1,SE3S,2020,26
+31/10/2020,Oskarshamns AIK,Lindome GIF,3,2,SE3S,2020,26
+31/10/2020,FC Linköping City,Qviding FIF,0,1,SE3S,2020,26
+31/10/2020,Skövde AIK,Eskilsminne IF,2,3,SE3S,2020,26
+31/10/2020,Utsiktens BK,Torns IF,4,0,SE3S,2020,26
+02/04/2021,Tvååkers IF,Torns IF,1,1,SE3S,2021,1
+02/04/2021,Lunds BK,Österlen FF,1,1,SE3S,2021,1
+03/04/2021,FC Trollhättan,Lindome GIF,1,2,SE3S,2021,1
+03/04/2021,Skövde AIK,Qviding FIF,1,0,SE3S,2021,1
+03/04/2021,Assyriska IK,Ljungskile SK,1,0,SE3S,2021,1
+03/04/2021,FC Linköping City,Vänersborgs IF,0,4,SE3S,2021,1
+03/04/2021,Oskarshamns AIK,Utsiktens BK,2,1,SE3S,2021,1
+05/04/2021,IFK Malmö,Åtvidabergs FF,1,1,SE3S,2021,1
+10/04/2021,Vänersborgs IF,Tvååkers IF,1,0,SE3S,2021,2
+10/04/2021,Lindome GIF,Skövde AIK,2,0,SE3S,2021,2
+10/04/2021,Torns IF,FC Linköping City,2,0,SE3S,2021,2
+10/04/2021,Åtvidabergs FF,FC Trollhättan,0,2,SE3S,2021,2
+10/04/2021,Österlen FF,Assyriska IK,0,0,SE3S,2021,2
+10/04/2021,Ljungskile SK,IFK Malmö,3,0,SE3S,2021,2
+10/04/2021,Qviding FIF,Oskarshamns AIK,1,0,SE3S,2021,2
+11/04/2021,Utsiktens BK,Lunds BK,2,0,SE3S,2021,2
+16/04/2021,FC Trollhättan,Ljungskile SK,1,0,SE3S,2021,3
+17/04/2021,Assyriska IK,Vänersborgs IF,1,4,SE3S,2021,3
+17/04/2021,Tvååkers IF,Qviding FIF,2,2,SE3S,2021,3
+17/04/2021,IFK Malmö,Lindome GIF,2,0,SE3S,2021,3
+17/04/2021,Oskarshamns AIK,Torns IF,5,1,SE3S,2021,3
+17/04/2021,FC Linköping City,Utsiktens BK,1,3,SE3S,2021,3
+17/04/2021,Lunds BK,Åtvidabergs FF,1,1,SE3S,2021,3
+17/04/2021,Skövde AIK,Österlen FF,1,0,SE3S,2021,3
+24/04/2021,Qviding FIF,IFK Malmö,0,0,SE3S,2021,4
+24/04/2021,Österlen FF,Tvååkers IF,0,1,SE3S,2021,4
+24/04/2021,Lindome GIF,FC Linköping City,3,2,SE3S,2021,4
+24/04/2021,Vänersborgs IF,Torns IF,1,2,SE3S,2021,4
+24/04/2021,Åtvidabergs FF,Oskarshamns AIK,1,1,SE3S,2021,4
+24/04/2021,Utsiktens BK,Assyriska IK,2,2,SE3S,2021,4
+24/04/2021,FC Trollhättan,Lunds BK,2,2,SE3S,2021,4
+24/04/2021,Ljungskile SK,Skövde AIK,2,1,SE3S,2021,4
+30/04/2021,Skövde AIK,Vänersborgs IF,4,1,SE3S,2021,5
+01/05/2021,Tvååkers IF,FC Trollhättan,1,1,SE3S,2021,5
+01/05/2021,Lunds BK,Lindome GIF,2,1,SE3S,2021,5
+01/05/2021,Torns IF,Åtvidabergs FF,2,2,SE3S,2021,5
+01/05/2021,Assyriska IK,Qviding FIF,4,5,SE3S,2021,5
+01/05/2021,FC Linköping City,Österlen FF,1,5,SE3S,2021,5
+01/05/2021,Oskarshamns AIK,Ljungskile SK,3,2,SE3S,2021,5
+02/05/2021,IFK Malmö,Utsiktens BK,1,0,SE3S,2021,5
+08/05/2021,Utsiktens BK,Tvååkers IF,0,4,SE3S,2021,6
+08/05/2021,Österlen FF,Torns IF,1,3,SE3S,2021,6
+08/05/2021,Vänersborgs IF,IFK Malmö,0,0,SE3S,2021,6
+08/05/2021,Åtvidabergs FF,Skövde AIK,0,2,SE3S,2021,6
+08/05/2021,Ljungskile SK,Lunds BK,4,0,SE3S,2021,6
+08/05/2021,Lindome GIF,Oskarshamns AIK,1,1,SE3S,2021,6
+09/05/2021,Qviding FIF,FC Linköping City,3,1,SE3S,2021,6
+09/05/2021,FC Trollhättan,Assyriska IK,0,0,SE3S,2021,6
+13/05/2021,Torns IF,Qviding FIF,1,4,SE3S,2021,7
+14/05/2021,Lindome GIF,Utsiktens BK,2,2,SE3S,2021,7
+15/05/2021,Skövde AIK,FC Trollhättan,1,3,SE3S,2021,7
+15/05/2021,Tvååkers IF,IFK Malmö,2,0,SE3S,2021,7
+15/05/2021,FC Linköping City,Ljungskile SK,1,1,SE3S,2021,7
+15/05/2021,Assyriska IK,Åtvidabergs FF,0,3,SE3S,2021,7
+15/05/2021,Oskarshamns AIK,Österlen FF,4,1,SE3S,2021,7
+15/05/2021,Lunds BK,Vänersborgs IF,4,1,SE3S,2021,7
+21/05/2021,IFK Malmö,Lunds BK,2,1,SE3S,2021,8
+22/05/2021,Utsiktens BK,Skövde AIK,2,0,SE3S,2021,8
+22/05/2021,Tvååkers IF,Assyriska IK,2,0,SE3S,2021,8
+22/05/2021,FC Trollhättan,FC Linköping City,3,0,SE3S,2021,8
+22/05/2021,Åtvidabergs FF,Lindome GIF,2,1,SE3S,2021,8
+22/05/2021,Vänersborgs IF,Oskarshamns AIK,0,2,SE3S,2021,8
+22/05/2021,Österlen FF,Qviding FIF,1,1,SE3S,2021,8
+22/05/2021,Ljungskile SK,Torns IF,2,0,SE3S,2021,8
+29/05/2021,Lunds BK,Tvååkers IF,0,0,SE3S,2021,9
+29/05/2021,Assyriska IK,IFK Malmö,3,3,SE3S,2021,9
+29/05/2021,Oskarshamns AIK,Skövde AIK,5,0,SE3S,2021,9
+29/05/2021,Torns IF,FC Trollhättan,1,4,SE3S,2021,9
+29/05/2021,Lindome GIF,Österlen FF,3,3,SE3S,2021,9
+30/05/2021,Ljungskile SK,Vänersborgs IF,1,0,SE3S,2021,9
+31/05/2021,Qviding FIF,Utsiktens BK,0,1,SE3S,2021,9
+02/06/2021,FC Linköping City,Åtvidabergs FF,2,2,SE3S,2021,9
+03/06/2021,Skövde AIK,Assyriska IK,1,0,SE3S,2021,10
+04/06/2021,Vänersborgs IF,Lindome GIF,2,1,SE3S,2021,10
+05/06/2021,Åtvidabergs FF,Qviding FIF,1,1,SE3S,2021,10
+05/06/2021,Utsiktens BK,Torns IF,5,1,SE3S,2021,10
+05/06/2021,FC Trollhättan,IFK Malmö,3,1,SE3S,2021,10
+05/06/2021,Österlen FF,Ljungskile SK,1,1,SE3S,2021,10
+05/06/2021,Tvååkers IF,Oskarshamns AIK,0,0,SE3S,2021,10
+06/06/2021,Lunds BK,FC Linköping City,5,1,SE3S,2021,10
+11/06/2021,Ljungskile SK,Utsiktens BK,0,0,SE3S,2021,11
+12/06/2021,FC Linköping City,Tvååkers IF,2,4,SE3S,2021,11
+12/06/2021,IFK Malmö,Österlen FF,1,1,SE3S,2021,11
+12/06/2021,Assyriska IK,Lindome GIF,2,0,SE3S,2021,11
+12/06/2021,Oskarshamns AIK,Lunds BK,4,1,SE3S,2021,11
+12/06/2021,Åtvidabergs FF,Vänersborgs IF,0,1,SE3S,2021,11
+12/06/2021,Torns IF,Skövde AIK,3,2,SE3S,2021,11
+13/06/2021,Qviding FIF,FC Trollhättan,2,3,SE3S,2021,11
+18/06/2021,Qviding FIF,Vänersborgs IF,2,3,SE3S,2021,12
+18/06/2021,Lunds BK,Torns IF,7,1,SE3S,2021,12
+19/06/2021,Lindome GIF,Ljungskile SK,1,2,SE3S,2021,12
+19/06/2021,Utsiktens BK,Åtvidabergs FF,2,1,SE3S,2021,12
+19/06/2021,Assyriska IK,FC Linköping City,1,2,SE3S,2021,12
+19/06/2021,Österlen FF,FC Trollhättan,1,2,SE3S,2021,12
+19/06/2021,Tvååkers IF,Skövde AIK,0,2,SE3S,2021,12
+20/06/2021,IFK Malmö,Oskarshamns AIK,2,0,SE3S,2021,12
+23/06/2021,Ljungskile SK,Tvååkers IF,2,3,SE3S,2021,13
+23/06/2021,Torns IF,Assyriska IK,2,2,SE3S,2021,13
+24/06/2021,Vänersborgs IF,Utsiktens BK,1,3,SE3S,2021,13
+24/06/2021,Skövde AIK,Lunds BK,1,0,SE3S,2021,13
+24/06/2021,Lindome GIF,Qviding FIF,1,1,SE3S,2021,13
+27/06/2021,FC Linköping City,IFK Malmö,1,2,SE3S,2021,13
+27/06/2021,Åtvidabergs FF,Österlen FF,1,2,SE3S,2021,13
+27/06/2021,FC Trollhättan,Oskarshamns AIK,1,1,SE3S,2021,13
+03/07/2021,Qviding FIF,Ljungskile SK,1,3,SE3S,2021,14
+03/07/2021,Assyriska IK,Lunds BK,1,5,SE3S,2021,14
+03/07/2021,Torns IF,Lindome GIF,0,2,SE3S,2021,14
+03/07/2021,IFK Malmö,Skövde AIK,2,2,SE3S,2021,14
+03/07/2021,Utsiktens BK,FC Trollhättan,1,0,SE3S,2021,14
+03/07/2021,Oskarshamns AIK,FC Linköping City,2,1,SE3S,2021,14
+03/07/2021,Vänersborgs IF,Österlen FF,2,3,SE3S,2021,14
+03/07/2021,Tvååkers IF,Åtvidabergs FF,2,2,SE3S,2021,14
+07/07/2021,Tvååkers IF,Lindome GIF,1,0,SE3S,2021,15
+08/07/2021,IFK Malmö,Torns IF,1,2,SE3S,2021,15
+09/07/2021,FC Trollhättan,Vänersborgs IF,4,3,SE3S,2021,15
+10/07/2021,Lunds BK,Qviding FIF,3,1,SE3S,2021,15
+10/07/2021,Oskarshamns AIK,Assyriska IK,6,2,SE3S,2021,15
+10/07/2021,Åtvidabergs FF,Ljungskile SK,1,1,SE3S,2021,15
+10/07/2021,Österlen FF,Utsiktens BK,1,8,SE3S,2021,15
+10/07/2021,Skövde AIK,FC Linköping City,5,0,SE3S,2021,15
+12/08/2021,Qviding FIF,Skövde AIK,1,1,SE3S,2021,16
+13/08/2021,Torns IF,Lunds BK,0,1,SE3S,2021,16
+14/08/2021,Assyriska IK,Österlen FF,3,0,SE3S,2021,16
+14/08/2021,FC Linköping City,Lindome GIF,1,1,SE3S,2021,16
+14/08/2021,Vänersborgs IF,Åtvidabergs FF,1,2,SE3S,2021,16
+14/08/2021,Utsiktens BK,IFK Malmö,1,2,SE3S,2021,16
+14/08/2021,Ljungskile SK,Oskarshamns AIK,1,1,SE3S,2021,16
+15/08/2021,FC Trollhättan,Tvååkers IF,1,1,SE3S,2021,16
+21/08/2021,Lunds BK,Utsiktens BK,2,1,SE3S,2021,17
+21/08/2021,Lindome GIF,FC Trollhättan,0,1,SE3S,2021,17
+21/08/2021,Skövde AIK,Torns IF,2,1,SE3S,2021,17
+21/08/2021,Oskarshamns AIK,Qviding FIF,1,0,SE3S,2021,17
+21/08/2021,Österlen FF,Vänersborgs IF,1,2,SE3S,2021,17
+21/08/2021,Tvååkers IF,FC Linköping City,2,2,SE3S,2021,17
+21/08/2021,IFK Malmö,Ljungskile SK,4,2,SE3S,2021,17
+22/08/2021,Åtvidabergs FF,Assyriska IK,0,2,SE3S,2021,17
+27/08/2021,Torns IF,IFK Malmö,3,0,SE3S,2021,18
+27/08/2021,Qviding FIF,Lindome GIF,2,1,SE3S,2021,18
+28/08/2021,Vänersborgs IF,Skövde AIK,0,1,SE3S,2021,18
+28/08/2021,Assyriska IK,Tvååkers IF,1,0,SE3S,2021,18
+28/08/2021,FC Linköping City,Lunds BK,3,2,SE3S,2021,18
+28/08/2021,Ljungskile SK,Åtvidabergs FF,2,1,SE3S,2021,18
+28/08/2021,Utsiktens BK,Oskarshamns AIK,1,2,SE3S,2021,18
+29/08/2021,FC Trollhättan,Österlen FF,3,1,SE3S,2021,18
+04/09/2021,Skövde AIK,Ljungskile SK,1,1,SE3S,2021,19
+04/09/2021,Lindome GIF,Torns IF,2,0,SE3S,2021,19
+04/09/2021,Qviding FIF,Assyriska IK,4,2,SE3S,2021,19
+04/09/2021,Tvååkers IF,Utsiktens BK,2,0,SE3S,2021,19
+04/09/2021,Åtvidabergs FF,IFK Malmö,4,0,SE3S,2021,19
+04/09/2021,Lunds BK,FC Trollhättan,2,1,SE3S,2021,19
+04/09/2021,Österlen FF,FC Linköping City,4,0,SE3S,2021,19
+05/09/2021,Oskarshamns AIK,Vänersborgs IF,4,1,SE3S,2021,19
+11/09/2021,Utsiktens BK,Qviding FIF,1,0,SE3S,2021,20
+11/09/2021,Torns IF,Österlen FF,1,2,SE3S,2021,20
+11/09/2021,IFK Malmö,Tvååkers IF,0,3,SE3S,2021,20
+11/09/2021,Vänersborgs IF,Lunds BK,5,1,SE3S,2021,20
+11/09/2021,FC Linköping City,Assyriska IK,0,1,SE3S,2021,20
+11/09/2021,Skövde AIK,Oskarshamns AIK,2,0,SE3S,2021,20
+12/09/2021,Lindome GIF,Åtvidabergs FF,2,1,SE3S,2021,20
+13/09/2021,Ljungskile SK,FC Trollhättan,2,2,SE3S,2021,20
+18/09/2021,Lindome GIF,Tvååkers IF,3,1,SE3S,2021,21
+18/09/2021,Qviding FIF,Åtvidabergs FF,0,2,SE3S,2021,21
+18/09/2021,Assyriska IK,Torns IF,1,3,SE3S,2021,21
+18/09/2021,Oskarshamns AIK,IFK Malmö,1,0,SE3S,2021,21
+18/09/2021,Lunds BK,Ljungskile SK,0,2,SE3S,2021,21
+18/09/2021,Vänersborgs IF,FC Linköping City,2,4,SE3S,2021,21
+18/09/2021,Österlen FF,Skövde AIK,0,1,SE3S,2021,21
+20/09/2021,FC Trollhättan,Utsiktens BK,1,2,SE3S,2021,21
+25/09/2021,Utsiktens BK,Lindome GIF,1,0,SE3S,2021,22
+25/09/2021,Torns IF,Vänersborgs IF,1,1,SE3S,2021,22
+25/09/2021,FC Linköping City,Qviding FIF,0,1,SE3S,2021,22
+25/09/2021,Åtvidabergs FF,Lunds BK,2,1,SE3S,2021,22
+25/09/2021,Österlen FF,Oskarshamns AIK,4,1,SE3S,2021,22
+25/09/2021,Skövde AIK,Tvååkers IF,1,1,SE3S,2021,22
+25/09/2021,IFK Malmö,FC Trollhättan,0,1,SE3S,2021,22
+26/09/2021,Ljungskile SK,Assyriska IK,1,1,SE3S,2021,22
+02/10/2021,Oskarshamns AIK,Åtvidabergs FF,0,1,SE3S,2021,23
+02/10/2021,Vänersborgs IF,Assyriska IK,2,1,SE3S,2021,23
+02/10/2021,Lindome GIF,IFK Malmö,1,2,SE3S,2021,23
+02/10/2021,Lunds BK,Skövde AIK,1,5,SE3S,2021,23
+02/10/2021,Utsiktens BK,FC Linköping City,2,0,SE3S,2021,23
+02/10/2021,Ljungskile SK,Österlen FF,1,2,SE3S,2021,23
+03/10/2021,Qviding FIF,Tvååkers IF,0,5,SE3S,2021,23
+03/10/2021,FC Trollhättan,Torns IF,1,2,SE3S,2021,23
+09/10/2021,Skövde AIK,Lindome GIF,1,0,SE3S,2021,24
+09/10/2021,Tvååkers IF,Vänersborgs IF,0,2,SE3S,2021,24
+09/10/2021,Österlen FF,Lunds BK,1,2,SE3S,2021,24
+09/10/2021,IFK Malmö,Qviding FIF,0,0,SE3S,2021,24
+09/10/2021,FC Linköping City,Oskarshamns AIK,0,3,SE3S,2021,24
+09/10/2021,Åtvidabergs FF,Utsiktens BK,1,0,SE3S,2021,24
+09/10/2021,Torns IF,Ljungskile SK,1,1,SE3S,2021,24
+10/10/2021,Assyriska IK,FC Trollhättan,3,1,SE3S,2021,24
+15/10/2021,Ljungskile SK,Qviding FIF,2,0,SE3S,2021,25
+16/10/2021,Torns IF,Tvååkers IF,1,3,SE3S,2021,25
+16/10/2021,Lindome GIF,Vänersborgs IF,1,2,SE3S,2021,25
+16/10/2021,IFK Malmö,Assyriska IK,0,2,SE3S,2021,25
+16/10/2021,Utsiktens BK,Österlen FF,5,1,SE3S,2021,25
+16/10/2021,Åtvidabergs FF,FC Linköping City,1,2,SE3S,2021,25
+16/10/2021,Lunds BK,Oskarshamns AIK,1,0,SE3S,2021,25
+18/10/2021,FC Trollhättan,Skövde AIK,2,0,SE3S,2021,25
+23/10/2021,Vänersborgs IF,Ljungskile SK,0,1,SE3S,2021,26
+23/10/2021,Qviding FIF,Torns IF,3,1,SE3S,2021,26
+23/10/2021,Tvååkers IF,Lunds BK,0,1,SE3S,2021,26
+23/10/2021,Assyriska IK,Utsiktens BK,0,2,SE3S,2021,26
+23/10/2021,Österlen FF,Åtvidabergs FF,5,3,SE3S,2021,26
+23/10/2021,Oskarshamns AIK,Lindome GIF,6,1,SE3S,2021,26
+24/10/2021,Skövde AIK,IFK Malmö,3,0,SE3S,2021,26
+24/10/2021,FC Linköping City,FC Trollhättan,0,2,SE3S,2021,26
+02/04/2022,Lindome GIF,Ljungskile SK,3,4,SE3S,2022,1
+02/04/2022,Qviding FIF,BK Olympic,1,2,SE3S,2022,1
+02/04/2022,Tvååkers IF,Lunds BK,4,0,SE3S,2022,1
+02/04/2022,Falkenbergs FF,Torns IF,1,0,SE3S,2022,1
+02/04/2022,IFK Malmö,Åtvidabergs FF,1,1,SE3S,2022,1
+02/04/2022,Vänersborgs IF,Oskarshamns AIK,0,3,SE3S,2022,1
+02/04/2022,Ängelholms FF,FC Trollhättan,1,1,SE3S,2022,1
+04/04/2022,GAIS,IK Oddevold,2,1,SE3S,2022,1
+08/04/2022,Lunds BK,IFK Malmö,2,1,SE3S,2022,2
+09/04/2022,BK Olympic,Tvååkers IF,1,1,SE3S,2022,2
+09/04/2022,Torns IF,Qviding FIF,1,1,SE3S,2022,2
+09/04/2022,Oskarshamns AIK,Lindome GIF,3,2,SE3S,2022,2
+09/04/2022,Åtvidabergs FF,Ängelholms FF,0,1,SE3S,2022,2
+10/04/2022,IK Oddevold,Falkenbergs FF,2,0,SE3S,2022,2
+10/04/2022,Ljungskile SK,Vänersborgs IF,2,2,SE3S,2022,2
+11/04/2022,FC Trollhättan,GAIS,0,1,SE3S,2022,2
+14/04/2022,Ängelholms FF,Qviding FIF,2,1,SE3S,2022,3
+15/04/2022,BK Olympic,Lindome GIF,3,2,SE3S,2022,3
+15/04/2022,Torns IF,Ljungskile SK,0,5,SE3S,2022,3
+15/04/2022,Åtvidabergs FF,Lunds BK,2,2,SE3S,2022,3
+16/04/2022,GAIS,Tvååkers IF,1,0,SE3S,2022,3
+16/04/2022,Vänersborgs IF,Falkenbergs FF,3,1,SE3S,2022,3
+16/04/2022,IFK Malmö,IK Oddevold,0,5,SE3S,2022,3
+17/04/2022,FC Trollhättan,Oskarshamns AIK,0,0,SE3S,2022,3
+22/04/2022,Tvååkers IF,Ängelholms FF,3,1,SE3S,2022,4
+22/04/2022,IFK Malmö,BK Olympic,2,3,SE3S,2022,4
+23/04/2022,Lindome GIF,IK Oddevold,2,4,SE3S,2022,4
+23/04/2022,Lunds BK,FC Trollhättan,0,0,SE3S,2022,4
+23/04/2022,Qviding FIF,Oskarshamns AIK,2,0,SE3S,2022,4
+23/04/2022,Vänersborgs IF,Torns IF,1,0,SE3S,2022,4
+24/04/2022,Falkenbergs FF,Ljungskile SK,2,1,SE3S,2022,4
+24/04/2022,GAIS,Åtvidabergs FF,1,0,SE3S,2022,4
+29/04/2022,IK Oddevold,Qviding FIF,5,0,SE3S,2022,5
+30/04/2022,Torns IF,Lindome GIF,5,2,SE3S,2022,5
+30/04/2022,BK Olympic,Vänersborgs IF,1,1,SE3S,2022,5
+30/04/2022,Ängelholms FF,GAIS,3,1,SE3S,2022,5
+30/04/2022,Ljungskile SK,IFK Malmö,3,0,SE3S,2022,5
+30/04/2022,Oskarshamns AIK,Lunds BK,2,2,SE3S,2022,5
+30/04/2022,Åtvidabergs FF,Tvååkers IF,1,2,SE3S,2022,5
+02/05/2022,FC Trollhättan,Falkenbergs FF,1,0,SE3S,2022,5
+06/05/2022,IFK Malmö,Ängelholms FF,1,2,SE3S,2022,6
+06/05/2022,Lunds BK,BK Olympic,1,2,SE3S,2022,6
+06/05/2022,Vänersborgs IF,IK Oddevold,1,2,SE3S,2022,6
+07/05/2022,Lindome GIF,Falkenbergs FF,1,0,SE3S,2022,6
+07/05/2022,GAIS,Torns IF,5,1,SE3S,2022,6
+07/05/2022,Tvååkers IF,Oskarshamns AIK,3,0,SE3S,2022,6
+07/05/2022,Åtvidabergs FF,Ljungskile SK,0,1,SE3S,2022,6
+09/05/2022,FC Trollhättan,Qviding FIF,2,1,SE3S,2022,6
+13/05/2022,BK Olympic,Torns IF,2,2,SE3S,2022,7
+14/05/2022,Tvååkers IF,FC Trollhättan,0,1,SE3S,2022,7
+14/05/2022,IFK Malmö,Lindome GIF,0,1,SE3S,2022,7
+14/05/2022,Falkenbergs FF,Oskarshamns AIK,1,0,SE3S,2022,7
+14/05/2022,GAIS,Lunds BK,1,1,SE3S,2022,7
+14/05/2022,Qviding FIF,Åtvidabergs FF,0,1,SE3S,2022,7
+14/05/2022,Ängelholms FF,Vänersborgs IF,0,0,SE3S,2022,7
+16/05/2022,IK Oddevold,Ljungskile SK,0,0,SE3S,2022,7
+20/05/2022,Lindome GIF,GAIS,1,3,SE3S,2022,8
+21/05/2022,Qviding FIF,Falkenbergs FF,0,4,SE3S,2022,8
+22/05/2022,IK Oddevold,Tvååkers IF,2,1,SE3S,2022,8
+22/05/2022,Ljungskile SK,Lunds BK,2,1,SE3S,2022,8
+22/05/2022,Vänersborgs IF,IFK Malmö,1,2,SE3S,2022,8
+22/05/2022,FC Trollhättan,Åtvidabergs FF,3,1,SE3S,2022,8
+22/05/2022,Oskarshamns AIK,BK Olympic,0,3,SE3S,2022,8
+22/05/2022,Torns IF,Ängelholms FF,3,1,SE3S,2022,8
+25/05/2022,Lunds BK,Torns IF,1,0,SE3S,2022,9
+25/05/2022,IFK Malmö,Qviding FIF,1,2,SE3S,2022,9
+25/05/2022,Tvååkers IF,Ljungskile SK,0,0,SE3S,2022,9
+25/05/2022,Vänersborgs IF,FC Trollhättan,1,0,SE3S,2022,9
+26/05/2022,Ängelholms FF,Lindome GIF,4,0,SE3S,2022,9
+26/05/2022,GAIS,Oskarshamns AIK,3,0,SE3S,2022,9
+26/05/2022,Åtvidabergs FF,IK Oddevold,0,1,SE3S,2022,9
+26/05/2022,Falkenbergs FF,BK Olympic,1,1,SE3S,2022,9
+29/05/2022,Lindome GIF,Vänersborgs IF,3,2,SE3S,2022,10
+29/05/2022,Qviding FIF,Tvååkers IF,2,3,SE3S,2022,10
+29/05/2022,Torns IF,Åtvidabergs FF,1,1,SE3S,2022,10
+29/05/2022,IK Oddevold,Lunds BK,1,1,SE3S,2022,10
+29/05/2022,Ljungskile SK,FC Trollhättan,1,1,SE3S,2022,10
+29/05/2022,Oskarshamns AIK,IFK Malmö,2,1,SE3S,2022,10
+29/05/2022,Falkenbergs FF,GAIS,0,0,SE3S,2022,10
+14/06/2022,BK Olympic,Ängelholms FF,0,1,SE3S,2022,10
+04/06/2022,Lunds BK,Lindome GIF,4,0,SE3S,2022,11
+04/06/2022,Tvååkers IF,Torns IF,0,1,SE3S,2022,11
+04/06/2022,Oskarshamns AIK,Ljungskile SK,0,2,SE3S,2022,11
+04/06/2022,Qviding FIF,Vänersborgs IF,1,6,SE3S,2022,11
+04/06/2022,Åtvidabergs FF,Falkenbergs FF,0,4,SE3S,2022,11
+05/06/2022,FC Trollhättan,IFK Malmö,2,0,SE3S,2022,11
+05/06/2022,Ängelholms FF,IK Oddevold,1,0,SE3S,2022,11
+06/06/2022,GAIS,BK Olympic,2,2,SE3S,2022,11
+09/06/2022,Lindome GIF,Qviding FIF,0,1,SE3S,2022,12
+11/06/2022,BK Olympic,Åtvidabergs FF,2,2,SE3S,2022,12
+11/06/2022,Falkenbergs FF,Tvååkers IF,1,1,SE3S,2022,12
+11/06/2022,IFK Malmö,GAIS,1,2,SE3S,2022,12
+11/06/2022,Ljungskile SK,Ängelholms FF,4,0,SE3S,2022,12
+11/06/2022,Torns IF,Oskarshamns AIK,2,0,SE3S,2022,12
+11/06/2022,Vänersborgs IF,Lunds BK,2,1,SE3S,2022,12
+13/06/2022,IK Oddevold,FC Trollhättan,0,1,SE3S,2022,12
+17/06/2022,Qviding FIF,Ljungskile SK,1,2,SE3S,2022,13
+18/06/2022,Lunds BK,Falkenbergs FF,1,3,SE3S,2022,13
+18/06/2022,Tvååkers IF,IFK Malmö,2,0,SE3S,2022,13
+18/06/2022,FC Trollhättan,BK Olympic,1,3,SE3S,2022,13
+18/06/2022,GAIS,Vänersborgs IF,2,0,SE3S,2022,13
+18/06/2022,IK Oddevold,Torns IF,2,0,SE3S,2022,13
+18/06/2022,Ängelholms FF,Oskarshamns AIK,1,0,SE3S,2022,13
+18/06/2022,Åtvidabergs FF,Lindome GIF,1,1,SE3S,2022,13
+22/06/2022,Torns IF,IFK Malmö,3,0,SE3S,2022,14
+22/06/2022,Lunds BK,Qviding FIF,0,3,SE3S,2022,14
+22/06/2022,Vänersborgs IF,Tvååkers IF,0,3,SE3S,2022,14
+23/06/2022,BK Olympic,IK Oddevold,3,1,SE3S,2022,14
+23/06/2022,Ljungskile SK,GAIS,0,2,SE3S,2022,14
+23/06/2022,Oskarshamns AIK,Åtvidabergs FF,4,3,SE3S,2022,14
+23/06/2022,Lindome GIF,FC Trollhättan,0,1,SE3S,2022,14
+27/06/2022,Falkenbergs FF,Ängelholms FF,7,0,SE3S,2022,14
+29/07/2022,Tvååkers IF,Lindome GIF,4,3,SE3S,2022,15
+30/07/2022,IK Oddevold,Oskarshamns AIK,1,0,SE3S,2022,15
+30/07/2022,Åtvidabergs FF,Vänersborgs IF,2,1,SE3S,2022,15
+30/07/2022,Falkenbergs FF,IFK Malmö,3,0,SE3S,2022,15
+31/07/2022,Torns IF,FC Trollhättan,0,1,SE3S,2022,15
+31/07/2022,GAIS,Qviding FIF,4,0,SE3S,2022,15
+31/07/2022,Ljungskile SK,BK Olympic,1,0,SE3S,2022,15
+01/08/2022,Ängelholms FF,Lunds BK,3,1,SE3S,2022,15
+05/08/2022,BK Olympic,GAIS,0,3,SE3S,2022,16
+05/08/2022,Vänersborgs IF,Ljungskile SK,1,1,SE3S,2022,16
+06/08/2022,Lindome GIF,Ängelholms FF,4,1,SE3S,2022,16
+06/08/2022,Qviding FIF,Torns IF,1,4,SE3S,2022,16
+06/08/2022,IFK Malmö,Falkenbergs FF,1,6,SE3S,2022,16
+06/08/2022,FC Trollhättan,Tvååkers IF,1,0,SE3S,2022,16
+06/08/2022,Lunds BK,Åtvidabergs FF,2,0,SE3S,2022,16
+06/08/2022,Oskarshamns AIK,IK Oddevold,1,2,SE3S,2022,16
+09/08/2022,Ljungskile SK,Lindome GIF,2,0,SE3S,2022,17
+09/08/2022,Ängelholms FF,Falkenbergs FF,1,1,SE3S,2022,17
+09/08/2022,Åtvidabergs FF,Oskarshamns AIK,2,0,SE3S,2022,17
+10/08/2022,Tvååkers IF,Qviding FIF,2,1,SE3S,2022,17
+10/08/2022,FC Trollhättan,Vänersborgs IF,1,1,SE3S,2022,17
+10/08/2022,IFK Malmö,Lunds BK,0,3,SE3S,2022,17
+10/08/2022,IK Oddevold,GAIS,0,2,SE3S,2022,17
+10/08/2022,Torns IF,BK Olympic,3,2,SE3S,2022,17
+13/08/2022,Lunds BK,Tvååkers IF,1,0,SE3S,2022,18
+13/08/2022,Lindome GIF,Åtvidabergs FF,4,0,SE3S,2022,18
+13/08/2022,Oskarshamns AIK,Torns IF,3,0,SE3S,2022,18
+13/08/2022,Vänersborgs IF,Ängelholms FF,0,0,SE3S,2022,18
+14/08/2022,Falkenbergs FF,IK Oddevold,2,0,SE3S,2022,18
+14/08/2022,GAIS,Ljungskile SK,3,0,SE3S,2022,18
+15/08/2022,BK Olympic,IFK Malmö,2,0,SE3S,2022,18
+15/08/2022,Qviding FIF,FC Trollhättan,1,2,SE3S,2022,18
+19/08/2022,Tvååkers IF,Vänersborgs IF,1,2,SE3S,2022,19
+19/08/2022,IK Oddevold,Lindome GIF,2,1,SE3S,2022,19
+20/08/2022,Ljungskile SK,Qviding FIF,3,1,SE3S,2022,19
+20/08/2022,Oskarshamns AIK,Falkenbergs FF,1,2,SE3S,2022,19
+20/08/2022,Torns IF,GAIS,4,2,SE3S,2022,19
+21/08/2022,FC Trollhättan,Lunds BK,2,2,SE3S,2022,19
+21/08/2022,Åtvidabergs FF,BK Olympic,0,1,SE3S,2022,19
+22/08/2022,Ängelholms FF,IFK Malmö,1,1,SE3S,2022,19
+27/08/2022,GAIS,FC Trollhättan,1,1,SE3S,2022,20
+27/08/2022,IFK Malmö,Tvååkers IF,2,2,SE3S,2022,20
+27/08/2022,Lindome GIF,Torns IF,3,1,SE3S,2022,20
+27/08/2022,Qviding FIF,Ängelholms FF,3,1,SE3S,2022,20
+27/08/2022,BK Olympic,Oskarshamns AIK,0,0,SE3S,2022,20
+27/08/2022,Falkenbergs FF,Åtvidabergs FF,3,0,SE3S,2022,20
+27/08/2022,Ljungskile SK,IK Oddevold,1,2,SE3S,2022,20
+27/08/2022,Lunds BK,Vänersborgs IF,2,0,SE3S,2022,20
+03/09/2022,Oskarshamns AIK,GAIS,0,1,SE3S,2022,21
+03/09/2022,IK Oddevold,IFK Malmö,1,0,SE3S,2022,21
+03/09/2022,Lunds BK,Ljungskile SK,1,0,SE3S,2022,21
+03/09/2022,Åtvidabergs FF,Qviding FIF,3,2,SE3S,2022,21
+04/09/2022,Tvååkers IF,Falkenbergs FF,1,2,SE3S,2022,21
+04/09/2022,FC Trollhättan,Torns IF,2,0,SE3S,2022,21
+05/09/2022,Ängelholms FF,BK Olympic,1,1,SE3S,2022,21
+05/09/2022,Vänersborgs IF,Lindome GIF,1,1,SE3S,2022,21
+09/09/2022,Torns IF,Lunds BK,0,4,SE3S,2022,22
+09/09/2022,Qviding FIF,IK Oddevold,0,4,SE3S,2022,22
+10/09/2022,BK Olympic,Falkenbergs FF,0,0,SE3S,2022,22
+10/09/2022,Lindome GIF,Oskarshamns AIK,2,2,SE3S,2022,22
+10/09/2022,Ljungskile SK,Tvååkers IF,1,0,SE3S,2022,22
+10/09/2022,Vänersborgs IF,Åtvidabergs FF,1,1,SE3S,2022,22
+11/09/2022,GAIS,Ängelholms FF,2,1,SE3S,2022,22
+11/09/2022,IFK Malmö,FC Trollhättan,0,0,SE3S,2022,22
+17/09/2022,Lindome GIF,BK Olympic,0,4,SE3S,2022,23
+17/09/2022,Tvååkers IF,GAIS,0,0,SE3S,2022,23
+17/09/2022,Ängelholms FF,Torns IF,1,4,SE3S,2022,23
+17/09/2022,Lunds BK,IK Oddevold,0,0,SE3S,2022,23
+17/09/2022,Oskarshamns AIK,Qviding FIF,2,0,SE3S,2022,23
+17/09/2022,Åtvidabergs FF,IFK Malmö,2,1,SE3S,2022,23
+18/09/2022,Falkenbergs FF,Vänersborgs IF,1,0,SE3S,2022,23
+19/09/2022,FC Trollhättan,Ljungskile SK,3,3,SE3S,2022,23
+24/09/2022,Torns IF,Tvååkers IF,0,1,SE3S,2022,24
+24/09/2022,BK Olympic,FC Trollhättan,1,2,SE3S,2022,24
+24/09/2022,IFK Malmö,Vänersborgs IF,2,0,SE3S,2022,24
+24/09/2022,IK Oddevold,Åtvidabergs FF,3,0,SE3S,2022,24
+24/09/2022,Oskarshamns AIK,Ängelholms FF,0,3,SE3S,2022,24
+24/09/2022,Qviding FIF,Lunds BK,2,0,SE3S,2022,24
+25/09/2022,Ljungskile SK,Falkenbergs FF,0,3,SE3S,2022,24
+25/09/2022,GAIS,Lindome GIF,1,0,SE3S,2022,24
+01/10/2022,Tvååkers IF,BK Olympic,0,0,SE3S,2022,25
+01/10/2022,Vänersborgs IF,GAIS,1,6,SE3S,2022,25
+01/10/2022,Lindome GIF,IFK Malmö,2,1,SE3S,2022,25
+01/10/2022,Ljungskile SK,Torns IF,2,3,SE3S,2022,25
+01/10/2022,Lunds BK,Oskarshamns AIK,1,2,SE3S,2022,25
+01/10/2022,Ängelholms FF,Åtvidabergs FF,1,2,SE3S,2022,25
+02/10/2022,Falkenbergs FF,Qviding FIF,1,0,SE3S,2022,25
+03/10/2022,FC Trollhättan,IK Oddevold,0,1,SE3S,2022,25
+08/10/2022,BK Olympic,Lunds BK,1,3,SE3S,2022,26
+08/10/2022,Qviding FIF,GAIS,0,2,SE3S,2022,26
+08/10/2022,Falkenbergs FF,Lindome GIF,4,2,SE3S,2022,26
+08/10/2022,IFK Malmö,Ljungskile SK,1,3,SE3S,2022,26
+08/10/2022,Oskarshamns AIK,Tvååkers IF,2,0,SE3S,2022,26
+08/10/2022,Torns IF,Vänersborgs IF,0,1,SE3S,2022,26
+09/10/2022,Åtvidabergs FF,FC Trollhättan,0,2,SE3S,2022,26
+09/10/2022,IK Oddevold,Ängelholms FF,0,0,SE3S,2022,26
+31/03/2023,Vänersborgs IF,IK Oddevold,0,3,SE3S,2023,1
+01/04/2023,Ahlafors IF,Norrby IF,1,0,SE3S,2023,1
+01/04/2023,Eskilsminne IF,Ariana FC,1,2,SE3S,2023,1
+01/04/2023,Ängelholms FF,BK Olympic,1,0,SE3S,2023,1
+01/04/2023,Falkenbergs FF,Torns IF,3,0,SE3S,2023,1
+01/04/2023,Oskarshamns AIK,FC Trollhättan,1,2,SE3S,2023,1
+01/04/2023,Lunds BK,Tvååkers IF,1,0,SE3S,2023,1
+02/04/2023,Ljungskile SK,Åtvidabergs FF,0,1,SE3S,2023,1
+06/04/2023,Torns IF,Ängelholms FF,1,0,SE3S,2023,2
+07/04/2023,IK Oddevold,Falkenbergs FF,1,1,SE3S,2023,2
+07/04/2023,Tvååkers IF,Oskarshamns AIK,1,2,SE3S,2023,2
+08/04/2023,Ariana FC,Lunds BK,0,0,SE3S,2023,2
+08/04/2023,BK Olympic,Eskilsminne IF,1,0,SE3S,2023,2
+08/04/2023,Åtvidabergs FF,Ahlafors IF,0,0,SE3S,2023,2
+10/04/2023,Norrby IF,Ljungskile SK,0,1,SE3S,2023,2
+10/04/2023,FC Trollhättan,Vänersborgs IF,3,1,SE3S,2023,2
+15/04/2023,Ahlafors IF,IK Oddevold,1,2,SE3S,2023,3
+15/04/2023,Tvååkers IF,Eskilsminne IF,1,0,SE3S,2023,3
+15/04/2023,Ariana FC,Norrby IF,0,1,SE3S,2023,3
+15/04/2023,Lunds BK,Vänersborgs IF,2,1,SE3S,2023,3
+15/04/2023,Oskarshamns AIK,BK Olympic,0,2,SE3S,2023,3
+15/04/2023,Åtvidabergs FF,Torns IF,1,2,SE3S,2023,3
+16/04/2023,Ljungskile SK,Ängelholms FF,0,1,SE3S,2023,3
+16/04/2023,FC Trollhättan,Falkenbergs FF,2,1,SE3S,2023,3
+22/04/2023,Vänersborgs IF,Tvååkers IF,3,0,SE3S,2023,4
+22/04/2023,BK Olympic,Åtvidabergs FF,0,1,SE3S,2023,4
+22/04/2023,Eskilsminne IF,IK Oddevold,1,0,SE3S,2023,4
+22/04/2023,Falkenbergs FF,Ahlafors IF,6,0,SE3S,2023,4
+22/04/2023,Oskarshamns AIK,Lunds BK,0,1,SE3S,2023,4
+22/04/2023,Torns IF,Norrby IF,0,3,SE3S,2023,4
+23/04/2023,Ljungskile SK,Ariana FC,2,3,SE3S,2023,4
+23/04/2023,Ängelholms FF,FC Trollhättan,0,3,SE3S,2023,4
+29/04/2023,Tvååkers IF,Ariana FC,0,1,SE3S,2023,5
+29/04/2023,Ahlafors IF,Eskilsminne IF,0,1,SE3S,2023,5
+29/04/2023,IK Oddevold,Lunds BK,1,0,SE3S,2023,5
+29/04/2023,Torns IF,Oskarshamns AIK,0,2,SE3S,2023,5
+29/04/2023,Vänersborgs IF,Ängelholms FF,0,1,SE3S,2023,5
+01/05/2023,Falkenbergs FF,Ljungskile SK,1,3,SE3S,2023,5
+01/05/2023,Norrby IF,BK Olympic,3,0,SE3S,2023,5
+01/05/2023,FC Trollhättan,Åtvidabergs FF,3,0,SE3S,2023,5
+06/05/2023,BK Olympic,Tvååkers IF,1,2,SE3S,2023,6
+06/05/2023,Ariana FC,Vänersborgs IF,0,1,SE3S,2023,6
+06/05/2023,Eskilsminne IF,Norrby IF,1,0,SE3S,2023,6
+06/05/2023,IK Oddevold,Torns IF,3,0,SE3S,2023,6
+06/05/2023,Lunds BK,Ahlafors IF,2,0,SE3S,2023,6
+07/05/2023,Åtvidabergs FF,Oskarshamns AIK,3,0,SE3S,2023,6
+07/05/2023,Ljungskile SK,FC Trollhättan,0,4,SE3S,2023,6
+07/05/2023,Ängelholms FF,Falkenbergs FF,0,3,SE3S,2023,6
+12/05/2023,Tvååkers IF,Ängelholms FF,1,0,SE3S,2023,7
+12/05/2023,Lunds BK,Eskilsminne IF,3,2,SE3S,2023,7
+12/05/2023,Norrby IF,IK Oddevold,0,2,SE3S,2023,7
+12/05/2023,Vänersborgs IF,Falkenbergs FF,0,1,SE3S,2023,7
+13/05/2023,Ahlafors IF,Torns IF,1,1,SE3S,2023,7
+13/05/2023,FC Trollhättan,BK Olympic,5,0,SE3S,2023,7
+13/05/2023,Oskarshamns AIK,Ljungskile SK,3,2,SE3S,2023,7
+13/05/2023,Åtvidabergs FF,Ariana FC,2,0,SE3S,2023,7
+17/05/2023,Ahlafors IF,Ängelholms FF,3,0,SE3S,2023,8
+17/05/2023,Ariana FC,BK Olympic,3,4,SE3S,2023,8
+17/05/2023,Falkenbergs FF,Tvååkers IF,3,0,SE3S,2023,8
+17/05/2023,Ljungskile SK,Vänersborgs IF,1,0,SE3S,2023,8
+17/05/2023,Norrby IF,FC Trollhättan,1,1,SE3S,2023,8
+17/05/2023,Torns IF,Lunds BK,1,1,SE3S,2023,8
+18/05/2023,Eskilsminne IF,Åtvidabergs FF,2,0,SE3S,2023,8
+18/05/2023,IK Oddevold,Oskarshamns AIK,6,0,SE3S,2023,8
+20/05/2023,Vänersborgs IF,Torns IF,0,0,SE3S,2023,9
+20/05/2023,Ängelholms FF,Norrby IF,1,4,SE3S,2023,9
+21/05/2023,Lunds BK,Falkenbergs FF,2,2,SE3S,2023,9
+21/05/2023,Tvååkers IF,Ljungskile SK,2,1,SE3S,2023,9
+21/05/2023,BK Olympic,Ahlafors IF,0,1,SE3S,2023,9
+21/05/2023,FC Trollhättan,Ariana FC,3,1,SE3S,2023,9
+21/05/2023,Åtvidabergs FF,IK Oddevold,0,2,SE3S,2023,9
+21/05/2023,Oskarshamns AIK,Eskilsminne IF,1,2,SE3S,2023,9
+26/05/2023,Torns IF,BK Olympic,1,1,SE3S,2023,10
+26/05/2023,Ängelholms FF,Lunds BK,0,2,SE3S,2023,10
+27/05/2023,Ahlafors IF,Tvååkers IF,1,0,SE3S,2023,10
+27/05/2023,Ariana FC,Oskarshamns AIK,4,0,SE3S,2023,10
+27/05/2023,Falkenbergs FF,Åtvidabergs FF,4,0,SE3S,2023,10
+28/05/2023,Eskilsminne IF,Ljungskile SK,5,1,SE3S,2023,10
+29/05/2023,IK Oddevold,FC Trollhättan,0,0,SE3S,2023,10
+29/05/2023,Norrby IF,Vänersborgs IF,1,1,SE3S,2023,10
+03/06/2023,Tvååkers IF,Torns IF,0,1,SE3S,2023,11
+03/06/2023,Ariana FC,Ahlafors IF,2,0,SE3S,2023,11
+03/06/2023,BK Olympic,Falkenbergs FF,2,1,SE3S,2023,11
+03/06/2023,Oskarshamns AIK,Vänersborgs IF,1,2,SE3S,2023,11
+03/06/2023,Åtvidabergs FF,Norrby IF,3,1,SE3S,2023,11
+04/06/2023,FC Trollhättan,Lunds BK,0,0,SE3S,2023,11
+04/06/2023,Ljungskile SK,IK Oddevold,1,1,SE3S,2023,11
+05/06/2023,Eskilsminne IF,Ängelholms FF,4,0,SE3S,2023,11
+09/06/2023,Torns IF,Ariana FC,0,0,SE3S,2023,12
+10/06/2023,IK Oddevold,BK Olympic,5,3,SE3S,2023,12
+10/06/2023,Lunds BK,Ljungskile SK,4,0,SE3S,2023,12
+10/06/2023,Norrby IF,Tvååkers IF,2,3,SE3S,2023,12
+11/06/2023,Falkenbergs FF,Oskarshamns AIK,5,2,SE3S,2023,12
+11/06/2023,Vänersborgs IF,Eskilsminne IF,0,3,SE3S,2023,12
+11/06/2023,Ängelholms FF,Åtvidabergs FF,1,0,SE3S,2023,12
+13/06/2023,Ahlafors IF,FC Trollhättan,0,4,SE3S,2023,12
+14/06/2023,Ariana FC,Ängelholms FF,1,0,SE3S,2023,13
+17/06/2023,Tvååkers IF,IK Oddevold,1,1,SE3S,2023,13
+17/06/2023,BK Olympic,Ljungskile SK,2,2,SE3S,2023,13
+17/06/2023,Eskilsminne IF,Falkenbergs FF,2,2,SE3S,2023,13
+17/06/2023,Lunds BK,Norrby IF,3,2,SE3S,2023,13
+17/06/2023,Oskarshamns AIK,Ahlafors IF,5,1,SE3S,2023,13
+17/06/2023,Åtvidabergs FF,Vänersborgs IF,1,0,SE3S,2023,13
+18/06/2023,FC Trollhättan,Torns IF,2,3,SE3S,2023,13
+21/06/2023,Ljungskile SK,Ahlafors IF,6,1,SE3S,2023,14
+21/06/2023,Norrby IF,Falkenbergs FF,0,5,SE3S,2023,14
+22/06/2023,Torns IF,Eskilsminne IF,2,2,SE3S,2023,14
+22/06/2023,Vänersborgs IF,BK Olympic,2,0,SE3S,2023,14
+22/06/2023,Åtvidabergs FF,Lunds BK,2,3,SE3S,2023,14
+25/06/2023,IK Oddevold,Ariana FC,2,1,SE3S,2023,14
+25/06/2023,Ängelholms FF,Oskarshamns AIK,0,1,SE3S,2023,14
+26/06/2023,FC Trollhättan,Tvååkers IF,3,4,SE3S,2023,14
+29/07/2023,Ahlafors IF,Vänersborgs IF,1,0,SE3S,2023,15
+29/07/2023,Eskilsminne IF,FC Trollhättan,2,2,SE3S,2023,15
+29/07/2023,IK Oddevold,Ängelholms FF,2,1,SE3S,2023,15
+29/07/2023,Norrby IF,Oskarshamns AIK,1,1,SE3S,2023,15
+29/07/2023,Torns IF,Ljungskile SK,1,0,SE3S,2023,15
+29/07/2023,Tvååkers IF,Åtvidabergs FF,3,0,SE3S,2023,15
+30/07/2023,Falkenbergs FF,Ariana FC,2,1,SE3S,2023,15
+31/07/2023,BK Olympic,Lunds BK,1,2,SE3S,2023,15
+05/08/2023,Tvååkers IF,BK Olympic,0,0,SE3S,2023,16
+05/08/2023,Ariana FC,Åtvidabergs FF,6,0,SE3S,2023,16
+05/08/2023,Oskarshamns AIK,IK Oddevold,0,1,SE3S,2023,16
+05/08/2023,Vänersborgs IF,Norrby IF,1,1,SE3S,2023,16
+06/08/2023,Lunds BK,Torns IF,1,1,SE3S,2023,16
+06/08/2023,Ljungskile SK,Falkenbergs FF,1,1,SE3S,2023,16
+07/08/2023,FC Trollhättan,Ahlafors IF,4,1,SE3S,2023,16
+10/08/2023,Ängelholms FF,Eskilsminne IF,1,1,SE3S,2023,16
+12/08/2023,Ahlafors IF,Ljungskile SK,0,0,SE3S,2023,17
+12/08/2023,BK Olympic,IK Oddevold,1,2,SE3S,2023,17
+12/08/2023,Oskarshamns AIK,Ariana FC,3,2,SE3S,2023,17
+12/08/2023,Åtvidabergs FF,Tvååkers IF,1,0,SE3S,2023,17
+13/08/2023,Falkenbergs FF,Lunds BK,2,0,SE3S,2023,17
+13/08/2023,Norrby IF,Ängelholms FF,6,0,SE3S,2023,17
+14/08/2023,Eskilsminne IF,Torns IF,3,0,SE3S,2023,17
+14/08/2023,Vänersborgs IF,FC Trollhättan,2,0,SE3S,2023,17
+18/08/2023,Lunds BK,BK Olympic,2,2,SE3S,2023,18
+19/08/2023,Ariana FC,Tvååkers IF,0,1,SE3S,2023,18
+19/08/2023,Falkenbergs FF,Vänersborgs IF,1,0,SE3S,2023,18
+19/08/2023,FC Trollhättan,Oskarshamns AIK,3,0,SE3S,2023,18
+19/08/2023,Torns IF,Åtvidabergs FF,2,2,SE3S,2023,18
+19/08/2023,Ängelholms FF,Ljungskile SK,1,0,SE3S,2023,18
+20/08/2023,IK Oddevold,Eskilsminne IF,1,1,SE3S,2023,18
+21/08/2023,Norrby IF,Ahlafors IF,4,1,SE3S,2023,18
+25/08/2023,Ariana FC,Torns IF,3,0,SE3S,2023,19
+25/08/2023,Ljungskile SK,Norrby IF,3,0,SE3S,2023,19
+26/08/2023,Ahlafors IF,Falkenbergs FF,0,1,SE3S,2023,19
+26/08/2023,BK Olympic,Oskarshamns AIK,2,2,SE3S,2023,19
+26/08/2023,Tvååkers IF,FC Trollhättan,0,3,SE3S,2023,19
+26/08/2023,Vänersborgs IF,Lunds BK,0,2,SE3S,2023,19
+26/08/2023,Åtvidabergs FF,Eskilsminne IF,1,2,SE3S,2023,19
+27/08/2023,Ängelholms FF,IK Oddevold,0,5,SE3S,2023,19
+01/09/2023,Lunds BK,Ariana FC,3,0,SE3S,2023,20
+01/09/2023,IK Oddevold,Vänersborgs IF,2,1,SE3S,2023,20
+02/09/2023,Eskilsminne IF,BK Olympic,3,1,SE3S,2023,20
+02/09/2023,Falkenbergs FF,Ängelholms FF,2,0,SE3S,2023,20
+02/09/2023,Norrby IF,Åtvidabergs FF,1,0,SE3S,2023,20
+02/09/2023,Oskarshamns AIK,Tvååkers IF,0,4,SE3S,2023,20
+02/09/2023,Torns IF,Ahlafors IF,2,1,SE3S,2023,20
+04/09/2023,FC Trollhättan,Ljungskile SK,1,1,SE3S,2023,20
+09/09/2023,Ariana FC,Eskilsminne IF,2,1,SE3S,2023,21
+09/09/2023,BK Olympic,Torns IF,1,1,SE3S,2023,21
+09/09/2023,Tvååkers IF,Norrby IF,1,2,SE3S,2023,21
+09/09/2023,Vänersborgs IF,Oskarshamns AIK,0,1,SE3S,2023,21
+09/09/2023,Åtvidabergs FF,Falkenbergs FF,1,1,SE3S,2023,21
+09/09/2023,Ängelholms FF,Ahlafors IF,1,1,SE3S,2023,21
+10/09/2023,Ljungskile SK,Lunds BK,0,3,SE3S,2023,21
+11/09/2023,FC Trollhättan,IK Oddevold,1,3,SE3S,2023,21
+15/09/2023,Lunds BK,Ängelholms FF,1,2,SE3S,2023,22
+16/09/2023,Ahlafors IF,Ariana FC,1,0,SE3S,2023,22
+16/09/2023,Eskilsminne IF,Vänersborgs IF,3,1,SE3S,2023,22
+16/09/2023,Falkenbergs FF,Norrby IF,2,1,SE3S,2023,22
+16/09/2023,Ljungskile SK,BK Olympic,2,2,SE3S,2023,22
+16/09/2023,Torns IF,FC Trollhättan,0,0,SE3S,2023,22
+17/09/2023,IK Oddevold,Tvååkers IF,4,0,SE3S,2023,22
+17/09/2023,Oskarshamns AIK,Åtvidabergs FF,0,3,SE3S,2023,22
+22/09/2023,IK Oddevold,Ljungskile SK,1,0,SE3S,2023,23
+22/09/2023,Vänersborgs IF,Ahlafors IF,1,2,SE3S,2023,23
+23/09/2023,BK Olympic,Ängelholms FF,1,0,SE3S,2023,23
+23/09/2023,Torns IF,Tvååkers IF,1,1,SE3S,2023,23
+23/09/2023,Ariana FC,Falkenbergs FF,1,1,SE3S,2023,23
+23/09/2023,Eskilsminne IF,Oskarshamns AIK,0,1,SE3S,2023,23
+23/09/2023,Åtvidabergs FF,FC Trollhättan,1,2,SE3S,2023,23
+24/09/2023,Norrby IF,Lunds BK,1,2,SE3S,2023,23
+30/09/2023,Tvååkers IF,Ahlafors IF,3,0,SE3S,2023,24
+30/09/2023,Falkenbergs FF,IK Oddevold,2,0,SE3S,2023,24
+30/09/2023,Ljungskile SK,Eskilsminne IF,1,0,SE3S,2023,24
+30/09/2023,Lunds BK,Åtvidabergs FF,1,1,SE3S,2023,24
+30/09/2023,Oskarshamns AIK,Torns IF,1,1,SE3S,2023,24
+01/10/2023,BK Olympic,Ariana FC,1,0,SE3S,2023,24
+01/10/2023,Ängelholms FF,Vänersborgs IF,1,0,SE3S,2023,24
+02/10/2023,FC Trollhättan,Norrby IF,3,4,SE3S,2023,24
+06/10/2023,Vänersborgs IF,Ljungskile SK,3,0,SE3S,2023,25
+07/10/2023,Tvååkers IF,Falkenbergs FF,0,2,SE3S,2023,25
+07/10/2023,Ahlafors IF,Lunds BK,1,2,SE3S,2023,25
+07/10/2023,Ariana FC,FC Trollhättan,2,2,SE3S,2023,25
+07/10/2023,Norrby IF,Eskilsminne IF,2,1,SE3S,2023,25
+07/10/2023,Oskarshamns AIK,Ängelholms FF,3,3,SE3S,2023,25
+07/10/2023,Torns IF,IK Oddevold,0,1,SE3S,2023,25
+07/10/2023,Åtvidabergs FF,BK Olympic,2,1,SE3S,2023,25
+14/10/2023,IK Oddevold,Norrby IF,3,2,SE3S,2023,26
+14/10/2023,Ahlafors IF,Åtvidabergs FF,2,1,SE3S,2023,26
+14/10/2023,BK Olympic,Vänersborgs IF,4,2,SE3S,2023,26
+14/10/2023,Ljungskile SK,Torns IF,1,1,SE3S,2023,26
+14/10/2023,Lunds BK,Oskarshamns AIK,0,2,SE3S,2023,26
+15/10/2023,Eskilsminne IF,Tvååkers IF,1,0,SE3S,2023,26
+15/10/2023,Ängelholms FF,Ariana FC,4,0,SE3S,2023,26
+15/10/2023,Falkenbergs FF,FC Trollhättan,5,1,SE3S,2023,26
+29/03/2024,Lunds BK,FC Rosengård,1,0,SE3S,2024,1
+29/03/2024,Torns IF,Torslanda IK,1,0,SE3S,2024,1
+29/03/2024,Falkenbergs FF,FC Trollhättan,1,1,SE3S,2024,1
+30/03/2024,Eskilsminne IF,Tvååkers IF,0,0,SE3S,2024,1
+30/03/2024,Jönköpings Södra IF,BK Olympic,1,0,SE3S,2024,1
+30/03/2024,Oskarshamns AIK,Ljungskile SK,2,1,SE3S,2024,1
+31/03/2024,Onsala BK,Ariana FC,0,5,SE3S,2024,1
+31/03/2024,Ängelholms FF,Norrby IF,0,3,SE3S,2024,1
+06/04/2024,FC Rosengård,Torns IF,5,1,SE3S,2024,2
+06/04/2024,Norrby IF,Jönköpings Södra IF,1,1,SE3S,2024,2
+06/04/2024,BK Olympic,Onsala BK,1,1,SE3S,2024,2
+06/04/2024,FC Trollhättan,Eskilsminne IF,0,1,SE3S,2024,2
+06/04/2024,Tvååkers IF,Oskarshamns AIK,0,1,SE3S,2024,2
+06/04/2024,Ariana FC,Falkenbergs FF,0,2,SE3S,2024,2
+07/04/2024,Ljungskile SK,Lunds BK,0,4,SE3S,2024,2
+07/04/2024,Torslanda IK,Ängelholms FF,0,1,SE3S,2024,2
+12/04/2024,Lunds BK,Eskilsminne IF,1,2,SE3S,2024,3
+13/04/2024,Onsala BK,Ljungskile SK,2,3,SE3S,2024,3
+13/04/2024,Ängelholms FF,FC Rosengård,2,1,SE3S,2024,3
+13/04/2024,Jönköpings Södra IF,Falkenbergs FF,1,2,SE3S,2024,3
+13/04/2024,Torslanda IK,BK Olympic,0,1,SE3S,2024,3
+14/04/2024,Norrby IF,Ariana FC,1,2,SE3S,2024,3
+14/04/2024,Torns IF,Oskarshamns AIK,1,0,SE3S,2024,3
+14/04/2024,FC Trollhättan,Tvååkers IF,1,3,SE3S,2024,3
+19/04/2024,Ariana FC,Ängelholms FF,3,1,SE3S,2024,4
+20/04/2024,FC Rosengård,Onsala BK,2,1,SE3S,2024,4
+20/04/2024,Eskilsminne IF,Jönköpings Södra IF,1,3,SE3S,2024,4
+20/04/2024,Lunds BK,FC Trollhättan,3,2,SE3S,2024,4
+20/04/2024,Oskarshamns AIK,Torslanda IK,1,1,SE3S,2024,4
+21/04/2024,Tvååkers IF,BK Olympic,1,2,SE3S,2024,4
+21/04/2024,Falkenbergs FF,Norrby IF,0,1,SE3S,2024,4
+21/04/2024,Ljungskile SK,Torns IF,0,0,SE3S,2024,4
+26/04/2024,Torslanda IK,FC Trollhättan,2,2,SE3S,2024,5
+26/04/2024,Ängelholms FF,Lunds BK,1,1,SE3S,2024,5
+27/04/2024,Onsala BK,Falkenbergs FF,2,2,SE3S,2024,5
+27/04/2024,Torns IF,Tvååkers IF,2,1,SE3S,2024,5
+27/04/2024,Ariana FC,Oskarshamns AIK,1,1,SE3S,2024,5
+27/04/2024,BK Olympic,Norrby IF,0,3,SE3S,2024,5
+27/04/2024,Jönköpings Södra IF,FC Rosengård,1,3,SE3S,2024,5
+28/04/2024,Ljungskile SK,Eskilsminne IF,3,0,SE3S,2024,5
+04/05/2024,FC Rosengård,Tvååkers IF,0,1,SE3S,2024,6
+04/05/2024,Jönköpings Södra IF,Torslanda IK,0,1,SE3S,2024,6
+04/05/2024,Falkenbergs FF,Eskilsminne IF,3,0,SE3S,2024,6
+04/05/2024,FC Trollhättan,BK Olympic,2,0,SE3S,2024,6
+04/05/2024,Norrby IF,Torns IF,0,0,SE3S,2024,6
+04/05/2024,Onsala BK,Oskarshamns AIK,2,3,SE3S,2024,6
+04/05/2024,Ängelholms FF,Ljungskile SK,2,0,SE3S,2024,6
+05/05/2024,Ariana FC,Lunds BK,3,1,SE3S,2024,6
+08/05/2024,Ljungskile SK,FC Trollhättan,1,5,SE3S,2024,7
+08/05/2024,Ariana FC,FC Rosengård,2,2,SE3S,2024,7
+09/05/2024,Torslanda IK,Falkenbergs FF,2,3,SE3S,2024,7
+09/05/2024,Tvååkers IF,Norrby IF,3,0,SE3S,2024,7
+09/05/2024,BK Olympic,Ängelholms FF,1,2,SE3S,2024,7
+09/05/2024,Eskilsminne IF,Onsala BK,2,1,SE3S,2024,7
+09/05/2024,Torns IF,Jönköpings Södra IF,4,2,SE3S,2024,7
+09/05/2024,Oskarshamns AIK,Lunds BK,2,2,SE3S,2024,7
+11/05/2024,FC Rosengård,Ljungskile SK,2,1,SE3S,2024,8
+12/05/2024,Torns IF,Onsala BK,2,0,SE3S,2024,8
+12/05/2024,FC Trollhättan,Oskarshamns AIK,2,1,SE3S,2024,8
+12/05/2024,Norrby IF,Lunds BK,0,2,SE3S,2024,8
+12/05/2024,Torslanda IK,Ariana FC,3,1,SE3S,2024,8
+13/05/2024,BK Olympic,Eskilsminne IF,2,0,SE3S,2024,8
+13/05/2024,Ängelholms FF,Falkenbergs FF,0,2,SE3S,2024,8
+13/05/2024,Jönköpings Södra IF,Tvååkers IF,1,2,SE3S,2024,8
+17/05/2024,FC Rosengård,BK Olympic,2,0,SE3S,2024,9
+18/05/2024,Eskilsminne IF,Torslanda IK,0,3,SE3S,2024,9
+18/05/2024,Falkenbergs FF,Torns IF,5,0,SE3S,2024,9
+18/05/2024,Oskarshamns AIK,Ängelholms FF,1,1,SE3S,2024,9
+19/05/2024,Ariana FC,FC Trollhättan,0,1,SE3S,2024,9
+19/05/2024,Ljungskile SK,Jönköpings Södra IF,2,2,SE3S,2024,9
+19/05/2024,Lunds BK,Tvååkers IF,1,0,SE3S,2024,9
+19/05/2024,Onsala BK,Norrby IF,2,1,SE3S,2024,9
+23/05/2024,Norrby IF,FC Trollhättan,3,1,SE3S,2024,10
+24/05/2024,Torns IF,Ariana FC,3,2,SE3S,2024,10
+24/05/2024,Tvååkers IF,Ljungskile SK,0,2,SE3S,2024,10
+25/05/2024,Eskilsminne IF,FC Rosengård,2,0,SE3S,2024,10
+25/05/2024,Onsala BK,Torslanda IK,0,0,SE3S,2024,10
+25/05/2024,Falkenbergs FF,Oskarshamns AIK,1,0,SE3S,2024,10
+27/05/2024,BK Olympic,Lunds BK,1,2,SE3S,2024,10
+27/05/2024,Jönköpings Södra IF,Ängelholms FF,1,2,SE3S,2024,10
+31/05/2024,Ljungskile SK,Falkenbergs FF,1,1,SE3S,2024,11
+01/06/2024,Torslanda IK,Tvååkers IF,1,2,SE3S,2024,11
+01/06/2024,Ariana FC,BK Olympic,2,2,SE3S,2024,11
+01/06/2024,FC Rosengård,Norrby IF,1,1,SE3S,2024,11
+01/06/2024,Lunds BK,Jönköpings Södra IF,2,0,SE3S,2024,11
+01/06/2024,Oskarshamns AIK,Eskilsminne IF,2,3,SE3S,2024,11
+01/06/2024,Ängelholms FF,Onsala BK,3,0,SE3S,2024,11
+02/06/2024,FC Trollhättan,Torns IF,2,0,SE3S,2024,11
+05/06/2024,Oskarshamns AIK,Jönköpings Södra IF,1,2,SE3S,2024,12
+06/06/2024,Torslanda IK,Ljungskile SK,1,2,SE3S,2024,12
+07/06/2024,BK Olympic,Torns IF,1,0,SE3S,2024,12
+08/06/2024,Tvååkers IF,Ariana FC,0,2,SE3S,2024,12
+08/06/2024,Eskilsminne IF,Norrby IF,3,0,SE3S,2024,12
+08/06/2024,Falkenbergs FF,FC Rosengård,1,0,SE3S,2024,12
+08/06/2024,Onsala BK,Lunds BK,1,0,SE3S,2024,12
+09/06/2024,FC Trollhättan,Ängelholms FF,1,1,SE3S,2024,12
+14/06/2024,Torns IF,Eskilsminne IF,0,0,SE3S,2024,13
+15/06/2024,FC Rosengård,FC Trollhättan,1,1,SE3S,2024,13
+15/06/2024,Lunds BK,Torslanda IK,2,1,SE3S,2024,13
+15/06/2024,Norrby IF,Oskarshamns AIK,6,0,SE3S,2024,13
+15/06/2024,Ängelholms FF,Tvååkers IF,0,0,SE3S,2024,13
+16/06/2024,Ariana FC,Ljungskile SK,2,1,SE3S,2024,13
+16/06/2024,BK Olympic,Falkenbergs FF,0,5,SE3S,2024,13
+16/06/2024,Jönköpings Södra IF,Onsala BK,1,1,SE3S,2024,13
+19/06/2024,Torns IF,Ängelholms FF,4,1,SE3S,2024,14
+19/06/2024,Torslanda IK,Norrby IF,1,1,SE3S,2024,14
+20/06/2024,Eskilsminne IF,Ariana FC,2,0,SE3S,2024,14
+20/06/2024,Falkenbergs FF,Lunds BK,0,1,SE3S,2024,14
+20/06/2024,Tvååkers IF,Onsala BK,2,1,SE3S,2024,14
+23/06/2024,Ljungskile SK,BK Olympic,0,1,SE3S,2024,14
+23/06/2024,Oskarshamns AIK,FC Rosengård,0,2,SE3S,2024,14
+24/06/2024,FC Trollhättan,Jönköpings Södra IF,1,2,SE3S,2024,14
+25/06/2024,Lunds BK,Torns IF,2,2,SE3S,2024,15
+27/06/2024,Norrby IF,Ljungskile SK,3,0,SE3S,2024,15
+29/06/2024,Onsala BK,FC Trollhättan,2,2,SE3S,2024,15
+29/06/2024,BK Olympic,Oskarshamns AIK,1,4,SE3S,2024,15
+29/06/2024,Jönköpings Södra IF,Ariana FC,1,0,SE3S,2024,15
+29/06/2024,Tvååkers IF,Falkenbergs FF,0,1,SE3S,2024,15
+29/06/2024,Ängelholms FF,Eskilsminne IF,2,2,SE3S,2024,15
+30/06/2024,FC Rosengård,Torslanda IK,0,2,SE3S,2024,15
+03/07/2024,Eskilsminne IF,BK Olympic,1,1,SE3S,2024,16
+03/08/2024,Torns IF,Falkenbergs FF,0,2,SE3S,2024,16
+03/08/2024,Oskarshamns AIK,Tvååkers IF,1,1,SE3S,2024,16
+03/08/2024,Torslanda IK,Jönköpings Södra IF,1,1,SE3S,2024,16
+04/08/2024,Ariana FC,Onsala BK,5,0,SE3S,2024,16
+04/08/2024,FC Trollhättan,FC Rosengård,2,1,SE3S,2024,16
+05/08/2024,Ljungskile SK,Norrby IF,0,4,SE3S,2024,16
+05/08/2024,Lunds BK,Ängelholms FF,4,2,SE3S,2024,16
+10/08/2024,Onsala BK,Torns IF,2,1,SE3S,2024,17
+10/08/2024,Ängelholms FF,BK Olympic,0,0,SE3S,2024,17
+10/08/2024,Lunds BK,Ariana FC,1,1,SE3S,2024,17
+10/08/2024,Falkenbergs FF,Tvååkers IF,2,0,SE3S,2024,17
+10/08/2024,Ljungskile SK,Oskarshamns AIK,1,1,SE3S,2024,17
+11/08/2024,FC Rosengård,Eskilsminne IF,0,0,SE3S,2024,17
+12/08/2024,Jönköpings Södra IF,FC Trollhättan,1,1,SE3S,2024,17
+12/08/2024,Norrby IF,Torslanda IK,1,0,SE3S,2024,17
+16/08/2024,Tvååkers IF,Ängelholms FF,0,1,SE3S,2024,18
+16/08/2024,Lunds BK,Falkenbergs FF,0,1,SE3S,2024,18
+17/08/2024,Torslanda IK,Onsala BK,3,1,SE3S,2024,18
+17/08/2024,Eskilsminne IF,Ljungskile SK,1,0,SE3S,2024,18
+17/08/2024,Jönköpings Södra IF,Torns IF,3,0,SE3S,2024,18
+17/08/2024,Oskarshamns AIK,Norrby IF,1,1,SE3S,2024,18
+17/08/2024,FC Trollhättan,Ariana FC,3,2,SE3S,2024,18
+19/08/2024,BK Olympic,FC Rosengård,4,0,SE3S,2024,18
+24/08/2024,Onsala BK,Jönköpings Södra IF,1,2,SE3S,2024,19
+24/08/2024,BK Olympic,FC Trollhättan,1,1,SE3S,2024,19
+24/08/2024,Ljungskile SK,FC Rosengård,1,3,SE3S,2024,19
+24/08/2024,Norrby IF,Eskilsminne IF,0,1,SE3S,2024,19
+24/08/2024,Ängelholms FF,Oskarshamns AIK,2,3,SE3S,2024,19
+25/08/2024,Ariana FC,Tvååkers IF,4,1,SE3S,2024,19
+25/08/2024,Falkenbergs FF,Torslanda IK,1,0,SE3S,2024,19
+27/08/2024,Torns IF,Lunds BK,3,4,SE3S,2024,19
+31/08/2024,FC Rosengård,Ängelholms FF,3,0,SE3S,2024,20
+31/08/2024,Lunds BK,BK Olympic,4,1,SE3S,2024,20
+31/08/2024,Torslanda IK,Torns IF,2,1,SE3S,2024,20
+31/08/2024,Falkenbergs FF,Onsala BK,1,1,SE3S,2024,20
+31/08/2024,Oskarshamns AIK,Ariana FC,4,3,SE3S,2024,20
+01/09/2024,Tvååkers IF,Eskilsminne IF,2,1,SE3S,2024,20
+02/09/2024,FC Trollhättan,Ljungskile SK,1,1,SE3S,2024,20
+02/09/2024,Jönköpings Södra IF,Norrby IF,1,0,SE3S,2024,20
+07/09/2024,Tvååkers IF,FC Rosengård,1,2,SE3S,2024,21
+07/09/2024,Ariana FC,Torslanda IK,1,2,SE3S,2024,21
+07/09/2024,Eskilsminne IF,Oskarshamns AIK,0,3,SE3S,2024,21
+07/09/2024,Torns IF,Ljungskile SK,1,0,SE3S,2024,21
+08/09/2024,FC Trollhättan,Lunds BK,0,2,SE3S,2024,21
+08/09/2024,Onsala BK,BK Olympic,0,2,SE3S,2024,21
+08/09/2024,Ängelholms FF,Jönköpings Södra IF,2,2,SE3S,2024,21
+09/09/2024,Norrby IF,Falkenbergs FF,0,1,SE3S,2024,21
+13/09/2024,FC Rosengård,Ariana FC,0,0,SE3S,2024,22
+14/09/2024,BK Olympic,Tvååkers IF,1,1,SE3S,2024,22
+14/09/2024,Ängelholms FF,Torns IF,0,0,SE3S,2024,22
+14/09/2024,Eskilsminne IF,FC Trollhättan,4,1,SE3S,2024,22
+14/09/2024,Lunds BK,Oskarshamns AIK,4,2,SE3S,2024,22
+15/09/2024,Falkenbergs FF,Jönköpings Södra IF,3,0,SE3S,2024,22
+15/09/2024,Ljungskile SK,Torslanda IK,3,2,SE3S,2024,22
+15/09/2024,Norrby IF,Onsala BK,3,3,SE3S,2024,22
+20/09/2024,Ariana FC,Eskilsminne IF,0,1,SE3S,2024,23
+21/09/2024,Falkenbergs FF,Ljungskile SK,2,3,SE3S,2024,23
+21/09/2024,Torslanda IK,FC Rosengård,2,2,SE3S,2024,23
+21/09/2024,Jönköpings Södra IF,Lunds BK,3,1,SE3S,2024,23
+21/09/2024,Oskarshamns AIK,BK Olympic,2,4,SE3S,2024,23
+22/09/2024,Onsala BK,Ängelholms FF,1,1,SE3S,2024,23
+22/09/2024,Tvååkers IF,FC Trollhättan,1,1,SE3S,2024,23
+22/09/2024,Torns IF,Norrby IF,2,2,SE3S,2024,23
+27/09/2024,FC Trollhättan,Falkenbergs FF,3,2,SE3S,2024,24
+28/09/2024,Eskilsminne IF,Torns IF,2,2,SE3S,2024,24
+28/09/2024,FC Rosengård,Oskarshamns AIK,0,1,SE3S,2024,24
+28/09/2024,Lunds BK,Onsala BK,2,0,SE3S,2024,24
+28/09/2024,Ängelholms FF,Torslanda IK,2,1,SE3S,2024,24
+29/09/2024,Ljungskile SK,Ariana FC,2,1,SE3S,2024,24
+29/09/2024,BK Olympic,Jönköpings Södra IF,4,1,SE3S,2024,24
+30/09/2024,Norrby IF,Tvååkers IF,2,1,SE3S,2024,24
+04/10/2024,Torns IF,BK Olympic,0,3,SE3S,2024,25
+05/10/2024,Falkenbergs FF,Ängelholms FF,0,2,SE3S,2024,25
+05/10/2024,Tvååkers IF,Lunds BK,0,1,SE3S,2024,25
+05/10/2024,Jönköpings Södra IF,Ljungskile SK,0,1,SE3S,2024,25
+05/10/2024,Oskarshamns AIK,FC Trollhättan,0,1,SE3S,2024,25
+06/10/2024,Onsala BK,FC Rosengård,2,2,SE3S,2024,25
+06/10/2024,Torslanda IK,Eskilsminne IF,2,0,SE3S,2024,25
+06/10/2024,Ariana FC,Norrby IF,2,1,SE3S,2024,25
+12/10/2024,BK Olympic,Ariana FC,3,0,SE3S,2024,26
+12/10/2024,Eskilsminne IF,Lunds BK,3,1,SE3S,2024,26
+12/10/2024,Ljungskile SK,Onsala BK,2,0,SE3S,2024,26
+12/10/2024,Tvååkers IF,Torns IF,1,1,SE3S,2024,26
+12/10/2024,Oskarshamns AIK,Falkenbergs FF,0,0,SE3S,2024,26
+13/10/2024,Norrby IF,Ängelholms FF,1,2,SE3S,2024,26
+13/10/2024,FC Rosengård,Jönköpings Södra IF,0,2,SE3S,2024,26
+14/10/2024,FC Trollhättan,Torslanda IK,1,1,SE3S,2024,26
+28/03/2025,FC Trollhättan,Skövde AIK,6,1,SE3S,2025,1
+29/03/2025,Eskilsminne IF,Ljungskile SK,0,3,SE3S,2025,1
+29/03/2025,FC Rosengård,Husqvarna FF,2,1,SE3S,2025,1
+29/03/2025,Ängelholms FF,Hässleholms IF,0,1,SE3S,2025,1
+29/03/2025,IFK Skövde,Ariana FC,0,1,SE3S,2025,1
+29/03/2025,Norrby IF,BK Olympic,4,0,SE3S,2025,1
+29/03/2025,Torslanda IK,Oskarshamns AIK,3,0,SE3S,2025,1
+30/03/2025,Jönköpings Södra IF,Lunds BK,2,0,SE3S,2025,1
+04/04/2025,Hässleholms IF,FC Rosengård,0,1,SE3S,2025,2
+05/04/2025,Ariana FC,Jönköpings Södra IF,0,0,SE3S,2025,2
+05/04/2025,Ljungskile SK,Norrby IF,0,2,SE3S,2025,2
+05/04/2025,Skövde AIK,Eskilsminne IF,1,1,SE3S,2025,2
+05/04/2025,BK Olympic,IFK Skövde,2,1,SE3S,2025,2
+05/04/2025,Husqvarna FF,FC Trollhättan,3,0,SE3S,2025,2
+05/04/2025,Oskarshamns AIK,Ängelholms FF,0,0,SE3S,2025,2
+06/04/2025,Lunds BK,Torslanda IK,1,0,SE3S,2025,2
+11/04/2025,Ariana FC,Hässleholms IF,3,0,SE3S,2025,3
+12/04/2025,FC Rosengård,Ängelholms FF,1,1,SE3S,2025,3
+12/04/2025,Skövde AIK,Ljungskile SK,1,4,SE3S,2025,3
+12/04/2025,Eskilsminne IF,IFK Skövde,1,1,SE3S,2025,3
+12/04/2025,FC Trollhättan,Lunds BK,1,5,SE3S,2025,3
+12/04/2025,Husqvarna FF,BK Olympic,2,3,SE3S,2025,3
+13/04/2025,Torslanda IK,Jönköpings Södra IF,2,0,SE3S,2025,3
+13/04/2025,Oskarshamns AIK,Norrby IF,0,1,SE3S,2025,3
+17/04/2025,Norrby IF,Skövde AIK,2,2,SE3S,2025,4
+18/04/2025,BK Olympic,Torslanda IK,0,6,SE3S,2025,4
+18/04/2025,Ljungskile SK,Husqvarna FF,3,1,SE3S,2025,4
+18/04/2025,Ängelholms FF,Ariana FC,2,1,SE3S,2025,4
+18/04/2025,Hässleholms IF,FC Trollhättan,0,2,SE3S,2025,4
+18/04/2025,IFK Skövde,FC Rosengård,1,2,SE3S,2025,4
+18/04/2025,Lunds BK,Oskarshamns AIK,3,0,SE3S,2025,4
+21/04/2025,Jönköpings Södra IF,Eskilsminne IF,3,1,SE3S,2025,4
+26/04/2025,FC Rosengård,Eskilsminne IF,1,0,SE3S,2025,5
+26/04/2025,Ljungskile SK,FC Trollhättan,2,0,SE3S,2025,5
+26/04/2025,Husqvarna FF,Hässleholms IF,2,2,SE3S,2025,5
+26/04/2025,IFK Skövde,Skövde AIK,0,2,SE3S,2025,5
+26/04/2025,Oskarshamns AIK,BK Olympic,0,0,SE3S,2025,5
+27/04/2025,Torslanda IK,Ängelholms FF,2,4,SE3S,2025,5
+28/04/2025,Jönköpings Södra IF,Norrby IF,1,0,SE3S,2025,5
+28/04/2025,Lunds BK,Ariana FC,0,0,SE3S,2025,5
+03/05/2025,Ariana FC,Husqvarna FF,3,1,SE3S,2025,6
+03/05/2025,Eskilsminne IF,Torslanda IK,0,0,SE3S,2025,6
+03/05/2025,Skövde AIK,Jönköpings Södra IF,1,0,SE3S,2025,6
+03/05/2025,FC Trollhättan,Oskarshamns AIK,3,3,SE3S,2025,6
+03/05/2025,Norrby IF,Lunds BK,2,2,SE3S,2025,6
+03/05/2025,Ängelholms FF,IFK Skövde,4,3,SE3S,2025,6
+04/05/2025,Hässleholms IF,Ljungskile SK,1,4,SE3S,2025,6
+05/05/2025,BK Olympic,FC Rosengård,2,2,SE3S,2025,6
+09/05/2025,Lunds BK,Hässleholms IF,1,0,SE3S,2025,7
+10/05/2025,Torslanda IK,IFK Skövde,0,0,SE3S,2025,7
+10/05/2025,Husqvarna FF,Eskilsminne IF,0,2,SE3S,2025,7
+10/05/2025,Ljungskile SK,Oskarshamns AIK,1,3,SE3S,2025,7
+10/05/2025,Skövde AIK,Ariana FC,2,2,SE3S,2025,7
+11/05/2025,FC Rosengård,Norrby IF,1,1,SE3S,2025,7
+11/05/2025,FC Trollhättan,Ängelholms FF,0,0,SE3S,2025,7
+11/05/2025,Jönköpings Södra IF,BK Olympic,1,0,SE3S,2025,7
+16/05/2025,IFK Skövde,Husqvarna FF,5,0,SE3S,2025,8
+16/05/2025,Norrby IF,FC Trollhättan,1,1,SE3S,2025,8
+17/05/2025,Eskilsminne IF,Ariana FC,2,2,SE3S,2025,8
+17/05/2025,Hässleholms IF,Torslanda IK,2,0,SE3S,2025,8
+17/05/2025,Jönköpings Södra IF,FC Rosengård,3,0,SE3S,2025,8
+17/05/2025,Ljungskile SK,Lunds BK,3,0,SE3S,2025,8
+18/05/2025,Oskarshamns AIK,Skövde AIK,3,0,SE3S,2025,8
+19/05/2025,BK Olympic,Ängelholms FF,2,2,SE3S,2025,8
+23/05/2025,FC Rosengård,Lunds BK,0,1,SE3S,2025,9
+23/05/2025,Torslanda IK,FC Trollhättan,4,1,SE3S,2025,9
+24/05/2025,BK Olympic,Eskilsminne IF,2,1,SE3S,2025,9
+24/05/2025,Hässleholms IF,Oskarshamns AIK,1,1,SE3S,2025,9
+24/05/2025,IFK Skövde,Norrby IF,1,0,SE3S,2025,9
+24/05/2025,Ariana FC,Ljungskile SK,3,2,SE3S,2025,9
+24/05/2025,Husqvarna FF,Jönköpings Södra IF,0,1,SE3S,2025,9
+24/05/2025,Ängelholms FF,Skövde AIK,1,2,SE3S,2025,9
+28/05/2025,Jönköpings Södra IF,Hässleholms IF,2,1,SE3S,2025,10
+28/05/2025,Ljungskile SK,IFK Skövde,11,0,SE3S,2025,10
+28/05/2025,Lunds BK,Eskilsminne IF,2,2,SE3S,2025,10
+28/05/2025,Skövde AIK,Husqvarna FF,3,3,SE3S,2025,10
+29/05/2025,Torslanda IK,Ariana FC,0,0,SE3S,2025,10
+29/05/2025,FC Trollhättan,BK Olympic,0,3,SE3S,2025,10
+29/05/2025,Norrby IF,Ängelholms FF,2,0,SE3S,2025,10
+29/05/2025,Oskarshamns AIK,FC Rosengård,0,2,SE3S,2025,10
+01/06/2025,FC Rosengård,Torslanda IK,1,0,SE3S,2025,11
+01/06/2025,Husqvarna FF,Oskarshamns AIK,0,2,SE3S,2025,11
+01/06/2025,IFK Skövde,Jönköpings Södra IF,0,3,SE3S,2025,11
+01/06/2025,Ängelholms FF,Lunds BK,1,2,SE3S,2025,11
+01/06/2025,Ariana FC,Norrby IF,0,2,SE3S,2025,11
+01/06/2025,BK Olympic,Ljungskile SK,1,1,SE3S,2025,11
+01/06/2025,Eskilsminne IF,FC Trollhättan,2,2,SE3S,2025,11
+01/06/2025,Hässleholms IF,Skövde AIK,3,1,SE3S,2025,11
+05/06/2025,FC Trollhättan,IFK Skövde,4,0,SE3S,2025,12
+06/06/2025,Lunds BK,BK Olympic,2,1,SE3S,2025,12
+06/06/2025,Torslanda IK,Husqvarna FF,3,1,SE3S,2025,12
+06/06/2025,Eskilsminne IF,Ängelholms FF,1,6,SE3S,2025,12
+07/06/2025,Oskarshamns AIK,Ariana FC,1,3,SE3S,2025,12
+07/06/2025,Skövde AIK,FC Rosengård,4,1,SE3S,2025,12
+08/06/2025,Ljungskile SK,Jönköpings Södra IF,2,0,SE3S,2025,12
+08/06/2025,Norrby IF,Hässleholms IF,1,2,SE3S,2025,12
+12/06/2025,Hässleholms IF,BK Olympic,1,1,SE3S,2025,13
+14/06/2025,Jönköpings Södra IF,Oskarshamns AIK,1,0,SE3S,2025,13
+14/06/2025,Skövde AIK,Torslanda IK,3,2,SE3S,2025,13
+14/06/2025,FC Rosengård,Ljungskile SK,0,2,SE3S,2025,13
+14/06/2025,Norrby IF,Eskilsminne IF,1,1,SE3S,2025,13
+14/06/2025,Ängelholms FF,Husqvarna FF,6,1,SE3S,2025,13
+15/06/2025,Ariana FC,FC Trollhättan,3,3,SE3S,2025,13
+15/06/2025,IFK Skövde,Lunds BK,3,2,SE3S,2025,13
+18/06/2025,Torslanda IK,Ljungskile SK,1,1,SE3S,2025,14
+19/06/2025,BK Olympic,Ariana FC,1,1,SE3S,2025,14
+19/06/2025,Eskilsminne IF,Hässleholms IF,0,3,SE3S,2025,14
+19/06/2025,Husqvarna FF,Norrby IF,1,1,SE3S,2025,14
+19/06/2025,Lunds BK,Skövde AIK,3,0,SE3S,2025,14
+19/06/2025,Ängelholms FF,Jönköpings Södra IF,1,2,SE3S,2025,14
+22/06/2025,FC Trollhättan,FC Rosengård,0,2,SE3S,2025,14
+22/06/2025,IFK Skövde,Oskarshamns AIK,1,1,SE3S,2025,14
+26/06/2025,Husqvarna FF,Lunds BK,2,1,SE3S,2025,15
+26/06/2025,Norrby IF,Torslanda IK,4,2,SE3S,2025,15
+27/06/2025,Ariana FC,FC Rosengård,1,2,SE3S,2025,15
+28/06/2025,Hässleholms IF,IFK Skövde,3,1,SE3S,2025,15
+28/06/2025,BK Olympic,Skövde AIK,0,2,SE3S,2025,15
+28/06/2025,Jönköpings Södra IF,FC Trollhättan,2,1,SE3S,2025,15
+28/06/2025,Ljungskile SK,Ängelholms FF,3,2,SE3S,2025,15
+28/06/2025,Oskarshamns AIK,Eskilsminne IF,0,0,SE3S,2025,15
+02/07/2025,Eskilsminne IF,BK Olympic,2,0,SE3S,2025,16
+02/08/2025,Lunds BK,Husqvarna FF,3,3,SE3S,2025,16
+02/08/2025,FC Rosengård,Jönköpings Södra IF,0,1,SE3S,2025,16
+02/08/2025,Oskarshamns AIK,Torslanda IK,0,1,SE3S,2025,16
+02/08/2025,Ängelholms FF,Norrby IF,0,4,SE3S,2025,16
+04/08/2025,FC Trollhättan,Ljungskile SK,2,2,SE3S,2025,16
+04/08/2025,Hässleholms IF,Ariana FC,2,1,SE3S,2025,16
+04/08/2025,Skövde AIK,IFK Skövde,0,0,SE3S,2025,16
+09/08/2025,Husqvarna FF,Skövde AIK,4,1,SE3S,2025,17
+09/08/2025,IFK Skövde,Ljungskile SK,0,4,SE3S,2025,17
+09/08/2025,Torslanda IK,FC Rosengård,1,1,SE3S,2025,17
+09/08/2025,Ariana FC,Eskilsminne IF,3,0,SE3S,2025,17
+09/08/2025,Jönköpings Södra IF,Ängelholms FF,0,0,SE3S,2025,17
+09/08/2025,Lunds BK,FC Trollhättan,1,1,SE3S,2025,17
+10/08/2025,Norrby IF,Oskarshamns AIK,3,0,SE3S,2025,17
+11/08/2025,BK Olympic,Hässleholms IF,2,1,SE3S,2025,17
+15/08/2025,Ängelholms FF,BK Olympic,0,3,SE3S,2025,18
+16/08/2025,Eskilsminne IF,Lunds BK,2,1,SE3S,2025,18
+16/08/2025,Oskarshamns AIK,Hässleholms IF,1,4,SE3S,2025,18
+16/08/2025,Skövde AIK,Norrby IF,2,4,SE3S,2025,18
+16/08/2025,FC Rosengård,IFK Skövde,3,2,SE3S,2025,18
+16/08/2025,FC Trollhättan,Husqvarna FF,3,3,SE3S,2025,18
+16/08/2025,Ljungskile SK,Ariana FC,3,1,SE3S,2025,18
+17/08/2025,Jönköpings Södra IF,Torslanda IK,5,0,SE3S,2025,18
+23/08/2025,BK Olympic,Husqvarna FF,2,0,SE3S,2025,19
+23/08/2025,Hässleholms IF,Eskilsminne IF,2,1,SE3S,2025,19
+23/08/2025,Torslanda IK,Skövde AIK,1,1,SE3S,2025,19
+23/08/2025,Ariana FC,Oskarshamns AIK,1,0,SE3S,2025,19
+23/08/2025,FC Rosengård,FC Trollhättan,1,3,SE3S,2025,19
+23/08/2025,IFK Skövde,Ängelholms FF,1,1,SE3S,2025,19
+24/08/2025,Lunds BK,Ljungskile SK,1,3,SE3S,2025,19
+25/08/2025,Norrby IF,Jönköpings Södra IF,2,1,SE3S,2025,19
+30/08/2025,Eskilsminne IF,FC Rosengård,1,0,SE3S,2025,20
+30/08/2025,Ängelholms FF,Torslanda IK,3,0,SE3S,2025,20
+30/08/2025,Husqvarna FF,Ariana FC,0,0,SE3S,2025,20
+30/08/2025,Lunds BK,Norrby IF,2,1,SE3S,2025,20
+30/08/2025,Skövde AIK,Oskarshamns AIK,3,0,SE3S,2025,20
+31/08/2025,FC Trollhättan,Hässleholms IF,0,4,SE3S,2025,20
+31/08/2025,Ljungskile SK,BK Olympic,4,1,SE3S,2025,20
+01/09/2025,Jönköpings Södra IF,IFK Skövde,2,1,SE3S,2025,20
+05/09/2025,Hässleholms IF,Lunds BK,1,0,SE3S,2025,21
+06/09/2025,IFK Skövde,Torslanda IK,2,1,SE3S,2025,21
+06/09/2025,Ängelholms FF,FC Rosengård,1,1,SE3S,2025,21
+06/09/2025,FC Trollhättan,Eskilsminne IF,1,2,SE3S,2025,21
+06/09/2025,Oskarshamns AIK,Husqvarna FF,1,3,SE3S,2025,21
+07/09/2025,Ariana FC,Skövde AIK,1,1,SE3S,2025,21
+07/09/2025,BK Olympic,Jönköpings Södra IF,1,1,SE3S,2025,21
+08/09/2025,Norrby IF,Ljungskile SK,4,2,SE3S,2025,21
+12/09/2025,Skövde AIK,FC Trollhättan,1,2,SE3S,2025,22
+13/09/2025,Husqvarna FF,Ängelholms FF,0,1,SE3S,2025,22
+13/09/2025,Torslanda IK,BK Olympic,1,5,SE3S,2025,22
+13/09/2025,Ariana FC,IFK Skövde,2,1,SE3S,2025,22
+13/09/2025,FC Rosengård,Oskarshamns AIK,0,1,SE3S,2025,22
+13/09/2025,Ljungskile SK,Hässleholms IF,3,0,SE3S,2025,22
+14/09/2025,Eskilsminne IF,Norrby IF,2,3,SE3S,2025,22
+14/09/2025,Lunds BK,Jönköpings Södra IF,1,2,SE3S,2025,22
+19/09/2025,Jönköpings Södra IF,Husqvarna FF,0,0,SE3S,2025,23
+20/09/2025,BK Olympic,Lunds BK,3,2,SE3S,2025,23
+20/09/2025,Torslanda IK,Eskilsminne IF,2,1,SE3S,2025,23
+20/09/2025,FC Rosengård,Skövde AIK,3,1,SE3S,2025,23
+20/09/2025,IFK Skövde,Hässleholms IF,0,1,SE3S,2025,23
+20/09/2025,Oskarshamns AIK,FC Trollhättan,2,0,SE3S,2025,23
+21/09/2025,Norrby IF,Ariana FC,2,1,SE3S,2025,23
+21/09/2025,Ängelholms FF,Ljungskile SK,1,2,SE3S,2025,23
+26/09/2025,Lunds BK,FC Rosengård,1,0,SE3S,2025,24
+27/09/2025,Eskilsminne IF,Husqvarna FF,0,2,SE3S,2025,24
+27/09/2025,Ljungskile SK,Torslanda IK,3,0,SE3S,2025,24
+27/09/2025,Skövde AIK,Ängelholms FF,0,0,SE3S,2025,24
+27/09/2025,BK Olympic,Norrby IF,0,2,SE3S,2025,24
+27/09/2025,Hässleholms IF,Jönköpings Södra IF,1,2,SE3S,2025,24
+27/09/2025,Oskarshamns AIK,IFK Skövde,1,0,SE3S,2025,24
+28/09/2025,FC Trollhättan,Ariana FC,2,1,SE3S,2025,24
+03/10/2025,Ariana FC,Lunds BK,0,1,SE3S,2025,25
+04/10/2025,Husqvarna FF,Ljungskile SK,2,0,SE3S,2025,25
+04/10/2025,IFK Skövde,BK Olympic,3,1,SE3S,2025,25
+04/10/2025,Torslanda IK,Hässleholms IF,0,5,SE3S,2025,25
+04/10/2025,Ängelholms FF,FC Trollhättan,1,2,SE3S,2025,25
+05/10/2025,Eskilsminne IF,Oskarshamns AIK,3,1,SE3S,2025,25
+05/10/2025,Norrby IF,FC Rosengård,2,1,SE3S,2025,25
+06/10/2025,Jönköpings Södra IF,Skövde AIK,1,0,SE3S,2025,25
+10/10/2025,Ariana FC,Ängelholms FF,1,3,SE3S,2025,26
+10/10/2025,Husqvarna FF,IFK Skövde,1,2,SE3S,2025,26
+11/10/2025,Ljungskile SK,Eskilsminne IF,3,0,SE3S,2025,26
+11/10/2025,FC Trollhättan,Torslanda IK,4,0,SE3S,2025,26
+11/10/2025,Oskarshamns AIK,Jönköpings Södra IF,0,0,SE3S,2025,26
+11/10/2025,Skövde AIK,Lunds BK,1,0,SE3S,2025,26
+12/10/2025,FC Rosengård,BK Olympic,1,3,SE3S,2025,26
+12/10/2025,Hässleholms IF,Norrby IF,1,0,SE3S,2025,26

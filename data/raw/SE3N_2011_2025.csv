@@ -1,0 +1,2938 @@
+date,home_team,away_team,home_goals,away_goals,league,season,matchday
+16/04/2011,Dalkurd FF,Karlstad BK (- 2019),0,1,SE3N,2011,1
+16/04/2011,BK Forward,Valsta Syrianska IK (- 2015),2,0,SE3N,2011,1
+17/04/2011,FC Väsby United,IFK Luleå,2,0,SE3N,2011,1
+17/04/2011,Bodens BK,IK Sirius,0,3,SE3N,2011,1
+17/04/2011,Akropolis IF,Umeå FC,0,2,SE3N,2011,1
+17/04/2011,Vasalunds IF,IK Frej Täby,2,0,SE3N,2011,1
+19/04/2011,Syrianska IF Kerburan,Hammarby TFF,2,1,SE3N,2011,1
+24/04/2011,Hammarby TFF,Akropolis IF,0,3,SE3N,2011,2
+25/04/2011,IK Sirius,Vasalunds IF,0,2,SE3N,2011,2
+25/04/2011,IK Frej Täby,BK Forward,2,3,SE3N,2011,2
+25/04/2011,IFK Luleå,Dalkurd FF,1,3,SE3N,2011,2
+25/04/2011,Karlstad BK (- 2019),Syrianska IF Kerburan,2,0,SE3N,2011,2
+25/04/2011,Valsta Syrianska IK (- 2015),FC Väsby United,2,3,SE3N,2011,2
+26/04/2011,Umeå FC,Bodens BK,2,0,SE3N,2011,2
+30/04/2011,BK Forward,IK Sirius,2,2,SE3N,2011,3
+30/04/2011,Dalkurd FF,Valsta Syrianska IK (- 2015),6,1,SE3N,2011,3
+01/05/2011,Bodens BK,Akropolis IF,2,0,SE3N,2011,3
+01/05/2011,Syrianska IF Kerburan,IFK Luleå,0,0,SE3N,2011,3
+01/05/2011,Karlstad BK (- 2019),Hammarby TFF,3,0,SE3N,2011,3
+01/05/2011,Vasalunds IF,Umeå FC,1,2,SE3N,2011,3
+02/05/2011,FC Väsby United,IK Frej Täby,3,1,SE3N,2011,3
+07/05/2011,Umeå FC,BK Forward,0,0,SE3N,2011,4
+07/05/2011,Akropolis IF,Vasalunds IF,1,1,SE3N,2011,4
+07/05/2011,IK Frej Täby,Dalkurd FF,1,1,SE3N,2011,4
+08/05/2011,IK Sirius,FC Väsby United,0,1,SE3N,2011,4
+08/05/2011,IFK Luleå,Karlstad BK (- 2019),0,2,SE3N,2011,4
+08/05/2011,Hammarby TFF,Bodens BK,2,0,SE3N,2011,4
+09/05/2011,Valsta Syrianska IK (- 2015),Syrianska IF Kerburan,0,1,SE3N,2011,4
+14/05/2011,Dalkurd FF,IK Sirius,1,2,SE3N,2011,5
+14/05/2011,BK Forward,Akropolis IF,0,0,SE3N,2011,5
+15/05/2011,Vasalunds IF,Bodens BK,3,1,SE3N,2011,5
+15/05/2011,IFK Luleå,Hammarby TFF,1,0,SE3N,2011,5
+15/05/2011,FC Väsby United,Umeå FC,1,1,SE3N,2011,5
+15/05/2011,Karlstad BK (- 2019),Valsta Syrianska IK (- 2015),1,2,SE3N,2011,5
+15/05/2011,Syrianska IF Kerburan,IK Frej Täby,1,0,SE3N,2011,5
+21/05/2011,Bodens BK,BK Forward,1,1,SE3N,2011,6
+21/05/2011,Umeå FC,Dalkurd FF,2,1,SE3N,2011,6
+21/05/2011,Akropolis IF,FC Väsby United,1,0,SE3N,2011,6
+21/05/2011,IK Frej Täby,Karlstad BK (- 2019),0,1,SE3N,2011,6
+22/05/2011,Valsta Syrianska IK (- 2015),IFK Luleå,2,3,SE3N,2011,6
+22/05/2011,Hammarby TFF,Vasalunds IF,1,1,SE3N,2011,6
+23/05/2011,IK Sirius,Syrianska IF Kerburan,2,0,SE3N,2011,6
+28/05/2011,Dalkurd FF,Akropolis IF,2,1,SE3N,2011,7
+28/05/2011,Valsta Syrianska IK (- 2015),Hammarby TFF,2,0,SE3N,2011,7
+28/05/2011,Karlstad BK (- 2019),IK Sirius,0,3,SE3N,2011,7
+29/05/2011,FC Väsby United,Bodens BK,2,1,SE3N,2011,7
+29/05/2011,Syrianska IF Kerburan,Umeå FC,2,2,SE3N,2011,7
+29/05/2011,IFK Luleå,IK Frej Täby,1,0,SE3N,2011,7
+01/06/2011,BK Forward,Vasalunds IF,2,2,SE3N,2011,7
+04/06/2011,Akropolis IF,Syrianska IF Kerburan,2,3,SE3N,2011,8
+04/06/2011,IK Frej Täby,Valsta Syrianska IK (- 2015),1,2,SE3N,2011,8
+04/06/2011,Hammarby TFF,BK Forward,1,1,SE3N,2011,8
+05/06/2011,Bodens BK,Dalkurd FF,1,1,SE3N,2011,8
+05/06/2011,IK Sirius,IFK Luleå,1,1,SE3N,2011,8
+05/06/2011,Vasalunds IF,FC Väsby United,2,1,SE3N,2011,8
+06/06/2011,Umeå FC,Karlstad BK (- 2019),2,1,SE3N,2011,8
+11/06/2011,Dalkurd FF,Vasalunds IF,1,0,SE3N,2011,9
+11/06/2011,FC Väsby United,BK Forward,1,1,SE3N,2011,9
+11/06/2011,IK Frej Täby,Hammarby TFF,4,0,SE3N,2011,9
+11/06/2011,Karlstad BK (- 2019),Akropolis IF,1,1,SE3N,2011,9
+12/06/2011,Syrianska IF Kerburan,Bodens BK,5,0,SE3N,2011,9
+13/06/2011,Valsta Syrianska IK (- 2015),IK Sirius,1,2,SE3N,2011,9
+13/06/2011,IFK Luleå,Umeå FC,2,3,SE3N,2011,9
+18/06/2011,Vasalunds IF,Syrianska IF Kerburan,3,2,SE3N,2011,10
+19/06/2011,Bodens BK,Karlstad BK (- 2019),3,3,SE3N,2011,10
+19/06/2011,Akropolis IF,IFK Luleå,4,0,SE3N,2011,10
+19/06/2011,BK Forward,Dalkurd FF,1,1,SE3N,2011,10
+19/06/2011,Umeå FC,Valsta Syrianska IK (- 2015),1,0,SE3N,2011,10
+19/06/2011,Hammarby TFF,FC Väsby United,2,3,SE3N,2011,10
+20/06/2011,IK Sirius,IK Frej Täby,1,1,SE3N,2011,10
+26/06/2011,IK Frej Täby,Umeå FC,1,1,SE3N,2011,11
+26/06/2011,Syrianska IF Kerburan,BK Forward,1,4,SE3N,2011,11
+26/06/2011,Karlstad BK (- 2019),Vasalunds IF,1,1,SE3N,2011,11
+27/06/2011,Dalkurd FF,FC Väsby United,2,1,SE3N,2011,11
+27/06/2011,Valsta Syrianska IK (- 2015),Akropolis IF,2,1,SE3N,2011,11
+28/06/2011,IK Sirius,Hammarby TFF,3,0,SE3N,2011,11
+28/06/2011,IFK Luleå,Bodens BK,1,1,SE3N,2011,11
+02/07/2011,Hammarby TFF,Dalkurd FF,1,3,SE3N,2011,12
+02/07/2011,FC Väsby United,Syrianska IF Kerburan,5,2,SE3N,2011,12
+02/07/2011,BK Forward,Karlstad BK (- 2019),3,1,SE3N,2011,12
+02/07/2011,Akropolis IF,IK Frej Täby,2,0,SE3N,2011,12
+03/07/2011,Vasalunds IF,IFK Luleå,0,0,SE3N,2011,12
+03/07/2011,Bodens BK,Valsta Syrianska IK (- 2015),4,3,SE3N,2011,12
+03/07/2011,Umeå FC,IK Sirius,1,1,SE3N,2011,12
+09/07/2011,Valsta Syrianska IK (- 2015),Vasalunds IF,3,3,SE3N,2011,13
+09/07/2011,BK Forward,IFK Luleå,4,2,SE3N,2011,13
+09/07/2011,Karlstad BK (- 2019),FC Väsby United,3,2,SE3N,2011,13
+09/07/2011,Dalkurd FF,Syrianska IF Kerburan,1,1,SE3N,2011,13
+10/07/2011,Bodens BK,IK Frej Täby,1,1,SE3N,2011,13
+10/07/2011,IK Sirius,Akropolis IF,3,1,SE3N,2011,13
+10/07/2011,Umeå FC,Hammarby TFF,3,0,SE3N,2011,13
+31/07/2011,FC Väsby United,Karlstad BK (- 2019),1,1,SE3N,2011,14
+31/07/2011,IFK Luleå,BK Forward,1,1,SE3N,2011,14
+31/07/2011,IK Frej Täby,Bodens BK,3,1,SE3N,2011,14
+31/07/2011,Hammarby TFF,Umeå FC,3,1,SE3N,2011,14
+31/07/2011,Vasalunds IF,Valsta Syrianska IK (- 2015),1,0,SE3N,2011,14
+01/08/2011,Syrianska IF Kerburan,Dalkurd FF,1,2,SE3N,2011,14
+02/08/2011,Akropolis IF,IK Sirius,0,0,SE3N,2011,14
+06/08/2011,IK Frej Täby,Akropolis IF,3,0,SE3N,2011,15
+06/08/2011,Dalkurd FF,Hammarby TFF,1,0,SE3N,2011,15
+07/08/2011,Valsta Syrianska IK (- 2015),Bodens BK,2,2,SE3N,2011,15
+07/08/2011,IFK Luleå,Vasalunds IF,0,0,SE3N,2011,15
+07/08/2011,IK Sirius,Umeå FC,2,2,SE3N,2011,15
+07/08/2011,Syrianska IF Kerburan,FC Väsby United,1,3,SE3N,2011,15
+08/08/2011,Karlstad BK (- 2019),BK Forward,1,2,SE3N,2011,15
+13/08/2011,FC Väsby United,Dalkurd FF,2,1,SE3N,2011,16
+13/08/2011,Akropolis IF,Valsta Syrianska IK (- 2015),2,2,SE3N,2011,16
+14/08/2011,Bodens BK,IFK Luleå,0,3,SE3N,2011,16
+14/08/2011,Umeå FC,IK Frej Täby,1,3,SE3N,2011,16
+14/08/2011,Hammarby TFF,IK Sirius,0,2,SE3N,2011,16
+14/08/2011,Vasalunds IF,Karlstad BK (- 2019),2,2,SE3N,2011,16
+15/08/2011,BK Forward,Syrianska IF Kerburan,4,1,SE3N,2011,16
+20/08/2011,IK Frej Täby,IK Sirius,0,0,SE3N,2011,17
+20/08/2011,Dalkurd FF,BK Forward,3,3,SE3N,2011,17
+21/08/2011,FC Väsby United,Hammarby TFF,4,0,SE3N,2011,17
+21/08/2011,Karlstad BK (- 2019),Bodens BK,0,3,SE3N,2011,17
+21/08/2011,Valsta Syrianska IK (- 2015),Umeå FC,1,2,SE3N,2011,17
+21/08/2011,IFK Luleå,Akropolis IF,1,0,SE3N,2011,17
+21/08/2011,Syrianska IF Kerburan,Vasalunds IF,2,0,SE3N,2011,17
+27/08/2011,Akropolis IF,Karlstad BK (- 2019),1,1,SE3N,2011,18
+28/08/2011,Bodens BK,Syrianska IF Kerburan,0,0,SE3N,2011,18
+28/08/2011,Hammarby TFF,IK Frej Täby,0,5,SE3N,2011,18
+28/08/2011,Vasalunds IF,Dalkurd FF,3,4,SE3N,2011,18
+29/08/2011,BK Forward,FC Väsby United,1,3,SE3N,2011,18
+29/08/2011,Umeå FC,IFK Luleå,3,0,SE3N,2011,18
+29/08/2011,IK Sirius,Valsta Syrianska IK (- 2015),2,1,SE3N,2011,18
+02/09/2011,FC Väsby United,Akropolis IF,0,0,SE3N,2011,19
+03/09/2011,Dalkurd FF,Umeå FC,2,0,SE3N,2011,19
+04/09/2011,BK Forward,Bodens BK,1,1,SE3N,2011,19
+04/09/2011,IFK Luleå,Valsta Syrianska IK (- 2015),0,0,SE3N,2011,19
+04/09/2011,Karlstad BK (- 2019),IK Frej Täby,1,3,SE3N,2011,19
+04/09/2011,Vasalunds IF,Hammarby TFF,4,0,SE3N,2011,19
+04/09/2011,Syrianska IF Kerburan,IK Sirius,1,0,SE3N,2011,19
+10/09/2011,IK Frej Täby,Syrianska IF Kerburan,1,1,SE3N,2011,20
+10/09/2011,Akropolis IF,BK Forward,2,0,SE3N,2011,20
+10/09/2011,Umeå FC,FC Väsby United,0,3,SE3N,2011,20
+11/09/2011,Bodens BK,Vasalunds IF,1,4,SE3N,2011,20
+11/09/2011,IK Sirius,Dalkurd FF,1,2,SE3N,2011,20
+11/09/2011,Valsta Syrianska IK (- 2015),Karlstad BK (- 2019),2,1,SE3N,2011,20
+11/09/2011,Hammarby TFF,IFK Luleå,2,2,SE3N,2011,20
+18/09/2011,BK Forward,Hammarby TFF,4,0,SE3N,2011,21
+18/09/2011,Karlstad BK (- 2019),Umeå FC,1,0,SE3N,2011,21
+18/09/2011,Dalkurd FF,Bodens BK,1,0,SE3N,2011,21
+18/09/2011,IFK Luleå,IK Sirius,1,1,SE3N,2011,21
+18/09/2011,Syrianska IF Kerburan,Akropolis IF,1,0,SE3N,2011,21
+19/09/2011,Valsta Syrianska IK (- 2015),IK Frej Täby,1,2,SE3N,2011,21
+20/09/2011,FC Väsby United,Vasalunds IF,2,2,SE3N,2011,21
+24/09/2011,Akropolis IF,Dalkurd FF,3,3,SE3N,2011,22
+25/09/2011,Bodens BK,FC Väsby United,0,3,SE3N,2011,22
+25/09/2011,Umeå FC,Syrianska IF Kerburan,4,0,SE3N,2011,22
+25/09/2011,IK Sirius,Karlstad BK (- 2019),1,0,SE3N,2011,22
+25/09/2011,IK Frej Täby,IFK Luleå,0,1,SE3N,2011,22
+25/09/2011,Hammarby TFF,Valsta Syrianska IK (- 2015),2,0,SE3N,2011,22
+25/09/2011,Vasalunds IF,BK Forward,4,1,SE3N,2011,22
+01/10/2011,BK Forward,Umeå FC,0,2,SE3N,2011,23
+01/10/2011,Dalkurd FF,IK Frej Täby,1,1,SE3N,2011,23
+02/10/2011,Karlstad BK (- 2019),IFK Luleå,1,0,SE3N,2011,23
+02/10/2011,Bodens BK,Hammarby TFF,3,0,SE3N,2011,23
+02/10/2011,Vasalunds IF,Akropolis IF,1,2,SE3N,2011,23
+02/10/2011,Syrianska IF Kerburan,Valsta Syrianska IK (- 2015),1,2,SE3N,2011,23
+03/10/2011,FC Väsby United,IK Sirius,0,1,SE3N,2011,23
+08/10/2011,IK Frej Täby,FC Väsby United,1,0,SE3N,2011,24
+08/10/2011,Hammarby TFF,Karlstad BK (- 2019),1,3,SE3N,2011,24
+09/10/2011,Akropolis IF,Bodens BK,3,2,SE3N,2011,24
+09/10/2011,Umeå FC,Vasalunds IF,1,0,SE3N,2011,24
+09/10/2011,IK Sirius,BK Forward,2,1,SE3N,2011,24
+09/10/2011,Valsta Syrianska IK (- 2015),Dalkurd FF,4,2,SE3N,2011,24
+09/10/2011,IFK Luleå,Syrianska IF Kerburan,3,0,SE3N,2011,24
+15/10/2011,FC Väsby United,Valsta Syrianska IK (- 2015),1,0,SE3N,2011,25
+15/10/2011,Akropolis IF,Hammarby TFF,1,4,SE3N,2011,25
+16/10/2011,Syrianska IF Kerburan,Karlstad BK (- 2019),4,3,SE3N,2011,25
+16/10/2011,Dalkurd FF,IFK Luleå,4,2,SE3N,2011,25
+16/10/2011,Bodens BK,Umeå FC,1,3,SE3N,2011,25
+16/10/2011,BK Forward,IK Frej Täby,2,1,SE3N,2011,25
+16/10/2011,Vasalunds IF,IK Sirius,1,5,SE3N,2011,25
+23/10/2011,Umeå FC,Akropolis IF,2,1,SE3N,2011,26
+23/10/2011,IK Sirius,Bodens BK,4,0,SE3N,2011,26
+23/10/2011,IK Frej Täby,Vasalunds IF,1,1,SE3N,2011,26
+23/10/2011,Valsta Syrianska IK (- 2015),BK Forward,2,1,SE3N,2011,26
+23/10/2011,IFK Luleå,FC Väsby United,0,4,SE3N,2011,26
+23/10/2011,Karlstad BK (- 2019),Dalkurd FF,1,2,SE3N,2011,26
+23/10/2011,Hammarby TFF,Syrianska IF Kerburan,7,2,SE3N,2011,26
+14/04/2012,Östersunds FK,IK Sirius,1,1,SE3N,2012,1
+14/04/2012,IK Frej Täby,Eskilstuna City FK,1,1,SE3N,2012,1
+15/04/2012,BK Forward,Sandvikens IF,3,2,SE3N,2012,1
+15/04/2012,FC Väsby United,IFK Luleå,3,1,SE3N,2012,1
+16/04/2012,Västerås SK,Vasalunds IF,1,1,SE3N,2012,1
+16/04/2012,Enköpings SK,Syrianska IF Kerburan,1,2,SE3N,2012,1
+25/04/2012,Akropolis IF,Dalkurd FF,2,4,SE3N,2012,1
+21/04/2012,Eskilstuna City FK,BK Forward,2,1,SE3N,2012,2
+21/04/2012,Sandvikens IF,Akropolis IF,2,1,SE3N,2012,2
+21/04/2012,Dalkurd FF,Västerås SK,1,1,SE3N,2012,2
+22/04/2012,IFK Luleå,IK Frej Täby,1,4,SE3N,2012,2
+22/04/2012,Vasalunds IF,Östersunds FK,2,2,SE3N,2012,2
+23/04/2012,Syrianska IF Kerburan,FC Väsby United,0,1,SE3N,2012,2
+23/04/2012,IK Sirius,Enköpings SK,2,0,SE3N,2012,2
+27/04/2012,Västerås SK,Sandvikens IF,1,2,SE3N,2012,3
+28/04/2012,Östersunds FK,Dalkurd FF,1,1,SE3N,2012,3
+28/04/2012,Akropolis IF,Eskilstuna City FK,0,0,SE3N,2012,3
+28/04/2012,IK Frej Täby,Syrianska IF Kerburan,3,0,SE3N,2012,3
+29/04/2012,BK Forward,IFK Luleå,2,1,SE3N,2012,3
+29/04/2012,Vasalunds IF,IK Sirius,0,0,SE3N,2012,3
+02/05/2012,FC Väsby United,Enköpings SK,2,0,SE3N,2012,3
+04/05/2012,Eskilstuna City FK,Västerås SK,1,3,SE3N,2012,4
+05/05/2012,Sandvikens IF,Östersunds FK,0,0,SE3N,2012,4
+05/05/2012,Dalkurd FF,Vasalunds IF,1,3,SE3N,2012,4
+06/05/2012,IFK Luleå,Akropolis IF,3,2,SE3N,2012,4
+06/05/2012,Syrianska IF Kerburan,BK Forward,2,2,SE3N,2012,4
+07/05/2012,Enköpings SK,IK Frej Täby,2,4,SE3N,2012,4
+07/05/2012,IK Sirius,FC Väsby United,2,1,SE3N,2012,4
+12/05/2012,Östersunds FK,Eskilstuna City FK,3,0,SE3N,2012,5
+12/05/2012,Akropolis IF,Syrianska IF Kerburan,2,0,SE3N,2012,5
+12/05/2012,IK Frej Täby,FC Väsby United,2,0,SE3N,2012,5
+13/05/2012,BK Forward,Enköpings SK,2,1,SE3N,2012,5
+13/05/2012,Västerås SK,IFK Luleå,3,1,SE3N,2012,5
+13/05/2012,Dalkurd FF,IK Sirius,0,1,SE3N,2012,5
+13/05/2012,Vasalunds IF,Sandvikens IF,2,1,SE3N,2012,5
+18/05/2012,Eskilstuna City FK,Vasalunds IF,1,3,SE3N,2012,6
+19/05/2012,IFK Luleå,Östersunds FK,1,3,SE3N,2012,6
+19/05/2012,FC Väsby United,BK Forward,2,1,SE3N,2012,6
+19/05/2012,Enköpings SK,Akropolis IF,1,0,SE3N,2012,6
+19/05/2012,Sandvikens IF,Dalkurd FF,1,4,SE3N,2012,6
+21/05/2012,Syrianska IF Kerburan,Västerås SK,0,1,SE3N,2012,6
+21/05/2012,IK Sirius,IK Frej Täby,0,0,SE3N,2012,6
+26/05/2012,Östersunds FK,Syrianska IF Kerburan,4,0,SE3N,2012,7
+26/05/2012,Akropolis IF,FC Väsby United,1,2,SE3N,2012,7
+26/05/2012,BK Forward,IK Frej Täby,3,0,SE3N,2012,7
+26/05/2012,Dalkurd FF,Eskilstuna City FK,2,3,SE3N,2012,7
+27/05/2012,Vasalunds IF,IFK Luleå,3,0,SE3N,2012,7
+27/05/2012,Sandvikens IF,IK Sirius,0,1,SE3N,2012,7
+28/05/2012,Enköpings SK,Västerås SK,1,2,SE3N,2012,7
+02/06/2012,IK Frej Täby,Akropolis IF,1,3,SE3N,2012,8
+02/06/2012,FC Väsby United,Västerås SK,1,4,SE3N,2012,8
+02/06/2012,Eskilstuna City FK,Sandvikens IF,2,2,SE3N,2012,8
+03/06/2012,IFK Luleå,Dalkurd FF,2,2,SE3N,2012,8
+03/06/2012,Enköpings SK,Östersunds FK,2,4,SE3N,2012,8
+03/06/2012,IK Sirius,BK Forward,3,1,SE3N,2012,8
+03/06/2012,Syrianska IF Kerburan,Vasalunds IF,1,3,SE3N,2012,8
+08/06/2012,Eskilstuna City FK,IK Sirius,1,0,SE3N,2012,9
+09/06/2012,Vasalunds IF,Enköpings SK,5,1,SE3N,2012,9
+09/06/2012,Akropolis IF,BK Forward,1,1,SE3N,2012,9
+09/06/2012,Dalkurd FF,Syrianska IF Kerburan,3,2,SE3N,2012,9
+10/06/2012,Östersunds FK,FC Väsby United,1,0,SE3N,2012,9
+10/06/2012,Sandvikens IF,IFK Luleå,5,2,SE3N,2012,9
+12/06/2012,Västerås SK,IK Frej Täby,2,1,SE3N,2012,9
+16/06/2012,IK Frej Täby,Östersunds FK,1,0,SE3N,2012,10
+16/06/2012,BK Forward,Västerås SK,3,0,SE3N,2012,10
+16/06/2012,Syrianska IF Kerburan,Sandvikens IF,1,3,SE3N,2012,10
+16/06/2012,IK Sirius,Akropolis IF,2,0,SE3N,2012,10
+17/06/2012,IFK Luleå,Eskilstuna City FK,7,1,SE3N,2012,10
+18/06/2012,FC Väsby United,Vasalunds IF,1,2,SE3N,2012,10
+18/06/2012,Enköpings SK,Dalkurd FF,0,0,SE3N,2012,10
+24/06/2012,Östersunds FK,BK Forward,1,3,SE3N,2012,11
+24/06/2012,IFK Luleå,IK Sirius,2,1,SE3N,2012,11
+24/06/2012,Eskilstuna City FK,Syrianska IF Kerburan,1,3,SE3N,2012,11
+24/06/2012,Sandvikens IF,Enköpings SK,2,1,SE3N,2012,11
+24/06/2012,Vasalunds IF,IK Frej Täby,4,0,SE3N,2012,11
+25/06/2012,Dalkurd FF,FC Väsby United,4,0,SE3N,2012,11
+04/07/2012,Västerås SK,Akropolis IF,1,1,SE3N,2012,11
+30/06/2012,Akropolis IF,Östersunds FK,0,2,SE3N,2012,12
+30/06/2012,IK Frej Täby,Dalkurd FF,4,0,SE3N,2012,12
+30/06/2012,FC Väsby United,Sandvikens IF,1,1,SE3N,2012,12
+30/06/2012,Enköpings SK,Eskilstuna City FK,0,1,SE3N,2012,12
+30/06/2012,Västerås SK,IK Sirius,0,1,SE3N,2012,12
+01/07/2012,Syrianska IF Kerburan,IFK Luleå,3,2,SE3N,2012,12
+01/07/2012,BK Forward,Vasalunds IF,2,0,SE3N,2012,12
+07/07/2012,Östersunds FK,Västerås SK,3,2,SE3N,2012,13
+07/07/2012,Eskilstuna City FK,FC Väsby United,1,1,SE3N,2012,13
+07/07/2012,Dalkurd FF,BK Forward,1,2,SE3N,2012,13
+08/07/2012,IFK Luleå,Enköpings SK,1,1,SE3N,2012,13
+08/07/2012,Sandvikens IF,IK Frej Täby,1,1,SE3N,2012,13
+08/07/2012,Vasalunds IF,Akropolis IF,1,0,SE3N,2012,13
+09/07/2012,Syrianska IF Kerburan,IK Sirius,3,2,SE3N,2012,13
+14/07/2012,Västerås SK,Östersunds FK,1,1,SE3N,2012,14
+14/07/2012,Akropolis IF,Vasalunds IF,0,0,SE3N,2012,14
+14/07/2012,BK Forward,Dalkurd FF,2,1,SE3N,2012,14
+14/07/2012,IK Frej Täby,Sandvikens IF,2,0,SE3N,2012,14
+14/07/2012,FC Väsby United,Eskilstuna City FK,0,2,SE3N,2012,14
+14/07/2012,Enköpings SK,IFK Luleå,0,1,SE3N,2012,14
+15/07/2012,IK Sirius,Syrianska IF Kerburan,7,0,SE3N,2012,14
+10/08/2012,Eskilstuna City FK,Enköpings SK,1,0,SE3N,2012,15
+11/08/2012,Östersunds FK,Akropolis IF,4,0,SE3N,2012,15
+11/08/2012,Dalkurd FF,IK Frej Täby,1,2,SE3N,2012,15
+12/08/2012,IFK Luleå,Syrianska IF Kerburan,3,2,SE3N,2012,15
+12/08/2012,Sandvikens IF,FC Väsby United,2,0,SE3N,2012,15
+12/08/2012,Vasalunds IF,BK Forward,0,1,SE3N,2012,15
+13/08/2012,IK Sirius,Västerås SK,3,1,SE3N,2012,15
+16/08/2012,Enköpings SK,Sandvikens IF,0,4,SE3N,2012,16
+18/08/2012,FC Väsby United,Dalkurd FF,1,3,SE3N,2012,16
+18/08/2012,Akropolis IF,Västerås SK,4,3,SE3N,2012,16
+19/08/2012,IK Sirius,IFK Luleå,4,1,SE3N,2012,16
+20/08/2012,Syrianska IF Kerburan,Eskilstuna City FK,2,3,SE3N,2012,16
+22/08/2012,BK Forward,Östersunds FK,0,4,SE3N,2012,16
+26/09/2012,IK Frej Täby,Vasalunds IF,0,0,SE3N,2012,16
+25/08/2012,Östersunds FK,IK Frej Täby,3,1,SE3N,2012,17
+25/08/2012,Akropolis IF,IK Sirius,0,3,SE3N,2012,17
+25/08/2012,Dalkurd FF,Enköpings SK,5,0,SE3N,2012,17
+26/08/2012,Eskilstuna City FK,IFK Luleå,2,1,SE3N,2012,17
+26/08/2012,Sandvikens IF,Syrianska IF Kerburan,4,1,SE3N,2012,17
+26/08/2012,Vasalunds IF,FC Väsby United,3,2,SE3N,2012,17
+27/08/2012,Västerås SK,BK Forward,2,2,SE3N,2012,17
+01/09/2012,FC Väsby United,Östersunds FK,1,0,SE3N,2012,18
+01/09/2012,BK Forward,Akropolis IF,0,0,SE3N,2012,18
+01/09/2012,IK Frej Täby,Västerås SK,2,2,SE3N,2012,18
+01/09/2012,Enköpings SK,Vasalunds IF,0,3,SE3N,2012,18
+02/09/2012,IFK Luleå,Sandvikens IF,0,0,SE3N,2012,18
+02/09/2012,IK Sirius,Eskilstuna City FK,2,1,SE3N,2012,18
+02/09/2012,Syrianska IF Kerburan,Dalkurd FF,2,2,SE3N,2012,18
+07/09/2012,Västerås SK,FC Väsby United,2,1,SE3N,2012,19
+08/09/2012,Östersunds FK,Enköpings SK,3,2,SE3N,2012,19
+08/09/2012,BK Forward,IK Sirius,1,0,SE3N,2012,19
+08/09/2012,Akropolis IF,IK Frej Täby,1,2,SE3N,2012,19
+09/09/2012,Dalkurd FF,IFK Luleå,3,1,SE3N,2012,19
+09/09/2012,Sandvikens IF,Eskilstuna City FK,3,0,SE3N,2012,19
+09/09/2012,Vasalunds IF,Syrianska IF Kerburan,0,1,SE3N,2012,19
+14/09/2012,FC Väsby United,Akropolis IF,2,0,SE3N,2012,20
+15/09/2012,IK Frej Täby,BK Forward,1,0,SE3N,2012,20
+15/09/2012,Eskilstuna City FK,Dalkurd FF,3,1,SE3N,2012,20
+16/09/2012,IFK Luleå,Vasalunds IF,1,0,SE3N,2012,20
+16/09/2012,Syrianska IF Kerburan,Östersunds FK,0,0,SE3N,2012,20
+16/09/2012,IK Sirius,Sandvikens IF,3,1,SE3N,2012,20
+17/09/2012,Västerås SK,Enköpings SK,2,0,SE3N,2012,20
+22/09/2012,Östersunds FK,IFK Luleå,1,1,SE3N,2012,21
+22/09/2012,Dalkurd FF,Sandvikens IF,3,3,SE3N,2012,21
+22/09/2012,Västerås SK,Syrianska IF Kerburan,2,0,SE3N,2012,21
+22/09/2012,Akropolis IF,Enköpings SK,0,1,SE3N,2012,21
+22/09/2012,IK Frej Täby,IK Sirius,2,2,SE3N,2012,21
+23/09/2012,BK Forward,FC Väsby United,0,0,SE3N,2012,21
+23/09/2012,Vasalunds IF,Eskilstuna City FK,2,1,SE3N,2012,21
+29/09/2012,Eskilstuna City FK,Östersunds FK,0,1,SE3N,2012,22
+30/09/2012,Enköpings SK,BK Forward,0,7,SE3N,2012,22
+30/09/2012,IFK Luleå,Västerås SK,1,0,SE3N,2012,22
+30/09/2012,Sandvikens IF,Vasalunds IF,1,1,SE3N,2012,22
+30/09/2012,IK Sirius,Dalkurd FF,4,1,SE3N,2012,22
+30/09/2012,Syrianska IF Kerburan,Akropolis IF,2,1,SE3N,2012,22
+01/10/2012,FC Väsby United,IK Frej Täby,1,2,SE3N,2012,22
+06/10/2012,Östersunds FK,Sandvikens IF,4,0,SE3N,2012,23
+06/10/2012,BK Forward,Syrianska IF Kerburan,5,0,SE3N,2012,23
+06/10/2012,IK Frej Täby,Enköpings SK,2,0,SE3N,2012,23
+06/10/2012,Västerås SK,Eskilstuna City FK,1,3,SE3N,2012,23
+07/10/2012,Akropolis IF,IFK Luleå,0,3,SE3N,2012,23
+07/10/2012,Vasalunds IF,Dalkurd FF,1,4,SE3N,2012,23
+08/10/2012,FC Väsby United,IK Sirius,1,6,SE3N,2012,23
+13/10/2012,IFK Luleå,BK Forward,0,1,SE3N,2012,24
+13/10/2012,Dalkurd FF,Östersunds FK,2,2,SE3N,2012,24
+13/10/2012,Eskilstuna City FK,Akropolis IF,2,0,SE3N,2012,24
+14/10/2012,Sandvikens IF,Västerås SK,3,6,SE3N,2012,24
+14/10/2012,IK Sirius,Vasalunds IF,0,1,SE3N,2012,24
+14/10/2012,Syrianska IF Kerburan,IK Frej Täby,1,5,SE3N,2012,24
+15/10/2012,Enköpings SK,FC Väsby United,1,5,SE3N,2012,24
+20/10/2012,Östersunds FK,Vasalunds IF,1,0,SE3N,2012,25
+20/10/2012,Akropolis IF,Sandvikens IF,3,0,SE3N,2012,25
+20/10/2012,Västerås SK,Dalkurd FF,2,3,SE3N,2012,25
+21/10/2012,BK Forward,Eskilstuna City FK,3,1,SE3N,2012,25
+21/10/2012,IK Frej Täby,IFK Luleå,3,2,SE3N,2012,25
+22/10/2012,FC Väsby United,Syrianska IF Kerburan,6,0,SE3N,2012,25
+22/10/2012,Enköpings SK,IK Sirius,0,1,SE3N,2012,25
+28/10/2012,Syrianska IF Kerburan,Enköpings SK,6,4,SE3N,2012,26
+28/10/2012,IFK Luleå,FC Väsby United,2,1,SE3N,2012,26
+28/10/2012,Eskilstuna City FK,IK Frej Täby,4,2,SE3N,2012,26
+28/10/2012,Sandvikens IF,BK Forward,0,2,SE3N,2012,26
+28/10/2012,Dalkurd FF,Akropolis IF,4,5,SE3N,2012,26
+28/10/2012,Vasalunds IF,Västerås SK,3,1,SE3N,2012,26
+28/10/2012,IK Sirius,Östersunds FK,0,1,SE3N,2012,26
+14/04/2013,Dalkurd FF,IFK Luleå,1,1,SE3N,2013,1
+14/04/2013,BK Forward,Sandvikens IF,3,1,SE3N,2013,1
+14/04/2013,Nyköpings BIS,Västerås SK,1,1,SE3N,2013,1
+14/04/2013,Vasalunds IF,Selånger FK,0,3,SE3N,2013,1
+14/04/2013,IK Frej Täby,Umeå FC,0,2,SE3N,2013,1
+14/04/2013,IK Sirius,Eskilstuna City FK,7,0,SE3N,2013,1
+15/04/2013,Valsta Syrianska IK (- 2015),Athletic FC United,1,0,SE3N,2013,1
+19/04/2013,Eskilstuna City FK,BK Forward,2,1,SE3N,2013,2
+20/04/2013,Sandvikens IF,Dalkurd FF,0,1,SE3N,2013,2
+21/04/2013,Västerås SK,IK Frej Täby,1,0,SE3N,2013,2
+21/04/2013,Umeå FC,Valsta Syrianska IK (- 2015),0,2,SE3N,2013,2
+21/04/2013,Selånger FK,IK Sirius,0,3,SE3N,2013,2
+21/04/2013,IFK Luleå,Nyköpings BIS,0,1,SE3N,2013,2
+21/04/2013,Athletic FC United,Vasalunds IF,1,3,SE3N,2013,2
+27/04/2013,Valsta Syrianska IK (- 2015),Västerås SK,0,2,SE3N,2013,3
+27/04/2013,Dalkurd FF,Eskilstuna City FK,2,1,SE3N,2013,3
+27/04/2013,IK Frej Täby,Nyköpings BIS,1,3,SE3N,2013,3
+28/04/2013,Sandvikens IF,IFK Luleå,2,2,SE3N,2013,3
+28/04/2013,BK Forward,Selånger FK,3,0,SE3N,2013,3
+28/04/2013,Vasalunds IF,Umeå FC,2,1,SE3N,2013,3
+29/04/2013,IK Sirius,Athletic FC United,1,0,SE3N,2013,3
+03/05/2013,Eskilstuna City FK,Sandvikens IF,1,1,SE3N,2013,4
+04/05/2013,Umeå FC,IK Sirius,0,1,SE3N,2013,4
+05/05/2013,IFK Luleå,IK Frej Täby,2,1,SE3N,2013,4
+05/05/2013,Selånger FK,Dalkurd FF,0,4,SE3N,2013,4
+05/05/2013,Nyköpings BIS,Valsta Syrianska IK (- 2015),2,1,SE3N,2013,4
+05/05/2013,Athletic FC United,BK Forward,1,1,SE3N,2013,4
+06/05/2013,Västerås SK,Vasalunds IF,1,0,SE3N,2013,4
+11/05/2013,BK Forward,Umeå FC,3,0,SE3N,2013,5
+11/05/2013,IK Sirius,Västerås SK,7,3,SE3N,2013,5
+11/05/2013,Dalkurd FF,Athletic FC United,2,1,SE3N,2013,5
+12/05/2013,Eskilstuna City FK,IFK Luleå,2,2,SE3N,2013,5
+12/05/2013,Vasalunds IF,Nyköpings BIS,1,0,SE3N,2013,5
+13/05/2013,Valsta Syrianska IK (- 2015),IK Frej Täby,1,1,SE3N,2013,5
+13/05/2013,Sandvikens IF,Selånger FK,0,0,SE3N,2013,5
+18/05/2013,Umeå FC,Dalkurd FF,0,3,SE3N,2013,6
+19/05/2013,IFK Luleå,Valsta Syrianska IK (- 2015),3,2,SE3N,2013,6
+19/05/2013,Selånger FK,Eskilstuna City FK,2,2,SE3N,2013,6
+19/05/2013,Västerås SK,BK Forward,1,1,SE3N,2013,6
+19/05/2013,Nyköpings BIS,IK Sirius,1,1,SE3N,2013,6
+19/05/2013,Athletic FC United,Sandvikens IF,1,1,SE3N,2013,6
+20/05/2013,IK Frej Täby,Vasalunds IF,1,2,SE3N,2013,6
+25/05/2013,Selånger FK,IFK Luleå,1,5,SE3N,2013,7
+25/05/2013,IK Sirius,IK Frej Täby,5,0,SE3N,2013,7
+25/05/2013,Sandvikens IF,Umeå FC,3,1,SE3N,2013,7
+25/05/2013,BK Forward,Nyköpings BIS,3,1,SE3N,2013,7
+26/05/2013,Vasalunds IF,Valsta Syrianska IK (- 2015),2,0,SE3N,2013,7
+26/05/2013,Eskilstuna City FK,Athletic FC United,2,3,SE3N,2013,7
+26/05/2013,Dalkurd FF,Västerås SK,5,0,SE3N,2013,7
+01/06/2013,Valsta Syrianska IK (- 2015),IK Sirius,0,2,SE3N,2013,8
+01/06/2013,IK Frej Täby,BK Forward,2,2,SE3N,2013,8
+02/06/2013,Umeå FC,Eskilstuna City FK,5,1,SE3N,2013,8
+02/06/2013,IFK Luleå,Vasalunds IF,3,1,SE3N,2013,8
+02/06/2013,Västerås SK,Sandvikens IF,2,0,SE3N,2013,8
+02/06/2013,Nyköpings BIS,Dalkurd FF,0,2,SE3N,2013,8
+02/06/2013,Athletic FC United,Selånger FK,2,0,SE3N,2013,8
+08/06/2013,Eskilstuna City FK,Västerås SK,1,3,SE3N,2013,9
+08/06/2013,Dalkurd FF,IK Frej Täby,0,1,SE3N,2013,9
+08/06/2013,BK Forward,Valsta Syrianska IK (- 2015),2,0,SE3N,2013,9
+08/06/2013,Sandvikens IF,Nyköpings BIS,0,1,SE3N,2013,9
+09/06/2013,Athletic FC United,IFK Luleå,1,1,SE3N,2013,9
+10/06/2013,IK Sirius,Vasalunds IF,2,1,SE3N,2013,9
+10/06/2013,Selånger FK,Umeå FC,4,1,SE3N,2013,9
+15/06/2013,IK Frej Täby,Sandvikens IF,1,0,SE3N,2013,10
+15/06/2013,Valsta Syrianska IK (- 2015),Dalkurd FF,1,4,SE3N,2013,10
+16/06/2013,IFK Luleå,IK Sirius,0,3,SE3N,2013,10
+16/06/2013,Umeå FC,Athletic FC United,2,1,SE3N,2013,10
+16/06/2013,Västerås SK,Selånger FK,1,2,SE3N,2013,10
+16/06/2013,Vasalunds IF,BK Forward,0,0,SE3N,2013,10
+16/06/2013,Nyköpings BIS,Eskilstuna City FK,1,1,SE3N,2013,10
+20/06/2013,Dalkurd FF,Vasalunds IF,1,1,SE3N,2013,11
+23/06/2013,Eskilstuna City FK,IK Frej Täby,2,0,SE3N,2013,11
+23/06/2013,Sandvikens IF,Valsta Syrianska IK (- 2015),2,3,SE3N,2013,11
+23/06/2013,BK Forward,IK Sirius,0,0,SE3N,2013,11
+23/06/2013,Selånger FK,Nyköpings BIS,0,1,SE3N,2013,11
+24/06/2013,Athletic FC United,Västerås SK,5,1,SE3N,2013,11
+24/06/2013,Umeå FC,IFK Luleå,3,2,SE3N,2013,11
+29/06/2013,IFK Luleå,BK Forward,1,0,SE3N,2013,12
+29/06/2013,Valsta Syrianska IK (- 2015),Eskilstuna City FK,2,1,SE3N,2013,12
+29/06/2013,IK Frej Täby,Selånger FK,2,1,SE3N,2013,12
+30/06/2013,Västerås SK,Umeå FC,2,3,SE3N,2013,12
+30/06/2013,Vasalunds IF,Sandvikens IF,0,1,SE3N,2013,12
+30/06/2013,IK Sirius,Dalkurd FF,4,1,SE3N,2013,12
+30/06/2013,Nyköpings BIS,Athletic FC United,6,0,SE3N,2013,12
+06/07/2013,Dalkurd FF,BK Forward,1,2,SE3N,2013,13
+06/07/2013,Sandvikens IF,IK Sirius,0,3,SE3N,2013,13
+06/07/2013,Eskilstuna City FK,Vasalunds IF,2,1,SE3N,2013,13
+07/07/2013,Selånger FK,Valsta Syrianska IK (- 2015),0,0,SE3N,2013,13
+07/07/2013,Umeå FC,Nyköpings BIS,2,3,SE3N,2013,13
+07/07/2013,Athletic FC United,IK Frej Täby,1,0,SE3N,2013,13
+28/08/2013,Västerås SK,IFK Luleå,4,4,SE3N,2013,13
+13/07/2013,IK Frej Täby,Athletic FC United,2,2,SE3N,2013,14
+13/07/2013,BK Forward,Dalkurd FF,0,0,SE3N,2013,14
+13/07/2013,Valsta Syrianska IK (- 2015),Selånger FK,1,0,SE3N,2013,14
+14/07/2013,Nyköpings BIS,Umeå FC,2,0,SE3N,2013,14
+14/07/2013,Vasalunds IF,Eskilstuna City FK,2,1,SE3N,2013,14
+14/07/2013,IK Sirius,Sandvikens IF,5,0,SE3N,2013,14
+14/07/2013,IFK Luleå,Västerås SK,4,2,SE3N,2013,14
+20/07/2013,Sandvikens IF,Vasalunds IF,2,1,SE3N,2013,15
+20/07/2013,Dalkurd FF,IK Sirius,1,1,SE3N,2013,15
+20/07/2013,Eskilstuna City FK,Valsta Syrianska IK (- 2015),1,2,SE3N,2013,15
+21/07/2013,BK Forward,IFK Luleå,2,3,SE3N,2013,15
+21/07/2013,Selånger FK,IK Frej Täby,1,3,SE3N,2013,15
+21/07/2013,Umeå FC,Västerås SK,4,0,SE3N,2013,15
+21/07/2013,Athletic FC United,Nyköpings BIS,0,3,SE3N,2013,15
+17/08/2013,Valsta Syrianska IK (- 2015),Sandvikens IF,4,2,SE3N,2013,16
+18/08/2013,IK Frej Täby,Eskilstuna City FK,2,1,SE3N,2013,16
+18/08/2013,Västerås SK,Athletic FC United,0,2,SE3N,2013,16
+18/08/2013,IK Sirius,BK Forward,3,1,SE3N,2013,16
+18/08/2013,Vasalunds IF,Dalkurd FF,2,3,SE3N,2013,16
+18/08/2013,Nyköpings BIS,Selånger FK,0,0,SE3N,2013,16
+19/08/2013,IFK Luleå,Umeå FC,0,4,SE3N,2013,16
+23/08/2013,Eskilstuna City FK,Nyköpings BIS,2,1,SE3N,2013,17
+24/08/2013,Dalkurd FF,Valsta Syrianska IK (- 2015),2,1,SE3N,2013,17
+25/08/2013,IK Sirius,IFK Luleå,2,0,SE3N,2013,17
+25/08/2013,BK Forward,Vasalunds IF,3,1,SE3N,2013,17
+25/08/2013,Athletic FC United,Umeå FC,2,3,SE3N,2013,17
+25/08/2013,Selånger FK,Västerås SK,0,0,SE3N,2013,17
+25/08/2013,Sandvikens IF,IK Frej Täby,0,1,SE3N,2013,17
+31/08/2013,Valsta Syrianska IK (- 2015),BK Forward,0,0,SE3N,2013,18
+31/08/2013,IK Frej Täby,Dalkurd FF,1,0,SE3N,2013,18
+01/09/2013,IFK Luleå,Athletic FC United,1,0,SE3N,2013,18
+01/09/2013,Vasalunds IF,IK Sirius,0,2,SE3N,2013,18
+01/09/2013,Nyköpings BIS,Sandvikens IF,3,2,SE3N,2013,18
+02/09/2013,Västerås SK,Eskilstuna City FK,2,1,SE3N,2013,18
+03/09/2013,Umeå FC,Selånger FK,1,0,SE3N,2013,18
+07/09/2013,BK Forward,IK Frej Täby,2,2,SE3N,2013,19
+07/09/2013,Dalkurd FF,Nyköpings BIS,1,2,SE3N,2013,19
+08/09/2013,Vasalunds IF,IFK Luleå,3,1,SE3N,2013,19
+08/09/2013,Selånger FK,Athletic FC United,2,1,SE3N,2013,19
+08/09/2013,Eskilstuna City FK,Umeå FC,1,1,SE3N,2013,19
+09/09/2013,IK Sirius,Valsta Syrianska IK (- 2015),5,1,SE3N,2013,19
+09/09/2013,Sandvikens IF,Västerås SK,2,0,SE3N,2013,19
+14/09/2013,IFK Luleå,Selånger FK,1,0,SE3N,2013,20
+14/09/2013,Umeå FC,Sandvikens IF,4,1,SE3N,2013,20
+14/09/2013,Valsta Syrianska IK (- 2015),Vasalunds IF,4,3,SE3N,2013,20
+15/09/2013,Nyköpings BIS,BK Forward,3,0,SE3N,2013,20
+15/09/2013,Athletic FC United,Eskilstuna City FK,1,0,SE3N,2013,20
+16/09/2013,Västerås SK,Dalkurd FF,0,2,SE3N,2013,20
+16/09/2013,IK Frej Täby,IK Sirius,0,3,SE3N,2013,20
+21/09/2013,Dalkurd FF,Umeå FC,2,0,SE3N,2013,21
+21/09/2013,Eskilstuna City FK,Selånger FK,1,3,SE3N,2013,21
+22/09/2013,BK Forward,Västerås SK,0,0,SE3N,2013,21
+22/09/2013,Valsta Syrianska IK (- 2015),IFK Luleå,2,1,SE3N,2013,21
+22/09/2013,Vasalunds IF,IK Frej Täby,2,3,SE3N,2013,21
+22/09/2013,Sandvikens IF,Athletic FC United,0,3,SE3N,2013,21
+22/09/2013,IK Sirius,Nyköpings BIS,4,1,SE3N,2013,21
+28/09/2013,Umeå FC,BK Forward,0,0,SE3N,2013,22
+28/09/2013,Nyköpings BIS,Vasalunds IF,0,1,SE3N,2013,22
+29/09/2013,IFK Luleå,Eskilstuna City FK,3,1,SE3N,2013,22
+29/09/2013,Selånger FK,Sandvikens IF,0,1,SE3N,2013,22
+29/09/2013,Västerås SK,IK Sirius,1,6,SE3N,2013,22
+29/09/2013,Athletic FC United,Dalkurd FF,0,0,SE3N,2013,22
+30/09/2013,IK Frej Täby,Valsta Syrianska IK (- 2015),5,1,SE3N,2013,22
+05/10/2013,Sandvikens IF,Eskilstuna City FK,3,0,SE3N,2013,23
+05/10/2013,BK Forward,Athletic FC United,4,0,SE3N,2013,23
+05/10/2013,Dalkurd FF,Selånger FK,1,0,SE3N,2013,23
+06/10/2013,IK Frej Täby,IFK Luleå,0,1,SE3N,2013,23
+06/10/2013,IK Sirius,Umeå FC,0,0,SE3N,2013,23
+06/10/2013,Vasalunds IF,Västerås SK,0,1,SE3N,2013,23
+07/10/2013,Valsta Syrianska IK (- 2015),Nyköpings BIS,1,4,SE3N,2013,23
+12/10/2013,Selånger FK,BK Forward,4,5,SE3N,2013,24
+12/10/2013,Eskilstuna City FK,Dalkurd FF,0,2,SE3N,2013,24
+13/10/2013,IFK Luleå,Sandvikens IF,2,2,SE3N,2013,24
+13/10/2013,Nyköpings BIS,IK Frej Täby,0,1,SE3N,2013,24
+13/10/2013,Västerås SK,Valsta Syrianska IK (- 2015),2,0,SE3N,2013,24
+13/10/2013,Umeå FC,Vasalunds IF,0,1,SE3N,2013,24
+14/10/2013,Athletic FC United,IK Sirius,2,2,SE3N,2013,24
+19/10/2013,IK Frej Täby,Västerås SK,0,0,SE3N,2013,25
+19/10/2013,BK Forward,Eskilstuna City FK,6,1,SE3N,2013,25
+19/10/2013,Dalkurd FF,Sandvikens IF,2,4,SE3N,2013,25
+20/10/2013,Nyköpings BIS,IFK Luleå,1,0,SE3N,2013,25
+20/10/2013,IK Sirius,Selånger FK,3,1,SE3N,2013,25
+20/10/2013,Valsta Syrianska IK (- 2015),Umeå FC,1,1,SE3N,2013,25
+20/10/2013,Vasalunds IF,Athletic FC United,2,1,SE3N,2013,25
+27/10/2013,Sandvikens IF,BK Forward,1,1,SE3N,2013,26
+27/10/2013,IFK Luleå,Dalkurd FF,2,5,SE3N,2013,26
+27/10/2013,Athletic FC United,Valsta Syrianska IK (- 2015),1,0,SE3N,2013,26
+27/10/2013,Umeå FC,IK Frej Täby,4,0,SE3N,2013,26
+27/10/2013,Eskilstuna City FK,IK Sirius,2,4,SE3N,2013,26
+27/10/2013,Västerås SK,Nyköpings BIS,1,2,SE3N,2013,26
+27/10/2013,Selånger FK,Vasalunds IF,1,4,SE3N,2013,26
+17/04/2014,BK Forward,IK Frej Täby,2,4,SE3N,2014,1
+19/04/2014,Umeå FC,Dalkurd FF,1,1,SE3N,2014,1
+21/04/2014,IFK Luleå,IF Sylvia,4,0,SE3N,2014,1
+21/04/2014,Nyköpings BIS,Västerås SK,3,0,SE3N,2014,1
+21/04/2014,Huddinge IF,Skellefteå FF,1,0,SE3N,2014,1
+21/04/2014,IK Brage,Athletic FC United,2,1,SE3N,2014,1
+21/04/2014,Vasalunds IF,Valsta Syrianska IK (- 2015),1,4,SE3N,2014,1
+26/04/2014,Dalkurd FF,Nyköpings BIS,2,0,SE3N,2014,2
+26/04/2014,IK Frej Täby,Huddinge IF,2,0,SE3N,2014,2
+27/04/2014,Västerås SK,IFK Luleå,2,2,SE3N,2014,2
+27/04/2014,Valsta Syrianska IK (- 2015),Umeå FC,3,2,SE3N,2014,2
+27/04/2014,Skellefteå FF,Vasalunds IF,2,3,SE3N,2014,2
+27/04/2014,Athletic FC United,BK Forward,2,0,SE3N,2014,2
+27/04/2014,IF Sylvia,IK Brage,2,1,SE3N,2014,2
+04/05/2014,BK Forward,IF Sylvia,5,1,SE3N,2014,3
+04/05/2014,Nyköpings BIS,Valsta Syrianska IK (- 2015),2,0,SE3N,2014,3
+04/05/2014,IK Brage,IFK Luleå,1,1,SE3N,2014,3
+04/05/2014,Vasalunds IF,IK Frej Täby,1,2,SE3N,2014,3
+04/05/2014,Huddinge IF,Athletic FC United,0,1,SE3N,2014,3
+05/05/2014,Västerås SK,Dalkurd FF,0,1,SE3N,2014,3
+05/05/2014,Umeå FC,Skellefteå FF,0,2,SE3N,2014,3
+10/05/2014,IFK Luleå,BK Forward,1,1,SE3N,2014,4
+10/05/2014,Athletic FC United,Vasalunds IF,3,2,SE3N,2014,4
+10/05/2014,Valsta Syrianska IK (- 2015),Dalkurd FF,2,2,SE3N,2014,4
+11/05/2014,IK Frej Täby,Umeå FC,3,1,SE3N,2014,4
+11/05/2014,Skellefteå FF,Nyköpings BIS,1,0,SE3N,2014,4
+11/05/2014,IF Sylvia,Huddinge IF,1,2,SE3N,2014,4
+12/05/2014,IK Brage,Västerås SK,2,0,SE3N,2014,4
+17/05/2014,Dalkurd FF,Skellefteå FF,3,1,SE3N,2014,5
+17/05/2014,BK Forward,IK Brage,0,1,SE3N,2014,5
+18/05/2014,Nyköpings BIS,IK Frej Täby,0,1,SE3N,2014,5
+18/05/2014,Huddinge IF,IFK Luleå,2,1,SE3N,2014,5
+18/05/2014,Vasalunds IF,IF Sylvia,2,1,SE3N,2014,5
+18/05/2014,Umeå FC,Athletic FC United,0,1,SE3N,2014,5
+19/05/2014,Västerås SK,Valsta Syrianska IK (- 2015),1,0,SE3N,2014,5
+24/05/2014,BK Forward,Västerås SK,1,2,SE3N,2014,6
+24/05/2014,IK Frej Täby,Dalkurd FF,0,0,SE3N,2014,6
+24/05/2014,Athletic FC United,Nyköpings BIS,3,0,SE3N,2014,6
+24/05/2014,IF Sylvia,Umeå FC,2,2,SE3N,2014,6
+25/05/2014,IFK Luleå,Vasalunds IF,1,2,SE3N,2014,6
+25/05/2014,Skellefteå FF,Valsta Syrianska IK (- 2015),4,3,SE3N,2014,6
+25/05/2014,IK Brage,Huddinge IF,1,1,SE3N,2014,6
+31/05/2014,Dalkurd FF,Athletic FC United,0,1,SE3N,2014,7
+31/05/2014,Valsta Syrianska IK (- 2015),IK Frej Täby,1,3,SE3N,2014,7
+31/05/2014,Huddinge IF,BK Forward,2,0,SE3N,2014,7
+01/06/2014,Västerås SK,Skellefteå FF,2,3,SE3N,2014,7
+01/06/2014,Vasalunds IF,IK Brage,0,1,SE3N,2014,7
+02/06/2014,Nyköpings BIS,IF Sylvia,4,2,SE3N,2014,7
+02/06/2014,Umeå FC,IFK Luleå,2,3,SE3N,2014,7
+06/06/2014,BK Forward,Vasalunds IF,2,1,SE3N,2014,8
+07/06/2014,IK Brage,Umeå FC,1,1,SE3N,2014,8
+07/06/2014,IF Sylvia,Dalkurd FF,0,2,SE3N,2014,8
+07/06/2014,Huddinge IF,Västerås SK,2,3,SE3N,2014,8
+08/06/2014,IK Frej Täby,Skellefteå FF,3,2,SE3N,2014,8
+08/06/2014,IFK Luleå,Nyköpings BIS,3,0,SE3N,2014,8
+08/06/2014,Athletic FC United,Valsta Syrianska IK (- 2015),3,1,SE3N,2014,8
+12/06/2014,Umeå FC,BK Forward,2,0,SE3N,2014,9
+14/06/2014,Valsta Syrianska IK (- 2015),IF Sylvia,1,3,SE3N,2014,9
+14/06/2014,Västerås SK,IK Frej Täby,0,1,SE3N,2014,9
+15/06/2014,Dalkurd FF,IFK Luleå,2,2,SE3N,2014,9
+15/06/2014,Nyköpings BIS,IK Brage,0,1,SE3N,2014,9
+15/06/2014,Skellefteå FF,Athletic FC United,0,3,SE3N,2014,9
+15/06/2014,Vasalunds IF,Huddinge IF,3,2,SE3N,2014,9
+19/06/2014,BK Forward,Nyköpings BIS,2,1,SE3N,2014,10
+22/06/2014,Athletic FC United,IK Frej Täby,0,2,SE3N,2014,10
+22/06/2014,IFK Luleå,Valsta Syrianska IK (- 2015),4,1,SE3N,2014,10
+22/06/2014,IF Sylvia,Skellefteå FF,3,0,SE3N,2014,10
+22/06/2014,Huddinge IF,Umeå FC,0,1,SE3N,2014,10
+24/06/2014,Vasalunds IF,Västerås SK,2,1,SE3N,2014,10
+24/06/2014,IK Brage,Dalkurd FF,2,4,SE3N,2014,10
+28/06/2014,Skellefteå FF,BK Forward,0,4,SE3N,2014,11
+28/06/2014,IK Frej Täby,IK Brage,0,1,SE3N,2014,11
+28/06/2014,Dalkurd FF,Vasalunds IF,1,2,SE3N,2014,11
+28/06/2014,Valsta Syrianska IK (- 2015),Huddinge IF,2,1,SE3N,2014,11
+29/06/2014,Athletic FC United,IFK Luleå,3,1,SE3N,2014,11
+29/06/2014,Nyköpings BIS,Umeå FC,0,0,SE3N,2014,11
+29/06/2014,Västerås SK,IF Sylvia,0,1,SE3N,2014,11
+04/07/2014,Skellefteå FF,IFK Luleå,2,2,SE3N,2014,12
+05/07/2014,Valsta Syrianska IK (- 2015),IK Brage,1,3,SE3N,2014,12
+05/07/2014,Dalkurd FF,BK Forward,1,0,SE3N,2014,12
+05/07/2014,IK Frej Täby,IF Sylvia,1,0,SE3N,2014,12
+06/07/2014,Umeå FC,Vasalunds IF,0,0,SE3N,2014,12
+06/07/2014,Nyköpings BIS,Huddinge IF,3,2,SE3N,2014,12
+06/07/2014,Västerås SK,Athletic FC United,2,4,SE3N,2014,12
+10/07/2014,Umeå FC,Västerås SK,4,0,SE3N,2014,13
+10/07/2014,Vasalunds IF,Nyköpings BIS,2,0,SE3N,2014,13
+11/07/2014,BK Forward,Valsta Syrianska IK (- 2015),2,1,SE3N,2014,13
+12/07/2014,IK Brage,Skellefteå FF,2,0,SE3N,2014,13
+12/07/2014,IF Sylvia,Athletic FC United,1,1,SE3N,2014,13
+12/07/2014,Huddinge IF,Dalkurd FF,0,1,SE3N,2014,13
+13/07/2014,IFK Luleå,IK Frej Täby,0,0,SE3N,2014,13
+09/08/2014,Dalkurd FF,Umeå FC,1,3,SE3N,2014,14
+09/08/2014,IK Frej Täby,BK Forward,5,1,SE3N,2014,14
+10/08/2014,IF Sylvia,IFK Luleå,1,2,SE3N,2014,14
+10/08/2014,Skellefteå FF,Huddinge IF,1,0,SE3N,2014,14
+10/08/2014,Athletic FC United,IK Brage,1,0,SE3N,2014,14
+10/08/2014,Västerås SK,Nyköpings BIS,2,0,SE3N,2014,14
+11/08/2014,Valsta Syrianska IK (- 2015),Vasalunds IF,2,3,SE3N,2014,14
+16/08/2014,BK Forward,Athletic FC United,0,3,SE3N,2014,15
+17/08/2014,Vasalunds IF,Skellefteå FF,3,1,SE3N,2014,15
+17/08/2014,Umeå FC,Valsta Syrianska IK (- 2015),3,1,SE3N,2014,15
+17/08/2014,Nyköpings BIS,Dalkurd FF,1,2,SE3N,2014,15
+17/08/2014,IFK Luleå,Västerås SK,2,2,SE3N,2014,15
+17/08/2014,IK Brage,IF Sylvia,4,2,SE3N,2014,15
+17/08/2014,Huddinge IF,IK Frej Täby,1,1,SE3N,2014,15
+23/08/2014,IF Sylvia,BK Forward,2,2,SE3N,2014,16
+23/08/2014,Valsta Syrianska IK (- 2015),Nyköpings BIS,1,7,SE3N,2014,16
+23/08/2014,Skellefteå FF,Umeå FC,3,4,SE3N,2014,16
+24/08/2014,IFK Luleå,IK Brage,0,1,SE3N,2014,16
+24/08/2014,IK Frej Täby,Vasalunds IF,0,1,SE3N,2014,16
+24/08/2014,Dalkurd FF,Västerås SK,5,0,SE3N,2014,16
+24/08/2014,Athletic FC United,Huddinge IF,1,3,SE3N,2014,16
+30/08/2014,Dalkurd FF,Valsta Syrianska IK (- 2015),0,0,SE3N,2014,17
+31/08/2014,BK Forward,IFK Luleå,1,0,SE3N,2014,17
+31/08/2014,Nyköpings BIS,Skellefteå FF,4,0,SE3N,2014,17
+31/08/2014,Umeå FC,IK Frej Täby,1,3,SE3N,2014,17
+31/08/2014,Vasalunds IF,Athletic FC United,0,1,SE3N,2014,17
+31/08/2014,Huddinge IF,IF Sylvia,3,0,SE3N,2014,17
+01/09/2014,Västerås SK,IK Brage,3,1,SE3N,2014,17
+06/09/2014,IF Sylvia,Vasalunds IF,1,1,SE3N,2014,18
+06/09/2014,Valsta Syrianska IK (- 2015),Västerås SK,4,2,SE3N,2014,18
+06/09/2014,IK Frej Täby,Nyköpings BIS,1,1,SE3N,2014,18
+07/09/2014,IFK Luleå,Huddinge IF,0,0,SE3N,2014,18
+07/09/2014,Athletic FC United,Umeå FC,0,3,SE3N,2014,18
+07/09/2014,Skellefteå FF,Dalkurd FF,0,2,SE3N,2014,18
+07/09/2014,IK Brage,BK Forward,4,3,SE3N,2014,18
+13/09/2014,Dalkurd FF,IK Frej Täby,2,1,SE3N,2014,19
+14/09/2014,Valsta Syrianska IK (- 2015),Skellefteå FF,2,3,SE3N,2014,19
+14/09/2014,Vasalunds IF,IFK Luleå,1,2,SE3N,2014,19
+14/09/2014,Nyköpings BIS,Athletic FC United,1,0,SE3N,2014,19
+14/09/2014,Umeå FC,IF Sylvia,0,4,SE3N,2014,19
+14/09/2014,Huddinge IF,IK Brage,0,4,SE3N,2014,19
+15/09/2014,Västerås SK,BK Forward,0,1,SE3N,2014,19
+20/09/2014,IFK Luleå,Umeå FC,0,0,SE3N,2014,20
+20/09/2014,Athletic FC United,Dalkurd FF,2,1,SE3N,2014,20
+20/09/2014,BK Forward,Huddinge IF,2,2,SE3N,2014,20
+20/09/2014,IK Frej Täby,Valsta Syrianska IK (- 2015),0,0,SE3N,2014,20
+21/09/2014,Skellefteå FF,Västerås SK,0,4,SE3N,2014,20
+21/09/2014,IK Brage,Vasalunds IF,1,2,SE3N,2014,20
+22/09/2014,IF Sylvia,Nyköpings BIS,0,1,SE3N,2014,20
+27/09/2014,Dalkurd FF,IF Sylvia,5,2,SE3N,2014,21
+27/09/2014,Valsta Syrianska IK (- 2015),Athletic FC United,0,1,SE3N,2014,21
+28/09/2014,Umeå FC,IK Brage,0,1,SE3N,2014,21
+28/09/2014,Nyköpings BIS,IFK Luleå,4,1,SE3N,2014,21
+28/09/2014,Västerås SK,Huddinge IF,0,1,SE3N,2014,21
+28/09/2014,Skellefteå FF,IK Frej Täby,0,2,SE3N,2014,21
+28/09/2014,Vasalunds IF,BK Forward,0,0,SE3N,2014,21
+04/10/2014,IK Frej Täby,Västerås SK,3,2,SE3N,2014,22
+04/10/2014,BK Forward,Umeå FC,1,0,SE3N,2014,22
+05/10/2014,Athletic FC United,Skellefteå FF,8,0,SE3N,2014,22
+05/10/2014,IFK Luleå,Dalkurd FF,0,2,SE3N,2014,22
+05/10/2014,IK Brage,Nyköpings BIS,1,0,SE3N,2014,22
+05/10/2014,Huddinge IF,Vasalunds IF,2,1,SE3N,2014,22
+05/10/2014,IF Sylvia,Valsta Syrianska IK (- 2015),1,2,SE3N,2014,22
+11/10/2014,Dalkurd FF,IK Brage,0,0,SE3N,2014,23
+11/10/2014,IK Frej Täby,Athletic FC United,1,0,SE3N,2014,23
+12/10/2014,Nyköpings BIS,BK Forward,2,4,SE3N,2014,23
+12/10/2014,Valsta Syrianska IK (- 2015),IFK Luleå,4,0,SE3N,2014,23
+12/10/2014,Skellefteå FF,IF Sylvia,2,3,SE3N,2014,23
+12/10/2014,Västerås SK,Vasalunds IF,3,4,SE3N,2014,23
+12/10/2014,Umeå FC,Huddinge IF,0,2,SE3N,2014,23
+18/10/2014,IFK Luleå,Skellefteå FF,5,0,SE3N,2014,24
+18/10/2014,IF Sylvia,IK Frej Täby,1,2,SE3N,2014,24
+18/10/2014,BK Forward,Dalkurd FF,0,1,SE3N,2014,24
+18/10/2014,Athletic FC United,Västerås SK,3,2,SE3N,2014,24
+19/10/2014,Vasalunds IF,Umeå FC,0,7,SE3N,2014,24
+19/10/2014,IK Brage,Valsta Syrianska IK (- 2015),1,1,SE3N,2014,24
+19/10/2014,Huddinge IF,Nyköpings BIS,1,2,SE3N,2014,24
+25/10/2014,Skellefteå FF,IK Brage,1,2,SE3N,2014,25
+25/10/2014,Dalkurd FF,Huddinge IF,2,0,SE3N,2014,25
+25/10/2014,Valsta Syrianska IK (- 2015),BK Forward,2,5,SE3N,2014,25
+26/10/2014,Nyköpings BIS,Vasalunds IF,2,0,SE3N,2014,25
+26/10/2014,IK Frej Täby,IFK Luleå,2,2,SE3N,2014,25
+26/10/2014,Västerås SK,Umeå FC,3,0,SE3N,2014,25
+26/10/2014,Athletic FC United,IF Sylvia,2,0,SE3N,2014,25
+02/11/2014,Vasalunds IF,Dalkurd FF,0,1,SE3N,2014,26
+02/11/2014,Umeå FC,Nyköpings BIS,1,0,SE3N,2014,26
+02/11/2014,IF Sylvia,Västerås SK,2,2,SE3N,2014,26
+02/11/2014,IFK Luleå,Athletic FC United,0,4,SE3N,2014,26
+02/11/2014,IK Brage,IK Frej Täby,1,1,SE3N,2014,26
+02/11/2014,BK Forward,Skellefteå FF,4,0,SE3N,2014,26
+02/11/2014,Huddinge IF,Valsta Syrianska IK (- 2015),2,1,SE3N,2014,26
+11/04/2015,Södertälje FK,Piteå IF,2,5,SE3N,2015,1
+11/04/2015,Carlstad United BK (- 2019),Huddinge IF,2,0,SE3N,2015,1
+11/04/2015,Akropolis IF,IK Brage,1,1,SE3N,2015,1
+12/04/2015,BK Forward,IFK Luleå,1,1,SE3N,2015,1
+12/04/2015,Umeå FC,Nyköpings BIS,1,0,SE3N,2015,1
+12/04/2015,Dalkurd FF,Vasalunds IF,3,0,SE3N,2015,1
+12/04/2015,Motala AIF,Västerås SK,4,0,SE3N,2015,1
+18/04/2015,IFK Luleå,Carlstad United BK (- 2019),3,0,SE3N,2015,2
+19/04/2015,Piteå IF,Akropolis IF,2,1,SE3N,2015,2
+19/04/2015,Nyköpings BIS,Dalkurd FF,1,1,SE3N,2015,2
+19/04/2015,Västerås SK,Umeå FC,0,1,SE3N,2015,2
+19/04/2015,IK Brage,Motala AIF,0,1,SE3N,2015,2
+19/04/2015,Vasalunds IF,BK Forward,2,1,SE3N,2015,2
+19/04/2015,Huddinge IF,Södertälje FK,2,4,SE3N,2015,2
+25/04/2015,Dalkurd FF,Akropolis IF,2,1,SE3N,2015,3
+25/04/2015,Carlstad United BK (- 2019),Södertälje FK,0,3,SE3N,2015,3
+26/04/2015,Umeå FC,Motala AIF,2,1,SE3N,2015,3
+26/04/2015,Nyköpings BIS,IFK Luleå,1,1,SE3N,2015,3
+26/04/2015,BK Forward,Piteå IF,2,1,SE3N,2015,3
+26/04/2015,IK Brage,Vasalunds IF,3,0,SE3N,2015,3
+27/04/2015,Västerås SK,Huddinge IF,3,2,SE3N,2015,3
+02/05/2015,IFK Luleå,Umeå FC,1,0,SE3N,2015,4
+02/05/2015,Akropolis IF,Carlstad United BK (- 2019),0,0,SE3N,2015,4
+02/05/2015,Dalkurd FF,IK Brage,2,1,SE3N,2015,4
+02/05/2015,Södertälje FK,Västerås SK,3,1,SE3N,2015,4
+03/05/2015,Motala AIF,Piteå IF,1,0,SE3N,2015,4
+03/05/2015,BK Forward,Nyköpings BIS,2,2,SE3N,2015,4
+03/05/2015,Vasalunds IF,Huddinge IF,2,1,SE3N,2015,4
+09/05/2015,IK Brage,Umeå FC,2,1,SE3N,2015,5
+09/05/2015,Carlstad United BK (- 2019),BK Forward,0,3,SE3N,2015,5
+10/05/2015,Piteå IF,Vasalunds IF,5,0,SE3N,2015,5
+10/05/2015,Västerås SK,IFK Luleå,0,0,SE3N,2015,5
+10/05/2015,Huddinge IF,Akropolis IF,0,2,SE3N,2015,5
+10/05/2015,Motala AIF,Dalkurd FF,0,3,SE3N,2015,5
+10/05/2015,Nyköpings BIS,Södertälje FK,0,0,SE3N,2015,5
+16/05/2015,BK Forward,Motala AIF,3,0,SE3N,2015,6
+16/05/2015,Dalkurd FF,Carlstad United BK (- 2019),2,0,SE3N,2015,6
+17/05/2015,IFK Luleå,Akropolis IF,1,3,SE3N,2015,6
+17/05/2015,Nyköpings BIS,Piteå IF,2,0,SE3N,2015,6
+17/05/2015,Umeå FC,Huddinge IF,5,0,SE3N,2015,6
+17/05/2015,Vasalunds IF,Södertälje FK,2,2,SE3N,2015,6
+18/05/2015,Västerås SK,IK Brage,0,3,SE3N,2015,6
+23/05/2015,Dalkurd FF,Umeå FC,1,0,SE3N,2015,7
+23/05/2015,BK Forward,IK Brage,3,1,SE3N,2015,7
+23/05/2015,Carlstad United BK (- 2019),Nyköpings BIS,1,3,SE3N,2015,7
+23/05/2015,Akropolis IF,Vasalunds IF,1,0,SE3N,2015,7
+24/05/2015,Södertälje FK,IFK Luleå,1,1,SE3N,2015,7
+24/05/2015,Huddinge IF,Motala AIF,5,1,SE3N,2015,7
+24/05/2015,Piteå IF,Västerås SK,3,2,SE3N,2015,7
+30/05/2015,Vasalunds IF,Carlstad United BK (- 2019),2,0,SE3N,2015,8
+31/05/2015,Umeå FC,BK Forward,3,1,SE3N,2015,8
+31/05/2015,IK Brage,Piteå IF,2,2,SE3N,2015,8
+31/05/2015,IFK Luleå,Huddinge IF,4,1,SE3N,2015,8
+31/05/2015,Nyköpings BIS,Akropolis IF,0,0,SE3N,2015,8
+31/05/2015,Motala AIF,Södertälje FK,3,1,SE3N,2015,8
+01/06/2015,Västerås SK,Dalkurd FF,2,3,SE3N,2015,8
+06/06/2015,Piteå IF,Carlstad United BK (- 2019),4,0,SE3N,2015,9
+06/06/2015,Södertälje FK,Umeå FC,2,4,SE3N,2015,9
+06/06/2015,Nyköpings BIS,Motala AIF,2,1,SE3N,2015,9
+06/06/2015,Akropolis IF,Västerås SK,6,1,SE3N,2015,9
+06/06/2015,Dalkurd FF,BK Forward,1,1,SE3N,2015,9
+07/06/2015,Vasalunds IF,IFK Luleå,2,3,SE3N,2015,9
+07/06/2015,IK Brage,Huddinge IF,0,0,SE3N,2015,9
+11/06/2015,Huddinge IF,Nyköpings BIS,0,4,SE3N,2015,10
+13/06/2015,Carlstad United BK (- 2019),Motala AIF,5,1,SE3N,2015,10
+14/06/2015,IFK Luleå,Dalkurd FF,1,1,SE3N,2015,10
+14/06/2015,BK Forward,Akropolis IF,1,2,SE3N,2015,10
+14/06/2015,Västerås SK,Vasalunds IF,1,2,SE3N,2015,10
+14/06/2015,Södertälje FK,IK Brage,0,4,SE3N,2015,10
+15/06/2015,Umeå FC,Piteå IF,1,1,SE3N,2015,10
+21/06/2015,IK Brage,IFK Luleå,1,2,SE3N,2015,11
+21/06/2015,Piteå IF,Dalkurd FF,2,2,SE3N,2015,11
+21/06/2015,Huddinge IF,BK Forward,4,2,SE3N,2015,11
+21/06/2015,Västerås SK,Nyköpings BIS,1,4,SE3N,2015,11
+21/06/2015,Umeå FC,Carlstad United BK (- 2019),0,3,SE3N,2015,11
+21/06/2015,Motala AIF,Vasalunds IF,0,0,SE3N,2015,11
+22/06/2015,Akropolis IF,Södertälje FK,1,0,SE3N,2015,11
+25/06/2015,Piteå IF,IFK Luleå,1,2,SE3N,2015,12
+27/06/2015,Akropolis IF,Motala AIF,2,0,SE3N,2015,12
+27/06/2015,Dalkurd FF,Huddinge IF,3,1,SE3N,2015,12
+27/06/2015,Carlstad United BK (- 2019),Västerås SK,2,1,SE3N,2015,12
+28/06/2015,Vasalunds IF,Umeå FC,4,2,SE3N,2015,12
+28/06/2015,Nyköpings BIS,IK Brage,1,3,SE3N,2015,12
+28/06/2015,Södertälje FK,BK Forward,2,2,SE3N,2015,12
+04/07/2015,Västerås SK,BK Forward,1,0,SE3N,2015,13
+05/07/2015,IFK Luleå,Motala AIF,4,1,SE3N,2015,13
+05/07/2015,Huddinge IF,Piteå IF,3,2,SE3N,2015,13
+05/07/2015,Umeå FC,Akropolis IF,1,1,SE3N,2015,13
+05/07/2015,Vasalunds IF,Nyköpings BIS,0,0,SE3N,2015,13
+05/07/2015,IK Brage,Carlstad United BK (- 2019),2,3,SE3N,2015,13
+05/07/2015,Södertälje FK,Dalkurd FF,1,1,SE3N,2015,13
+09/07/2015,Nyköpings BIS,Vasalunds IF,4,1,SE3N,2015,14
+09/07/2015,BK Forward,Västerås SK,0,0,SE3N,2015,14
+09/07/2015,Akropolis IF,Huddinge IF,1,0,SE3N,2015,14
+11/07/2015,Motala AIF,Umeå FC,3,2,SE3N,2015,14
+11/07/2015,IK Brage,Södertälje FK,0,3,SE3N,2015,14
+12/07/2015,Carlstad United BK (- 2019),Piteå IF,2,1,SE3N,2015,14
+12/07/2015,Dalkurd FF,IFK Luleå,3,1,SE3N,2015,14
+15/08/2015,BK Forward,Huddinge IF,2,1,SE3N,2015,15
+15/08/2015,Dalkurd FF,Södertälje FK,1,0,SE3N,2015,15
+15/08/2015,Vasalunds IF,Akropolis IF,0,0,SE3N,2015,15
+16/08/2015,IFK Luleå,Nyköpings BIS,2,2,SE3N,2015,15
+16/08/2015,Västerås SK,Carlstad United BK (- 2019),2,1,SE3N,2015,15
+16/08/2015,Motala AIF,IK Brage,1,2,SE3N,2015,15
+17/08/2015,Piteå IF,Umeå FC,1,2,SE3N,2015,15
+22/08/2015,Södertälje FK,Motala AIF,3,1,SE3N,2015,16
+23/08/2015,Carlstad United BK (- 2019),Akropolis IF,2,4,SE3N,2015,16
+23/08/2015,Piteå IF,IK Brage,1,0,SE3N,2015,16
+23/08/2015,Huddinge IF,IFK Luleå,2,1,SE3N,2015,16
+23/08/2015,Umeå FC,Vasalunds IF,3,0,SE3N,2015,16
+23/08/2015,BK Forward,Dalkurd FF,0,0,SE3N,2015,16
+23/08/2015,Nyköpings BIS,Västerås SK,2,3,SE3N,2015,16
+29/08/2015,Södertälje FK,Carlstad United BK (- 2019),0,0,SE3N,2015,17
+30/08/2015,Akropolis IF,Umeå FC,1,1,SE3N,2015,17
+30/08/2015,IK Brage,BK Forward,0,2,SE3N,2015,17
+30/08/2015,Huddinge IF,Vasalunds IF,1,3,SE3N,2015,17
+30/08/2015,Motala AIF,Nyköpings BIS,2,2,SE3N,2015,17
+31/08/2015,Dalkurd FF,Västerås SK,4,0,SE3N,2015,17
+31/08/2015,IFK Luleå,Piteå IF,2,0,SE3N,2015,17
+05/09/2015,Piteå IF,BK Forward,4,4,SE3N,2015,18
+05/09/2015,Akropolis IF,Dalkurd FF,0,1,SE3N,2015,18
+05/09/2015,Carlstad United BK (- 2019),Umeå FC,1,3,SE3N,2015,18
+06/09/2015,Nyköpings BIS,Huddinge IF,2,0,SE3N,2015,18
+06/09/2015,IFK Luleå,Södertälje FK,1,0,SE3N,2015,18
+06/09/2015,Vasalunds IF,IK Brage,2,3,SE3N,2015,18
+06/09/2015,Västerås SK,Motala AIF,3,3,SE3N,2015,18
+12/09/2015,Södertälje FK,Nyköpings BIS,1,5,SE3N,2015,19
+12/09/2015,BK Forward,Vasalunds IF,3,0,SE3N,2015,19
+13/09/2015,Dalkurd FF,Piteå IF,3,0,SE3N,2015,19
+13/09/2015,Huddinge IF,Carlstad United BK (- 2019),1,1,SE3N,2015,19
+13/09/2015,Motala AIF,Akropolis IF,1,2,SE3N,2015,19
+14/09/2015,Umeå FC,IFK Luleå,4,0,SE3N,2015,19
+14/09/2015,IK Brage,Västerås SK,1,0,SE3N,2015,19
+19/09/2015,Akropolis IF,Nyköpings BIS,3,0,SE3N,2015,20
+19/09/2015,Carlstad United BK (- 2019),Dalkurd FF,1,1,SE3N,2015,20
+20/09/2015,Umeå FC,Södertälje FK,1,1,SE3N,2015,20
+20/09/2015,IFK Luleå,BK Forward,1,0,SE3N,2015,20
+20/09/2015,Piteå IF,Motala AIF,2,1,SE3N,2015,20
+20/09/2015,Vasalunds IF,Västerås SK,0,1,SE3N,2015,20
+20/09/2015,Huddinge IF,IK Brage,3,1,SE3N,2015,20
+26/09/2015,Södertälje FK,Vasalunds IF,1,0,SE3N,2015,21
+26/09/2015,Västerås SK,Piteå IF,3,0,SE3N,2015,21
+26/09/2015,Akropolis IF,BK Forward,1,2,SE3N,2015,21
+27/09/2015,Carlstad United BK (- 2019),IFK Luleå,1,1,SE3N,2015,21
+27/09/2015,Nyköpings BIS,Umeå FC,0,2,SE3N,2015,21
+27/09/2015,Motala AIF,Huddinge IF,1,0,SE3N,2015,21
+28/09/2015,IK Brage,Dalkurd FF,1,4,SE3N,2015,21
+03/10/2015,Södertälje FK,Akropolis IF,1,3,SE3N,2015,22
+03/10/2015,BK Forward,Carlstad United BK (- 2019),2,2,SE3N,2015,22
+03/10/2015,Dalkurd FF,Nyköpings BIS,1,0,SE3N,2015,22
+04/10/2015,IFK Luleå,Västerås SK,1,1,SE3N,2015,22
+04/10/2015,Umeå FC,IK Brage,4,3,SE3N,2015,22
+04/10/2015,Piteå IF,Huddinge IF,3,0,SE3N,2015,22
+04/10/2015,Vasalunds IF,Motala AIF,3,1,SE3N,2015,22
+10/10/2015,BK Forward,Södertälje FK,2,1,SE3N,2015,23
+10/10/2015,Carlstad United BK (- 2019),Vasalunds IF,1,1,SE3N,2015,23
+10/10/2015,Umeå FC,Dalkurd FF,0,2,SE3N,2015,23
+11/10/2015,Motala AIF,IFK Luleå,0,3,SE3N,2015,23
+11/10/2015,Akropolis IF,Piteå IF,1,1,SE3N,2015,23
+11/10/2015,IK Brage,Nyköpings BIS,3,0,SE3N,2015,23
+11/10/2015,Huddinge IF,Västerås SK,1,0,SE3N,2015,23
+18/10/2015,Nyköpings BIS,Carlstad United BK (- 2019),1,1,SE3N,2015,24
+18/10/2015,IFK Luleå,IK Brage,0,0,SE3N,2015,24
+18/10/2015,Piteå IF,Södertälje FK,0,0,SE3N,2015,24
+18/10/2015,Huddinge IF,Umeå FC,3,2,SE3N,2015,24
+18/10/2015,Västerås SK,Akropolis IF,1,1,SE3N,2015,24
+18/10/2015,Motala AIF,BK Forward,2,4,SE3N,2015,24
+18/10/2015,Vasalunds IF,Dalkurd FF,0,2,SE3N,2015,24
+24/10/2015,Södertälje FK,Huddinge IF,1,3,SE3N,2015,25
+24/10/2015,Carlstad United BK (- 2019),IK Brage,1,0,SE3N,2015,25
+24/10/2015,Dalkurd FF,Motala AIF,4,0,SE3N,2015,25
+25/10/2015,Vasalunds IF,Piteå IF,3,1,SE3N,2015,25
+25/10/2015,Nyköpings BIS,BK Forward,1,1,SE3N,2015,25
+25/10/2015,Akropolis IF,IFK Luleå,2,1,SE3N,2015,25
+25/10/2015,Umeå FC,Västerås SK,2,5,SE3N,2015,25
+01/11/2015,BK Forward,Umeå FC,3,1,SE3N,2015,26
+01/11/2015,Huddinge IF,Dalkurd FF,2,1,SE3N,2015,26
+01/11/2015,IFK Luleå,Vasalunds IF,3,1,SE3N,2015,26
+01/11/2015,IK Brage,Akropolis IF,1,1,SE3N,2015,26
+01/11/2015,Motala AIF,Carlstad United BK (- 2019),1,2,SE3N,2015,26
+01/11/2015,Piteå IF,Nyköpings BIS,1,3,SE3N,2015,26
+01/11/2015,Västerås SK,Södertälje FK,4,2,SE3N,2015,26
+16/04/2016,Akropolis IF,IFK Luleå,2,2,SE3N,2016,1
+16/04/2016,Carlstad United BK (- 2019),Umeå FC,3,2,SE3N,2016,1
+16/04/2016,Nyköpings BIS,Vasalunds IF,1,1,SE3N,2016,1
+17/04/2016,Team TG FF,Västerås SK,0,4,SE3N,2016,1
+17/04/2016,IF Brommapojkarna,Piteå IF,2,0,SE3N,2016,1
+17/04/2016,Enskede IK,BK Forward,3,1,SE3N,2016,1
+17/04/2016,IK Brage,IK Sleipner,2,0,SE3N,2016,1
+22/04/2016,BK Forward,IF Brommapojkarna,1,2,SE3N,2016,2
+22/04/2016,Västerås SK,Nyköpings BIS,2,3,SE3N,2016,2
+23/04/2016,IK Sleipner,Team TG FF,0,1,SE3N,2016,2
+23/04/2016,Umeå FC,Enskede IK,3,1,SE3N,2016,2
+24/04/2016,Piteå IF,Akropolis IF,1,1,SE3N,2016,2
+24/04/2016,IFK Luleå,IK Brage,0,2,SE3N,2016,2
+24/04/2016,Vasalunds IF,Carlstad United BK (- 2019),1,0,SE3N,2016,2
+30/04/2016,Team TG FF,Umeå FC,1,2,SE3N,2016,3
+30/04/2016,Nyköpings BIS,BK Forward,0,0,SE3N,2016,3
+30/04/2016,Akropolis IF,IK Sleipner,3,1,SE3N,2016,3
+01/05/2016,Carlstad United BK (- 2019),IFK Luleå,2,0,SE3N,2016,3
+01/05/2016,Enskede IK,Piteå IF,3,1,SE3N,2016,3
+01/05/2016,IK Brage,Vasalunds IF,1,1,SE3N,2016,3
+02/05/2016,IF Brommapojkarna,Västerås SK,3,0,SE3N,2016,3
+08/05/2016,Team TG FF,Akropolis IF,1,2,SE3N,2016,4
+08/05/2016,IF Brommapojkarna,Umeå FC,1,1,SE3N,2016,4
+08/05/2016,BK Forward,Piteå IF,3,1,SE3N,2016,4
+08/05/2016,IFK Luleå,Nyköpings BIS,0,1,SE3N,2016,4
+08/05/2016,IK Sleipner,Carlstad United BK (- 2019),4,0,SE3N,2016,4
+08/05/2016,Vasalunds IF,Enskede IK,4,0,SE3N,2016,4
+09/05/2016,Västerås SK,IK Brage,3,0,SE3N,2016,4
+14/05/2016,Carlstad United BK (- 2019),BK Forward,1,0,SE3N,2016,5
+14/05/2016,Umeå FC,Vasalunds IF,0,0,SE3N,2016,5
+14/05/2016,Akropolis IF,Västerås SK,1,1,SE3N,2016,5
+15/05/2016,Nyköpings BIS,Team TG FF,1,1,SE3N,2016,5
+15/05/2016,Piteå IF,IK Sleipner,2,1,SE3N,2016,5
+15/05/2016,Enskede IK,IFK Luleå,1,2,SE3N,2016,5
+16/05/2016,IK Brage,IF Brommapojkarna,0,1,SE3N,2016,5
+21/05/2016,Västerås SK,Carlstad United BK (- 2019),4,0,SE3N,2016,6
+21/05/2016,BK Forward,Umeå FC,2,1,SE3N,2016,6
+21/05/2016,Team TG FF,Piteå IF,1,0,SE3N,2016,6
+21/05/2016,IK Sleipner,Enskede IK,3,3,SE3N,2016,6
+22/05/2016,IFK Luleå,IF Brommapojkarna,2,1,SE3N,2016,6
+22/05/2016,Vasalunds IF,Akropolis IF,3,1,SE3N,2016,6
+22/05/2016,IK Brage,Nyköpings BIS,2,0,SE3N,2016,6
+28/05/2016,Umeå FC,Västerås SK,2,0,SE3N,2016,7
+28/05/2016,Akropolis IF,BK Forward,2,0,SE3N,2016,7
+28/05/2016,Carlstad United BK (- 2019),Team TG FF,0,1,SE3N,2016,7
+28/05/2016,IF Brommapojkarna,IK Sleipner,2,1,SE3N,2016,7
+29/05/2016,Piteå IF,IK Brage,2,1,SE3N,2016,7
+29/05/2016,Vasalunds IF,IFK Luleå,3,0,SE3N,2016,7
+29/05/2016,Enskede IK,Nyköpings BIS,2,0,SE3N,2016,7
+04/06/2016,IK Sleipner,Umeå FC,1,3,SE3N,2016,8
+04/06/2016,BK Forward,Vasalunds IF,2,0,SE3N,2016,8
+05/06/2016,IFK Luleå,Västerås SK,1,4,SE3N,2016,8
+05/06/2016,Team TG FF,Enskede IK,1,1,SE3N,2016,8
+05/06/2016,Nyköpings BIS,Piteå IF,2,3,SE3N,2016,8
+05/06/2016,IK Brage,Carlstad United BK (- 2019),1,2,SE3N,2016,8
+07/06/2016,IF Brommapojkarna,Akropolis IF,3,0,SE3N,2016,8
+11/06/2016,IFK Luleå,Team TG FF,0,1,SE3N,2016,9
+11/06/2016,Akropolis IF,Carlstad United BK (- 2019),2,1,SE3N,2016,9
+11/06/2016,BK Forward,IK Brage,0,2,SE3N,2016,9
+11/06/2016,Västerås SK,Vasalunds IF,1,1,SE3N,2016,9
+12/06/2016,Enskede IK,IF Brommapojkarna,1,1,SE3N,2016,9
+13/06/2016,Nyköpings BIS,IK Sleipner,2,0,SE3N,2016,9
+14/06/2016,Umeå FC,Piteå IF,3,1,SE3N,2016,9
+18/06/2016,IK Brage,Akropolis IF,1,2,SE3N,2016,10
+18/06/2016,IF Brommapojkarna,Nyköpings BIS,1,1,SE3N,2016,10
+19/06/2016,Piteå IF,Västerås SK,1,1,SE3N,2016,10
+19/06/2016,Carlstad United BK (- 2019),Enskede IK,1,2,SE3N,2016,10
+19/06/2016,Vasalunds IF,Team TG FF,2,1,SE3N,2016,10
+19/06/2016,IK Sleipner,BK Forward,1,3,SE3N,2016,10
+20/06/2016,Umeå FC,IFK Luleå,2,2,SE3N,2016,10
+23/06/2016,BK Forward,Västerås SK,3,4,SE3N,2016,11
+26/06/2016,IFK Luleå,IK Sleipner,1,1,SE3N,2016,11
+26/06/2016,Carlstad United BK (- 2019),Nyköpings BIS,0,7,SE3N,2016,11
+26/06/2016,Akropolis IF,Umeå FC,4,0,SE3N,2016,11
+26/06/2016,Team TG FF,IF Brommapojkarna,0,5,SE3N,2016,11
+26/06/2016,Enskede IK,IK Brage,1,4,SE3N,2016,11
+13/07/2016,Vasalunds IF,Piteå IF,4,0,SE3N,2016,11
+02/07/2016,Umeå FC,IK Brage,3,2,SE3N,2016,12
+02/07/2016,BK Forward,Team TG FF,4,1,SE3N,2016,12
+02/07/2016,Nyköpings BIS,Akropolis IF,1,1,SE3N,2016,12
+02/07/2016,Västerås SK,Enskede IK,3,2,SE3N,2016,12
+02/07/2016,IF Brommapojkarna,Carlstad United BK (- 2019),2,2,SE3N,2016,12
+03/07/2016,IK Sleipner,Vasalunds IF,2,3,SE3N,2016,12
+06/07/2016,Piteå IF,IFK Luleå,2,3,SE3N,2016,12
+09/07/2016,IK Brage,Team TG FF,4,0,SE3N,2016,13
+09/07/2016,Vasalunds IF,IF Brommapojkarna,1,1,SE3N,2016,13
+10/07/2016,IFK Luleå,BK Forward,2,1,SE3N,2016,13
+10/07/2016,Piteå IF,Carlstad United BK (- 2019),1,3,SE3N,2016,13
+10/07/2016,Umeå FC,Nyköpings BIS,1,1,SE3N,2016,13
+10/07/2016,Västerås SK,IK Sleipner,5,1,SE3N,2016,13
+10/07/2016,Enskede IK,Akropolis IF,0,4,SE3N,2016,13
+14/07/2016,BK Forward,Enskede IK,2,1,SE3N,2016,14
+16/07/2016,Carlstad United BK (- 2019),Västerås SK,1,2,SE3N,2016,14
+16/07/2016,IF Brommapojkarna,IK Brage,3,1,SE3N,2016,14
+17/07/2016,Team TG FF,Vasalunds IF,2,3,SE3N,2016,14
+17/07/2016,Akropolis IF,Piteå IF,2,1,SE3N,2016,14
+17/07/2016,IK Sleipner,IFK Luleå,2,1,SE3N,2016,14
+17/07/2016,Nyköpings BIS,Umeå FC,2,0,SE3N,2016,14
+20/08/2016,Umeå FC,Carlstad United BK (- 2019),0,0,SE3N,2016,15
+21/08/2016,IFK Luleå,Akropolis IF,1,1,SE3N,2016,15
+21/08/2016,Västerås SK,Team TG FF,1,1,SE3N,2016,15
+21/08/2016,Piteå IF,IF Brommapojkarna,1,3,SE3N,2016,15
+21/08/2016,Vasalunds IF,Nyköpings BIS,3,2,SE3N,2016,15
+21/08/2016,IK Brage,BK Forward,1,0,SE3N,2016,15
+21/08/2016,Enskede IK,IK Sleipner,2,0,SE3N,2016,15
+27/08/2016,Carlstad United BK (- 2019),Vasalunds IF,1,3,SE3N,2016,16
+28/08/2016,Team TG FF,IK Brage,3,1,SE3N,2016,16
+28/08/2016,BK Forward,Nyköpings BIS,1,2,SE3N,2016,16
+28/08/2016,Västerås SK,Umeå FC,3,3,SE3N,2016,16
+28/08/2016,Akropolis IF,Enskede IK,5,1,SE3N,2016,16
+28/08/2016,IK Sleipner,IF Brommapojkarna,0,1,SE3N,2016,16
+29/08/2016,IFK Luleå,Piteå IF,1,1,SE3N,2016,16
+03/09/2016,Nyköpings BIS,Västerås SK,2,1,SE3N,2016,17
+04/09/2016,Piteå IF,BK Forward,5,0,SE3N,2016,17
+04/09/2016,Umeå FC,Akropolis IF,2,1,SE3N,2016,17
+04/09/2016,IK Brage,IFK Luleå,1,0,SE3N,2016,17
+04/09/2016,IF Brommapojkarna,Team TG FF,5,0,SE3N,2016,17
+04/09/2016,Vasalunds IF,IK Sleipner,6,2,SE3N,2016,17
+04/09/2016,Enskede IK,Carlstad United BK (- 2019),1,1,SE3N,2016,17
+09/09/2016,IFK Luleå,Umeå FC,2,1,SE3N,2016,18
+10/09/2016,Akropolis IF,Vasalunds IF,2,3,SE3N,2016,18
+10/09/2016,IK Sleipner,Piteå IF,3,0,SE3N,2016,18
+10/09/2016,Nyköpings BIS,Enskede IK,3,0,SE3N,2016,18
+10/09/2016,Carlstad United BK (- 2019),IK Brage,0,3,SE3N,2016,18
+11/09/2016,Team TG FF,BK Forward,1,0,SE3N,2016,18
+12/09/2016,Västerås SK,IF Brommapojkarna,1,1,SE3N,2016,18
+17/09/2016,BK Forward,Akropolis IF,1,1,SE3N,2016,19
+17/09/2016,IK Brage,Umeå FC,0,0,SE3N,2016,19
+17/09/2016,Team TG FF,Carlstad United BK (- 2019),2,2,SE3N,2016,19
+18/09/2016,Piteå IF,Vasalunds IF,1,3,SE3N,2016,19
+18/09/2016,IF Brommapojkarna,IFK Luleå,4,2,SE3N,2016,19
+18/09/2016,Enskede IK,Västerås SK,2,1,SE3N,2016,19
+19/09/2016,IK Sleipner,Nyköpings BIS,1,0,SE3N,2016,19
+24/09/2016,Umeå FC,IF Brommapojkarna,0,3,SE3N,2016,20
+24/09/2016,Carlstad United BK (- 2019),IK Sleipner,3,0,SE3N,2016,20
+24/09/2016,Vasalunds IF,BK Forward,3,1,SE3N,2016,20
+25/09/2016,Piteå IF,Enskede IK,0,0,SE3N,2016,20
+25/09/2016,Västerås SK,IFK Luleå,5,0,SE3N,2016,20
+25/09/2016,Nyköpings BIS,IK Brage,2,3,SE3N,2016,20
+25/09/2016,Akropolis IF,Team TG FF,5,1,SE3N,2016,20
+01/10/2016,Carlstad United BK (- 2019),Akropolis IF,2,1,SE3N,2016,21
+01/10/2016,IK Sleipner,IK Brage,1,2,SE3N,2016,21
+02/10/2016,Team TG FF,Nyköpings BIS,3,1,SE3N,2016,21
+02/10/2016,IFK Luleå,Enskede IK,1,2,SE3N,2016,21
+02/10/2016,Vasalunds IF,Umeå FC,3,0,SE3N,2016,21
+02/10/2016,Västerås SK,Piteå IF,2,2,SE3N,2016,21
+02/10/2016,IF Brommapojkarna,BK Forward,4,0,SE3N,2016,21
+08/10/2016,BK Forward,Carlstad United BK (- 2019),0,1,SE3N,2016,22
+08/10/2016,Umeå FC,IK Sleipner,3,3,SE3N,2016,22
+08/10/2016,Akropolis IF,IF Brommapojkarna,1,3,SE3N,2016,22
+09/10/2016,Nyköpings BIS,IFK Luleå,3,1,SE3N,2016,22
+09/10/2016,Piteå IF,Team TG FF,1,2,SE3N,2016,22
+09/10/2016,Enskede IK,Vasalunds IF,1,2,SE3N,2016,22
+10/10/2016,IK Brage,Västerås SK,1,1,SE3N,2016,22
+15/10/2016,IK Sleipner,Västerås SK,1,0,SE3N,2016,23
+15/10/2016,Akropolis IF,Nyköpings BIS,1,1,SE3N,2016,23
+16/10/2016,Umeå FC,BK Forward,3,1,SE3N,2016,23
+16/10/2016,IFK Luleå,Vasalunds IF,2,2,SE3N,2016,23
+16/10/2016,IK Brage,Piteå IF,1,0,SE3N,2016,23
+16/10/2016,Carlstad United BK (- 2019),IF Brommapojkarna,0,1,SE3N,2016,23
+16/10/2016,Enskede IK,Team TG FF,0,1,SE3N,2016,23
+22/10/2016,BK Forward,IK Sleipner,4,0,SE3N,2016,24
+22/10/2016,Nyköpings BIS,Carlstad United BK (- 2019),0,0,SE3N,2016,24
+22/10/2016,Team TG FF,IFK Luleå,1,0,SE3N,2016,24
+22/10/2016,IF Brommapojkarna,Enskede IK,2,1,SE3N,2016,24
+23/10/2016,Piteå IF,Umeå FC,4,2,SE3N,2016,24
+23/10/2016,Västerås SK,Akropolis IF,1,3,SE3N,2016,24
+23/10/2016,Vasalunds IF,IK Brage,3,1,SE3N,2016,24
+29/10/2016,Nyköpings BIS,IF Brommapojkarna,0,1,SE3N,2016,25
+29/10/2016,IK Sleipner,Akropolis IF,1,2,SE3N,2016,25
+29/10/2016,Umeå FC,Team TG FF,0,0,SE3N,2016,25
+30/10/2016,Carlstad United BK (- 2019),Piteå IF,2,2,SE3N,2016,25
+30/10/2016,BK Forward,IFK Luleå,2,4,SE3N,2016,25
+30/10/2016,Vasalunds IF,Västerås SK,1,0,SE3N,2016,25
+30/10/2016,IK Brage,Enskede IK,1,2,SE3N,2016,25
+06/11/2016,IFK Luleå,Carlstad United BK (- 2019),2,1,SE3N,2016,26
+06/11/2016,Piteå IF,Nyköpings BIS,5,2,SE3N,2016,26
+06/11/2016,Akropolis IF,IK Brage,3,0,SE3N,2016,26
+06/11/2016,Västerås SK,BK Forward,1,3,SE3N,2016,26
+06/11/2016,IF Brommapojkarna,Vasalunds IF,3,0,SE3N,2016,26
+06/11/2016,Enskede IK,Umeå FC,1,1,SE3N,2016,26
+06/11/2016,Team TG FF,IK Sleipner,3,1,SE3N,2016,26
+13/04/2017,Västerås SK,Assyriska FF,3,0,SE3N,2017,1
+16/04/2017,Enskede IK,Sollentuna FK,0,2,SE3N,2017,1
+17/04/2017,Carlstad United BK (- 2019),IFK Luleå,0,0,SE3N,2017,1
+17/04/2017,Arameisk-Syrianska IF,IK Brage,0,3,SE3N,2017,1
+17/04/2017,Nyköpings BIS,Team TG FF,1,0,SE3N,2017,1
+17/04/2017,Sandvikens IF,Akropolis IF,1,2,SE3N,2017,1
+17/04/2017,Umeå FC,Vasalunds IF,3,3,SE3N,2017,1
+22/04/2017,Team TG FF,Västerås SK,0,2,SE3N,2017,2
+23/04/2017,Akropolis IF,Umeå FC,2,3,SE3N,2017,2
+23/04/2017,Sollentuna FK,Nyköpings BIS,2,1,SE3N,2017,2
+23/04/2017,IFK Luleå,Enskede IK,0,1,SE3N,2017,2
+23/04/2017,Assyriska FF,Arameisk-Syrianska IF,1,2,SE3N,2017,2
+23/04/2017,Vasalunds IF,Sandvikens IF,2,1,SE3N,2017,2
+23/04/2017,IK Brage,Carlstad United BK (- 2019),3,0,SE3N,2017,2
+29/04/2017,Sandvikens IF,Team TG FF,2,0,SE3N,2017,3
+29/04/2017,Arameisk-Syrianska IF,Västerås SK,2,0,SE3N,2017,3
+29/04/2017,Nyköpings BIS,IK Brage,0,3,SE3N,2017,3
+30/04/2017,Sollentuna FK,IFK Luleå,2,0,SE3N,2017,3
+30/04/2017,Umeå FC,Assyriska FF,3,0,SE3N,2017,3
+01/05/2017,Carlstad United BK (- 2019),Vasalunds IF,1,0,SE3N,2017,3
+01/05/2017,Enskede IK,Akropolis IF,3,5,SE3N,2017,3
+07/05/2017,Team TG FF,Enskede IK,4,2,SE3N,2017,4
+07/05/2017,Akropolis IF,Nyköpings BIS,4,1,SE3N,2017,4
+07/05/2017,IFK Luleå,Sandvikens IF,1,0,SE3N,2017,4
+07/05/2017,Västerås SK,Umeå FC,1,1,SE3N,2017,4
+07/05/2017,Assyriska FF,Carlstad United BK (- 2019),1,1,SE3N,2017,4
+07/05/2017,Vasalunds IF,Arameisk-Syrianska IF,1,1,SE3N,2017,4
+07/05/2017,IK Brage,Sollentuna FK,3,2,SE3N,2017,4
+13/05/2017,Sollentuna FK,Assyriska FF,1,1,SE3N,2017,5
+13/05/2017,Carlstad United BK (- 2019),Akropolis IF,1,0,SE3N,2017,5
+14/05/2017,Arameisk-Syrianska IF,IFK Luleå,2,1,SE3N,2017,5
+14/05/2017,Nyköpings BIS,Vasalunds IF,1,3,SE3N,2017,5
+14/05/2017,Enskede IK,Västerås SK,1,3,SE3N,2017,5
+15/05/2017,Sandvikens IF,IK Brage,1,4,SE3N,2017,5
+15/05/2017,Umeå FC,Team TG FF,0,4,SE3N,2017,5
+20/05/2017,IK Brage,Umeå FC,3,0,SE3N,2017,6
+20/05/2017,Akropolis IF,Arameisk-Syrianska IF,3,2,SE3N,2017,6
+20/05/2017,Assyriska FF,Enskede IK,4,0,SE3N,2017,6
+21/05/2017,Team TG FF,Carlstad United BK (- 2019),1,0,SE3N,2017,6
+21/05/2017,Västerås SK,Sandvikens IF,2,1,SE3N,2017,6
+21/05/2017,Vasalunds IF,Sollentuna FK,0,1,SE3N,2017,6
+28/06/2017,IFK Luleå,Nyköpings BIS,0,2,SE3N,2017,6
+27/05/2017,Sollentuna FK,Sandvikens IF,1,2,SE3N,2017,7
+28/05/2017,IK Brage,IFK Luleå,2,1,SE3N,2017,7
+28/05/2017,Arameisk-Syrianska IF,Team TG FF,3,2,SE3N,2017,7
+28/05/2017,Assyriska FF,Akropolis IF,2,1,SE3N,2017,7
+28/05/2017,Carlstad United BK (- 2019),Västerås SK,1,5,SE3N,2017,7
+28/05/2017,Enskede IK,Vasalunds IF,0,2,SE3N,2017,7
+13/08/2017,Nyköpings BIS,Umeå FC,2,2,SE3N,2017,7
+01/06/2017,Carlstad United BK (- 2019),Umeå FC,1,2,SE3N,2017,8
+03/06/2017,Akropolis IF,Vasalunds IF,3,0,SE3N,2017,8
+03/06/2017,Enskede IK,IK Brage,0,1,SE3N,2017,8
+04/06/2017,Team TG FF,Sollentuna FK,1,1,SE3N,2017,8
+04/06/2017,IFK Luleå,Västerås SK,0,0,SE3N,2017,8
+04/06/2017,Nyköpings BIS,Arameisk-Syrianska IF,0,1,SE3N,2017,8
+04/06/2017,Sandvikens IF,Assyriska FF,1,1,SE3N,2017,8
+10/06/2017,Arameisk-Syrianska IF,Sollentuna FK,0,1,SE3N,2017,9
+11/06/2017,Assyriska FF,Team TG FF,3,2,SE3N,2017,9
+11/06/2017,Västerås SK,Akropolis IF,5,3,SE3N,2017,9
+11/06/2017,Sandvikens IF,Carlstad United BK (- 2019),1,0,SE3N,2017,9
+11/06/2017,Vasalunds IF,IK Brage,0,0,SE3N,2017,9
+12/06/2017,Umeå FC,IFK Luleå,2,1,SE3N,2017,9
+12/06/2017,Nyköpings BIS,Enskede IK,3,3,SE3N,2017,9
+17/06/2017,IK Brage,Assyriska FF,4,2,SE3N,2017,10
+17/06/2017,Carlstad United BK (- 2019),Nyköpings BIS,1,0,SE3N,2017,10
+17/06/2017,Sollentuna FK,Västerås SK,0,0,SE3N,2017,10
+18/06/2017,Umeå FC,Arameisk-Syrianska IF,2,1,SE3N,2017,10
+18/06/2017,Akropolis IF,Team TG FF,2,2,SE3N,2017,10
+18/06/2017,IFK Luleå,Vasalunds IF,2,0,SE3N,2017,10
+18/06/2017,Enskede IK,Sandvikens IF,1,2,SE3N,2017,10
+25/06/2017,Arameisk-Syrianska IF,Carlstad United BK (- 2019),2,1,SE3N,2017,11
+25/06/2017,Assyriska FF,IFK Luleå,3,2,SE3N,2017,11
+25/06/2017,Team TG FF,Vasalunds IF,1,0,SE3N,2017,11
+25/06/2017,Enskede IK,Umeå FC,2,5,SE3N,2017,11
+25/06/2017,Sandvikens IF,Nyköpings BIS,3,3,SE3N,2017,11
+26/06/2017,Akropolis IF,Sollentuna FK,5,2,SE3N,2017,11
+26/06/2017,Västerås SK,IK Brage,1,2,SE3N,2017,11
+01/07/2017,Umeå FC,Sandvikens IF,3,1,SE3N,2017,12
+01/07/2017,Arameisk-Syrianska IF,Enskede IK,1,2,SE3N,2017,12
+01/07/2017,Sollentuna FK,Carlstad United BK (- 2019),1,3,SE3N,2017,12
+02/07/2017,IFK Luleå,Team TG FF,0,2,SE3N,2017,12
+02/07/2017,Nyköpings BIS,Assyriska FF,3,1,SE3N,2017,12
+02/07/2017,Vasalunds IF,Västerås SK,3,2,SE3N,2017,12
+02/07/2017,IK Brage,Akropolis IF,3,1,SE3N,2017,12
+08/07/2017,Carlstad United BK (- 2019),Enskede IK,1,2,SE3N,2017,13
+08/07/2017,Vasalunds IF,Assyriska FF,0,0,SE3N,2017,13
+08/07/2017,Västerås SK,Nyköpings BIS,3,1,SE3N,2017,13
+09/07/2017,Team TG FF,IK Brage,1,1,SE3N,2017,13
+09/07/2017,Akropolis IF,IFK Luleå,3,1,SE3N,2017,13
+09/07/2017,Sollentuna FK,Umeå FC,0,1,SE3N,2017,13
+09/07/2017,Sandvikens IF,Arameisk-Syrianska IF,1,1,SE3N,2017,13
+13/07/2017,Arameisk-Syrianska IF,Vasalunds IF,0,1,SE3N,2017,14
+13/07/2017,IFK Luleå,Sollentuna FK,3,2,SE3N,2017,14
+14/07/2017,Nyköpings BIS,Akropolis IF,2,3,SE3N,2017,14
+16/07/2017,Assyriska FF,Sandvikens IF,3,1,SE3N,2017,14
+16/07/2017,Umeå FC,Västerås SK,2,1,SE3N,2017,14
+16/07/2017,IK Brage,Team TG FF,2,1,SE3N,2017,14
+16/07/2017,Enskede IK,Carlstad United BK (- 2019),0,1,SE3N,2017,14
+19/08/2017,Sandvikens IF,Enskede IK,0,1,SE3N,2017,15
+19/08/2017,Akropolis IF,Assyriska FF,3,1,SE3N,2017,15
+19/08/2017,Vasalunds IF,Carlstad United BK (- 2019),0,1,SE3N,2017,15
+20/08/2017,Sollentuna FK,IK Brage,3,2,SE3N,2017,15
+20/08/2017,Västerås SK,Arameisk-Syrianska IF,1,2,SE3N,2017,15
+20/08/2017,Team TG FF,Nyköpings BIS,2,3,SE3N,2017,15
+21/08/2017,IFK Luleå,Umeå FC,2,2,SE3N,2017,15
+26/08/2017,Carlstad United BK (- 2019),Sandvikens IF,2,1,SE3N,2017,16
+27/08/2017,Arameisk-Syrianska IF,Akropolis IF,0,4,SE3N,2017,16
+27/08/2017,Umeå FC,Sollentuna FK,3,1,SE3N,2017,16
+27/08/2017,Enskede IK,Team TG FF,1,1,SE3N,2017,16
+27/08/2017,Nyköpings BIS,IFK Luleå,2,1,SE3N,2017,16
+27/08/2017,Assyriska FF,Vasalunds IF,4,2,SE3N,2017,16
+28/08/2017,IK Brage,Västerås SK,1,0,SE3N,2017,16
+01/09/2017,Team TG FF,Umeå FC,0,0,SE3N,2017,17
+02/09/2017,Sandvikens IF,Sollentuna FK,2,2,SE3N,2017,17
+03/09/2017,Akropolis IF,Enskede IK,4,1,SE3N,2017,17
+03/09/2017,IFK Luleå,Assyriska FF,1,4,SE3N,2017,17
+03/09/2017,Västerås SK,Carlstad United BK (- 2019),1,2,SE3N,2017,17
+03/09/2017,Vasalunds IF,Nyköpings BIS,1,3,SE3N,2017,17
+03/09/2017,IK Brage,Arameisk-Syrianska IF,3,2,SE3N,2017,17
+09/09/2017,Arameisk-Syrianska IF,Sandvikens IF,1,2,SE3N,2017,18
+09/09/2017,Sollentuna FK,Vasalunds IF,2,1,SE3N,2017,18
+10/09/2017,Carlstad United BK (- 2019),Team TG FF,1,1,SE3N,2017,18
+10/09/2017,Umeå FC,Akropolis IF,2,3,SE3N,2017,18
+10/09/2017,Enskede IK,IFK Luleå,1,0,SE3N,2017,18
+10/09/2017,Nyköpings BIS,Västerås SK,0,2,SE3N,2017,18
+10/09/2017,Assyriska FF,IK Brage,1,5,SE3N,2017,18
+16/09/2017,Sandvikens IF,Umeå FC,1,0,SE3N,2017,19
+17/09/2017,Team TG FF,Assyriska FF,2,3,SE3N,2017,19
+17/09/2017,Akropolis IF,IK Brage,3,2,SE3N,2017,19
+17/09/2017,IFK Luleå,Arameisk-Syrianska IF,0,2,SE3N,2017,19
+17/09/2017,Nyköpings BIS,Carlstad United BK (- 2019),1,1,SE3N,2017,19
+17/09/2017,Vasalunds IF,Enskede IK,2,0,SE3N,2017,19
+18/09/2017,Västerås SK,Sollentuna FK,5,0,SE3N,2017,19
+23/09/2017,Team TG FF,Sandvikens IF,3,2,SE3N,2017,20
+23/09/2017,Carlstad United BK (- 2019),Assyriska FF,2,2,SE3N,2017,20
+23/09/2017,Sollentuna FK,Enskede IK,3,1,SE3N,2017,20
+24/09/2017,IFK Luleå,Akropolis IF,0,0,SE3N,2017,20
+24/09/2017,Arameisk-Syrianska IF,Umeå FC,5,3,SE3N,2017,20
+24/09/2017,Västerås SK,Vasalunds IF,2,1,SE3N,2017,20
+24/09/2017,IK Brage,Nyköpings BIS,1,1,SE3N,2017,20
+30/09/2017,Sollentuna FK,Arameisk-Syrianska IF,0,3,SE3N,2017,21
+30/09/2017,Akropolis IF,Carlstad United BK (- 2019),3,0,SE3N,2017,21
+01/10/2017,Umeå FC,IK Brage,0,4,SE3N,2017,21
+01/10/2017,Sandvikens IF,IFK Luleå,2,1,SE3N,2017,21
+01/10/2017,Vasalunds IF,Team TG FF,0,1,SE3N,2017,21
+01/10/2017,Assyriska FF,Västerås SK,0,4,SE3N,2017,21
+01/10/2017,Enskede IK,Nyköpings BIS,1,7,SE3N,2017,21
+07/10/2017,Nyköpings BIS,Sandvikens IF,2,1,SE3N,2017,22
+07/10/2017,Carlstad United BK (- 2019),Sollentuna FK,1,0,SE3N,2017,22
+08/10/2017,Team TG FF,Arameisk-Syrianska IF,3,1,SE3N,2017,22
+08/10/2017,Västerås SK,IFK Luleå,5,2,SE3N,2017,22
+08/10/2017,Assyriska FF,Umeå FC,1,0,SE3N,2017,22
+08/10/2017,Vasalunds IF,Akropolis IF,0,4,SE3N,2017,22
+08/10/2017,IK Brage,Enskede IK,4,1,SE3N,2017,22
+14/10/2017,Akropolis IF,Västerås SK,2,0,SE3N,2017,23
+15/10/2017,IFK Luleå,IK Brage,0,2,SE3N,2017,23
+15/10/2017,Arameisk-Syrianska IF,Nyköpings BIS,1,6,SE3N,2017,23
+15/10/2017,Umeå FC,Carlstad United BK (- 2019),0,0,SE3N,2017,23
+15/10/2017,Sollentuna FK,Team TG FF,3,3,SE3N,2017,23
+15/10/2017,Sandvikens IF,Vasalunds IF,1,0,SE3N,2017,23
+15/10/2017,Enskede IK,Assyriska FF,3,0,SE3N,2017,23
+21/10/2017,Carlstad United BK (- 2019),Arameisk-Syrianska IF,1,0,SE3N,2017,24
+21/10/2017,Umeå FC,Nyköpings BIS,0,1,SE3N,2017,24
+22/10/2017,Team TG FF,Akropolis IF,4,0,SE3N,2017,24
+22/10/2017,Vasalunds IF,IFK Luleå,6,2,SE3N,2017,24
+22/10/2017,Västerås SK,Enskede IK,2,1,SE3N,2017,24
+22/10/2017,Assyriska FF,Sollentuna FK,2,1,SE3N,2017,24
+23/10/2017,IK Brage,Sandvikens IF,0,0,SE3N,2017,24
+29/10/2017,Nyköpings BIS,Sollentuna FK,2,1,SE3N,2017,25
+29/10/2017,Umeå FC,Enskede IK,7,1,SE3N,2017,25
+29/10/2017,Arameisk-Syrianska IF,Assyriska FF,3,2,SE3N,2017,25
+29/10/2017,Akropolis IF,Sandvikens IF,4,2,SE3N,2017,25
+29/10/2017,IFK Luleå,Carlstad United BK (- 2019),3,2,SE3N,2017,25
+29/10/2017,Västerås SK,Team TG FF,2,1,SE3N,2017,25
+29/10/2017,IK Brage,Vasalunds IF,3,3,SE3N,2017,25
+04/11/2017,Sandvikens IF,Västerås SK,3,1,SE3N,2017,26
+04/11/2017,Sollentuna FK,Akropolis IF,2,1,SE3N,2017,26
+04/11/2017,Team TG FF,IFK Luleå,4,0,SE3N,2017,26
+04/11/2017,Enskede IK,Arameisk-Syrianska IF,3,2,SE3N,2017,26
+04/11/2017,Carlstad United BK (- 2019),IK Brage,2,0,SE3N,2017,26
+04/11/2017,Vasalunds IF,Umeå FC,1,1,SE3N,2017,26
+04/11/2017,Assyriska FF,Nyköpings BIS,1,2,SE3N,2017,26
+07/04/2018,Skellefteå FF,Västerås SK,1,3,SE3N,2018,1
+07/04/2018,Umeå FC,Sandvikens IF,1,1,SE3N,2018,1
+07/04/2018,FC Linköping City,Nyköpings BIS,1,1,SE3N,2018,1
+07/04/2018,Arameisk-Syrianska IF,Rynninge IK,1,1,SE3N,2018,1
+08/04/2018,BK Forward,Assyriska FF,2,1,SE3N,2018,1
+08/04/2018,Syrianska FC,Carlstad United BK (- 2019),3,4,SE3N,2018,1
+08/04/2018,Akropolis IF,Team TG FF,1,0,SE3N,2018,1
+08/04/2018,Karlslunds IF FK,Sollentuna FK,1,1,SE3N,2018,1
+14/04/2018,Sandvikens IF,Karlslunds IF FK,1,1,SE3N,2018,2
+14/04/2018,Rynninge IK,FC Linköping City,1,3,SE3N,2018,2
+14/04/2018,Västerås SK,Akropolis IF,3,0,SE3N,2018,2
+15/04/2018,Carlstad United BK (- 2019),BK Forward,1,1,SE3N,2018,2
+15/04/2018,Team TG FF,Syrianska FC,0,1,SE3N,2018,2
+15/04/2018,Nyköpings BIS,Umeå FC,1,1,SE3N,2018,2
+15/04/2018,Assyriska FF,Arameisk-Syrianska IF,3,1,SE3N,2018,2
+15/04/2018,Sollentuna FK,Skellefteå FF,4,1,SE3N,2018,2
+21/04/2018,Skellefteå FF,Sandvikens IF,1,2,SE3N,2018,3
+21/04/2018,Rynninge IK,Assyriska FF,2,1,SE3N,2018,3
+21/04/2018,Arameisk-Syrianska IF,Västerås SK,1,3,SE3N,2018,3
+21/04/2018,Umeå FC,FC Linköping City,3,2,SE3N,2018,3
+21/04/2018,Karlslunds IF FK,Carlstad United BK (- 2019),0,1,SE3N,2018,3
+22/04/2018,Syrianska FC,BK Forward,2,2,SE3N,2018,3
+22/04/2018,Sollentuna FK,Team TG FF,1,2,SE3N,2018,3
+22/04/2018,Akropolis IF,Nyköpings BIS,1,1,SE3N,2018,3
+27/04/2018,Västerås SK,Rynninge IK,1,0,SE3N,2018,4
+28/04/2018,BK Forward,Arameisk-Syrianska IF,4,1,SE3N,2018,4
+28/04/2018,FC Linköping City,Akropolis IF,0,0,SE3N,2018,4
+29/04/2018,Team TG FF,Karlslunds IF FK,2,1,SE3N,2018,4
+29/04/2018,Nyköpings BIS,Skellefteå FF,2,0,SE3N,2018,4
+29/04/2018,Carlstad United BK (- 2019),Umeå FC,3,1,SE3N,2018,4
+29/04/2018,Assyriska FF,Syrianska FC,2,2,SE3N,2018,4
+29/04/2018,Sandvikens IF,Sollentuna FK,3,4,SE3N,2018,4
+05/05/2018,Rynninge IK,Sandvikens IF,2,0,SE3N,2018,5
+05/05/2018,Sollentuna FK,Carlstad United BK (- 2019),0,2,SE3N,2018,5
+05/05/2018,Nyköpings BIS,Arameisk-Syrianska IF,0,4,SE3N,2018,5
+05/05/2018,Karlslunds IF FK,Assyriska FF,4,5,SE3N,2018,5
+06/05/2018,Skellefteå FF,FC Linköping City,1,1,SE3N,2018,5
+06/05/2018,BK Forward,Team TG FF,1,1,SE3N,2018,5
+06/05/2018,Akropolis IF,Umeå FC,1,0,SE3N,2018,5
+06/05/2018,Syrianska FC,Västerås SK,0,2,SE3N,2018,5
+12/05/2018,FC Linköping City,Sollentuna FK,1,0,SE3N,2018,6
+12/05/2018,Team TG FF,Skellefteå FF,3,3,SE3N,2018,6
+13/05/2018,Carlstad United BK (- 2019),Akropolis IF,2,4,SE3N,2018,6
+13/05/2018,Västerås SK,Karlslunds IF FK,2,0,SE3N,2018,6
+13/05/2018,Umeå FC,Rynninge IK,2,1,SE3N,2018,6
+13/05/2018,Arameisk-Syrianska IF,Syrianska FC,2,3,SE3N,2018,6
+13/05/2018,Assyriska FF,Nyköpings BIS,2,1,SE3N,2018,6
+13/05/2018,Sandvikens IF,BK Forward,0,2,SE3N,2018,6
+19/05/2018,Rynninge IK,Carlstad United BK (- 2019),1,2,SE3N,2018,7
+19/05/2018,FC Linköping City,Sandvikens IF,1,1,SE3N,2018,7
+19/05/2018,Sollentuna FK,BK Forward,1,1,SE3N,2018,7
+20/05/2018,Syrianska FC,Umeå FC,1,1,SE3N,2018,7
+20/05/2018,Arameisk-Syrianska IF,Team TG FF,2,4,SE3N,2018,7
+20/05/2018,Västerås SK,Assyriska FF,0,1,SE3N,2018,7
+20/05/2018,Karlslunds IF FK,Nyköpings BIS,1,3,SE3N,2018,7
+20/05/2018,Akropolis IF,Skellefteå FF,2,2,SE3N,2018,7
+26/05/2018,Umeå FC,Karlslunds IF FK,1,1,SE3N,2018,8
+26/05/2018,BK Forward,Akropolis IF,3,4,SE3N,2018,8
+26/05/2018,Nyköpings BIS,Syrianska FC,2,5,SE3N,2018,8
+27/05/2018,Team TG FF,Rynninge IK,1,3,SE3N,2018,8
+27/05/2018,Skellefteå FF,Arameisk-Syrianska IF,2,3,SE3N,2018,8
+27/05/2018,Carlstad United BK (- 2019),FC Linköping City,3,1,SE3N,2018,8
+27/05/2018,Sandvikens IF,Västerås SK,1,3,SE3N,2018,8
+27/05/2018,Assyriska FF,Sollentuna FK,4,1,SE3N,2018,8
+31/05/2018,Skellefteå FF,Umeå FC,1,1,SE3N,2018,9
+31/05/2018,FC Linköping City,BK Forward,1,0,SE3N,2018,9
+01/06/2018,Rynninge IK,Syrianska FC,2,1,SE3N,2018,9
+02/06/2018,Sollentuna FK,Nyköpings BIS,1,0,SE3N,2018,9
+02/06/2018,Arameisk-Syrianska IF,Carlstad United BK (- 2019),1,8,SE3N,2018,9
+02/06/2018,Västerås SK,Team TG FF,3,1,SE3N,2018,9
+02/06/2018,Karlslunds IF FK,Akropolis IF,1,0,SE3N,2018,9
+03/06/2018,Assyriska FF,Sandvikens IF,1,3,SE3N,2018,9
+06/06/2018,Carlstad United BK (- 2019),Skellefteå FF,3,3,SE3N,2018,10
+06/06/2018,Umeå FC,Västerås SK,2,0,SE3N,2018,10
+06/06/2018,Team TG FF,Assyriska FF,2,1,SE3N,2018,10
+06/06/2018,Akropolis IF,Sollentuna FK,1,1,SE3N,2018,10
+06/06/2018,Syrianska FC,FC Linköping City,3,2,SE3N,2018,10
+06/06/2018,Nyköpings BIS,Rynninge IK,2,2,SE3N,2018,10
+06/06/2018,Sandvikens IF,Arameisk-Syrianska IF,2,2,SE3N,2018,10
+06/06/2018,BK Forward,Karlslunds IF FK,3,1,SE3N,2018,10
+09/06/2018,Nyköpings BIS,Sandvikens IF,0,0,SE3N,2018,11
+09/06/2018,Rynninge IK,BK Forward,2,2,SE3N,2018,11
+10/06/2018,FC Linköping City,Team TG FF,1,0,SE3N,2018,11
+10/06/2018,Sollentuna FK,Umeå FC,1,1,SE3N,2018,11
+10/06/2018,Karlslunds IF FK,Arameisk-Syrianska IF,0,0,SE3N,2018,11
+10/06/2018,Skellefteå FF,Syrianska FC,1,2,SE3N,2018,11
+10/06/2018,Västerås SK,Carlstad United BK (- 2019),1,1,SE3N,2018,11
+10/06/2018,Assyriska FF,Akropolis IF,2,4,SE3N,2018,11
+16/06/2018,Sollentuna FK,Västerås SK,0,2,SE3N,2018,12
+16/06/2018,BK Forward,Nyköpings BIS,4,2,SE3N,2018,12
+16/06/2018,Arameisk-Syrianska IF,FC Linköping City,2,4,SE3N,2018,12
+16/06/2018,Syrianska FC,Karlslunds IF FK,0,1,SE3N,2018,12
+17/06/2018,Skellefteå FF,Assyriska FF,2,2,SE3N,2018,12
+17/06/2018,Sandvikens IF,Carlstad United BK (- 2019),0,3,SE3N,2018,12
+17/06/2018,Akropolis IF,Rynninge IK,3,2,SE3N,2018,12
+18/06/2018,Umeå FC,Team TG FF,1,0,SE3N,2018,12
+21/06/2018,FC Linköping City,Karlslunds IF FK,1,1,SE3N,2018,13
+21/06/2018,Arameisk-Syrianska IF,Sollentuna FK,0,2,SE3N,2018,13
+21/06/2018,Västerås SK,BK Forward,2,1,SE3N,2018,13
+24/06/2018,Rynninge IK,Skellefteå FF,3,2,SE3N,2018,13
+24/06/2018,Team TG FF,Sandvikens IF,1,1,SE3N,2018,13
+24/06/2018,Akropolis IF,Syrianska FC,1,2,SE3N,2018,13
+24/06/2018,Carlstad United BK (- 2019),Nyköpings BIS,3,3,SE3N,2018,13
+24/06/2018,Assyriska FF,Umeå FC,1,2,SE3N,2018,13
+29/06/2018,Rynninge IK,Karlslunds IF FK,2,2,SE3N,2018,14
+30/06/2018,Sollentuna FK,Syrianska FC,0,1,SE3N,2018,14
+30/06/2018,Nyköpings BIS,Västerås SK,1,0,SE3N,2018,14
+30/06/2018,Sandvikens IF,Akropolis IF,3,0,SE3N,2018,14
+30/06/2018,Umeå FC,Arameisk-Syrianska IF,5,0,SE3N,2018,14
+01/07/2018,Skellefteå FF,BK Forward,4,1,SE3N,2018,14
+01/07/2018,Team TG FF,Carlstad United BK (- 2019),0,4,SE3N,2018,14
+01/07/2018,Assyriska FF,FC Linköping City,2,4,SE3N,2018,14
+07/07/2018,BK Forward,Umeå FC,0,1,SE3N,2018,15
+07/07/2018,Rynninge IK,Sollentuna FK,0,0,SE3N,2018,15
+08/07/2018,Karlslunds IF FK,Skellefteå FF,0,0,SE3N,2018,15
+08/07/2018,Arameisk-Syrianska IF,Akropolis IF,4,1,SE3N,2018,15
+08/07/2018,Carlstad United BK (- 2019),Assyriska FF,2,0,SE3N,2018,15
+08/07/2018,Syrianska FC,Sandvikens IF,1,0,SE3N,2018,15
+08/07/2018,Nyköpings BIS,Team TG FF,3,1,SE3N,2018,15
+08/07/2018,FC Linköping City,Västerås SK,1,0,SE3N,2018,15
+14/07/2018,Carlstad United BK (- 2019),Arameisk-Syrianska IF,2,2,SE3N,2018,16
+14/07/2018,Umeå FC,Sollentuna FK,2,4,SE3N,2018,16
+14/07/2018,Västerås SK,Syrianska FC,1,0,SE3N,2018,16
+14/07/2018,Karlslunds IF FK,Rynninge IK,3,2,SE3N,2018,16
+14/07/2018,Assyriska FF,BK Forward,0,3,SE3N,2018,16
+15/07/2018,Team TG FF,FC Linköping City,2,2,SE3N,2018,16
+15/07/2018,Skellefteå FF,Nyköpings BIS,0,2,SE3N,2018,16
+16/07/2018,Akropolis IF,Sandvikens IF,0,2,SE3N,2018,16
+19/07/2018,Sollentuna FK,Arameisk-Syrianska IF,2,0,SE3N,2018,17
+20/07/2018,Nyköpings BIS,Assyriska FF,4,4,SE3N,2018,17
+21/07/2018,Sandvikens IF,Rynninge IK,3,1,SE3N,2018,17
+21/07/2018,Karlslunds IF FK,Västerås SK,1,2,SE3N,2018,17
+21/07/2018,BK Forward,Skellefteå FF,2,1,SE3N,2018,17
+22/07/2018,Umeå FC,Akropolis IF,0,3,SE3N,2018,17
+22/07/2018,Syrianska FC,Team TG FF,2,0,SE3N,2018,17
+22/07/2018,FC Linköping City,Carlstad United BK (- 2019),0,0,SE3N,2018,17
+18/08/2018,BK Forward,Syrianska FC,0,1,SE3N,2018,18
+18/08/2018,Rynninge IK,Nyköpings BIS,2,0,SE3N,2018,18
+18/08/2018,Team TG FF,Sollentuna FK,0,1,SE3N,2018,18
+18/08/2018,Akropolis IF,FC Linköping City,3,1,SE3N,2018,18
+18/08/2018,Västerås SK,Sandvikens IF,1,1,SE3N,2018,18
+19/08/2018,Skellefteå FF,Carlstad United BK (- 2019),1,1,SE3N,2018,18
+19/08/2018,Arameisk-Syrianska IF,Umeå FC,0,1,SE3N,2018,18
+19/08/2018,Assyriska FF,Karlslunds IF FK,2,4,SE3N,2018,18
+25/08/2018,Karlslunds IF FK,BK Forward,3,1,SE3N,2018,19
+26/08/2018,Sandvikens IF,Team TG FF,2,1,SE3N,2018,19
+26/08/2018,Sollentuna FK,Assyriska FF,1,1,SE3N,2018,19
+26/08/2018,Carlstad United BK (- 2019),Västerås SK,2,3,SE3N,2018,19
+26/08/2018,Syrianska FC,Rynninge IK,4,2,SE3N,2018,19
+26/08/2018,Nyköpings BIS,Akropolis IF,1,1,SE3N,2018,19
+27/08/2018,Umeå FC,Skellefteå FF,1,0,SE3N,2018,19
+27/08/2018,FC Linköping City,Arameisk-Syrianska IF,1,2,SE3N,2018,19
+01/09/2018,BK Forward,FC Linköping City,3,1,SE3N,2018,20
+01/09/2018,Arameisk-Syrianska IF,Sandvikens IF,1,2,SE3N,2018,20
+01/09/2018,Karlslunds IF FK,Syrianska FC,0,1,SE3N,2018,20
+02/09/2018,Skellefteå FF,Sollentuna FK,1,2,SE3N,2018,20
+02/09/2018,Akropolis IF,Carlstad United BK (- 2019),2,2,SE3N,2018,20
+02/09/2018,Team TG FF,Nyköpings BIS,3,0,SE3N,2018,20
+02/09/2018,Västerås SK,Umeå FC,3,1,SE3N,2018,20
+02/09/2018,Assyriska FF,Rynninge IK,2,3,SE3N,2018,20
+08/09/2018,Sollentuna FK,Akropolis IF,2,2,SE3N,2018,21
+08/09/2018,Nyköpings BIS,Karlslunds IF FK,0,2,SE3N,2018,21
+09/09/2018,Umeå FC,BK Forward,2,1,SE3N,2018,21
+09/09/2018,Carlstad United BK (- 2019),Team TG FF,3,1,SE3N,2018,21
+09/09/2018,Rynninge IK,Västerås SK,3,1,SE3N,2018,21
+09/09/2018,FC Linköping City,Skellefteå FF,2,1,SE3N,2018,21
+09/09/2018,Syrianska FC,Arameisk-Syrianska IF,2,0,SE3N,2018,21
+09/09/2018,Sandvikens IF,Assyriska FF,2,1,SE3N,2018,21
+15/09/2018,BK Forward,Carlstad United BK (- 2019),3,1,SE3N,2018,22
+15/09/2018,Arameisk-Syrianska IF,Nyköpings BIS,0,1,SE3N,2018,22
+15/09/2018,Karlslunds IF FK,Sandvikens IF,0,4,SE3N,2018,22
+16/09/2018,Skellefteå FF,Rynninge IK,0,0,SE3N,2018,22
+16/09/2018,Akropolis IF,Assyriska FF,4,0,SE3N,2018,22
+16/09/2018,Syrianska FC,Sollentuna FK,3,2,SE3N,2018,22
+16/09/2018,Västerås SK,FC Linköping City,4,2,SE3N,2018,22
+17/09/2018,Team TG FF,Umeå FC,3,1,SE3N,2018,22
+22/09/2018,Sandvikens IF,Skellefteå FF,3,2,SE3N,2018,23
+22/09/2018,Rynninge IK,Akropolis IF,0,2,SE3N,2018,23
+22/09/2018,Sollentuna FK,Karlslunds IF FK,0,0,SE3N,2018,23
+22/09/2018,Nyköpings BIS,BK Forward,1,1,SE3N,2018,23
+23/09/2018,FC Linköping City,Umeå FC,1,1,SE3N,2018,23
+23/09/2018,Carlstad United BK (- 2019),Syrianska FC,1,0,SE3N,2018,23
+23/09/2018,Team TG FF,Arameisk-Syrianska IF,5,0,SE3N,2018,23
+23/09/2018,Assyriska FF,Västerås SK,0,2,SE3N,2018,23
+29/09/2018,BK Forward,Rynninge IK,1,0,SE3N,2018,24
+29/09/2018,Skellefteå FF,Team TG FF,0,1,SE3N,2018,24
+30/09/2018,Umeå FC,Carlstad United BK (- 2019),2,1,SE3N,2018,24
+30/09/2018,Syrianska FC,Nyköpings BIS,2,2,SE3N,2018,24
+30/09/2018,Sandvikens IF,FC Linköping City,1,1,SE3N,2018,24
+30/09/2018,Arameisk-Syrianska IF,Assyriska FF,3,1,SE3N,2018,24
+30/09/2018,Västerås SK,Sollentuna FK,1,0,SE3N,2018,24
+30/09/2018,Akropolis IF,Karlslunds IF FK,5,1,SE3N,2018,24
+06/10/2018,Nyköpings BIS,Sollentuna FK,5,2,SE3N,2018,25
+06/10/2018,Rynninge IK,Arameisk-Syrianska IF,4,0,SE3N,2018,25
+06/10/2018,Karlslunds IF FK,Umeå FC,0,3,SE3N,2018,25
+06/10/2018,FC Linköping City,Syrianska FC,2,4,SE3N,2018,25
+07/10/2018,Akropolis IF,BK Forward,5,1,SE3N,2018,25
+07/10/2018,Carlstad United BK (- 2019),Sandvikens IF,3,1,SE3N,2018,25
+07/10/2018,Västerås SK,Skellefteå FF,2,0,SE3N,2018,25
+07/10/2018,Assyriska FF,Team TG FF,0,0,SE3N,2018,25
+13/10/2018,BK Forward,Västerås SK,2,1,SE3N,2018,26
+13/10/2018,Sandvikens IF,Nyköpings BIS,5,0,SE3N,2018,26
+13/10/2018,Sollentuna FK,FC Linköping City,3,2,SE3N,2018,26
+13/10/2018,Arameisk-Syrianska IF,Karlslunds IF FK,1,2,SE3N,2018,26
+14/10/2018,Team TG FF,Akropolis IF,1,3,SE3N,2018,26
+14/10/2018,Carlstad United BK (- 2019),Rynninge IK,2,2,SE3N,2018,26
+14/10/2018,Umeå FC,Assyriska FF,3,1,SE3N,2018,26
+14/10/2018,Syrianska FC,Skellefteå FF,3,1,SE3N,2018,26
+06/04/2019,Rynninge IK,Akropolis IF,2,3,SE3N,2019,1
+06/04/2019,Karlstad BK (- 2019),Vasalunds IF,2,2,SE3N,2019,1
+06/04/2019,Karlslunds IF FK,IF Sylvia,3,1,SE3N,2019,1
+07/04/2019,Carlstad United BK (- 2019),BK Forward,2,0,SE3N,2019,1
+07/04/2019,FC Linköping City,Bodens BK,4,0,SE3N,2019,1
+07/04/2019,Sandvikens IF,Sollentuna FK,3,1,SE3N,2019,1
+07/04/2019,Nyköpings BIS,Gefle IF,2,1,SE3N,2019,1
+07/04/2019,Team TG FF,Umeå FC,0,1,SE3N,2019,1
+13/04/2019,IF Sylvia,Karlstad BK (- 2019),0,2,SE3N,2019,2
+13/04/2019,Akropolis IF,Carlstad United BK (- 2019),2,2,SE3N,2019,2
+13/04/2019,Sollentuna FK,Nyköpings BIS,1,1,SE3N,2019,2
+14/04/2019,BK Forward,Team TG FF,2,0,SE3N,2019,2
+14/04/2019,Bodens BK,Sandvikens IF,0,3,SE3N,2019,2
+14/04/2019,Umeå FC,FC Linköping City,5,3,SE3N,2019,2
+14/04/2019,Gefle IF,Rynninge IK,3,0,SE3N,2019,2
+14/04/2019,Vasalunds IF,Karlslunds IF FK,2,2,SE3N,2019,2
+19/04/2019,Carlstad United BK (- 2019),Sollentuna FK,3,1,SE3N,2019,3
+19/04/2019,FC Linköping City,BK Forward,4,1,SE3N,2019,3
+19/04/2019,Sandvikens IF,Rynninge IK,5,1,SE3N,2019,3
+20/04/2019,Karlslunds IF FK,Akropolis IF,1,1,SE3N,2019,3
+21/04/2019,Team TG FF,IF Sylvia,1,3,SE3N,2019,3
+22/04/2019,Nyköpings BIS,Bodens BK,2,0,SE3N,2019,3
+22/04/2019,Vasalunds IF,Gefle IF,0,0,SE3N,2019,3
+22/04/2019,Karlstad BK (- 2019),Umeå FC,1,0,SE3N,2019,3
+26/04/2019,IF Sylvia,Nyköpings BIS,3,0,SE3N,2019,4
+27/04/2019,BK Forward,Sandvikens IF,0,1,SE3N,2019,4
+27/04/2019,Gefle IF,Carlstad United BK (- 2019),0,3,SE3N,2019,4
+27/04/2019,Sollentuna FK,FC Linköping City,1,3,SE3N,2019,4
+27/04/2019,Akropolis IF,Karlstad BK (- 2019),2,0,SE3N,2019,4
+28/04/2019,Rynninge IK,Team TG FF,2,1,SE3N,2019,4
+28/04/2019,Bodens BK,Karlslunds IF FK,0,2,SE3N,2019,4
+15/05/2019,Umeå FC,Vasalunds IF,2,1,SE3N,2019,4
+01/05/2019,Bodens BK,BK Forward,1,1,SE3N,2019,5
+01/05/2019,Sollentuna FK,Karlstad BK (- 2019),0,0,SE3N,2019,5
+01/05/2019,Vasalunds IF,Carlstad United BK (- 2019),1,1,SE3N,2019,5
+01/05/2019,Umeå FC,Akropolis IF,1,3,SE3N,2019,5
+01/05/2019,Karlslunds IF FK,Nyköpings BIS,0,0,SE3N,2019,5
+01/05/2019,IF Sylvia,Rynninge IK,3,3,SE3N,2019,5
+01/05/2019,FC Linköping City,Gefle IF,3,0,SE3N,2019,5
+01/05/2019,Sandvikens IF,Team TG FF,1,2,SE3N,2019,5
+04/05/2019,Karlstad BK (- 2019),Karlslunds IF FK,1,1,SE3N,2019,6
+05/05/2019,Rynninge IK,FC Linköping City,1,2,SE3N,2019,6
+05/05/2019,Gefle IF,Bodens BK,3,0,SE3N,2019,6
+05/05/2019,BK Forward,Umeå FC,1,2,SE3N,2019,6
+05/05/2019,Akropolis IF,Sollentuna FK,1,1,SE3N,2019,6
+05/05/2019,Nyköpings BIS,Sandvikens IF,3,3,SE3N,2019,6
+05/05/2019,Carlstad United BK (- 2019),IF Sylvia,3,2,SE3N,2019,6
+05/05/2019,Team TG FF,Vasalunds IF,3,1,SE3N,2019,6
+11/05/2019,IF Sylvia,BK Forward,4,2,SE3N,2019,7
+11/05/2019,Karlslunds IF FK,Gefle IF,1,1,SE3N,2019,7
+11/05/2019,Sollentuna FK,Rynninge IK,0,1,SE3N,2019,7
+11/05/2019,Bodens BK,Team TG FF,0,1,SE3N,2019,7
+12/05/2019,Umeå FC,Carlstad United BK (- 2019),1,0,SE3N,2019,7
+12/05/2019,FC Linköping City,Karlstad BK (- 2019),0,1,SE3N,2019,7
+12/05/2019,Vasalunds IF,Nyköpings BIS,3,0,SE3N,2019,7
+12/05/2019,Sandvikens IF,Akropolis IF,2,2,SE3N,2019,7
+18/05/2019,Akropolis IF,Bodens BK,8,0,SE3N,2019,8
+18/05/2019,Karlslunds IF FK,Sandvikens IF,0,0,SE3N,2019,8
+18/05/2019,BK Forward,Vasalunds IF,1,2,SE3N,2019,8
+19/05/2019,Rynninge IK,Umeå FC,1,2,SE3N,2019,8
+19/05/2019,Team TG FF,Sollentuna FK,0,1,SE3N,2019,8
+19/05/2019,Gefle IF,IF Sylvia,0,2,SE3N,2019,8
+19/05/2019,Nyköpings BIS,FC Linköping City,2,2,SE3N,2019,8
+19/05/2019,Carlstad United BK (- 2019),Karlstad BK (- 2019),0,0,SE3N,2019,8
+25/05/2019,Team TG FF,Karlslunds IF FK,4,2,SE3N,2019,9
+25/05/2019,Karlstad BK (- 2019),Gefle IF,1,2,SE3N,2019,9
+25/05/2019,IF Sylvia,Akropolis IF,1,3,SE3N,2019,9
+25/05/2019,Sollentuna FK,BK Forward,1,1,SE3N,2019,9
+25/05/2019,Bodens BK,Carlstad United BK (- 2019),0,1,SE3N,2019,9
+26/05/2019,Umeå FC,Nyköpings BIS,3,0,SE3N,2019,9
+26/05/2019,Vasalunds IF,Rynninge IK,3,2,SE3N,2019,9
+26/05/2019,Sandvikens IF,FC Linköping City,1,0,SE3N,2019,9
+29/05/2019,Rynninge IK,Carlstad United BK (- 2019),2,1,SE3N,2019,10
+29/05/2019,BK Forward,Akropolis IF,0,3,SE3N,2019,10
+30/05/2019,Gefle IF,Team TG FF,2,1,SE3N,2019,10
+30/05/2019,FC Linköping City,Vasalunds IF,2,2,SE3N,2019,10
+30/05/2019,Bodens BK,Sollentuna FK,1,1,SE3N,2019,10
+30/05/2019,Nyköpings BIS,Karlstad BK (- 2019),0,4,SE3N,2019,10
+30/05/2019,IF Sylvia,Sandvikens IF,4,1,SE3N,2019,10
+30/05/2019,Karlslunds IF FK,Umeå FC,2,1,SE3N,2019,10
+02/06/2019,Rynninge IK,Karlslunds IF FK,1,1,SE3N,2019,11
+02/06/2019,Karlstad BK (- 2019),Bodens BK,0,1,SE3N,2019,11
+02/06/2019,Akropolis IF,Team TG FF,4,0,SE3N,2019,11
+02/06/2019,Carlstad United BK (- 2019),FC Linköping City,0,0,SE3N,2019,11
+02/06/2019,Sollentuna FK,IF Sylvia,6,0,SE3N,2019,11
+02/06/2019,Vasalunds IF,Sandvikens IF,1,1,SE3N,2019,11
+02/06/2019,Umeå FC,Gefle IF,1,0,SE3N,2019,11
+03/06/2019,Nyköpings BIS,BK Forward,1,3,SE3N,2019,11
+08/06/2019,Karlslunds IF FK,FC Linköping City,0,0,SE3N,2019,12
+08/06/2019,Gefle IF,Sollentuna FK,0,0,SE3N,2019,12
+08/06/2019,BK Forward,Rynninge IK,3,2,SE3N,2019,12
+08/06/2019,Akropolis IF,Nyköpings BIS,2,0,SE3N,2019,12
+09/06/2019,Bodens BK,Vasalunds IF,1,1,SE3N,2019,12
+09/06/2019,IF Sylvia,Umeå FC,1,3,SE3N,2019,12
+09/06/2019,Team TG FF,Karlstad BK (- 2019),1,1,SE3N,2019,12
+09/06/2019,Sandvikens IF,Carlstad United BK (- 2019),1,2,SE3N,2019,12
+14/06/2019,Karlstad BK (- 2019),BK Forward,3,1,SE3N,2019,13
+14/06/2019,FC Linköping City,IF Sylvia,3,2,SE3N,2019,13
+14/06/2019,Umeå FC,Bodens BK,2,0,SE3N,2019,13
+15/06/2019,Rynninge IK,Nyköpings BIS,6,4,SE3N,2019,13
+15/06/2019,Karlslunds IF FK,Sollentuna FK,2,1,SE3N,2019,13
+15/06/2019,Carlstad United BK (- 2019),Team TG FF,1,1,SE3N,2019,13
+15/06/2019,Gefle IF,Sandvikens IF,0,1,SE3N,2019,13
+16/06/2019,Vasalunds IF,Akropolis IF,1,2,SE3N,2019,13
+20/06/2019,Sollentuna FK,Umeå FC,3,2,SE3N,2019,14
+20/06/2019,BK Forward,Karlslunds IF FK,2,0,SE3N,2019,14
+23/06/2019,Bodens BK,Rynninge IK,5,2,SE3N,2019,14
+23/06/2019,Akropolis IF,Gefle IF,3,0,SE3N,2019,14
+23/06/2019,Team TG FF,FC Linköping City,2,2,SE3N,2019,14
+23/06/2019,Nyköpings BIS,Carlstad United BK (- 2019),2,1,SE3N,2019,14
+23/06/2019,Vasalunds IF,IF Sylvia,5,1,SE3N,2019,14
+23/06/2019,Sandvikens IF,Karlstad BK (- 2019),1,2,SE3N,2019,14
+28/06/2019,Carlstad United BK (- 2019),Karlslunds IF FK,1,2,SE3N,2019,15
+29/06/2019,Gefle IF,BK Forward,1,0,SE3N,2019,15
+29/06/2019,Karlstad BK (- 2019),Rynninge IK,3,2,SE3N,2019,15
+29/06/2019,FC Linköping City,Akropolis IF,2,3,SE3N,2019,15
+29/06/2019,Sollentuna FK,Vasalunds IF,1,0,SE3N,2019,15
+29/06/2019,Sandvikens IF,Umeå FC,0,0,SE3N,2019,15
+30/06/2019,IF Sylvia,Bodens BK,4,2,SE3N,2019,15
+30/06/2019,Team TG FF,Nyköpings BIS,2,0,SE3N,2019,15
+04/07/2019,Umeå FC,Sollentuna FK,2,1,SE3N,2019,16
+04/07/2019,Nyköpings BIS,Vasalunds IF,2,3,SE3N,2019,16
+06/07/2019,Karlslunds IF FK,Team TG FF,1,1,SE3N,2019,16
+06/07/2019,Gefle IF,Karlstad BK (- 2019),0,5,SE3N,2019,16
+06/07/2019,Rynninge IK,IF Sylvia,1,1,SE3N,2019,16
+06/07/2019,BK Forward,Carlstad United BK (- 2019),2,2,SE3N,2019,16
+06/07/2019,Akropolis IF,Sandvikens IF,1,3,SE3N,2019,16
+07/07/2019,Bodens BK,FC Linköping City,0,4,SE3N,2019,16
+02/08/2019,FC Linköping City,Rynninge IK,2,0,SE3N,2019,17
+03/08/2019,Karlstad BK (- 2019),Nyköpings BIS,2,1,SE3N,2019,17
+03/08/2019,IF Sylvia,Karlslunds IF FK,1,0,SE3N,2019,17
+04/08/2019,Team TG FF,Bodens BK,0,0,SE3N,2019,17
+04/08/2019,Carlstad United BK (- 2019),Gefle IF,2,1,SE3N,2019,17
+04/08/2019,Sollentuna FK,Akropolis IF,0,2,SE3N,2019,17
+04/08/2019,Vasalunds IF,Umeå FC,1,2,SE3N,2019,17
+04/08/2019,Sandvikens IF,BK Forward,1,0,SE3N,2019,17
+10/08/2019,Rynninge IK,BK Forward,2,1,SE3N,2019,18
+10/08/2019,Gefle IF,Vasalunds IF,3,3,SE3N,2019,18
+10/08/2019,Carlstad United BK (- 2019),Nyköpings BIS,2,1,SE3N,2019,18
+10/08/2019,Akropolis IF,Karlslunds IF FK,4,3,SE3N,2019,18
+11/08/2019,Karlstad BK (- 2019),Team TG FF,3,0,SE3N,2019,18
+11/08/2019,Sollentuna FK,Bodens BK,2,3,SE3N,2019,18
+11/08/2019,Umeå FC,IF Sylvia,1,1,SE3N,2019,18
+11/08/2019,FC Linköping City,Sandvikens IF,1,3,SE3N,2019,18
+16/08/2019,Karlslunds IF FK,Rynninge IK,4,0,SE3N,2019,19
+16/08/2019,Bodens BK,Umeå FC,1,1,SE3N,2019,19
+17/08/2019,BK Forward,FC Linköping City,0,0,SE3N,2019,19
+17/08/2019,Nyköpings BIS,Akropolis IF,1,1,SE3N,2019,19
+17/08/2019,Vasalunds IF,Karlstad BK (- 2019),2,2,SE3N,2019,19
+17/08/2019,IF Sylvia,Sollentuna FK,1,1,SE3N,2019,19
+17/08/2019,Sandvikens IF,Gefle IF,4,1,SE3N,2019,19
+18/08/2019,Team TG FF,Carlstad United BK (- 2019),4,2,SE3N,2019,19
+24/08/2019,BK Forward,Nyköpings BIS,2,4,SE3N,2019,20
+24/08/2019,Gefle IF,Umeå FC,1,2,SE3N,2019,20
+24/08/2019,Carlstad United BK (- 2019),Bodens BK,3,1,SE3N,2019,20
+24/08/2019,Sollentuna FK,Karlslunds IF FK,1,2,SE3N,2019,20
+25/08/2019,Rynninge IK,Vasalunds IF,2,7,SE3N,2019,20
+25/08/2019,Akropolis IF,IF Sylvia,4,1,SE3N,2019,20
+25/08/2019,Karlstad BK (- 2019),FC Linköping City,4,1,SE3N,2019,20
+25/08/2019,Team TG FF,Sandvikens IF,3,3,SE3N,2019,20
+30/08/2019,Karlslunds IF FK,BK Forward,1,1,SE3N,2019,21
+31/08/2019,Rynninge IK,Karlstad BK (- 2019),2,1,SE3N,2019,21
+31/08/2019,Umeå FC,Sandvikens IF,3,1,SE3N,2019,21
+31/08/2019,IF Sylvia,Gefle IF,1,0,SE3N,2019,21
+01/09/2019,Bodens BK,Akropolis IF,0,2,SE3N,2019,21
+01/09/2019,Vasalunds IF,Team TG FF,5,0,SE3N,2019,21
+01/09/2019,Nyköpings BIS,Sollentuna FK,0,0,SE3N,2019,21
+01/09/2019,FC Linköping City,Carlstad United BK (- 2019),1,0,SE3N,2019,21
+07/09/2019,Vasalunds IF,Bodens BK,2,1,SE3N,2019,22
+07/09/2019,BK Forward,Sollentuna FK,1,3,SE3N,2019,22
+07/09/2019,Carlstad United BK (- 2019),Rynninge IK,3,3,SE3N,2019,22
+08/09/2019,FC Linköping City,Umeå FC,0,0,SE3N,2019,22
+08/09/2019,Nyköpings BIS,Karlslunds IF FK,4,1,SE3N,2019,22
+08/09/2019,Karlstad BK (- 2019),Akropolis IF,1,2,SE3N,2019,22
+08/09/2019,Team TG FF,Gefle IF,0,3,SE3N,2019,22
+08/09/2019,Sandvikens IF,IF Sylvia,2,0,SE3N,2019,22
+14/09/2019,Rynninge IK,Sandvikens IF,4,3,SE3N,2019,23
+14/09/2019,Karlslunds IF FK,Vasalunds IF,3,4,SE3N,2019,23
+14/09/2019,Sollentuna FK,Carlstad United BK (- 2019),1,3,SE3N,2019,23
+15/09/2019,Umeå FC,Karlstad BK (- 2019),1,2,SE3N,2019,23
+15/09/2019,Gefle IF,Nyköpings BIS,1,2,SE3N,2019,23
+15/09/2019,BK Forward,Bodens BK,1,3,SE3N,2019,23
+15/09/2019,IF Sylvia,Team TG FF,3,1,SE3N,2019,23
+15/09/2019,Akropolis IF,FC Linköping City,0,0,SE3N,2019,23
+21/09/2019,Nyköpings BIS,Rynninge IK,3,1,SE3N,2019,24
+21/09/2019,Karlstad BK (- 2019),IF Sylvia,1,0,SE3N,2019,24
+22/09/2019,Umeå FC,BK Forward,2,1,SE3N,2019,24
+22/09/2019,FC Linköping City,Team TG FF,3,0,SE3N,2019,24
+22/09/2019,Bodens BK,Gefle IF,1,2,SE3N,2019,24
+22/09/2019,Carlstad United BK (- 2019),Akropolis IF,0,3,SE3N,2019,24
+22/09/2019,Vasalunds IF,Sollentuna FK,1,1,SE3N,2019,24
+22/09/2019,Sandvikens IF,Karlslunds IF FK,2,1,SE3N,2019,24
+28/09/2019,BK Forward,IF Sylvia,2,3,SE3N,2019,25
+28/09/2019,Gefle IF,FC Linköping City,0,2,SE3N,2019,25
+28/09/2019,Karlslunds IF FK,Karlstad BK (- 2019),2,1,SE3N,2019,25
+28/09/2019,Sollentuna FK,Sandvikens IF,3,1,SE3N,2019,25
+29/09/2019,Team TG FF,Rynninge IK,3,0,SE3N,2019,25
+29/09/2019,Akropolis IF,Umeå FC,2,1,SE3N,2019,25
+29/09/2019,Carlstad United BK (- 2019),Vasalunds IF,4,3,SE3N,2019,25
+29/09/2019,Bodens BK,Nyköpings BIS,1,1,SE3N,2019,25
+05/10/2019,Sandvikens IF,Bodens BK,2,2,SE3N,2019,26
+05/10/2019,Rynninge IK,Gefle IF,0,1,SE3N,2019,26
+05/10/2019,IF Sylvia,Vasalunds IF,1,2,SE3N,2019,26
+06/10/2019,Nyköpings BIS,Team TG FF,1,1,SE3N,2019,26
+06/10/2019,Umeå FC,Karlslunds IF FK,3,3,SE3N,2019,26
+06/10/2019,Karlstad BK (- 2019),Carlstad United BK (- 2019),1,2,SE3N,2019,26
+06/10/2019,Akropolis IF,BK Forward,2,1,SE3N,2019,26
+06/10/2019,FC Linköping City,Sollentuna FK,4,0,SE3N,2019,26
+14/06/2020,Örebro Syrianska IF,Täby FK,1,0,SE3N,2020,1
+14/06/2020,Sollentuna FK,Gefle IF,1,2,SE3N,2020,1
+14/06/2020,Team TG FF,Nyköpings BIS,3,2,SE3N,2020,1
+14/06/2020,IK Frej Täby,IF Brommapojkarna,0,1,SE3N,2020,1
+14/06/2020,Vasalunds IF,IFK Berga,4,0,SE3N,2020,1
+14/06/2020,Sandvikens IF,Karlslunds IF FK,1,1,SE3N,2020,1
+14/06/2020,IFK Haninge,IF Karlstad Fotboll,1,1,SE3N,2020,1
+14/06/2020,IF Sylvia,IFK Luleå,4,1,SE3N,2020,1
+17/06/2020,IFK Luleå,Vasalunds IF,0,1,SE3N,2020,2
+17/06/2020,Gefle IF,Team TG FF,2,1,SE3N,2020,2
+17/06/2020,IFK Berga,IFK Haninge,3,4,SE3N,2020,2
+17/06/2020,Täby FK,IF Sylvia,2,3,SE3N,2020,2
+17/06/2020,IF Karlstad Fotboll,Sollentuna FK,1,1,SE3N,2020,2
+17/06/2020,Nyköpings BIS,Örebro Syrianska IF,2,2,SE3N,2020,2
+17/06/2020,IF Brommapojkarna,Sandvikens IF,3,1,SE3N,2020,2
+17/06/2020,Karlslunds IF FK,IK Frej Täby,1,4,SE3N,2020,2
+21/06/2020,Örebro Syrianska IF,IFK Luleå,2,1,SE3N,2020,3
+21/06/2020,IK Frej Täby,Gefle IF,1,1,SE3N,2020,3
+21/06/2020,Vasalunds IF,Nyköpings BIS,7,1,SE3N,2020,3
+21/06/2020,Sandvikens IF,IF Karlstad Fotboll,3,1,SE3N,2020,3
+21/06/2020,Team TG FF,IFK Berga,2,0,SE3N,2020,3
+21/06/2020,IF Sylvia,Karlslunds IF FK,1,0,SE3N,2020,3
+22/06/2020,IFK Haninge,Täby FK,1,1,SE3N,2020,3
+22/06/2020,Sollentuna FK,IF Brommapojkarna,1,1,SE3N,2020,3
+27/06/2020,IFK Berga,Sandvikens IF,0,2,SE3N,2020,4
+27/06/2020,Gefle IF,IFK Haninge,1,2,SE3N,2020,4
+27/06/2020,Täby FK,IK Frej Täby,1,0,SE3N,2020,4
+27/06/2020,Nyköpings BIS,IF Sylvia,1,3,SE3N,2020,4
+27/06/2020,IF Karlstad Fotboll,Vasalunds IF,3,0,SE3N,2020,4
+27/06/2020,Karlslunds IF FK,Örebro Syrianska IF,1,1,SE3N,2020,4
+28/06/2020,IF Brommapojkarna,Team TG FF,3,3,SE3N,2020,4
+28/06/2020,Sollentuna FK,IFK Luleå,2,1,SE3N,2020,4
+30/06/2020,IF Sylvia,IF Karlstad Fotboll,3,1,SE3N,2020,5
+01/07/2020,Team TG FF,Karlslunds IF FK,2,1,SE3N,2020,5
+01/07/2020,IFK Luleå,Gefle IF,1,4,SE3N,2020,5
+01/07/2020,IK Frej Täby,IFK Berga,3,0,SE3N,2020,5
+01/07/2020,Örebro Syrianska IF,IF Brommapojkarna,0,1,SE3N,2020,5
+01/07/2020,Sandvikens IF,Täby FK,2,2,SE3N,2020,5
+01/07/2020,IFK Haninge,Nyköpings BIS,4,0,SE3N,2020,5
+02/07/2020,Vasalunds IF,Sollentuna FK,6,0,SE3N,2020,5
+05/07/2020,Täby FK,Team TG FF,5,1,SE3N,2020,6
+05/07/2020,Sollentuna FK,IK Frej Täby,2,1,SE3N,2020,6
+05/07/2020,Gefle IF,IF Sylvia,0,0,SE3N,2020,6
+05/07/2020,Nyköpings BIS,Sandvikens IF,0,4,SE3N,2020,6
+05/07/2020,IFK Berga,Örebro Syrianska IF,1,2,SE3N,2020,6
+05/07/2020,Karlslunds IF FK,IFK Haninge,3,0,SE3N,2020,6
+05/07/2020,IF Karlstad Fotboll,IFK Luleå,0,1,SE3N,2020,6
+06/07/2020,IF Brommapojkarna,Vasalunds IF,2,1,SE3N,2020,6
+10/07/2020,IFK Haninge,IF Brommapojkarna,2,0,SE3N,2020,7
+11/07/2020,Örebro Syrianska IF,Gefle IF,2,2,SE3N,2020,7
+11/07/2020,Vasalunds IF,Täby FK,3,1,SE3N,2020,7
+11/07/2020,IFK Luleå,Karlslunds IF FK,3,2,SE3N,2020,7
+11/07/2020,Team TG FF,IF Karlstad Fotboll,2,2,SE3N,2020,7
+11/07/2020,IK Frej Täby,Nyköpings BIS,5,3,SE3N,2020,7
+11/07/2020,Sandvikens IF,Sollentuna FK,2,1,SE3N,2020,7
+11/07/2020,IF Sylvia,IFK Berga,4,2,SE3N,2020,7
+15/07/2020,IF Karlstad Fotboll,Örebro Syrianska IF,3,2,SE3N,2020,8
+15/07/2020,Team TG FF,IFK Luleå,2,4,SE3N,2020,8
+15/07/2020,IF Brommapojkarna,IF Sylvia,0,0,SE3N,2020,8
+15/07/2020,Vasalunds IF,Gefle IF,2,0,SE3N,2020,8
+15/07/2020,IK Frej Täby,Sandvikens IF,0,0,SE3N,2020,8
+15/07/2020,Täby FK,Karlslunds IF FK,0,2,SE3N,2020,8
+15/07/2020,IFK Berga,Nyköpings BIS,3,4,SE3N,2020,8
+15/07/2020,Sollentuna FK,IFK Haninge,2,1,SE3N,2020,8
+18/07/2020,Örebro Syrianska IF,Sollentuna FK,1,2,SE3N,2020,9
+19/07/2020,IFK Luleå,IFK Berga,1,0,SE3N,2020,9
+19/07/2020,IFK Haninge,Team TG FF,7,0,SE3N,2020,9
+19/07/2020,Vasalunds IF,IK Frej Täby,4,0,SE3N,2020,9
+19/07/2020,Karlslunds IF FK,IF Karlstad Fotboll,3,0,SE3N,2020,9
+19/07/2020,Sandvikens IF,IF Sylvia,1,2,SE3N,2020,9
+19/07/2020,Nyköpings BIS,Täby FK,1,3,SE3N,2020,9
+19/07/2020,IF Brommapojkarna,Gefle IF,1,0,SE3N,2020,9
+08/08/2020,Täby FK,IF Brommapojkarna,0,1,SE3N,2020,10
+08/08/2020,IK Frej Täby,Örebro Syrianska IF,4,0,SE3N,2020,10
+08/08/2020,IF Sylvia,IFK Haninge,1,2,SE3N,2020,10
+08/08/2020,IF Karlstad Fotboll,Gefle IF,1,2,SE3N,2020,10
+08/08/2020,IFK Berga,Karlslunds IF FK,3,2,SE3N,2020,10
+08/08/2020,Sollentuna FK,Nyköpings BIS,1,0,SE3N,2020,10
+09/08/2020,IFK Luleå,Sandvikens IF,1,0,SE3N,2020,10
+09/08/2020,Team TG FF,Vasalunds IF,1,4,SE3N,2020,10
+12/08/2020,Sandvikens IF,Team TG FF,6,1,SE3N,2020,11
+12/08/2020,IFK Berga,Sollentuna FK,1,1,SE3N,2020,11
+12/08/2020,Nyköpings BIS,IFK Luleå,2,4,SE3N,2020,11
+12/08/2020,Örebro Syrianska IF,IF Sylvia,1,1,SE3N,2020,11
+12/08/2020,IF Brommapojkarna,IF Karlstad Fotboll,0,1,SE3N,2020,11
+12/08/2020,Gefle IF,Täby FK,0,3,SE3N,2020,11
+12/08/2020,Karlslunds IF FK,Vasalunds IF,2,3,SE3N,2020,11
+12/08/2020,IFK Haninge,IK Frej Täby,4,3,SE3N,2020,11
+16/08/2020,Örebro Syrianska IF,Team TG FF,1,0,SE3N,2020,12
+16/08/2020,Gefle IF,IFK Berga,2,1,SE3N,2020,12
+16/08/2020,Sollentuna FK,Täby FK,4,1,SE3N,2020,12
+16/08/2020,IFK Luleå,IFK Haninge,0,1,SE3N,2020,12
+16/08/2020,IK Frej Täby,IF Sylvia,0,2,SE3N,2020,12
+16/08/2020,Vasalunds IF,Sandvikens IF,2,2,SE3N,2020,12
+16/08/2020,IF Karlstad Fotboll,Nyköpings BIS,1,1,SE3N,2020,12
+16/08/2020,IF Brommapojkarna,Karlslunds IF FK,4,0,SE3N,2020,12
+22/08/2020,IFK Berga,IF Karlstad Fotboll,1,2,SE3N,2020,13
+22/08/2020,Sandvikens IF,IFK Haninge,3,2,SE3N,2020,13
+22/08/2020,Karlslunds IF FK,Gefle IF,0,0,SE3N,2020,13
+22/08/2020,IF Sylvia,Sollentuna FK,1,1,SE3N,2020,13
+23/08/2020,Team TG FF,IK Frej Täby,1,2,SE3N,2020,13
+23/08/2020,Täby FK,IFK Luleå,3,0,SE3N,2020,13
+23/08/2020,Vasalunds IF,Örebro Syrianska IF,2,1,SE3N,2020,13
+23/08/2020,Nyköpings BIS,IF Brommapojkarna,1,2,SE3N,2020,13
+29/08/2020,IFK Luleå,IF Brommapojkarna,0,0,SE3N,2020,14
+29/08/2020,Örebro Syrianska IF,Sandvikens IF,2,2,SE3N,2020,14
+29/08/2020,Täby FK,IFK Berga,2,1,SE3N,2020,14
+29/08/2020,IK Frej Täby,IF Karlstad Fotboll,1,2,SE3N,2020,14
+29/08/2020,Karlslunds IF FK,Sollentuna FK,1,2,SE3N,2020,14
+29/08/2020,Gefle IF,Nyköpings BIS,3,2,SE3N,2020,14
+29/08/2020,IFK Haninge,Vasalunds IF,2,4,SE3N,2020,14
+30/08/2020,Team TG FF,IF Sylvia,3,4,SE3N,2020,14
+02/09/2020,IF Karlstad Fotboll,Täby FK,1,3,SE3N,2020,15
+02/09/2020,IFK Luleå,IK Frej Täby,2,3,SE3N,2020,15
+02/09/2020,Sandvikens IF,Gefle IF,1,1,SE3N,2020,15
+02/09/2020,IF Sylvia,Vasalunds IF,3,3,SE3N,2020,15
+02/09/2020,IF Brommapojkarna,IFK Berga,5,0,SE3N,2020,15
+02/09/2020,Sollentuna FK,Team TG FF,2,0,SE3N,2020,15
+02/09/2020,IFK Haninge,Örebro Syrianska IF,2,0,SE3N,2020,15
+02/09/2020,Karlslunds IF FK,Nyköpings BIS,1,0,SE3N,2020,15
+05/09/2020,Örebro Syrianska IF,IFK Haninge,0,2,SE3N,2020,16
+06/09/2020,Täby FK,Nyköpings BIS,0,0,SE3N,2020,16
+06/09/2020,Sandvikens IF,IFK Luleå,2,2,SE3N,2020,16
+06/09/2020,IFK Berga,Team TG FF,0,1,SE3N,2020,16
+06/09/2020,Sollentuna FK,IF Karlstad Fotboll,3,1,SE3N,2020,16
+06/09/2020,Vasalunds IF,IF Sylvia,4,0,SE3N,2020,16
+06/09/2020,Karlslunds IF FK,IF Brommapojkarna,0,1,SE3N,2020,16
+28/10/2020,Gefle IF,IK Frej Täby,2,0,SE3N,2020,16
+12/09/2020,IK Frej Täby,Vasalunds IF,1,4,SE3N,2020,17
+12/09/2020,IF Sylvia,Sandvikens IF,2,1,SE3N,2020,17
+12/09/2020,IF Karlstad Fotboll,Karlslunds IF FK,1,2,SE3N,2020,17
+12/09/2020,IFK Haninge,Sollentuna FK,4,0,SE3N,2020,17
+13/09/2020,Team TG FF,Örebro Syrianska IF,3,2,SE3N,2020,17
+13/09/2020,Gefle IF,IF Brommapojkarna,0,4,SE3N,2020,17
+13/09/2020,Nyköpings BIS,IFK Berga,1,3,SE3N,2020,17
+13/09/2020,IFK Luleå,Täby FK,0,4,SE3N,2020,17
+18/09/2020,Täby FK,IFK Haninge,2,2,SE3N,2020,18
+18/09/2020,Gefle IF,Sandvikens IF,1,1,SE3N,2020,18
+19/09/2020,Örebro Syrianska IF,IK Frej Täby,1,0,SE3N,2020,18
+19/09/2020,IF Brommapojkarna,IFK Luleå,5,1,SE3N,2020,18
+19/09/2020,Nyköpings BIS,Karlslunds IF FK,1,1,SE3N,2020,18
+19/09/2020,IF Karlstad Fotboll,IFK Berga,4,3,SE3N,2020,18
+19/09/2020,Vasalunds IF,Team TG FF,4,0,SE3N,2020,18
+20/09/2020,Sollentuna FK,IF Sylvia,3,0,SE3N,2020,18
+23/09/2020,IFK Luleå,Örebro Syrianska IF,4,1,SE3N,2020,19
+23/09/2020,Nyköpings BIS,IFK Haninge,2,6,SE3N,2020,19
+23/09/2020,Vasalunds IF,IF Karlstad Fotboll,3,0,SE3N,2020,19
+23/09/2020,Team TG FF,Täby FK,2,1,SE3N,2020,19
+23/09/2020,IFK Berga,IF Sylvia,1,1,SE3N,2020,19
+23/09/2020,Gefle IF,Sollentuna FK,6,2,SE3N,2020,19
+23/09/2020,Sandvikens IF,IF Brommapojkarna,1,0,SE3N,2020,19
+23/09/2020,IK Frej Täby,Karlslunds IF FK,3,2,SE3N,2020,19
+26/09/2020,Örebro Syrianska IF,Vasalunds IF,1,2,SE3N,2020,20
+27/09/2020,IF Brommapojkarna,Sollentuna FK,1,1,SE3N,2020,20
+27/09/2020,IFK Berga,Gefle IF,0,0,SE3N,2020,20
+27/09/2020,IFK Haninge,IFK Luleå,1,0,SE3N,2020,20
+27/09/2020,Nyköpings BIS,IK Frej Täby,1,2,SE3N,2020,20
+27/09/2020,IF Sylvia,Team TG FF,2,0,SE3N,2020,20
+27/09/2020,Täby FK,IF Karlstad Fotboll,2,0,SE3N,2020,20
+27/09/2020,Karlslunds IF FK,Sandvikens IF,1,3,SE3N,2020,20
+03/10/2020,IF Sylvia,Örebro Syrianska IF,3,1,SE3N,2020,21
+03/10/2020,Sollentuna FK,IFK Berga,1,2,SE3N,2020,21
+03/10/2020,IF Karlstad Fotboll,IF Brommapojkarna,2,2,SE3N,2020,21
+04/10/2020,Gefle IF,Karlslunds IF FK,2,3,SE3N,2020,21
+04/10/2020,IFK Luleå,Nyköpings BIS,4,0,SE3N,2020,21
+04/10/2020,Vasalunds IF,IFK Haninge,2,2,SE3N,2020,21
+04/10/2020,IK Frej Täby,Täby FK,3,1,SE3N,2020,21
+28/10/2020,Team TG FF,Sandvikens IF,0,5,SE3N,2020,21
+23/07/2020,Nyköpings BIS,IF Karlstad Fotboll,3,2,SE3N,2020,22
+07/10/2020,IFK Berga,IK Frej Täby,0,1,SE3N,2020,22
+07/10/2020,Sandvikens IF,Vasalunds IF,4,1,SE3N,2020,22
+07/10/2020,Karlslunds IF FK,IF Sylvia,1,2,SE3N,2020,22
+07/10/2020,Täby FK,Sollentuna FK,1,6,SE3N,2020,22
+07/10/2020,IFK Haninge,Gefle IF,1,4,SE3N,2020,22
+07/10/2020,IF Brommapojkarna,Örebro Syrianska IF,2,2,SE3N,2020,22
+21/10/2020,IFK Luleå,Team TG FF,2,1,SE3N,2020,22
+10/10/2020,Örebro Syrianska IF,Nyköpings BIS,2,0,SE3N,2020,23
+11/10/2020,IF Sylvia,IF Brommapojkarna,0,0,SE3N,2020,23
+11/10/2020,Sandvikens IF,IFK Berga,3,0,SE3N,2020,23
+11/10/2020,IK Frej Täby,Sollentuna FK,2,2,SE3N,2020,23
+11/10/2020,IF Karlstad Fotboll,IFK Haninge,5,2,SE3N,2020,23
+11/10/2020,Team TG FF,Gefle IF,1,5,SE3N,2020,23
+11/10/2020,Karlslunds IF FK,Täby FK,3,0,SE3N,2020,23
+12/10/2020,Vasalunds IF,IFK Luleå,2,1,SE3N,2020,23
+17/10/2020,Täby FK,Örebro Syrianska IF,1,1,SE3N,2020,24
+17/10/2020,IFK Berga,Vasalunds IF,1,5,SE3N,2020,24
+17/10/2020,Sollentuna FK,Karlslunds IF FK,2,1,SE3N,2020,24
+17/10/2020,IF Brommapojkarna,IK Frej Täby,4,1,SE3N,2020,24
+17/10/2020,IFK Haninge,IF Sylvia,2,1,SE3N,2020,24
+18/10/2020,Gefle IF,IFK Luleå,1,1,SE3N,2020,24
+18/10/2020,Nyköpings BIS,Team TG FF,0,4,SE3N,2020,24
+18/10/2020,IF Karlstad Fotboll,Sandvikens IF,0,1,SE3N,2020,24
+24/10/2020,Örebro Syrianska IF,Karlslunds IF FK,1,0,SE3N,2020,25
+24/10/2020,Täby FK,Vasalunds IF,0,3,SE3N,2020,25
+24/10/2020,Sandvikens IF,IK Frej Täby,3,2,SE3N,2020,25
+24/10/2020,IFK Berga,IF Brommapojkarna,1,4,SE3N,2020,25
+24/10/2020,IF Sylvia,Gefle IF,3,3,SE3N,2020,25
+25/10/2020,Nyköpings BIS,Sollentuna FK,1,2,SE3N,2020,25
+25/10/2020,IFK Luleå,IF Karlstad Fotboll,1,1,SE3N,2020,25
+25/10/2020,Team TG FF,IFK Haninge,0,4,SE3N,2020,25
+31/10/2020,Sollentuna FK,Örebro Syrianska IF,5,0,SE3N,2020,26
+31/10/2020,Gefle IF,Vasalunds IF,1,3,SE3N,2020,26
+31/10/2020,Karlslunds IF FK,IFK Berga,1,0,SE3N,2020,26
+01/11/2020,IF Karlstad Fotboll,Team TG FF,4,0,SE3N,2020,26
+01/11/2020,IFK Haninge,Sandvikens IF,2,2,SE3N,2020,26
+01/11/2020,IF Brommapojkarna,Täby FK,1,2,SE3N,2020,26
+01/11/2020,IK Frej Täby,IFK Luleå,1,1,SE3N,2020,26
+01/11/2020,IF Sylvia,Nyköpings BIS,5,0,SE3N,2020,26
+02/04/2021,IF Brommapojkarna,IF Karlstad Fotboll,2,0,SE3N,2021,1
+03/04/2021,Örebro Syrianska IF,Sollentuna FK,0,3,SE3N,2021,1
+03/04/2021,IFK Haninge,Hudiksvalls FF,2,0,SE3N,2021,1
+03/04/2021,IF Sylvia,Sandvikens IF,0,2,SE3N,2021,1
+05/04/2021,Dalkurd FF,Piteå IF,3,3,SE3N,2021,1
+05/04/2021,Umeå FC,Hammarby TFF,1,0,SE3N,2021,1
+05/04/2021,Assyriska FF,Täby FK,2,7,SE3N,2021,1
+05/04/2021,Gefle IF,IFK Luleå,1,2,SE3N,2021,1
+10/04/2021,Sandvikens IF,IF Brommapojkarna,0,0,SE3N,2021,2
+10/04/2021,Sollentuna FK,Gefle IF,1,1,SE3N,2021,2
+10/04/2021,IF Karlstad Fotboll,IFK Haninge,5,1,SE3N,2021,2
+10/04/2021,Hudiksvalls FF,IF Sylvia,1,2,SE3N,2021,2
+11/04/2021,Piteå IF,Örebro Syrianska IF,0,3,SE3N,2021,2
+11/04/2021,Täby FK,Umeå FC,2,2,SE3N,2021,2
+11/04/2021,IFK Luleå,Assyriska FF,3,1,SE3N,2021,2
+12/04/2021,Hammarby TFF,Dalkurd FF,1,3,SE3N,2021,2
+17/04/2021,Örebro Syrianska IF,Hudiksvalls FF,1,0,SE3N,2021,3
+17/04/2021,Gefle IF,Dalkurd FF,1,2,SE3N,2021,3
+17/04/2021,IFK Luleå,Sandvikens IF,0,2,SE3N,2021,3
+17/04/2021,IF Brommapojkarna,Umeå FC,2,0,SE3N,2021,3
+18/04/2021,Assyriska FF,IF Karlstad Fotboll,1,3,SE3N,2021,3
+18/04/2021,IF Sylvia,Sollentuna FK,1,0,SE3N,2021,3
+18/04/2021,Piteå IF,Hammarby TFF,2,2,SE3N,2021,3
+19/04/2021,IFK Haninge,Täby FK,1,0,SE3N,2021,3
+23/04/2021,Hudiksvalls FF,Gefle IF,1,0,SE3N,2021,4
+24/04/2021,Sollentuna FK,IF Brommapojkarna,0,0,SE3N,2021,4
+24/04/2021,Dalkurd FF,IF Sylvia,3,1,SE3N,2021,4
+25/04/2021,Umeå FC,IFK Haninge,1,0,SE3N,2021,4
+25/04/2021,IF Karlstad Fotboll,Örebro Syrianska IF,0,2,SE3N,2021,4
+25/04/2021,Sandvikens IF,Piteå IF,1,0,SE3N,2021,4
+25/04/2021,Täby FK,IFK Luleå,1,1,SE3N,2021,4
+26/04/2021,Hammarby TFF,Assyriska FF,0,3,SE3N,2021,4
+01/05/2021,Gefle IF,Umeå FC,2,2,SE3N,2021,5
+01/05/2021,IF Karlstad Fotboll,Hudiksvalls FF,0,1,SE3N,2021,5
+01/05/2021,Örebro Syrianska IF,Dalkurd FF,0,1,SE3N,2021,5
+02/05/2021,Piteå IF,Täby FK,1,1,SE3N,2021,5
+02/05/2021,IF Brommapojkarna,IFK Haninge,4,1,SE3N,2021,5
+02/05/2021,Assyriska FF,Sandvikens IF,1,3,SE3N,2021,5
+02/05/2021,IFK Luleå,Sollentuna FK,1,4,SE3N,2021,5
+03/05/2021,IF Sylvia,Hammarby TFF,1,0,SE3N,2021,5
+08/05/2021,Dalkurd FF,IF Brommapojkarna,2,2,SE3N,2021,6
+08/05/2021,Hudiksvalls FF,IFK Luleå,3,1,SE3N,2021,6
+08/05/2021,Sollentuna FK,Assyriska FF,1,3,SE3N,2021,6
+08/05/2021,Sandvikens IF,Örebro Syrianska IF,0,0,SE3N,2021,6
+08/05/2021,Täby FK,IF Sylvia,2,3,SE3N,2021,6
+09/05/2021,Umeå FC,IF Karlstad Fotboll,0,1,SE3N,2021,6
+09/05/2021,Hammarby TFF,Gefle IF,1,3,SE3N,2021,6
+09/05/2021,IFK Haninge,Piteå IF,1,2,SE3N,2021,6
+13/05/2021,Piteå IF,Sollentuna FK,3,0,SE3N,2021,7
+15/05/2021,Örebro Syrianska IF,Täby FK,2,1,SE3N,2021,7
+15/05/2021,IF Sylvia,Umeå FC,0,2,SE3N,2021,7
+15/05/2021,IF Brommapojkarna,Hudiksvalls FF,5,0,SE3N,2021,7
+15/05/2021,Gefle IF,IFK Haninge,1,1,SE3N,2021,7
+16/05/2021,Assyriska FF,Dalkurd FF,3,1,SE3N,2021,7
+16/05/2021,IFK Luleå,Hammarby TFF,1,2,SE3N,2021,7
+16/05/2021,IF Karlstad Fotboll,Sandvikens IF,1,3,SE3N,2021,7
+22/05/2021,IFK Haninge,Örebro Syrianska IF,1,1,SE3N,2021,8
+22/05/2021,Sandvikens IF,Sollentuna FK,6,1,SE3N,2021,8
+22/05/2021,Täby FK,IF Karlstad Fotboll,0,3,SE3N,2021,8
+22/05/2021,IF Sylvia,Gefle IF,3,4,SE3N,2021,8
+23/05/2021,Umeå FC,Assyriska FF,2,1,SE3N,2021,8
+23/05/2021,Dalkurd FF,IFK Luleå,1,1,SE3N,2021,8
+23/05/2021,Hammarby TFF,IF Brommapojkarna,1,3,SE3N,2021,8
+30/06/2021,Hudiksvalls FF,Piteå IF,2,1,SE3N,2021,8
+29/05/2021,Örebro Syrianska IF,IF Sylvia,0,1,SE3N,2021,9
+29/05/2021,Assyriska FF,Hudiksvalls FF,2,1,SE3N,2021,9
+29/05/2021,Umeå FC,Sandvikens IF,3,1,SE3N,2021,9
+30/05/2021,IFK Luleå,IF Karlstad Fotboll,3,3,SE3N,2021,9
+30/05/2021,Dalkurd FF,IFK Haninge,1,0,SE3N,2021,9
+30/05/2021,IF Brommapojkarna,Täby FK,6,0,SE3N,2021,9
+01/06/2021,Sollentuna FK,Hammarby TFF,2,0,SE3N,2021,9
+05/08/2021,Piteå IF,Gefle IF,2,0,SE3N,2021,9
+03/06/2021,IF Sylvia,IF Brommapojkarna,1,3,SE3N,2021,10
+04/06/2021,Gefle IF,Assyriska FF,2,0,SE3N,2021,10
+05/06/2021,Hammarby TFF,Örebro Syrianska IF,2,3,SE3N,2021,10
+05/06/2021,Sandvikens IF,Dalkurd FF,3,2,SE3N,2021,10
+05/06/2021,Hudiksvalls FF,Umeå FC,0,1,SE3N,2021,10
+06/06/2021,IF Karlstad Fotboll,Piteå IF,3,1,SE3N,2021,10
+06/06/2021,Täby FK,Sollentuna FK,1,3,SE3N,2021,10
+06/06/2021,IFK Haninge,IFK Luleå,1,0,SE3N,2021,10
+12/06/2021,Assyriska FF,IFK Haninge,0,1,SE3N,2021,11
+12/06/2021,Gefle IF,Täby FK,4,1,SE3N,2021,11
+12/06/2021,IF Karlstad Fotboll,Sollentuna FK,2,0,SE3N,2021,11
+12/06/2021,Hudiksvalls FF,Dalkurd FF,1,1,SE3N,2021,11
+12/06/2021,Örebro Syrianska IF,Umeå FC,1,2,SE3N,2021,11
+13/06/2021,IF Brommapojkarna,Piteå IF,2,0,SE3N,2021,11
+13/06/2021,Hammarby TFF,Sandvikens IF,3,2,SE3N,2021,11
+13/06/2021,IFK Luleå,IF Sylvia,3,1,SE3N,2021,11
+18/06/2021,Umeå FC,IFK Luleå,1,0,SE3N,2021,12
+19/06/2021,IF Brommapojkarna,Örebro Syrianska IF,3,0,SE3N,2021,12
+19/06/2021,Piteå IF,Assyriska FF,3,2,SE3N,2021,12
+19/06/2021,IF Sylvia,IFK Haninge,5,0,SE3N,2021,12
+19/06/2021,Sollentuna FK,Hudiksvalls FF,2,2,SE3N,2021,12
+19/06/2021,Sandvikens IF,Gefle IF,2,0,SE3N,2021,12
+20/06/2021,Dalkurd FF,IF Karlstad Fotboll,2,1,SE3N,2021,12
+21/06/2021,Täby FK,Hammarby TFF,3,2,SE3N,2021,12
+24/06/2021,Piteå IF,IFK Luleå,3,0,SE3N,2021,13
+27/06/2021,Dalkurd FF,Umeå FC,2,2,SE3N,2021,13
+27/06/2021,Hudiksvalls FF,Hammarby TFF,1,1,SE3N,2021,13
+27/06/2021,Örebro Syrianska IF,Gefle IF,1,0,SE3N,2021,13
+27/06/2021,IF Karlstad Fotboll,IF Sylvia,2,1,SE3N,2021,13
+27/06/2021,Assyriska FF,IF Brommapojkarna,0,2,SE3N,2021,13
+27/06/2021,Sandvikens IF,Täby FK,4,1,SE3N,2021,13
+28/06/2021,IFK Haninge,Sollentuna FK,2,1,SE3N,2021,13
+03/07/2021,Gefle IF,IF Brommapojkarna,0,1,SE3N,2021,14
+03/07/2021,Sollentuna FK,Dalkurd FF,2,3,SE3N,2021,14
+03/07/2021,Täby FK,Hudiksvalls FF,2,3,SE3N,2021,14
+04/07/2021,IFK Luleå,Örebro Syrianska IF,2,2,SE3N,2021,14
+04/07/2021,IF Sylvia,Assyriska FF,4,0,SE3N,2021,14
+04/07/2021,Umeå FC,Piteå IF,4,0,SE3N,2021,14
+04/07/2021,IFK Haninge,Sandvikens IF,0,3,SE3N,2021,14
+04/07/2021,Hammarby TFF,IF Karlstad Fotboll,0,3,SE3N,2021,14
+10/07/2021,Dalkurd FF,Täby FK,5,1,SE3N,2021,15
+10/07/2021,Örebro Syrianska IF,Assyriska FF,4,3,SE3N,2021,15
+10/07/2021,Hammarby TFF,IFK Haninge,3,3,SE3N,2021,15
+10/07/2021,Gefle IF,IF Karlstad Fotboll,2,1,SE3N,2021,15
+11/07/2021,IF Brommapojkarna,IFK Luleå,4,0,SE3N,2021,15
+11/07/2021,Sollentuna FK,Umeå FC,2,1,SE3N,2021,15
+11/07/2021,Piteå IF,IF Sylvia,1,1,SE3N,2021,15
+11/07/2021,Sandvikens IF,Hudiksvalls FF,4,2,SE3N,2021,15
+14/08/2021,IF Sylvia,Örebro Syrianska IF,3,2,SE3N,2021,16
+14/08/2021,Hudiksvalls FF,Sandvikens IF,0,2,SE3N,2021,16
+14/08/2021,IFK Haninge,IF Brommapojkarna,1,2,SE3N,2021,16
+15/08/2021,IFK Luleå,Gefle IF,2,3,SE3N,2021,16
+15/08/2021,Täby FK,Piteå IF,2,1,SE3N,2021,16
+15/08/2021,Umeå FC,Dalkurd FF,1,1,SE3N,2021,16
+15/08/2021,Assyriska FF,Sollentuna FK,1,2,SE3N,2021,16
+15/09/2021,IF Karlstad Fotboll,Hammarby TFF,4,1,SE3N,2021,16
+21/08/2021,Piteå IF,Hudiksvalls FF,2,0,SE3N,2021,17
+21/08/2021,Sandvikens IF,Umeå FC,1,1,SE3N,2021,17
+21/08/2021,Örebro Syrianska IF,IFK Haninge,0,2,SE3N,2021,17
+21/08/2021,Dalkurd FF,Gefle IF,2,1,SE3N,2021,17
+22/08/2021,IF Brommapojkarna,IF Sylvia,3,0,SE3N,2021,17
+22/08/2021,Assyriska FF,IFK Luleå,1,2,SE3N,2021,17
+22/08/2021,Sollentuna FK,IF Karlstad Fotboll,2,4,SE3N,2021,17
+23/08/2021,Hammarby TFF,Täby FK,3,3,SE3N,2021,17
+28/08/2021,IF Brommapojkarna,Dalkurd FF,3,0,SE3N,2021,18
+28/08/2021,IFK Haninge,Hammarby TFF,0,3,SE3N,2021,18
+28/08/2021,IF Karlstad Fotboll,Assyriska FF,4,0,SE3N,2021,18
+28/08/2021,Gefle IF,Sandvikens IF,1,0,SE3N,2021,18
+29/08/2021,Umeå FC,IF Sylvia,2,2,SE3N,2021,18
+29/08/2021,Hudiksvalls FF,Sollentuna FK,1,3,SE3N,2021,18
+29/08/2021,Täby FK,Örebro Syrianska IF,2,1,SE3N,2021,18
+01/09/2021,IFK Luleå,Piteå IF,0,0,SE3N,2021,18
+04/09/2021,Örebro Syrianska IF,IF Brommapojkarna,0,0,SE3N,2021,19
+04/09/2021,IF Karlstad Fotboll,Umeå FC,4,0,SE3N,2021,19
+04/09/2021,IF Sylvia,Hudiksvalls FF,8,0,SE3N,2021,19
+04/09/2021,Sollentuna FK,Täby FK,4,3,SE3N,2021,19
+05/09/2021,Piteå IF,IFK Haninge,1,0,SE3N,2021,19
+05/09/2021,Dalkurd FF,Sandvikens IF,2,0,SE3N,2021,19
+05/09/2021,Hammarby TFF,IFK Luleå,3,1,SE3N,2021,19
+05/09/2021,Assyriska FF,Gefle IF,2,1,SE3N,2021,19
+11/09/2021,Hudiksvalls FF,IF Brommapojkarna,1,3,SE3N,2021,20
+11/09/2021,Gefle IF,IF Sylvia,3,2,SE3N,2021,20
+11/09/2021,IFK Haninge,IF Karlstad Fotboll,2,0,SE3N,2021,20
+11/09/2021,Täby FK,Assyriska FF,1,1,SE3N,2021,20
+11/09/2021,Sandvikens IF,Hammarby TFF,0,0,SE3N,2021,20
+12/09/2021,Umeå FC,Örebro Syrianska IF,2,3,SE3N,2021,20
+12/09/2021,Sollentuna FK,Piteå IF,1,0,SE3N,2021,20
+12/09/2021,IFK Luleå,Dalkurd FF,1,4,SE3N,2021,20
+18/09/2021,IF Brommapojkarna,Gefle IF,0,1,SE3N,2021,21
+18/09/2021,IFK Haninge,IF Sylvia,3,1,SE3N,2021,21
+18/09/2021,IF Karlstad Fotboll,Täby FK,2,1,SE3N,2021,21
+19/09/2021,Örebro Syrianska IF,Piteå IF,0,1,SE3N,2021,21
+19/09/2021,Dalkurd FF,Sollentuna FK,2,2,SE3N,2021,21
+19/09/2021,IFK Luleå,Umeå FC,0,1,SE3N,2021,21
+19/09/2021,Hammarby TFF,Hudiksvalls FF,1,1,SE3N,2021,21
+19/09/2021,Sandvikens IF,Assyriska FF,5,2,SE3N,2021,21
+25/09/2021,Gefle IF,Örebro Syrianska IF,1,2,SE3N,2021,22
+25/09/2021,Hudiksvalls FF,IF Karlstad Fotboll,0,0,SE3N,2021,22
+25/09/2021,Piteå IF,Sandvikens IF,1,2,SE3N,2021,22
+26/09/2021,Umeå FC,IF Brommapojkarna,2,2,SE3N,2021,22
+26/09/2021,Täby FK,IFK Haninge,1,1,SE3N,2021,22
+26/09/2021,Assyriska FF,Hammarby TFF,1,0,SE3N,2021,22
+26/09/2021,Sollentuna FK,IFK Luleå,1,2,SE3N,2021,22
+27/09/2021,IF Sylvia,Dalkurd FF,1,2,SE3N,2021,22
+02/10/2021,IFK Haninge,Gefle IF,1,2,SE3N,2021,23
+02/10/2021,Hammarby TFF,Sollentuna FK,1,3,SE3N,2021,23
+02/10/2021,Sandvikens IF,IF Sylvia,0,0,SE3N,2021,23
+03/10/2021,Dalkurd FF,Örebro Syrianska IF,2,1,SE3N,2021,23
+03/10/2021,Assyriska FF,Piteå IF,1,1,SE3N,2021,23
+03/10/2021,IFK Luleå,Täby FK,1,2,SE3N,2021,23
+03/10/2021,IF Karlstad Fotboll,IF Brommapojkarna,0,3,SE3N,2021,23
+03/10/2021,Umeå FC,Hudiksvalls FF,1,1,SE3N,2021,23
+09/10/2021,IF Brommapojkarna,Assyriska FF,2,1,SE3N,2021,24
+09/10/2021,Gefle IF,Hammarby TFF,2,2,SE3N,2021,24
+09/10/2021,IF Sylvia,IF Karlstad Fotboll,0,1,SE3N,2021,24
+09/10/2021,Hudiksvalls FF,IFK Haninge,0,0,SE3N,2021,24
+09/10/2021,Täby FK,Dalkurd FF,1,2,SE3N,2021,24
+10/10/2021,Örebro Syrianska IF,IFK Luleå,1,3,SE3N,2021,24
+10/10/2021,Sollentuna FK,Sandvikens IF,1,1,SE3N,2021,24
+11/10/2021,Piteå IF,Umeå FC,4,4,SE3N,2021,24
+16/10/2021,Umeå FC,Gefle IF,2,1,SE3N,2021,25
+16/10/2021,Sollentuna FK,IF Sylvia,1,0,SE3N,2021,25
+16/10/2021,Sandvikens IF,IFK Haninge,2,2,SE3N,2021,25
+16/10/2021,Hudiksvalls FF,Täby FK,1,0,SE3N,2021,25
+17/10/2021,Hammarby TFF,Piteå IF,0,1,SE3N,2021,25
+17/10/2021,IF Karlstad Fotboll,Dalkurd FF,3,1,SE3N,2021,25
+17/10/2021,Assyriska FF,Örebro Syrianska IF,1,1,SE3N,2021,25
+17/10/2021,IFK Luleå,IF Brommapojkarna,0,2,SE3N,2021,25
+23/10/2021,IF Brommapojkarna,Sollentuna FK,1,0,SE3N,2021,26
+23/10/2021,Gefle IF,Hudiksvalls FF,3,2,SE3N,2021,26
+23/10/2021,Örebro Syrianska IF,Hammarby TFF,1,2,SE3N,2021,26
+23/10/2021,Täby FK,Sandvikens IF,3,1,SE3N,2021,26
+24/10/2021,Piteå IF,IF Karlstad Fotboll,1,2,SE3N,2021,26
+24/10/2021,IFK Haninge,Umeå FC,2,3,SE3N,2021,26
+24/10/2021,IF Sylvia,IFK Luleå,2,1,SE3N,2021,26
+24/10/2021,Dalkurd FF,Assyriska FF,5,0,SE3N,2021,26
+02/04/2022,Gefle IF,Hammarby TFF,1,0,SE3N,2022,1
+02/04/2022,IFK Haninge,IF Karlstad Fotboll,0,0,SE3N,2022,1
+02/04/2022,Motala AIF,BK Forward,4,0,SE3N,2022,1
+02/04/2022,Team TG FF,Täby FK,1,4,SE3N,2022,1
+02/04/2022,Örebro Syrianska IF,Sandvikens IF,3,1,SE3N,2022,1
+03/04/2022,FC Stockholm Internazionale,IF Sylvia,2,3,SE3N,2022,1
+03/04/2022,Sollentuna FK,Piteå IF,1,1,SE3N,2022,1
+03/04/2022,Umeå FC,Vasalunds IF,4,0,SE3N,2022,1
+08/04/2022,Täby FK,FC Stockholm Internazionale,1,2,SE3N,2022,2
+09/04/2022,Vasalunds IF,Sollentuna FK,1,1,SE3N,2022,2
+09/04/2022,BK Forward,Örebro Syrianska IF,1,3,SE3N,2022,2
+09/04/2022,Sandvikens IF,Motala AIF,4,1,SE3N,2022,2
+09/04/2022,IF Sylvia,Team TG FF,3,0,SE3N,2022,2
+10/04/2022,IF Karlstad Fotboll,Gefle IF,2,3,SE3N,2022,2
+10/04/2022,Hammarby TFF,Umeå FC,0,2,SE3N,2022,2
+10/04/2022,Piteå IF,IFK Haninge,0,2,SE3N,2022,2
+14/04/2022,Gefle IF,Täby FK,1,2,SE3N,2022,3
+15/04/2022,Sandvikens IF,Team TG FF,3,0,SE3N,2022,3
+16/04/2022,Vasalunds IF,IF Sylvia,1,1,SE3N,2022,3
+17/04/2022,Sollentuna FK,Umeå FC,1,1,SE3N,2022,3
+18/04/2022,Örebro Syrianska IF,IF Karlstad Fotboll,2,2,SE3N,2022,3
+18/04/2022,BK Forward,FC Stockholm Internazionale,1,1,SE3N,2022,3
+18/04/2022,Hammarby TFF,Piteå IF,3,2,SE3N,2022,3
+18/04/2022,IFK Haninge,Motala AIF,3,0,SE3N,2022,3
+23/04/2022,Umeå FC,Gefle IF,0,1,SE3N,2022,4
+23/04/2022,Örebro Syrianska IF,Hammarby TFF,0,0,SE3N,2022,4
+23/04/2022,Sandvikens IF,Vasalunds IF,1,1,SE3N,2022,4
+23/04/2022,Täby FK,BK Forward,3,1,SE3N,2022,4
+24/04/2022,IF Karlstad Fotboll,Piteå IF,3,1,SE3N,2022,4
+24/04/2022,IF Sylvia,IFK Haninge,0,0,SE3N,2022,4
+24/04/2022,FC Stockholm Internazionale,Team TG FF,4,0,SE3N,2022,4
+24/04/2022,Motala AIF,Sollentuna FK,2,0,SE3N,2022,4
+30/04/2022,Hammarby TFF,BK Forward,1,2,SE3N,2022,5
+30/04/2022,Team TG FF,IF Karlstad Fotboll,0,5,SE3N,2022,5
+30/04/2022,Vasalunds IF,Örebro Syrianska IF,2,1,SE3N,2022,5
+30/04/2022,Sollentuna FK,IF Sylvia,2,2,SE3N,2022,5
+30/04/2022,Gefle IF,Motala AIF,1,0,SE3N,2022,5
+30/04/2022,IFK Haninge,Sandvikens IF,0,3,SE3N,2022,5
+01/05/2022,Piteå IF,Täby FK,4,2,SE3N,2022,5
+01/05/2022,Umeå FC,FC Stockholm Internazionale,0,2,SE3N,2022,5
+06/05/2022,Täby FK,Sollentuna FK,0,2,SE3N,2022,6
+07/05/2022,Motala AIF,Team TG FF,2,1,SE3N,2022,6
+08/05/2022,Sandvikens IF,Hammarby TFF,2,1,SE3N,2022,6
+08/05/2022,Örebro Syrianska IF,Piteå IF,2,2,SE3N,2022,6
+08/05/2022,BK Forward,Umeå FC,0,1,SE3N,2022,6
+08/05/2022,IF Karlstad Fotboll,Vasalunds IF,2,2,SE3N,2022,6
+08/05/2022,IF Sylvia,Gefle IF,1,2,SE3N,2022,6
+09/05/2022,FC Stockholm Internazionale,IFK Haninge,1,2,SE3N,2022,6
+14/05/2022,Gefle IF,Team TG FF,3,0,SE3N,2022,7
+14/05/2022,Umeå FC,Örebro Syrianska IF,2,3,SE3N,2022,7
+14/05/2022,Hammarby TFF,Motala AIF,4,1,SE3N,2022,7
+14/05/2022,IF Sylvia,IF Karlstad Fotboll,1,0,SE3N,2022,7
+15/05/2022,IFK Haninge,Vasalunds IF,1,4,SE3N,2022,7
+15/05/2022,Sollentuna FK,BK Forward,3,1,SE3N,2022,7
+15/05/2022,Piteå IF,FC Stockholm Internazionale,1,0,SE3N,2022,7
+15/05/2022,Sandvikens IF,Täby FK,4,0,SE3N,2022,7
+20/05/2022,FC Stockholm Internazionale,Gefle IF,1,0,SE3N,2022,8
+21/05/2022,Motala AIF,Umeå FC,4,1,SE3N,2022,8
+21/05/2022,IF Karlstad Fotboll,Sollentuna FK,3,2,SE3N,2022,8
+21/05/2022,Vasalunds IF,Hammarby TFF,2,0,SE3N,2022,8
+21/05/2022,Örebro Syrianska IF,IFK Haninge,1,2,SE3N,2022,8
+22/05/2022,Team TG FF,BK Forward,1,2,SE3N,2022,8
+22/05/2022,Täby FK,IF Sylvia,0,1,SE3N,2022,8
+22/05/2022,Piteå IF,Sandvikens IF,1,2,SE3N,2022,8
+25/05/2022,BK Forward,IF Karlstad Fotboll,0,1,SE3N,2022,9
+25/05/2022,Hammarby TFF,IFK Haninge,2,2,SE3N,2022,9
+25/05/2022,IF Sylvia,Sandvikens IF,1,1,SE3N,2022,9
+25/05/2022,Motala AIF,Örebro Syrianska IF,3,1,SE3N,2022,9
+25/05/2022,Sollentuna FK,FC Stockholm Internazionale,2,0,SE3N,2022,9
+26/05/2022,Umeå FC,Täby FK,2,2,SE3N,2022,9
+26/05/2022,Vasalunds IF,Team TG FF,1,0,SE3N,2022,9
+26/05/2022,Gefle IF,Piteå IF,2,2,SE3N,2022,9
+29/05/2022,Piteå IF,IF Sylvia,0,2,SE3N,2022,10
+29/05/2022,FC Stockholm Internazionale,Hammarby TFF,0,1,SE3N,2022,10
+29/05/2022,IF Karlstad Fotboll,Motala AIF,4,3,SE3N,2022,10
+29/05/2022,IFK Haninge,BK Forward,1,2,SE3N,2022,10
+29/05/2022,Sandvikens IF,Sollentuna FK,2,0,SE3N,2022,10
+30/05/2022,Täby FK,Vasalunds IF,0,2,SE3N,2022,10
+30/05/2022,Örebro Syrianska IF,Gefle IF,2,1,SE3N,2022,10
+31/05/2022,Team TG FF,Umeå FC,1,1,SE3N,2022,10
+04/06/2022,Sollentuna FK,IFK Haninge,2,1,SE3N,2022,11
+04/06/2022,Hammarby TFF,IF Karlstad Fotboll,1,0,SE3N,2022,11
+04/06/2022,Motala AIF,Täby FK,0,0,SE3N,2022,11
+04/06/2022,Vasalunds IF,FC Stockholm Internazionale,2,2,SE3N,2022,11
+04/06/2022,Sandvikens IF,Gefle IF,2,2,SE3N,2022,11
+05/06/2022,BK Forward,Piteå IF,1,3,SE3N,2022,11
+05/06/2022,Örebro Syrianska IF,Team TG FF,2,3,SE3N,2022,11
+05/06/2022,Umeå FC,IF Sylvia,3,0,SE3N,2022,11
+11/06/2022,Gefle IF,Sollentuna FK,4,0,SE3N,2022,12
+11/06/2022,IF Sylvia,BK Forward,2,0,SE3N,2022,12
+11/06/2022,FC Stockholm Internazionale,Motala AIF,1,2,SE3N,2022,12
+11/06/2022,IF Karlstad Fotboll,Sandvikens IF,0,3,SE3N,2022,12
+11/06/2022,Team TG FF,Hammarby TFF,0,1,SE3N,2022,12
+12/06/2022,IFK Haninge,Umeå FC,1,2,SE3N,2022,12
+14/06/2022,Täby FK,Örebro Syrianska IF,0,2,SE3N,2022,12
+27/07/2022,Piteå IF,Vasalunds IF,6,2,SE3N,2022,12
+16/06/2022,IF Sylvia,Motala AIF,3,1,SE3N,2022,13
+17/06/2022,Umeå FC,Piteå IF,2,1,SE3N,2022,13
+18/06/2022,Sollentuna FK,Örebro Syrianska IF,1,2,SE3N,2022,13
+18/06/2022,BK Forward,Sandvikens IF,0,5,SE3N,2022,13
+18/06/2022,FC Stockholm Internazionale,IF Karlstad Fotboll,1,1,SE3N,2022,13
+18/06/2022,Vasalunds IF,Gefle IF,0,1,SE3N,2022,13
+19/06/2022,IFK Haninge,Team TG FF,2,0,SE3N,2022,13
+20/06/2022,Hammarby TFF,Täby FK,3,0,SE3N,2022,13
+22/06/2022,Örebro Syrianska IF,FC Stockholm Internazionale,2,1,SE3N,2022,14
+23/06/2022,BK Forward,Vasalunds IF,0,3,SE3N,2022,14
+23/06/2022,Gefle IF,IFK Haninge,3,2,SE3N,2022,14
+23/06/2022,Hammarby TFF,IF Sylvia,1,0,SE3N,2022,14
+26/06/2022,Motala AIF,Piteå IF,0,3,SE3N,2022,14
+26/06/2022,Sandvikens IF,Umeå FC,4,1,SE3N,2022,14
+26/06/2022,Täby FK,IF Karlstad Fotboll,1,1,SE3N,2022,14
+26/06/2022,Team TG FF,Sollentuna FK,1,6,SE3N,2022,14
+30/06/2022,Piteå IF,Team TG FF,0,1,SE3N,2022,15
+30/07/2022,Gefle IF,BK Forward,3,1,SE3N,2022,15
+30/07/2022,IF Karlstad Fotboll,Umeå FC,1,0,SE3N,2022,15
+30/07/2022,IF Sylvia,Örebro Syrianska IF,1,1,SE3N,2022,15
+30/07/2022,FC Stockholm Internazionale,Sandvikens IF,2,1,SE3N,2022,15
+31/07/2022,Vasalunds IF,Motala AIF,4,2,SE3N,2022,15
+01/08/2022,IFK Haninge,Täby FK,2,1,SE3N,2022,15
+01/08/2022,Sollentuna FK,Hammarby TFF,2,2,SE3N,2022,15
+05/08/2022,Team TG FF,Piteå IF,1,5,SE3N,2022,16
+06/08/2022,FC Stockholm Internazionale,Örebro Syrianska IF,2,1,SE3N,2022,16
+06/08/2022,BK Forward,IFK Haninge,1,0,SE3N,2022,16
+06/08/2022,Hammarby TFF,Vasalunds IF,0,2,SE3N,2022,16
+06/08/2022,Motala AIF,IF Karlstad Fotboll,1,3,SE3N,2022,16
+06/08/2022,Sandvikens IF,IF Sylvia,4,0,SE3N,2022,16
+06/08/2022,Täby FK,Gefle IF,0,1,SE3N,2022,16
+07/08/2022,Umeå FC,Sollentuna FK,2,3,SE3N,2022,16
+09/08/2022,IF Karlstad Fotboll,BK Forward,0,1,SE3N,2022,17
+10/08/2022,Gefle IF,FC Stockholm Internazionale,4,1,SE3N,2022,17
+10/08/2022,IF Sylvia,Täby FK,1,2,SE3N,2022,17
+10/08/2022,Piteå IF,Umeå FC,3,1,SE3N,2022,17
+10/08/2022,Sollentuna FK,Team TG FF,2,0,SE3N,2022,17
+10/08/2022,Vasalunds IF,Sandvikens IF,0,0,SE3N,2022,17
+11/08/2022,IFK Haninge,Hammarby TFF,1,1,SE3N,2022,17
+11/08/2022,Örebro Syrianska IF,Motala AIF,1,0,SE3N,2022,17
+13/08/2022,FC Stockholm Internazionale,Sollentuna FK,3,2,SE3N,2022,18
+14/08/2022,Team TG FF,Gefle IF,0,2,SE3N,2022,18
+14/08/2022,BK Forward,IF Sylvia,0,2,SE3N,2022,18
+14/08/2022,Motala AIF,Vasalunds IF,1,3,SE3N,2022,18
+14/08/2022,IFK Haninge,Örebro Syrianska IF,1,4,SE3N,2022,18
+14/08/2022,Täby FK,Piteå IF,1,2,SE3N,2022,18
+14/08/2022,Umeå FC,Hammarby TFF,3,4,SE3N,2022,18
+14/08/2022,Sandvikens IF,IF Karlstad Fotboll,1,3,SE3N,2022,18
+20/08/2022,Piteå IF,BK Forward,1,6,SE3N,2022,19
+20/08/2022,Vasalunds IF,IFK Haninge,4,2,SE3N,2022,19
+20/08/2022,Örebro Syrianska IF,Täby FK,0,0,SE3N,2022,19
+20/08/2022,Gefle IF,Sandvikens IF,2,1,SE3N,2022,19
+20/08/2022,Sollentuna FK,IF Karlstad Fotboll,1,1,SE3N,2022,19
+20/08/2022,Team TG FF,IF Sylvia,1,2,SE3N,2022,19
+21/08/2022,Umeå FC,Motala AIF,1,1,SE3N,2022,19
+22/08/2022,Hammarby TFF,FC Stockholm Internazionale,1,1,SE3N,2022,19
+26/08/2022,IF Karlstad Fotboll,Örebro Syrianska IF,4,3,SE3N,2022,20
+27/08/2022,Motala AIF,Hammarby TFF,2,1,SE3N,2022,20
+27/08/2022,FC Stockholm Internazionale,Vasalunds IF,2,4,SE3N,2022,20
+27/08/2022,Team TG FF,Sandvikens IF,0,2,SE3N,2022,20
+27/08/2022,IFK Haninge,Sollentuna FK,1,4,SE3N,2022,20
+28/08/2022,BK Forward,Gefle IF,1,3,SE3N,2022,20
+28/08/2022,IF Sylvia,Piteå IF,0,1,SE3N,2022,20
+28/08/2022,Täby FK,Umeå FC,1,2,SE3N,2022,20
+04/09/2022,Gefle IF,IF Sylvia,6,0,SE3N,2022,21
+04/09/2022,Motala AIF,IFK Haninge,2,1,SE3N,2022,21
+04/09/2022,Piteå IF,IF Karlstad Fotboll,2,1,SE3N,2022,21
+04/09/2022,FC Stockholm Internazionale,BK Forward,2,2,SE3N,2022,21
+04/09/2022,Umeå FC,Team TG FF,3,0,SE3N,2022,21
+04/09/2022,Örebro Syrianska IF,Vasalunds IF,1,2,SE3N,2022,21
+04/09/2022,Täby FK,Sandvikens IF,2,5,SE3N,2022,21
+06/09/2022,Hammarby TFF,Sollentuna FK,2,2,SE3N,2022,21
+10/09/2022,IF Sylvia,FC Stockholm Internazionale,2,1,SE3N,2022,22
+10/09/2022,BK Forward,Hammarby TFF,0,3,SE3N,2022,22
+10/09/2022,IF Karlstad Fotboll,Täby FK,2,4,SE3N,2022,22
+10/09/2022,IFK Haninge,Gefle IF,0,2,SE3N,2022,22
+11/09/2022,Team TG FF,Örebro Syrianska IF,0,5,SE3N,2022,22
+11/09/2022,Sandvikens IF,Piteå IF,1,2,SE3N,2022,22
+11/09/2022,Vasalunds IF,Umeå FC,2,1,SE3N,2022,22
+11/09/2022,Sollentuna FK,Motala AIF,1,0,SE3N,2022,22
+17/09/2022,Motala AIF,FC Stockholm Internazionale,2,1,SE3N,2022,23
+17/09/2022,Vasalunds IF,BK Forward,1,0,SE3N,2022,23
+17/09/2022,Örebro Syrianska IF,Sollentuna FK,1,1,SE3N,2022,23
+17/09/2022,Hammarby TFF,Sandvikens IF,2,3,SE3N,2022,23
+17/09/2022,IF Karlstad Fotboll,IF Sylvia,0,0,SE3N,2022,23
+18/09/2022,Piteå IF,Gefle IF,1,4,SE3N,2022,23
+18/09/2022,Umeå FC,IFK Haninge,0,1,SE3N,2022,23
+18/09/2022,Täby FK,Team TG FF,5,2,SE3N,2022,23
+24/09/2022,IF Sylvia,Hammarby TFF,4,3,SE3N,2022,24
+24/09/2022,BK Forward,Täby FK,1,3,SE3N,2022,24
+24/09/2022,Sandvikens IF,IFK Haninge,7,0,SE3N,2022,24
+25/09/2022,Piteå IF,Örebro Syrianska IF,2,2,SE3N,2022,24
+25/09/2022,Sollentuna FK,Vasalunds IF,1,1,SE3N,2022,24
+25/09/2022,Team TG FF,Motala AIF,1,1,SE3N,2022,24
+25/09/2022,Gefle IF,IF Karlstad Fotboll,3,1,SE3N,2022,24
+25/09/2022,FC Stockholm Internazionale,Umeå FC,2,1,SE3N,2022,24
+30/09/2022,Motala AIF,IF Sylvia,2,2,SE3N,2022,25
+01/10/2022,Sollentuna FK,Täby FK,0,0,SE3N,2022,25
+01/10/2022,Örebro Syrianska IF,BK Forward,1,1,SE3N,2022,25
+01/10/2022,Hammarby TFF,Gefle IF,3,3,SE3N,2022,25
+01/10/2022,IFK Haninge,FC Stockholm Internazionale,0,1,SE3N,2022,25
+01/10/2022,Umeå FC,Sandvikens IF,1,3,SE3N,2022,25
+02/10/2022,IF Karlstad Fotboll,Team TG FF,1,0,SE3N,2022,25
+02/10/2022,Vasalunds IF,Piteå IF,6,3,SE3N,2022,25
+08/10/2022,BK Forward,Sollentuna FK,0,3,SE3N,2022,26
+08/10/2022,IF Karlstad Fotboll,IFK Haninge,2,1,SE3N,2022,26
+08/10/2022,Täby FK,Motala AIF,0,3,SE3N,2022,26
+08/10/2022,Sandvikens IF,FC Stockholm Internazionale,4,2,SE3N,2022,26
+09/10/2022,IF Sylvia,Umeå FC,0,1,SE3N,2022,26
+09/10/2022,Gefle IF,Örebro Syrianska IF,2,0,SE3N,2022,26
+09/10/2022,Piteå IF,Hammarby TFF,1,2,SE3N,2022,26
+09/10/2022,Team TG FF,Vasalunds IF,1,3,SE3N,2022,26
+01/04/2023,Motala AIF,Sollentuna FK,1,0,SE3N,2023,1
+01/04/2023,IFK Stocksund,IF Karlstad Fotboll,0,3,SE3N,2023,1
+01/04/2023,FC Stockholm Internazionale,IF Sylvia,2,0,SE3N,2023,1
+02/04/2023,Bodens BK,Hammarby TFF,4,1,SE3N,2023,1
+02/04/2023,Örebro Syrianska IF,Umeå FC,1,0,SE3N,2023,1
+02/04/2023,Dalkurd FF,Vasalunds IF,4,0,SE3N,2023,1
+02/04/2023,Täby FK,Piteå IF,1,2,SE3N,2023,1
+02/04/2023,Nordic United FC,Sandvikens IF,1,2,SE3N,2023,1
+06/04/2023,Sollentuna FK,FC Stockholm Internazionale,1,1,SE3N,2023,2
+07/04/2023,Piteå IF,IFK Stocksund,2,3,SE3N,2023,2
+07/04/2023,Sandvikens IF,Örebro Syrianska IF,3,0,SE3N,2023,2
+08/04/2023,Hammarby TFF,Täby FK,2,0,SE3N,2023,2
+09/04/2023,IF Sylvia,Motala AIF,2,1,SE3N,2023,2
+10/04/2023,Umeå FC,Dalkurd FF,3,0,SE3N,2023,2
+10/04/2023,Vasalunds IF,Bodens BK,1,2,SE3N,2023,2
+10/04/2023,IF Karlstad Fotboll,Nordic United FC,1,1,SE3N,2023,2
+15/04/2023,Örebro Syrianska IF,Hammarby TFF,0,1,SE3N,2023,3
+15/04/2023,Vasalunds IF,Piteå IF,2,1,SE3N,2023,3
+15/04/2023,Dalkurd FF,Sollentuna FK,1,0,SE3N,2023,3
+15/04/2023,Motala AIF,Sandvikens IF,1,3,SE3N,2023,3
+15/04/2023,Täby FK,IF Sylvia,2,0,SE3N,2023,3
+16/04/2023,IFK Stocksund,Bodens BK,1,2,SE3N,2023,3
+16/04/2023,Nordic United FC,Umeå FC,2,3,SE3N,2023,3
+16/04/2023,FC Stockholm Internazionale,IF Karlstad Fotboll,1,2,SE3N,2023,3
+22/04/2023,Motala AIF,IFK Stocksund,0,2,SE3N,2023,4
+22/04/2023,Sollentuna FK,Vasalunds IF,2,1,SE3N,2023,4
+22/04/2023,Bodens BK,Umeå FC,0,3,SE3N,2023,4
+22/04/2023,IF Karlstad Fotboll,Täby FK,2,3,SE3N,2023,4
+22/04/2023,Sandvikens IF,FC Stockholm Internazionale,1,2,SE3N,2023,4
+22/04/2023,Örebro Syrianska IF,Dalkurd FF,0,3,SE3N,2023,4
+23/04/2023,Piteå IF,Nordic United FC,0,1,SE3N,2023,4
+23/04/2023,Hammarby TFF,IF Sylvia,2,1,SE3N,2023,4
+29/04/2023,Täby FK,Örebro Syrianska IF,2,1,SE3N,2023,5
+29/04/2023,Dalkurd FF,Motala AIF,1,0,SE3N,2023,5
+29/04/2023,IF Sylvia,Sollentuna FK,1,0,SE3N,2023,5
+29/04/2023,IFK Stocksund,Nordic United FC,2,3,SE3N,2023,5
+29/04/2023,Umeå FC,Sandvikens IF,1,3,SE3N,2023,5
+29/04/2023,Vasalunds IF,IF Karlstad Fotboll,2,0,SE3N,2023,5
+30/04/2023,FC Stockholm Internazionale,Bodens BK,1,2,SE3N,2023,5
+01/05/2023,Hammarby TFF,Piteå IF,3,1,SE3N,2023,5
+06/05/2023,Motala AIF,FC Stockholm Internazionale,0,2,SE3N,2023,6
+06/05/2023,Umeå FC,IF Sylvia,1,3,SE3N,2023,6
+06/05/2023,Piteå IF,Dalkurd FF,0,2,SE3N,2023,6
+06/05/2023,IFK Stocksund,Hammarby TFF,0,1,SE3N,2023,6
+06/05/2023,Nordic United FC,Täby FK,2,1,SE3N,2023,6
+07/05/2023,Bodens BK,Örebro Syrianska IF,0,2,SE3N,2023,6
+07/05/2023,Sollentuna FK,IF Karlstad Fotboll,1,0,SE3N,2023,6
+07/05/2023,Sandvikens IF,Vasalunds IF,0,2,SE3N,2023,6
+12/05/2023,Täby FK,Sollentuna FK,2,1,SE3N,2023,7
+12/05/2023,Vasalunds IF,IFK Stocksund,0,4,SE3N,2023,7
+13/05/2023,Örebro Syrianska IF,Piteå IF,3,3,SE3N,2023,7
+13/05/2023,FC Stockholm Internazionale,Dalkurd FF,0,1,SE3N,2023,7
+13/05/2023,Bodens BK,Sandvikens IF,0,2,SE3N,2023,7
+13/05/2023,Hammarby TFF,Umeå FC,3,2,SE3N,2023,7
+13/05/2023,IF Karlstad Fotboll,Motala AIF,2,3,SE3N,2023,7
+13/05/2023,IF Sylvia,Nordic United FC,1,3,SE3N,2023,7
+17/05/2023,Dalkurd FF,IFK Stocksund,3,1,SE3N,2023,8
+17/05/2023,IF Karlstad Fotboll,Hammarby TFF,2,2,SE3N,2023,8
+17/05/2023,IF Sylvia,Örebro Syrianska IF,2,3,SE3N,2023,8
+17/05/2023,Sandvikens IF,Täby FK,1,1,SE3N,2023,8
+17/05/2023,Vasalunds IF,Nordic United FC,0,1,SE3N,2023,8
+18/05/2023,Motala AIF,Bodens BK,3,0,SE3N,2023,8
+18/05/2023,Piteå IF,FC Stockholm Internazionale,0,0,SE3N,2023,8
+18/05/2023,Sollentuna FK,Umeå FC,5,2,SE3N,2023,8
+20/05/2023,Nordic United FC,Dalkurd FF,0,1,SE3N,2023,9
+21/05/2023,Umeå FC,IF Karlstad Fotboll,3,0,SE3N,2023,9
+21/05/2023,Bodens BK,Sollentuna FK,1,6,SE3N,2023,9
+21/05/2023,Piteå IF,Motala AIF,2,0,SE3N,2023,9
+21/05/2023,Hammarby TFF,Vasalunds IF,1,2,SE3N,2023,9
+21/05/2023,IFK Stocksund,Örebro Syrianska IF,0,1,SE3N,2023,9
+21/05/2023,Sandvikens IF,IF Sylvia,4,0,SE3N,2023,9
+23/05/2023,Täby FK,FC Stockholm Internazionale,2,2,SE3N,2023,9
+27/05/2023,FC Stockholm Internazionale,IFK Stocksund,2,1,SE3N,2023,10
+27/05/2023,Nordic United FC,Bodens BK,3,1,SE3N,2023,10
+27/05/2023,Dalkurd FF,Sandvikens IF,1,2,SE3N,2023,10
+27/05/2023,IF Sylvia,IF Karlstad Fotboll,1,0,SE3N,2023,10
+27/05/2023,Örebro Syrianska IF,Vasalunds IF,0,1,SE3N,2023,10
+28/05/2023,Umeå FC,Täby FK,0,2,SE3N,2023,10
+28/05/2023,Motala AIF,Hammarby TFF,1,0,SE3N,2023,10
+28/05/2023,Sollentuna FK,Piteå IF,2,4,SE3N,2023,10
+02/06/2023,IF Karlstad Fotboll,Örebro Syrianska IF,1,0,SE3N,2023,11
+03/06/2023,Sollentuna FK,Nordic United FC,1,2,SE3N,2023,11
+03/06/2023,Hammarby TFF,FC Stockholm Internazionale,0,1,SE3N,2023,11
+03/06/2023,Vasalunds IF,Motala AIF,3,0,SE3N,2023,11
+04/06/2023,Täby FK,Bodens BK,3,3,SE3N,2023,11
+04/06/2023,IFK Stocksund,Umeå FC,0,1,SE3N,2023,11
+04/06/2023,Sandvikens IF,Piteå IF,1,1,SE3N,2023,11
+04/06/2023,IF Sylvia,Dalkurd FF,1,2,SE3N,2023,11
+10/06/2023,Bodens BK,IF Karlstad Fotboll,1,2,SE3N,2023,12
+10/06/2023,Dalkurd FF,Hammarby TFF,3,0,SE3N,2023,12
+10/06/2023,Nordic United FC,Motala AIF,3,1,SE3N,2023,12
+10/06/2023,Örebro Syrianska IF,FC Stockholm Internazionale,0,1,SE3N,2023,12
+11/06/2023,Vasalunds IF,Umeå FC,1,2,SE3N,2023,12
+11/06/2023,Piteå IF,IF Sylvia,1,1,SE3N,2023,12
+11/06/2023,Sandvikens IF,Sollentuna FK,2,3,SE3N,2023,12
+12/06/2023,IFK Stocksund,Täby FK,0,2,SE3N,2023,12
+15/06/2023,Motala AIF,Örebro Syrianska IF,1,2,SE3N,2023,13
+16/06/2023,Sollentuna FK,IFK Stocksund,3,1,SE3N,2023,13
+16/06/2023,Umeå FC,Piteå IF,1,0,SE3N,2023,13
+17/06/2023,FC Stockholm Internazionale,Vasalunds IF,0,3,SE3N,2023,13
+17/06/2023,Täby FK,Dalkurd FF,1,1,SE3N,2023,13
+17/06/2023,Nordic United FC,Hammarby TFF,3,1,SE3N,2023,13
+18/06/2023,IF Karlstad Fotboll,Sandvikens IF,1,2,SE3N,2023,13
+18/06/2023,IF Sylvia,Bodens BK,2,2,SE3N,2023,13
+21/06/2023,Bodens BK,Piteå IF,1,1,SE3N,2023,14
+21/06/2023,FC Stockholm Internazionale,Nordic United FC,1,1,SE3N,2023,14
+22/06/2023,Vasalunds IF,Täby FK,2,0,SE3N,2023,14
+22/06/2023,Hammarby TFF,Sandvikens IF,2,5,SE3N,2023,14
+22/06/2023,IFK Stocksund,IF Sylvia,3,1,SE3N,2023,14
+25/06/2023,Motala AIF,Umeå FC,2,2,SE3N,2023,14
+25/06/2023,IF Karlstad Fotboll,Dalkurd FF,2,1,SE3N,2023,14
+25/06/2023,Örebro Syrianska IF,Sollentuna FK,1,1,SE3N,2023,14
+29/07/2023,Dalkurd FF,Bodens BK,0,0,SE3N,2023,15
+29/07/2023,Piteå IF,IF Karlstad Fotboll,1,2,SE3N,2023,15
+29/07/2023,IF Sylvia,Vasalunds IF,3,0,SE3N,2023,15
+29/07/2023,Täby FK,Motala AIF,0,3,SE3N,2023,15
+29/07/2023,Nordic United FC,Örebro Syrianska IF,2,0,SE3N,2023,15
+30/07/2023,Sandvikens IF,IFK Stocksund,6,1,SE3N,2023,15
+30/07/2023,Umeå FC,FC Stockholm Internazionale,4,3,SE3N,2023,15
+31/07/2023,Sollentuna FK,Hammarby TFF,1,0,SE3N,2023,15
+05/08/2023,FC Stockholm Internazionale,Täby FK,4,0,SE3N,2023,16
+05/08/2023,Örebro Syrianska IF,Motala AIF,0,2,SE3N,2023,16
+05/08/2023,IF Karlstad Fotboll,IF Sylvia,4,1,SE3N,2023,16
+05/08/2023,IFK Stocksund,Sollentuna FK,2,3,SE3N,2023,16
+05/08/2023,Piteå IF,Sandvikens IF,1,5,SE3N,2023,16
+05/08/2023,Vasalunds IF,Hammarby TFF,0,1,SE3N,2023,16
+06/08/2023,Dalkurd FF,Umeå FC,2,0,SE3N,2023,16
+06/08/2023,Bodens BK,Nordic United FC,1,1,SE3N,2023,16
+12/08/2023,Hammarby TFF,IF Karlstad Fotboll,1,1,SE3N,2023,17
+12/08/2023,Täby FK,IFK Stocksund,1,4,SE3N,2023,17
+12/08/2023,Nordic United FC,FC Stockholm Internazionale,4,2,SE3N,2023,17
+12/08/2023,Vasalunds IF,Dalkurd FF,2,0,SE3N,2023,17
+13/08/2023,Motala AIF,Piteå IF,1,2,SE3N,2023,17
+13/08/2023,Sollentuna FK,Örebro Syrianska IF,7,1,SE3N,2023,17
+13/08/2023,IF Sylvia,Sandvikens IF,0,3,SE3N,2023,17
+13/08/2023,Umeå FC,Bodens BK,2,0,SE3N,2023,17
+18/08/2023,Piteå IF,Bodens BK,1,1,SE3N,2023,18
+19/08/2023,Örebro Syrianska IF,IF Sylvia,2,2,SE3N,2023,18
+19/08/2023,Dalkurd FF,Täby FK,3,2,SE3N,2023,18
+19/08/2023,Hammarby TFF,Sollentuna FK,1,1,SE3N,2023,18
+19/08/2023,IF Karlstad Fotboll,Vasalunds IF,1,2,SE3N,2023,18
+19/08/2023,IFK Stocksund,Motala AIF,2,2,SE3N,2023,18
+20/08/2023,FC Stockholm Internazionale,Umeå FC,2,1,SE3N,2023,18
+20/08/2023,Sandvikens IF,Nordic United FC,3,1,SE3N,2023,18
+26/08/2023,Sollentuna FK,Dalkurd FF,3,1,SE3N,2023,19
+26/08/2023,Örebro Syrianska IF,IF Karlstad Fotboll,0,3,SE3N,2023,19
+26/08/2023,IF Sylvia,IFK Stocksund,1,2,SE3N,2023,19
+27/08/2023,Motala AIF,Täby FK,1,3,SE3N,2023,19
+27/08/2023,Bodens BK,FC Stockholm Internazionale,0,3,SE3N,2023,19
+27/08/2023,Umeå FC,Nordic United FC,3,2,SE3N,2023,19
+27/08/2023,Piteå IF,Hammarby TFF,1,2,SE3N,2023,19
+27/08/2023,Vasalunds IF,Sandvikens IF,1,2,SE3N,2023,19
+02/09/2023,Dalkurd FF,IF Sylvia,1,0,SE3N,2023,20
+02/09/2023,Hammarby TFF,Örebro Syrianska IF,0,0,SE3N,2023,20
+02/09/2023,IFK Stocksund,Sandvikens IF,4,4,SE3N,2023,20
+02/09/2023,Nordic United FC,Sollentuna FK,1,2,SE3N,2023,20
+03/09/2023,IF Karlstad Fotboll,Piteå IF,1,2,SE3N,2023,20
+03/09/2023,FC Stockholm Internazionale,Motala AIF,0,1,SE3N,2023,20
+03/09/2023,Täby FK,Umeå FC,1,1,SE3N,2023,20
+03/09/2023,Bodens BK,Vasalunds IF,1,2,SE3N,2023,20
+09/09/2023,Dalkurd FF,FC Stockholm Internazionale,2,1,SE3N,2023,21
+09/09/2023,Motala AIF,Vasalunds IF,1,2,SE3N,2023,21
+09/09/2023,Örebro Syrianska IF,Nordic United FC,4,4,SE3N,2023,21
+10/09/2023,Umeå FC,IFK Stocksund,3,5,SE3N,2023,21
+10/09/2023,Hammarby TFF,Bodens BK,4,0,SE3N,2023,21
+10/09/2023,Piteå IF,Sollentuna FK,1,0,SE3N,2023,21
+10/09/2023,IF Sylvia,Täby FK,3,2,SE3N,2023,21
+10/09/2023,Sandvikens IF,IF Karlstad Fotboll,6,0,SE3N,2023,21
+16/09/2023,IF Karlstad Fotboll,Umeå FC,2,2,SE3N,2023,22
+16/09/2023,Sollentuna FK,IF Sylvia,1,0,SE3N,2023,22
+16/09/2023,FC Stockholm Internazionale,Hammarby TFF,1,0,SE3N,2023,22
+16/09/2023,Täby FK,Sandvikens IF,0,3,SE3N,2023,22
+16/09/2023,Vasalunds IF,Örebro Syrianska IF,2,0,SE3N,2023,22
+17/09/2023,Bodens BK,Motala AIF,2,1,SE3N,2023,22
+17/09/2023,Nordic United FC,Piteå IF,1,1,SE3N,2023,22
+17/09/2023,IFK Stocksund,Dalkurd FF,2,1,SE3N,2023,22
+23/09/2023,Örebro Syrianska IF,IFK Stocksund,2,0,SE3N,2023,23
+23/09/2023,Dalkurd FF,Nordic United FC,1,2,SE3N,2023,23
+23/09/2023,Hammarby TFF,Motala AIF,0,2,SE3N,2023,23
+23/09/2023,IF Karlstad Fotboll,Sollentuna FK,3,2,SE3N,2023,23
+24/09/2023,Sandvikens IF,Bodens BK,1,3,SE3N,2023,23
+24/09/2023,Piteå IF,Täby FK,0,0,SE3N,2023,23
+24/09/2023,IF Sylvia,FC Stockholm Internazionale,1,0,SE3N,2023,23
+24/09/2023,Umeå FC,Vasalunds IF,0,1,SE3N,2023,23
+30/09/2023,Sollentuna FK,Sandvikens IF,0,1,SE3N,2023,24
+30/09/2023,FC Stockholm Internazionale,Örebro Syrianska IF,0,2,SE3N,2023,24
+30/09/2023,Täby FK,IF Karlstad Fotboll,1,0,SE3N,2023,24
+30/09/2023,Nordic United FC,Vasalunds IF,1,0,SE3N,2023,24
+30/09/2023,Motala AIF,IF Sylvia,3,0,SE3N,2023,24
+01/10/2023,Bodens BK,Dalkurd FF,1,1,SE3N,2023,24
+01/10/2023,Umeå FC,Hammarby TFF,0,1,SE3N,2023,24
+01/10/2023,IFK Stocksund,Piteå IF,0,1,SE3N,2023,24
+05/10/2023,Piteå IF,Umeå FC,3,0,SE3N,2023,25
+06/10/2023,Hammarby TFF,IFK Stocksund,0,1,SE3N,2023,25
+07/10/2023,Örebro Syrianska IF,Täby FK,4,1,SE3N,2023,25
+07/10/2023,IF Karlstad Fotboll,FC Stockholm Internazionale,0,1,SE3N,2023,25
+07/10/2023,Motala AIF,Nordic United FC,0,2,SE3N,2023,25
+07/10/2023,Vasalunds IF,IF Sylvia,4,0,SE3N,2023,25
+08/10/2023,Sollentuna FK,Bodens BK,3,1,SE3N,2023,25
+08/10/2023,Sandvikens IF,Dalkurd FF,0,0,SE3N,2023,25
+14/10/2023,FC Stockholm Internazionale,Sollentuna FK,4,1,SE3N,2023,26
+14/10/2023,Dalkurd FF,Örebro Syrianska IF,2,0,SE3N,2023,26
+14/10/2023,Sandvikens IF,Hammarby TFF,2,1,SE3N,2023,26
+14/10/2023,Nordic United FC,IF Karlstad Fotboll,3,1,SE3N,2023,26
+15/10/2023,Umeå FC,Motala AIF,3,0,SE3N,2023,26
+15/10/2023,Bodens BK,IFK Stocksund,0,2,SE3N,2023,26
+15/10/2023,Täby FK,Vasalunds IF,1,2,SE3N,2023,26
+15/10/2023,IF Sylvia,Piteå IF,0,1,SE3N,2023,26
+29/03/2024,Vasalunds IF,Karlbergs BK,3,1,SE3N,2024,1
+29/03/2024,FBK Karlstad,Täby FK,0,2,SE3N,2024,1
+30/03/2024,IFK Stocksund,Friska Viljor FC,6,0,SE3N,2024,1
+30/03/2024,Örebro Syrianska IF,FC Stockholm Internazionale,1,1,SE3N,2024,1
+30/03/2024,Nordic United FC,AFC Eskilstuna,3,1,SE3N,2024,1
+31/03/2024,Piteå IF,Assyriska FF,1,1,SE3N,2024,1
+31/03/2024,Sollentuna FK,Umeå FC,1,4,SE3N,2024,1
+01/04/2024,IF Karlstad Fotboll,Hammarby TFF,2,0,SE3N,2024,1
+05/04/2024,Täby FK,Sollentuna FK,2,2,SE3N,2024,2
+06/04/2024,FC Stockholm Internazionale,IFK Stocksund,3,0,SE3N,2024,2
+06/04/2024,AFC Eskilstuna,IF Karlstad Fotboll,0,0,SE3N,2024,2
+07/04/2024,Friska Viljor FC,FBK Karlstad,2,3,SE3N,2024,2
+07/04/2024,Umeå FC,Örebro Syrianska IF,1,0,SE3N,2024,2
+07/04/2024,Assyriska FF,Vasalunds IF,2,1,SE3N,2024,2
+07/04/2024,Karlbergs BK,Piteå IF,1,0,SE3N,2024,2
+08/04/2024,Hammarby TFF,Nordic United FC,1,1,SE3N,2024,2
+13/04/2024,Piteå IF,AFC Eskilstuna,2,1,SE3N,2024,3
+13/04/2024,FC Stockholm Internazionale,Karlbergs BK,2,1,SE3N,2024,3
+13/04/2024,Vasalunds IF,Täby FK,3,0,SE3N,2024,3
+13/04/2024,Nordic United FC,Sollentuna FK,4,0,SE3N,2024,3
+14/04/2024,Umeå FC,IF Karlstad Fotboll,5,2,SE3N,2024,3
+14/04/2024,Örebro Syrianska IF,Friska Viljor FC,3,2,SE3N,2024,3
+14/04/2024,FBK Karlstad,IFK Stocksund,4,2,SE3N,2024,3
+14/04/2024,Hammarby TFF,Assyriska FF,5,0,SE3N,2024,3
+19/04/2024,IFK Stocksund,Vasalunds IF,0,0,SE3N,2024,4
+20/04/2024,Friska Viljor FC,Nordic United FC,2,4,SE3N,2024,4
+20/04/2024,AFC Eskilstuna,Assyriska FF,3,3,SE3N,2024,4
+20/04/2024,IF Karlstad Fotboll,FC Stockholm Internazionale,1,4,SE3N,2024,4
+20/04/2024,Sollentuna FK,FBK Karlstad,2,2,SE3N,2024,4
+21/04/2024,Piteå IF,Örebro Syrianska IF,1,1,SE3N,2024,4
+21/04/2024,Täby FK,Umeå FC,2,2,SE3N,2024,4
+21/04/2024,Karlbergs BK,Hammarby TFF,2,2,SE3N,2024,4
+26/04/2024,Örebro Syrianska IF,AFC Eskilstuna,2,2,SE3N,2024,5
+27/04/2024,FBK Karlstad,Karlbergs BK,0,3,SE3N,2024,5
+27/04/2024,Hammarby TFF,Friska Viljor FC,3,0,SE3N,2024,5
+27/04/2024,Vasalunds IF,IF Karlstad Fotboll,0,1,SE3N,2024,5
+27/04/2024,Nordic United FC,IFK Stocksund,4,1,SE3N,2024,5
+28/04/2024,FC Stockholm Internazionale,Umeå FC,1,2,SE3N,2024,5
+28/04/2024,Assyriska FF,Täby FK,3,2,SE3N,2024,5
+28/04/2024,Sollentuna FK,Piteå IF,2,1,SE3N,2024,5
+03/05/2024,AFC Eskilstuna,Hammarby TFF,0,1,SE3N,2024,6
+03/05/2024,IFK Stocksund,Täby FK,2,2,SE3N,2024,6
+04/05/2024,Piteå IF,Nordic United FC,1,5,SE3N,2024,6
+04/05/2024,IF Karlstad Fotboll,Friska Viljor FC,0,1,SE3N,2024,6
+04/05/2024,Umeå FC,FBK Karlstad,2,1,SE3N,2024,6
+04/05/2024,Karlbergs BK,Sollentuna FK,2,2,SE3N,2024,6
+04/05/2024,Vasalunds IF,Örebro Syrianska IF,2,0,SE3N,2024,6
+05/05/2024,Assyriska FF,FC Stockholm Internazionale,3,1,SE3N,2024,6
+08/05/2024,AFC Eskilstuna,FC Stockholm Internazionale,3,3,SE3N,2024,7
+08/05/2024,FBK Karlstad,Nordic United FC,1,3,SE3N,2024,7
+08/05/2024,IF Karlstad Fotboll,Karlbergs BK,2,1,SE3N,2024,7
+08/05/2024,Täby FK,Hammarby TFF,0,4,SE3N,2024,7
+08/05/2024,Örebro Syrianska IF,Sollentuna FK,0,2,SE3N,2024,7
+09/05/2024,Umeå FC,IFK Stocksund,4,2,SE3N,2024,7
+09/05/2024,Friska Viljor FC,Assyriska FF,2,3,SE3N,2024,7
+09/05/2024,Piteå IF,Vasalunds IF,0,1,SE3N,2024,7
+11/05/2024,FC Stockholm Internazionale,FBK Karlstad,3,0,SE3N,2024,8
+11/05/2024,Nordic United FC,Täby FK,3,1,SE3N,2024,8
+12/05/2024,Hammarby TFF,Umeå FC,1,2,SE3N,2024,8
+12/05/2024,Assyriska FF,Örebro Syrianska IF,1,2,SE3N,2024,8
+12/05/2024,IFK Stocksund,Piteå IF,4,1,SE3N,2024,8
+12/05/2024,Karlbergs BK,Friska Viljor FC,1,2,SE3N,2024,8
+12/05/2024,Sollentuna FK,IF Karlstad Fotboll,1,0,SE3N,2024,8
+14/05/2024,Vasalunds IF,AFC Eskilstuna,0,1,SE3N,2024,8
+17/05/2024,FBK Karlstad,Hammarby TFF,0,1,SE3N,2024,9
+18/05/2024,IF Karlstad Fotboll,IFK Stocksund,2,1,SE3N,2024,9
+18/05/2024,Täby FK,Örebro Syrianska IF,1,4,SE3N,2024,9
+19/05/2024,Friska Viljor FC,Vasalunds IF,2,2,SE3N,2024,9
+19/05/2024,AFC Eskilstuna,Sollentuna FK,1,1,SE3N,2024,9
+19/05/2024,Piteå IF,FC Stockholm Internazionale,2,2,SE3N,2024,9
+19/05/2024,Umeå FC,Karlbergs BK,3,1,SE3N,2024,9
+19/05/2024,Assyriska FF,Nordic United FC,1,2,SE3N,2024,9
+24/05/2024,Örebro Syrianska IF,FBK Karlstad,2,1,SE3N,2024,10
+25/05/2024,Sollentuna FK,Friska Viljor FC,2,2,SE3N,2024,10
+25/05/2024,FC Stockholm Internazionale,Täby FK,1,0,SE3N,2024,10
+25/05/2024,Umeå FC,Vasalunds IF,1,1,SE3N,2024,10
+25/05/2024,Nordic United FC,IF Karlstad Fotboll,3,0,SE3N,2024,10
+26/05/2024,Hammarby TFF,Piteå IF,5,1,SE3N,2024,10
+26/05/2024,IFK Stocksund,AFC Eskilstuna,2,3,SE3N,2024,10
+26/05/2024,Karlbergs BK,Assyriska FF,3,1,SE3N,2024,10
+31/05/2024,IF Karlstad Fotboll,FBK Karlstad,1,2,SE3N,2024,11
+31/05/2024,Piteå IF,Umeå FC,0,0,SE3N,2024,11
+01/06/2024,Örebro Syrianska IF,Karlbergs BK,3,0,SE3N,2024,11
+01/06/2024,Friska Viljor FC,FC Stockholm Internazionale,0,4,SE3N,2024,11
+02/06/2024,Täby FK,AFC Eskilstuna,2,0,SE3N,2024,11
+02/06/2024,Vasalunds IF,Nordic United FC,1,2,SE3N,2024,11
+03/06/2024,Assyriska FF,IFK Stocksund,1,0,SE3N,2024,11
+04/06/2024,Hammarby TFF,Sollentuna FK,3,1,SE3N,2024,11
+08/06/2024,FBK Karlstad,Assyriska FF,3,5,SE3N,2024,12
+08/06/2024,Friska Viljor FC,Piteå IF,2,1,SE3N,2024,12
+09/06/2024,FC Stockholm Internazionale,Hammarby TFF,2,0,SE3N,2024,12
+09/06/2024,Nordic United FC,Umeå FC,0,1,SE3N,2024,12
+09/06/2024,Täby FK,IF Karlstad Fotboll,1,2,SE3N,2024,12
+09/06/2024,AFC Eskilstuna,Karlbergs BK,1,1,SE3N,2024,12
+09/06/2024,IFK Stocksund,Örebro Syrianska IF,4,1,SE3N,2024,12
+09/06/2024,Sollentuna FK,Vasalunds IF,0,1,SE3N,2024,12
+14/06/2024,FC Stockholm Internazionale,Sollentuna FK,6,1,SE3N,2024,13
+14/06/2024,Umeå FC,Friska Viljor FC,4,0,SE3N,2024,13
+15/06/2024,AFC Eskilstuna,FBK Karlstad,2,2,SE3N,2024,13
+15/06/2024,Hammarby TFF,Vasalunds IF,1,1,SE3N,2024,13
+15/06/2024,Karlbergs BK,IFK Stocksund,1,1,SE3N,2024,13
+16/06/2024,Piteå IF,Täby FK,1,0,SE3N,2024,13
+16/06/2024,IF Karlstad Fotboll,Assyriska FF,2,2,SE3N,2024,13
+16/06/2024,Nordic United FC,Örebro Syrianska IF,2,2,SE3N,2024,13
+20/06/2024,Vasalunds IF,FC Stockholm Internazionale,0,2,SE3N,2024,14
+20/06/2024,IFK Stocksund,Hammarby TFF,1,0,SE3N,2024,14
+20/06/2024,Karlbergs BK,Nordic United FC,2,1,SE3N,2024,14
+23/06/2024,FBK Karlstad,Piteå IF,2,3,SE3N,2024,14
+23/06/2024,Friska Viljor FC,Täby FK,4,1,SE3N,2024,14
+23/06/2024,Umeå FC,AFC Eskilstuna,3,1,SE3N,2024,14
+23/06/2024,Assyriska FF,Sollentuna FK,2,2,SE3N,2024,14
+24/06/2024,Örebro Syrianska IF,IF Karlstad Fotboll,0,1,SE3N,2024,14
+27/06/2024,Täby FK,Karlbergs BK,1,2,SE3N,2024,15
+29/06/2024,AFC Eskilstuna,Friska Viljor FC,7,1,SE3N,2024,15
+29/06/2024,Nordic United FC,FC Stockholm Internazionale,1,0,SE3N,2024,15
+29/06/2024,Örebro Syrianska IF,Hammarby TFF,1,1,SE3N,2024,15
+30/06/2024,Assyriska FF,Umeå FC,1,2,SE3N,2024,15
+30/06/2024,Sollentuna FK,IFK Stocksund,2,3,SE3N,2024,15
+30/06/2024,Vasalunds IF,FBK Karlstad,0,0,SE3N,2024,15
+01/07/2024,IF Karlstad Fotboll,Piteå IF,6,0,SE3N,2024,15
+03/08/2024,Friska Viljor FC,Sollentuna FK,0,2,SE3N,2024,16
+03/08/2024,IFK Stocksund,FBK Karlstad,2,2,SE3N,2024,16
+03/08/2024,Karlbergs BK,Örebro Syrianska IF,3,2,SE3N,2024,16
+03/08/2024,Täby FK,Nordic United FC,0,7,SE3N,2024,16
+04/08/2024,Piteå IF,IF Karlstad Fotboll,0,6,SE3N,2024,16
+04/08/2024,FC Stockholm Internazionale,Vasalunds IF,2,1,SE3N,2024,16
+04/08/2024,Umeå FC,Assyriska FF,3,1,SE3N,2024,16
+04/08/2024,Hammarby TFF,AFC Eskilstuna,2,1,SE3N,2024,16
+09/08/2024,Friska Viljor FC,Umeå FC,1,5,SE3N,2024,17
+09/08/2024,Sollentuna FK,Täby FK,2,1,SE3N,2024,17
+10/08/2024,Örebro Syrianska IF,IFK Stocksund,4,1,SE3N,2024,17
+10/08/2024,FC Stockholm Internazionale,Piteå IF,2,0,SE3N,2024,17
+10/08/2024,FBK Karlstad,AFC Eskilstuna,3,0,SE3N,2024,17
+10/08/2024,Nordic United FC,Assyriska FF,1,0,SE3N,2024,17
+11/08/2024,IF Karlstad Fotboll,Vasalunds IF,2,0,SE3N,2024,17
+11/08/2024,Hammarby TFF,Karlbergs BK,0,1,SE3N,2024,17
+16/08/2024,IF Karlstad Fotboll,Örebro Syrianska IF,1,2,SE3N,2024,18
+17/08/2024,AFC Eskilstuna,Täby FK,3,2,SE3N,2024,18
+17/08/2024,Piteå IF,Friska Viljor FC,2,1,SE3N,2024,18
+17/08/2024,FBK Karlstad,Sollentuna FK,1,2,SE3N,2024,18
+17/08/2024,Karlbergs BK,FC Stockholm Internazionale,3,2,SE3N,2024,18
+18/08/2024,Vasalunds IF,Umeå FC,1,2,SE3N,2024,18
+18/08/2024,IFK Stocksund,Nordic United FC,4,2,SE3N,2024,18
+18/08/2024,Assyriska FF,Hammarby TFF,1,0,SE3N,2024,18
+24/08/2024,Umeå FC,Piteå IF,3,0,SE3N,2024,19
+24/08/2024,Nordic United FC,FBK Karlstad,2,0,SE3N,2024,19
+24/08/2024,Sollentuna FK,AFC Eskilstuna,2,1,SE3N,2024,19
+24/08/2024,FC Stockholm Internazionale,IF Karlstad Fotboll,1,0,SE3N,2024,19
+25/08/2024,Friska Viljor FC,Karlbergs BK,2,3,SE3N,2024,19
+25/08/2024,Hammarby TFF,Örebro Syrianska IF,3,0,SE3N,2024,19
+25/08/2024,Vasalunds IF,Assyriska FF,2,1,SE3N,2024,19
+26/08/2024,Täby FK,IFK Stocksund,4,3,SE3N,2024,19
+31/08/2024,Sollentuna FK,Nordic United FC,2,1,SE3N,2024,20
+31/08/2024,Örebro Syrianska IF,Vasalunds IF,0,0,SE3N,2024,20
+31/08/2024,Täby FK,Friska Viljor FC,1,0,SE3N,2024,20
+01/09/2024,Piteå IF,Karlbergs BK,1,1,SE3N,2024,20
+01/09/2024,IFK Stocksund,Umeå FC,1,1,SE3N,2024,20
+01/09/2024,Assyriska FF,FBK Karlstad,2,3,SE3N,2024,20
+01/09/2024,IF Karlstad Fotboll,AFC Eskilstuna,4,2,SE3N,2024,20
+02/09/2024,Hammarby TFF,FC Stockholm Internazionale,0,1,SE3N,2024,20
+07/09/2024,AFC Eskilstuna,Nordic United FC,0,2,SE3N,2024,21
+07/09/2024,FC Stockholm Internazionale,Örebro Syrianska IF,1,0,SE3N,2024,21
+07/09/2024,Umeå FC,Sollentuna FK,3,1,SE3N,2024,21
+07/09/2024,Karlbergs BK,Täby FK,2,2,SE3N,2024,21
+08/09/2024,Friska Viljor FC,IFK Stocksund,3,3,SE3N,2024,21
+08/09/2024,Assyriska FF,Piteå IF,2,1,SE3N,2024,21
+08/09/2024,FBK Karlstad,IF Karlstad Fotboll,1,1,SE3N,2024,21
+09/09/2024,Vasalunds IF,Hammarby TFF,3,0,SE3N,2024,21
+13/09/2024,IFK Stocksund,Karlbergs BK,0,1,SE3N,2024,22
+13/09/2024,Täby FK,FC Stockholm Internazionale,0,2,SE3N,2024,22
+14/09/2024,Nordic United FC,Friska Viljor FC,1,0,SE3N,2024,22
+14/09/2024,Sollentuna FK,Assyriska FF,1,1,SE3N,2024,22
+14/09/2024,FBK Karlstad,Vasalunds IF,1,2,SE3N,2024,22
+14/09/2024,Hammarby TFF,IF Karlstad Fotboll,1,1,SE3N,2024,22
+15/09/2024,AFC Eskilstuna,Umeå FC,0,3,SE3N,2024,22
+15/09/2024,Örebro Syrianska IF,Piteå IF,0,1,SE3N,2024,22
+21/09/2024,FC Stockholm Internazionale,AFC Eskilstuna,4,0,SE3N,2024,23
+21/09/2024,Vasalunds IF,IFK Stocksund,6,2,SE3N,2024,23
+21/09/2024,Umeå FC,Hammarby TFF,1,2,SE3N,2024,23
+21/09/2024,Karlbergs BK,FBK Karlstad,1,2,SE3N,2024,23
+22/09/2024,Assyriska FF,Friska Viljor FC,1,2,SE3N,2024,23
+22/09/2024,Piteå IF,Sollentuna FK,0,3,SE3N,2024,23
+22/09/2024,IF Karlstad Fotboll,Täby FK,1,0,SE3N,2024,23
+22/09/2024,Örebro Syrianska IF,Nordic United FC,0,1,SE3N,2024,23
+27/09/2024,Täby FK,Assyriska FF,3,0,SE3N,2024,24
+28/09/2024,FBK Karlstad,FC Stockholm Internazionale,1,4,SE3N,2024,24
+28/09/2024,IFK Stocksund,IF Karlstad Fotboll,4,1,SE3N,2024,24
+28/09/2024,Sollentuna FK,Örebro Syrianska IF,3,3,SE3N,2024,24
+29/09/2024,Friska Viljor FC,Hammarby TFF,0,3,SE3N,2024,24
+29/09/2024,Karlbergs BK,Umeå FC,2,2,SE3N,2024,24
+29/09/2024,AFC Eskilstuna,Vasalunds IF,2,3,SE3N,2024,24
+29/09/2024,Nordic United FC,Piteå IF,2,0,SE3N,2024,24
+04/10/2024,Sollentuna FK,Karlbergs BK,2,1,SE3N,2024,25
+05/10/2024,Vasalunds IF,Friska Viljor FC,2,2,SE3N,2024,25
+05/10/2024,Örebro Syrianska IF,Täby FK,2,2,SE3N,2024,25
+05/10/2024,Umeå FC,FC Stockholm Internazionale,2,4,SE3N,2024,25
+05/10/2024,IF Karlstad Fotboll,Nordic United FC,0,2,SE3N,2024,25
+06/10/2024,Piteå IF,FBK Karlstad,2,3,SE3N,2024,25
+06/10/2024,Assyriska FF,AFC Eskilstuna,1,1,SE3N,2024,25
+06/10/2024,Hammarby TFF,IFK Stocksund,0,0,SE3N,2024,25
+12/10/2024,FBK Karlstad,Umeå FC,1,3,SE3N,2024,26
+12/10/2024,IFK Stocksund,Sollentuna FK,2,1,SE3N,2024,26
+12/10/2024,Nordic United FC,Hammarby TFF,1,3,SE3N,2024,26
+13/10/2024,Friska Viljor FC,IF Karlstad Fotboll,0,1,SE3N,2024,26
+13/10/2024,FC Stockholm Internazionale,Assyriska FF,2,2,SE3N,2024,26
+13/10/2024,AFC Eskilstuna,Örebro Syrianska IF,1,1,SE3N,2024,26
+13/10/2024,Täby FK,Piteå IF,0,2,SE3N,2024,26
+14/10/2024,Karlbergs BK,Vasalunds IF,3,1,SE3N,2024,26
+28/03/2025,Enköpings SK,IFK Haninge,0,0,SE3N,2025,1
+29/03/2025,IFK Stocksund,AFC Eskilstuna,1,2,SE3N,2025,1
+29/03/2025,Örebro Syrianska IF,FC Arlanda,1,0,SE3N,2025,1
+29/03/2025,Hammarby TFF,Gefle IF,2,0,SE3N,2025,1
+29/03/2025,Nordic United FC,Sollentuna FK,2,0,SE3N,2025,1
+30/03/2025,Team TG FF,IF Karlstad Fotboll,1,4,SE3N,2025,1
+30/03/2025,Assyriska FF,FC Stockholm Internazionale,1,1,SE3N,2025,1
+30/03/2025,Vasalunds IF,Karlbergs BK,2,0,SE3N,2025,1
+04/04/2025,AFC Eskilstuna,Enköpings SK,2,1,SE3N,2025,2
+04/04/2025,Sollentuna FK,Hammarby TFF,2,3,SE3N,2025,2
+05/04/2025,Karlbergs BK,Örebro Syrianska IF,4,1,SE3N,2025,2
+05/04/2025,FC Stockholm Internazionale,IFK Stocksund,5,0,SE3N,2025,2
+05/04/2025,FC Arlanda,Nordic United FC,1,2,SE3N,2025,2
+05/04/2025,IF Karlstad Fotboll,Assyriska FF,1,1,SE3N,2025,2
+05/04/2025,IFK Haninge,Vasalunds IF,5,1,SE3N,2025,2
+05/04/2025,Gefle IF,Team TG FF,1,0,SE3N,2025,2
+11/04/2025,Hammarby TFF,AFC Eskilstuna,1,1,SE3N,2025,3
+12/04/2025,Enköpings SK,Sollentuna FK,2,1,SE3N,2025,3
+12/04/2025,Örebro Syrianska IF,IFK Haninge,1,3,SE3N,2025,3
+12/04/2025,Nordic United FC,Gefle IF,3,0,SE3N,2025,3
+13/04/2025,Assyriska FF,Karlbergs BK,1,2,SE3N,2025,3
+13/04/2025,IF Karlstad Fotboll,FC Stockholm Internazionale,0,1,SE3N,2025,3
+13/04/2025,Team TG FF,FC Arlanda,1,2,SE3N,2025,3
+13/04/2025,Vasalunds IF,IFK Stocksund,3,1,SE3N,2025,3
+18/04/2025,IFK Stocksund,Örebro Syrianska IF,1,2,SE3N,2025,4
+18/04/2025,Karlbergs BK,Enköpings SK,1,1,SE3N,2025,4
+18/04/2025,Gefle IF,Vasalunds IF,1,2,SE3N,2025,4
+18/04/2025,IFK Haninge,IF Karlstad Fotboll,2,1,SE3N,2025,4
+19/04/2025,FC Stockholm Internazionale,Hammarby TFF,2,3,SE3N,2025,4
+19/04/2025,AFC Eskilstuna,Nordic United FC,1,1,SE3N,2025,4
+19/04/2025,FC Arlanda,Assyriska FF,0,0,SE3N,2025,4
+20/04/2025,Sollentuna FK,Team TG FF,1,3,SE3N,2025,4
+25/04/2025,IFK Stocksund,Karlbergs BK,0,2,SE3N,2025,5
+26/04/2025,Enköpings SK,Örebro Syrianska IF,1,3,SE3N,2025,5
+26/04/2025,FC Stockholm Internazionale,IFK Haninge,1,2,SE3N,2025,5
+26/04/2025,Sollentuna FK,Gefle IF,0,1,SE3N,2025,5
+26/04/2025,Team TG FF,AFC Eskilstuna,1,1,SE3N,2025,5
+27/04/2025,Assyriska FF,Hammarby TFF,1,3,SE3N,2025,5
+27/04/2025,IF Karlstad Fotboll,Nordic United FC,2,1,SE3N,2025,5
+27/04/2025,Vasalunds IF,FC Arlanda,0,0,SE3N,2025,5
+03/05/2025,Hammarby TFF,Enköpings SK,0,1,SE3N,2025,6
+03/05/2025,AFC Eskilstuna,Sollentuna FK,1,2,SE3N,2025,6
+03/05/2025,IFK Haninge,FC Arlanda,2,1,SE3N,2025,6
+04/05/2025,Nordic United FC,Team TG FF,1,0,SE3N,2025,6
+04/05/2025,Gefle IF,IFK Stocksund,1,2,SE3N,2025,6
+04/05/2025,Karlbergs BK,IF Karlstad Fotboll,2,3,SE3N,2025,6
+04/05/2025,Örebro Syrianska IF,FC Stockholm Internazionale,1,2,SE3N,2025,6
+05/05/2025,Assyriska FF,Vasalunds IF,3,0,SE3N,2025,6
+09/05/2025,FC Arlanda,Enköpings SK,2,1,SE3N,2025,7
+10/05/2025,FC Stockholm Internazionale,Sollentuna FK,4,1,SE3N,2025,7
+10/05/2025,Gefle IF,AFC Eskilstuna,2,2,SE3N,2025,7
+10/05/2025,IFK Haninge,Karlbergs BK,0,2,SE3N,2025,7
+10/05/2025,Vasalunds IF,Nordic United FC,3,1,SE3N,2025,7
+11/05/2025,IF Karlstad Fotboll,IFK Stocksund,4,1,SE3N,2025,7
+11/05/2025,Team TG FF,Hammarby TFF,0,1,SE3N,2025,7
+11/05/2025,Örebro Syrianska IF,Assyriska FF,1,0,SE3N,2025,7
+17/05/2025,Enköpings SK,IF Karlstad Fotboll,3,4,SE3N,2025,8
+17/05/2025,IFK Stocksund,IFK Haninge,3,2,SE3N,2025,8
+17/05/2025,Karlbergs BK,Gefle IF,0,1,SE3N,2025,8
+17/05/2025,Nordic United FC,FC Stockholm Internazionale,3,0,SE3N,2025,8
+18/05/2025,Vasalunds IF,Team TG FF,6,0,SE3N,2025,8
+18/05/2025,Assyriska FF,AFC Eskilstuna,2,1,SE3N,2025,8
+18/05/2025,Hammarby TFF,Örebro Syrianska IF,3,1,SE3N,2025,8
+12/09/2025,Sollentuna FK,FC Arlanda,2,0,SE3N,2025,8
+23/05/2025,Karlbergs BK,Hammarby TFF,1,1,SE3N,2025,9
+23/05/2025,FC Arlanda,IFK Stocksund,5,3,SE3N,2025,9
+24/05/2025,FC Stockholm Internazionale,Enköpings SK,3,1,SE3N,2025,9
+24/05/2025,AFC Eskilstuna,Vasalunds IF,0,2,SE3N,2025,9
+24/05/2025,IFK Haninge,Gefle IF,1,1,SE3N,2025,9
+24/05/2025,Sollentuna FK,IF Karlstad Fotboll,0,3,SE3N,2025,9
+25/05/2025,Örebro Syrianska IF,Team TG FF,0,4,SE3N,2025,9
+25/05/2025,Assyriska FF,Nordic United FC,2,1,SE3N,2025,9
+28/05/2025,Enköpings SK,IFK Stocksund,5,1,SE3N,2025,10
+28/05/2025,Vasalunds IF,Sollentuna FK,4,1,SE3N,2025,10
+29/05/2025,AFC Eskilstuna,Karlbergs BK,0,2,SE3N,2025,10
+29/05/2025,Hammarby TFF,IFK Haninge,3,0,SE3N,2025,10
+29/05/2025,Team TG FF,Assyriska FF,1,2,SE3N,2025,10
+29/05/2025,Gefle IF,FC Stockholm Internazionale,0,1,SE3N,2025,10
+29/05/2025,IF Karlstad Fotboll,FC Arlanda,3,0,SE3N,2025,10
+29/05/2025,Nordic United FC,Örebro Syrianska IF,3,1,SE3N,2025,10
+01/06/2025,Karlbergs BK,Team TG FF,1,1,SE3N,2025,11
+01/06/2025,Hammarby TFF,Vasalunds IF,3,2,SE3N,2025,11
+01/06/2025,Assyriska FF,Enköpings SK,0,3,SE3N,2025,11
+02/06/2025,Gefle IF,FC Arlanda,1,1,SE3N,2025,11
+02/06/2025,Sollentuna FK,IFK Haninge,3,2,SE3N,2025,11
+02/06/2025,FC Stockholm Internazionale,AFC Eskilstuna,4,0,SE3N,2025,11
+03/06/2025,IF Karlstad Fotboll,Örebro Syrianska IF,0,0,SE3N,2025,11
+04/06/2025,IFK Stocksund,Nordic United FC,1,0,SE3N,2025,11
+07/06/2025,Enköpings SK,Gefle IF,2,0,SE3N,2025,12
+07/06/2025,Örebro Syrianska IF,Sollentuna FK,2,3,SE3N,2025,12
+08/06/2025,IFK Stocksund,Assyriska FF,3,2,SE3N,2025,12
+08/06/2025,Team TG FF,FC Stockholm Internazionale,1,3,SE3N,2025,12
+08/06/2025,FC Arlanda,Hammarby TFF,1,0,SE3N,2025,12
+08/06/2025,IFK Haninge,AFC Eskilstuna,9,3,SE3N,2025,12
+08/06/2025,Vasalunds IF,IF Karlstad Fotboll,1,3,SE3N,2025,12
+09/06/2025,Nordic United FC,Karlbergs BK,4,3,SE3N,2025,12
+14/06/2025,Sollentuna FK,IFK Stocksund,3,2,SE3N,2025,13
+14/06/2025,Gefle IF,Assyriska FF,1,1,SE3N,2025,13
+14/06/2025,Hammarby TFF,IF Karlstad Fotboll,3,1,SE3N,2025,13
+14/06/2025,IFK Haninge,Nordic United FC,2,2,SE3N,2025,13
+15/06/2025,Enköpings SK,Team TG FF,2,0,SE3N,2025,13
+15/06/2025,Vasalunds IF,Örebro Syrianska IF,3,0,SE3N,2025,13
+15/06/2025,Karlbergs BK,FC Stockholm Internazionale,0,0,SE3N,2025,13
+19/06/2025,IFK Stocksund,Hammarby TFF,2,0,SE3N,2025,14
+19/06/2025,FC Stockholm Internazionale,Vasalunds IF,0,0,SE3N,2025,14
+19/06/2025,FC Arlanda,Karlbergs BK,0,1,SE3N,2025,14
+21/06/2025,Nordic United FC,Enköpings SK,3,2,SE3N,2025,14
+22/06/2025,IF Karlstad Fotboll,AFC Eskilstuna,1,2,SE3N,2025,14
+22/06/2025,Team TG FF,IFK Haninge,1,2,SE3N,2025,14
+22/06/2025,Örebro Syrianska IF,Gefle IF,2,1,SE3N,2025,14
+22/06/2025,Assyriska FF,Sollentuna FK,0,0,SE3N,2025,14
+25/06/2025,Enköpings SK,Vasalunds IF,1,4,SE3N,2025,15
+25/06/2025,Hammarby TFF,Nordic United FC,2,0,SE3N,2025,15
+27/06/2025,AFC Eskilstuna,Örebro Syrianska IF,1,1,SE3N,2025,15
+27/06/2025,Karlbergs BK,Sollentuna FK,1,2,SE3N,2025,15
+28/06/2025,IFK Haninge,Assyriska FF,0,1,SE3N,2025,15
+28/06/2025,FC Arlanda,FC Stockholm Internazionale,1,1,SE3N,2025,15
+28/06/2025,IF Karlstad Fotboll,Gefle IF,2,2,SE3N,2025,15
+29/06/2025,Team TG FF,IFK Stocksund,2,1,SE3N,2025,15
+02/08/2025,Sollentuna FK,Enköpings SK,0,0,SE3N,2025,16
+02/08/2025,FC Stockholm Internazionale,Örebro Syrianska IF,3,1,SE3N,2025,16
+02/08/2025,AFC Eskilstuna,IFK Haninge,3,2,SE3N,2025,16
+02/08/2025,Gefle IF,Karlbergs BK,1,1,SE3N,2025,16
+02/08/2025,Nordic United FC,IF Karlstad Fotboll,1,1,SE3N,2025,16
+03/08/2025,IFK Stocksund,FC Arlanda,2,1,SE3N,2025,16
+03/08/2025,Assyriska FF,Team TG FF,4,0,SE3N,2025,16
+04/08/2025,Vasalunds IF,Hammarby TFF,1,1,SE3N,2025,16
+08/08/2025,Enköpings SK,AFC Eskilstuna,2,3,SE3N,2025,17
+09/08/2025,IFK Haninge,Sollentuna FK,3,3,SE3N,2025,17
+09/08/2025,Örebro Syrianska IF,IFK Stocksund,1,2,SE3N,2025,17
+09/08/2025,Karlbergs BK,FC Arlanda,1,3,SE3N,2025,17
+10/08/2025,IF Karlstad Fotboll,Team TG FF,1,0,SE3N,2025,17
+10/08/2025,Vasalunds IF,Gefle IF,4,1,SE3N,2025,17
+10/08/2025,Nordic United FC,Assyriska FF,1,0,SE3N,2025,17
+11/08/2025,Hammarby TFF,FC Stockholm Internazionale,1,1,SE3N,2025,17
+15/08/2025,Sollentuna FK,Vasalunds IF,3,2,SE3N,2025,18
+15/08/2025,FC Arlanda,IFK Haninge,5,4,SE3N,2025,18
+16/08/2025,FC Stockholm Internazionale,Karlbergs BK,3,1,SE3N,2025,18
+16/08/2025,Örebro Syrianska IF,Hammarby TFF,0,2,SE3N,2025,18
+16/08/2025,AFC Eskilstuna,Assyriska FF,2,1,SE3N,2025,18
+16/08/2025,Gefle IF,Enköpings SK,5,1,SE3N,2025,18
+16/08/2025,IFK Stocksund,IF Karlstad Fotboll,1,4,SE3N,2025,18
+17/08/2025,Team TG FF,Nordic United FC,0,2,SE3N,2025,18
+23/08/2025,Nordic United FC,IFK Stocksund,3,0,SE3N,2025,19
+24/08/2025,IFK Haninge,FC Stockholm Internazionale,0,1,SE3N,2025,19
+24/08/2025,Hammarby TFF,Team TG FF,2,1,SE3N,2025,19
+24/08/2025,Enköpings SK,Karlbergs BK,4,2,SE3N,2025,19
+24/08/2025,FC Arlanda,Gefle IF,2,0,SE3N,2025,19
+24/08/2025,IF Karlstad Fotboll,Vasalunds IF,2,3,SE3N,2025,19
+24/08/2025,Assyriska FF,Örebro Syrianska IF,3,1,SE3N,2025,19
+25/08/2025,Sollentuna FK,AFC Eskilstuna,4,3,SE3N,2025,19
+30/08/2025,FC Stockholm Internazionale,FC Arlanda,0,0,SE3N,2025,20
+30/08/2025,Gefle IF,Sollentuna FK,5,1,SE3N,2025,20
+30/08/2025,Karlbergs BK,IFK Haninge,3,1,SE3N,2025,20
+31/08/2025,IFK Stocksund,Team TG FF,3,1,SE3N,2025,20
+31/08/2025,AFC Eskilstuna,IF Karlstad Fotboll,4,3,SE3N,2025,20
+31/08/2025,Vasalunds IF,Enköpings SK,2,0,SE3N,2025,20
+31/08/2025,Örebro Syrianska IF,Nordic United FC,0,2,SE3N,2025,20
+01/09/2025,Hammarby TFF,Assyriska FF,4,0,SE3N,2025,20
+05/09/2025,Enköpings SK,Hammarby TFF,2,2,SE3N,2025,21
+06/09/2025,Gefle IF,IFK Haninge,2,0,SE3N,2025,21
+06/09/2025,Sollentuna FK,Örebro Syrianska IF,3,1,SE3N,2025,21
+06/09/2025,FC Arlanda,AFC Eskilstuna,2,1,SE3N,2025,21
+06/09/2025,Karlbergs BK,IFK Stocksund,3,2,SE3N,2025,21
+07/09/2025,FC Stockholm Internazionale,Nordic United FC,1,2,SE3N,2025,21
+07/09/2025,Team TG FF,Vasalunds IF,0,5,SE3N,2025,21
+07/09/2025,Assyriska FF,IF Karlstad Fotboll,2,0,SE3N,2025,21
+16/05/2025,FC Arlanda,Sollentuna FK,2,2,SE3N,2025,22
+13/09/2025,IFK Stocksund,FC Stockholm Internazionale,0,2,SE3N,2025,22
+13/09/2025,IFK Haninge,Örebro Syrianska IF,3,1,SE3N,2025,22
+13/09/2025,AFC Eskilstuna,Gefle IF,2,0,SE3N,2025,22
+13/09/2025,IF Karlstad Fotboll,Karlbergs BK,1,0,SE3N,2025,22
+13/09/2025,Nordic United FC,Hammarby TFF,1,1,SE3N,2025,22
+14/09/2025,Team TG FF,Enköpings SK,2,3,SE3N,2025,22
+14/09/2025,Vasalunds IF,Assyriska FF,1,2,SE3N,2025,22
+19/09/2025,IFK Haninge,IFK Stocksund,2,4,SE3N,2025,23
+20/09/2025,Enköpings SK,Nordic United FC,1,3,SE3N,2025,23
+20/09/2025,Örebro Syrianska IF,Vasalunds IF,0,5,SE3N,2025,23
+20/09/2025,Karlbergs BK,AFC Eskilstuna,4,2,SE3N,2025,23
+21/09/2025,FC Stockholm Internazionale,Team TG FF,5,0,SE3N,2025,23
+21/09/2025,Assyriska FF,FC Arlanda,1,2,SE3N,2025,23
+21/09/2025,Gefle IF,IF Karlstad Fotboll,1,1,SE3N,2025,23
+22/09/2025,Hammarby TFF,Sollentuna FK,4,0,SE3N,2025,23
+26/09/2025,Nordic United FC,Vasalunds IF,4,1,SE3N,2025,24
+27/09/2025,Team TG FF,Karlbergs BK,2,4,SE3N,2025,24
+27/09/2025,IF Karlstad Fotboll,Enköpings SK,2,0,SE3N,2025,24
+27/09/2025,IFK Stocksund,Gefle IF,2,2,SE3N,2025,24
+27/09/2025,Sollentuna FK,FC Stockholm Internazionale,1,1,SE3N,2025,24
+27/09/2025,AFC Eskilstuna,Hammarby TFF,3,1,SE3N,2025,24
+27/09/2025,FC Arlanda,Örebro Syrianska IF,0,2,SE3N,2025,24
+28/09/2025,Assyriska FF,IFK Haninge,3,0,SE3N,2025,24
+03/10/2025,Vasalunds IF,FC Stockholm Internazionale,1,1,SE3N,2025,25
+04/10/2025,IFK Stocksund,Sollentuna FK,2,1,SE3N,2025,25
+04/10/2025,Enköpings SK,Assyriska FF,3,1,SE3N,2025,25
+04/10/2025,Nordic United FC,AFC Eskilstuna,3,2,SE3N,2025,25
+04/10/2025,Örebro Syrianska IF,Karlbergs BK,1,1,SE3N,2025,25
+05/10/2025,Hammarby TFF,FC Arlanda,3,1,SE3N,2025,25
+05/10/2025,IF Karlstad Fotboll,IFK Haninge,7,1,SE3N,2025,25
+05/10/2025,Team TG FF,Gefle IF,0,1,SE3N,2025,25
+10/10/2025,Örebro Syrianska IF,Enköpings SK,1,1,SE3N,2025,26
+11/10/2025,Karlbergs BK,Vasalunds IF,0,0,SE3N,2025,26
+11/10/2025,Sollentuna FK,Assyriska FF,2,1,SE3N,2025,26
+11/10/2025,AFC Eskilstuna,IFK Stocksund,3,4,SE3N,2025,26
+11/10/2025,IFK Haninge,Hammarby TFF,1,2,SE3N,2025,26
+11/10/2025,FC Stockholm Internazionale,IF Karlstad Fotboll,0,1,SE3N,2025,26
+12/10/2025,FC Arlanda,Team TG FF,4,3,SE3N,2025,26
+12/10/2025,Gefle IF,Nordic United FC,0,2,SE3N,2025,26
